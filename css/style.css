@@ -124,16 +124,27 @@ nav > a {
     background-color: #fff;
 }
 
-.mod-section {
+.berry-content {
     margin: 50px 0;
     padding: 2rem;
     background-color: #333947;
     border: 1px solid #444C5E;
+}
+
+.mod-content {
     display: flex;
 }
 
 .mods {
-    
+    width: 80%;
+}
+
+.mods-info-bar {
+    width: 100%;
+}
+
+.mods-list {
+    display: flex;
 }
 
 .mod {
@@ -164,6 +175,11 @@ nav > a {
 
 .mod-author {
 
+}
+
+.mod-toc {
+    justify-content: space-between;
+    width: 20%;
 }
 
 footer {
