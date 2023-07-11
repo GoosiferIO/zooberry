@@ -111,7 +111,7 @@ nav > a {
 .newsbox h1 {
     color: #E9C647;
     padding-bottom:  2px;
-    border-bottom: 1px solid rgba(233, 198, 71, 0.23);
+    border-bottom: 2px solid rgba(233, 198, 71, 0.23);
 }
 
 .news-left, .news-right {
@@ -155,10 +155,15 @@ nav > a {
     background-color: #373E4E;
     border: 1px solid #484F5E;
     padding: 0.8rem;
-
+    display: flex;
     flex: 0 0 calc(50% - 18px);
     margin: 5px;
     box-sizing: border-box;
+    flex: wrap;
+}
+
+.mod-tbnl {
+
 }
 
 .mod:hover {
@@ -189,6 +194,22 @@ nav > a {
 
 .mod-author {
 
+}
+
+.mod-summary {
+
+}
+
+.mod-btn {
+    background-color: #B74747;
+    text-decoration: none;
+    border: 1px solid #596277;
+    border-radius: 3px;
+    padding: 1rem 3rem;
+    margin: 1rem 0 0 0;
+    font-family: Jockey One, serif;
+    font-size: 1.4rem;
+    color: #732424;
 }
 
 .mod-toc {
