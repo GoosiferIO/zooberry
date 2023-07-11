@@ -1,0 +1,138 @@
+html {
+    font-size:62.5%; 
+    background-image: url('/images/bg-banner.jpg');
+    background-position: top;
+    background-size: 100vw;
+    background-repeat: no-repeat;
+}
+
+body { 
+    font-family: Roboto, serif;
+    color: #fff;
+    margin:0;
+}
+
+.container {
+    margin: 0 auto;
+    width: 80%;
+    font-size: 1.6rem;
+}
+
+
+header {
+    display: flex;
+    margin-top: 120px;
+    height: 120px;
+    justify-content: center;
+}
+
+/* Logo fonts (for alt) */
+
+header .logo {
+    display:flex;
+    font-family: Suez One;
+    font-size: 4.4rem;
+    text-decoration: none;
+    color: #2F7BC1;
+    letter-spacing: -4px;
+    width: 50%;
+}
+
+header .logo img {
+        z-index: 1;
+        margin-top: -35px;
+        margin-right: -20px;
+        margin-left: auto;
+        width: auto;
+        height: 100px;
+}
+
+nav, footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    font-size: 1.6rem;
+    font-family: "Imprima";
+}
+
+nav {
+    border: 1px solid #F46060;
+    background-color: #c73c42;
+    height: 3.0rem;
+    width: 50%;
+    display: flex;
+    border-radius: 3px;
+}
+
+.nav-items {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-between;
+    width: 50%;
+    padding-left: 30px;
+}
+
+.nav-right {
+    width: 50%;
+}
+
+.nav-items a span {
+    color: #fff;
+    background-color: #a83d41;
+    display: inline-block;
+    padding: 0 18%;
+    border-radius: 5px;
+    width: 100%;
+}
+
+nav > a {
+    flex: 1;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+}
+
+.newsbox {
+    width: 100%;
+    background-color: #2E3440;
+    border-radius: 3px;
+    border-color: #626D87;
+    border-style: solid;
+    border-width: 1px;
+    display: flex;
+    opacity: 0.9;
+}
+
+.newsbox h1 {
+    color: #E9C647;
+    padding-bottom:  2px;
+    border-bottom: 1px solid rgba(233, 198, 71, 0.23);
+    font-family: Jockey One, serif;
+}
+
+.news-left, .news-right {
+    width: 50%;
+    padding: 0 2rem;
+}
+
+.featured {
+    width: 100%;
+    background-color: #fff;
+}
+
+footer {
+    width: 100%;
+    margin:0;
+}
+
+@media only screen and (min-width: 768px) {
+    nav {
+        flex-direction: row;
+    }
+
+    .project-container { display: flex; }
+    .project-container .project-list { width: 20%; }
+    .project-container .project { flex: 1; }
+}
+

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zoo Tycoon Mod Vault on ZooBerry</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Zoo Tycoon Mod Vault on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jul 2023 23:45:26 -0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shout</title>
+      <link>http://localhost:1313/shout/</link>
+      <pubDate>Tue, 11 Jul 2023 01:18:36 -0700</pubDate>
+      
+      <guid>http://localhost:1313/shout/</guid>
+      <description>Zooberry is a Zoo Tycoon mod repository dedicated to conserving mods once hosted by Zoomania, Northern Skies, and Artifex. If you’re interested in learning a little more about why this website exists, check out the about section. Though we are currently not accepting new files for hosting, you are welcome to reach out at zooberry@goosifer.io and we’ll get back to you if things change.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Tue, 04 Jul 2023 00:51:18 -0700</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Want to host your mods here on the Zoo Vault? Feel free to reach out by email :)</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Tue, 04 Jul 2023 00:51:08 -0700</pubDate>
+      
+      <guid>http://localhost:1313/resume/</guid>
+      <description>Here is a fantastic list of things I have accomplished in life! :D:
+nothing nothing again and even more nothing </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 04 Jul 2023 00:29:29 -0700</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>Welcome to the ZooBerry Who are you? My name is Goosifer out in the &amp;rsquo;nets, but you may call me Eric. Back in the day I used to run Zoomania and Northern Skies, and was also a freshman member of the Artifex modding team (you may try your best to guess which one, I wasn&amp;rsquo;t very prolific :P). Each of these websites had their own storied histories and ultimately each came down to a team effort to keep the lights on.</description>
+    </item>
+    
+    <item>
+      <title>Aldabaran Giant Tortoise</title>
+      <link>http://localhost:1313/mods/aldabaran-giant-tortoise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mods/aldabaran-giant-tortoise/</guid>
+      <description>Summary of the Aldabaran Giant Tortoise project</description>
+    </item>
+    
+    <item>
+      <title>Asian Elephant</title>
+      <link>http://localhost:1313/mods/asian-elephant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mods/asian-elephant/</guid>
+      <description>Summary of the Asian Elephant project</description>
+    </item>
+    
+    <item>
+      <title>North American Orca</title>
+      <link>http://localhost:1313/mods/north-american-orca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mods/north-american-orca/</guid>
+      <description>Summary of the North American Orca project</description>
+    </item>
+    
+    <item>
+      <title>Silesian Tomcat</title>
+      <link>http://localhost:1313/mods/silesian-tomcat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mods/silesian-tomcat/</guid>
+      <description>Summary of the Silesian Tomcat project</description>
+    </item>
+    
+    <item>
+      <title>Tazmanian Devil</title>
+      <link>http://localhost:1313/mods/tazmanian-devil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mods/tazmanian-devil/</guid>
+      <description>Summary of the TazmanianDevil project</description>
+    </item>
+    
+  </channel>
+</rss>

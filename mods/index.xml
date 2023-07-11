@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mods on ZooBerry</title>
+    <link>http://localhost:1313/mods/</link>
+    <description>Recent content in Mods on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/mods/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aldabaran Giant Tortoise</title>
+      <link>http://localhost:1313/mods/aldabaran-giant-tortoise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mods/aldabaran-giant-tortoise/</guid>
+      <description>Summary of the Aldabaran Giant Tortoise project</description>
+    </item>
+    
+    <item>
+      <title>Asian Elephant</title>
+      <link>http://localhost:1313/mods/asian-elephant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mods/asian-elephant/</guid>
+      <description>Summary of the Asian Elephant project</description>
+    </item>
+    
+    <item>
+      <title>North American Orca</title>
+      <link>http://localhost:1313/mods/north-american-orca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mods/north-american-orca/</guid>
+      <description>Summary of the North American Orca project</description>
+    </item>
+    
+    <item>
+      <title>Silesian Tomcat</title>
+      <link>http://localhost:1313/mods/silesian-tomcat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mods/silesian-tomcat/</guid>
+      <description>Summary of the Silesian Tomcat project</description>
+    </item>
+    
+    <item>
+      <title>Tazmanian Devil</title>
+      <link>http://localhost:1313/mods/tazmanian-devil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mods/tazmanian-devil/</guid>
+      <description>Summary of the TazmanianDevil project</description>
+    </item>
+    
+  </channel>
+</rss>
