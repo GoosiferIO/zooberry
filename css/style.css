@@ -145,14 +145,24 @@ nav > a {
 
 .mods-list {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .mod {
-    width: 50%;
+    width: 40%;
     background-color: #596277;
     border-radius: 3px;
     background-color: #373E4E;
     border: 1px solid #484F5E;
+    padding: 0.8rem;
+
+    flex: 0 0 calc(50% - 18px);
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+.mod:hover {
+    background-color: #3D4454;
 }
 
 .mod-header {
@@ -160,7 +170,6 @@ nav > a {
     border: 1px solid #333946;
     border-radius: 3px;
     padding: 0.8rem;
-    margin: 0.8rem 0.8rem 0.8rem 0;
 }
 
 .mod-title, .mod-author {
@@ -171,6 +180,11 @@ nav > a {
 
 .mod-title a {
     color: #303339;
+    text-decoration: none;
+}
+
+.mod-title a:hover {
+    color: #434750;
 }
 
 .mod-author {
