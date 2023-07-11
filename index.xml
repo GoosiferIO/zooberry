@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jul 2023 23:45:26 -0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Shout</title>
-      <link>http://localhost:1313/shout/</link>
-      <pubDate>Tue, 11 Jul 2023 01:18:36 -0700</pubDate>
-      
-      <guid>http://localhost:1313/shout/</guid>
-      <description>Zooberry is a Zoo Tycoon mod repository dedicated to conserving mods once hosted by Zoomania, Northern Skies, and Artifex. If you’re interested in learning a little more about why this website exists, check out the about section. Though we are currently not accepting new files for hosting, you are welcome to reach out at zooberry@goosifer.io and we’ll get back to you if things change.</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>http://localhost:1313/contact/</link>
       <pubDate>Tue, 04 Jul 2023 00:51:18 -0700</pubDate>
@@ -46,46 +37,64 @@ nothing nothing again and even more nothing </description>
     
     <item>
       <title>Aldabaran Giant Tortoise</title>
-      <link>http://localhost:1313/mods/aldabaran-giant-tortoise/</link>
+      <link>http://localhost:1313/mods/zt1/animals/aldabaran-giant-tortoise/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mods/aldabaran-giant-tortoise/</guid>
+      <guid>http://localhost:1313/mods/zt1/animals/aldabaran-giant-tortoise/</guid>
       <description>Summary of the Aldabaran Giant Tortoise project</description>
     </item>
     
     <item>
       <title>Asian Elephant</title>
-      <link>http://localhost:1313/mods/asian-elephant/</link>
+      <link>http://localhost:1313/mods/zt1/animals/asian-elephant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mods/asian-elephant/</guid>
+      <guid>http://localhost:1313/mods/zt1/animals/asian-elephant/</guid>
       <description>Summary of the Asian Elephant project</description>
     </item>
     
     <item>
-      <title>North American Orca</title>
-      <link>http://localhost:1313/mods/north-american-orca/</link>
+      <title>Ginger Bread Fence</title>
+      <link>http://localhost:1313/mods/zt1/objects/ginger-bread-fence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mods/north-american-orca/</guid>
+      <guid>http://localhost:1313/mods/zt1/objects/ginger-bread-fence/</guid>
+      <description>Summary of the Ginger Bread Fence project</description>
+    </item>
+    
+    <item>
+      <title>North American Orca</title>
+      <link>http://localhost:1313/mods/zt1/animals/north-american-orca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mods/zt1/animals/north-american-orca/</guid>
       <description>Summary of the North American Orca project</description>
     </item>
     
     <item>
-      <title>Silesian Tomcat</title>
-      <link>http://localhost:1313/mods/silesian-tomcat/</link>
+      <title>Northwest African Cheetah</title>
+      <link>http://localhost:1313/mods/zt1/animals/northwest-african-cheetah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mods/silesian-tomcat/</guid>
+      <guid>http://localhost:1313/mods/zt1/animals/northwest-african-cheetah/</guid>
+      <description>Summary of the Northwest African Cheetah project</description>
+    </item>
+    
+    <item>
+      <title>Silesian Tomcat</title>
+      <link>http://localhost:1313/mods/zt1/animals/silesian-tomcat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mods/zt1/animals/silesian-tomcat/</guid>
       <description>Summary of the Silesian Tomcat project</description>
     </item>
     
     <item>
       <title>Tazmanian Devil</title>
-      <link>http://localhost:1313/mods/tazmanian-devil/</link>
+      <link>http://localhost:1313/mods/zt1/animals/tazmanian-devil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mods/tazmanian-devil/</guid>
+      <guid>http://localhost:1313/mods/zt1/animals/tazmanian-devil/</guid>
       <description>Summary of the TazmanianDevil project</description>
     </item>
     

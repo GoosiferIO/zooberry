@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/shout/</loc>
-    <lastmod>2023-07-11T01:18:36-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/contact/</loc>
     <lastmod>2023-07-04T00:51:18-07:00</lastmod>
   </url><url>
@@ -17,20 +14,24 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2023-07-03T23:45:26-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/aldabaran-giant-tortoise/</loc>
+    <loc>http://localhost:1313/mods/zt1/animals/aldabaran-giant-tortoise/</loc>
   </url><url>
-    <loc>http://localhost:1313/mods/asian-elephant/</loc>
+    <loc>http://localhost:1313/mods/zt1/animals/asian-elephant/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/mods/zt1/objects/ginger-bread-fence/</loc>
+  </url><url>
     <loc>http://localhost:1313/mods/</loc>
   </url><url>
-    <loc>http://localhost:1313/mods/north-american-orca/</loc>
+    <loc>http://localhost:1313/mods/zt1/animals/north-american-orca/</loc>
   </url><url>
-    <loc>http://localhost:1313/mods/silesian-tomcat/</loc>
+    <loc>http://localhost:1313/mods/zt1/animals/northwest-african-cheetah/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/animals/silesian-tomcat/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/mods/tazmanian-devil/</loc>
+    <loc>http://localhost:1313/mods/zt1/animals/tazmanian-devil/</loc>
   </url>
 </urlset>
