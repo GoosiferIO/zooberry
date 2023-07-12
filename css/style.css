@@ -126,7 +126,6 @@ nav > a {
 
 .berry-content {
     margin: 50px 0;
-    padding: 2rem;
     background-color: #333947;
     border: 1px solid #444C5E;
 }
@@ -163,7 +162,17 @@ nav > a {
 }
 
 .mod-tbnl {
+    width: 30%;
+    max-width: 113px;
+}
 
+.mod-tbnl img {
+    width: 100%;
+}
+
+.mod-rt {
+    margin: 0 0 0 1rem;
+    width: 100%;
 }
 
 .mod:hover {
@@ -171,8 +180,8 @@ nav > a {
 }
 
 .mod-header {
-    background-color: #596277;
-    border: 1px solid #333946;
+    background-color: #333947;
+    border: 1px solid #444C5E;
     border-radius: 3px;
     padding: 0.8rem;
 }
@@ -184,37 +193,81 @@ nav > a {
 }
 
 .mod-title a {
-    color: #303339;
+    color: #fff;
     text-decoration: none;
 }
 
 .mod-title a:hover {
     color: #434750;
+    text-decoration: none;
 }
 
-.mod-author {
-
+.mod-author a {
+    color: #798E97;
+    text-decoration: none;
 }
 
 .mod-summary {
 
 }
 
-.mod-btn {
+.mod-dl-btn {
     background-color: #B74747;
     text-decoration: none;
     border: 1px solid #596277;
     border-radius: 3px;
-    padding: 1rem 3rem;
+    padding: 1rem 5rem;
     margin: 1rem 0 0 0;
     font-family: Jockey One, serif;
     font-size: 1.4rem;
     color: #732424;
+    text-shadow: 0 1px rgb(255, 255, 255, 0.25);
+    background: rgb(183,71,71);
+    background: -moz-linear-gradient(180deg, rgba(183,71,71,1) 93%, rgba(104,38,38,1) 100%);
+    background: -webkit-linear-gradient(180deg, rgba(183,71,71,1) 93%, rgba(104,38,38,1) 100%);
+    background: linear-gradient(180deg, rgba(183,71,71,1) 93%, rgba(104,38,38,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#b74747",endColorstr="#682626",GradientType=1); 
+}
+
+.mod-dl-btn:hover {
+    background: rgb(183,85,71);
+    background: -moz-linear-gradient(180deg, rgba(183,85,71,1) 93%, rgba(104,38,38,1) 100%);
+    background: -webkit-linear-gradient(180deg, rgba(183,85,71,1) 93%, rgba(104,38,38,1) 100%);
+    background: linear-gradient(180deg, rgba(183,85,71,1) 93%, rgba(104,38,38,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#b75547",endColorstr="#682626",GradientType=1); 
 }
 
 .mod-toc {
     justify-content: space-between;
     width: 20%;
+}
+
+.mod-nav {
+    background-color: #373E4E;
+    margin-right: 2rem;
+    border-radius: 3px;
+    padding: 1rem;
+    border: 1px solid #475064;
+}
+
+.mod-nav ul {
+    list-style: none;
+    margin: 0 0 0 0;
+    padding: 0;
+}
+
+.mod-nav ul li {
+    padding: 1rem;
+}
+
+.mod-nav ul li:hover {
+    padding: 1rem;
+    background-color: #596277;
+}
+
+.mod-nav ul li a {
+    color: #fff;
+    text-decoration: none;
 }
 
 footer {
