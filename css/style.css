@@ -65,7 +65,7 @@ nav {
     height: 3.0rem;
     width: 50%;
     display: flex;
-    border-radius: 3px;
+    border-radius: 5px;
 }
 
 .nav-items {
@@ -100,7 +100,7 @@ nav > a {
 .newsbox {
     width: 100%;
     background-color: #2E3440;
-    border-radius: 3px;
+    border-radius: 5px;
     border-color: #626D87;
     border-style: solid;
     border-width: 1px;
@@ -150,7 +150,7 @@ nav > a {
 .mod {
     width: 40%;
     background-color: #596277;
-    border-radius: 3px;
+    border-radius: 5px;
     background-color: #373E4E;
     border: 1px solid #484F5E;
     padding: 0.8rem;
@@ -168,6 +168,7 @@ nav > a {
 
 .mod-tbnl img {
     width: 100%;
+    border-radius: 5px;
 }
 
 .mod-rt {
@@ -182,7 +183,7 @@ nav > a {
 .mod-header {
     background-color: #333947;
     border: 1px solid #444C5E;
-    border-radius: 3px;
+    border-radius: 5px;
     padding: 0.8rem;
 }
 
@@ -215,7 +216,7 @@ nav > a {
     background-color: #B74747;
     text-decoration: none;
     border: 1px solid #596277;
-    border-radius: 3px;
+    border-radius: 5px;
     padding: 1rem 5rem;
     margin: 1rem 0 0 0;
     font-family: Jockey One, serif;
@@ -245,7 +246,7 @@ nav > a {
 .mod-nav {
     background-color: #373E4E;
     margin-right: 2rem;
-    border-radius: 3px;
+    border-radius: 5px;
     padding: 1rem;
     border: 1px solid #475064;
 }
