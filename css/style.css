@@ -67,7 +67,7 @@ nav, footer {
 
 nav {
     border: 1px solid #F46060;
-    background-color: #c73c42;
+    background-color: #B74747;
     height: 3.0rem;
     width: 50%;
     display: flex;
@@ -155,11 +155,19 @@ nav > a {
     background-color: #373E4E;
 }
 
+.sub-bg
+{
+    padding: 1rem;
+    border: 1px solid #3A4152;
+    border-radius: 5px;
+    background-color: #313745;
+}
+
 .hdr-card-bg {
     background-color: #333947;
     border: 1px solid #444C5E;
     border-radius: 5px;
-    padding: 0.8rem;
+    width:100%;
 }
 
 /* TEXT STYLES */
@@ -214,13 +222,21 @@ nav > a {
 }
 
 .mod-header {
-
+    padding: 0.8rem;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 .mod-title, .mod-author {
-    width: 100%;
-    display:inline-block;
+    display:list-item;
     font-family: Jockey One, serif;
+    list-style: none;
+}
+
+.mod-title {
+
 }
 
 .mod-title a {
@@ -267,6 +283,7 @@ nav > a {
 .mod-toc {
     justify-content: space-between;
     width: 20%;
+    min-width: 232px;
 }
 
 .mod-nav {
