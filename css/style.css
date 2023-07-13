@@ -1,3 +1,5 @@
+/* Top level */
+
 html {
     font-size: 62.5%; 
     background-image: url('/images/bg-banner.jpg');
@@ -21,7 +23,10 @@ body {
 .container {
     margin: 0 auto;
     width: 80%;
+    max-width: 1370px;
 }
+
+/* HEADER */
 
 header {
     display: flex;
@@ -36,7 +41,6 @@ header .logo {
     display:flex;
     font-family: Suez One;
     font-size: 4.4rem;
-    text-decoration: none;
     color: #2F7BC1;
     letter-spacing: -4px;
     width: 50%;
@@ -50,6 +54,8 @@ header .logo img {
         width: auto;
         height: 100px;
 }
+
+/* NAV, FOOTER */
 
 nav, footer {
     background-color: #333;
@@ -97,6 +103,8 @@ nav > a {
     color: #fff;
 }
 
+/* NEWSBOX */
+
 .newsbox {
     width: 100%;
     background-color: #2E3440;
@@ -119,10 +127,14 @@ nav > a {
     padding: 0 2rem;
 }
 
+/* FEATURED */
+
 .featured {
     width: 100%;
     background-color: #fff;
 }
+
+/* CONTENT CONTAINERS */
 
 .berry-content {
     margin: 50px 0;
@@ -133,6 +145,30 @@ nav > a {
 .mod-content {
     display: flex;
 }
+
+/* BACKGROUND ELEMENT STYLES */
+
+.main-bg {
+    padding: 1rem;
+    border: 1px solid #475064;
+    border-radius: 5px;
+    background-color: #373E4E;
+}
+
+.hdr-card-bg {
+    background-color: #333947;
+    border: 1px solid #444C5E;
+    border-radius: 5px;
+    padding: 0.8rem;
+}
+
+/* TEXT STYLES */
+
+.no-under {
+    text-decoration: none;
+}
+
+/* MODS */
 
 .mods {
     width: 80%;
@@ -147,13 +183,10 @@ nav > a {
     flex-wrap: wrap;
 }
 
+/* SINGLE MOD */
+
 .mod {
     width: 40%;
-    background-color: #596277;
-    border-radius: 5px;
-    background-color: #373E4E;
-    border: 1px solid #484F5E;
-    padding: 0.8rem;
     display: flex;
     flex: 0 0 calc(50% - 18px);
     margin: 5px;
@@ -181,10 +214,7 @@ nav > a {
 }
 
 .mod-header {
-    background-color: #333947;
-    border: 1px solid #444C5E;
-    border-radius: 5px;
-    padding: 0.8rem;
+
 }
 
 .mod-title, .mod-author {
@@ -195,17 +225,14 @@ nav > a {
 
 .mod-title a {
     color: #fff;
-    text-decoration: none;
 }
 
 .mod-title a:hover {
-    color: #434750;
-    text-decoration: none;
+    color: #E9C647;
 }
 
 .mod-author a {
     color: #798E97;
-    text-decoration: none;
 }
 
 .mod-summary {
@@ -214,7 +241,6 @@ nav > a {
 
 .mod-dl-btn {
     background-color: #B74747;
-    text-decoration: none;
     border: 1px solid #596277;
     border-radius: 5px;
     padding: 1rem 5rem;
@@ -244,11 +270,7 @@ nav > a {
 }
 
 .mod-nav {
-    background-color: #373E4E;
     margin-right: 2rem;
-    border-radius: 5px;
-    padding: 1rem;
-    border: 1px solid #475064;
 }
 
 .mod-nav ul {
@@ -268,8 +290,13 @@ nav > a {
 
 .mod-nav ul li a {
     color: #fff;
-    text-decoration: none;
 }
+
+.mod-pg {
+
+}
+
+/* FOOTER */
 
 footer {
     width: 100%;
