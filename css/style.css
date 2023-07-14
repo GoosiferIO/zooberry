@@ -170,6 +170,12 @@ nav > a {
     width:100%;
 }
 
+/* BLOCK SIZES */
+
+.block-w-100 {
+    width:100%;
+}
+
 /* TEXT STYLES */
 
 .no-under {
@@ -309,8 +315,22 @@ nav > a {
     color: #fff;
 }
 
-.mod-pg {
+.mod-pg img {
+    width: 100%;
+}
 
+.mod-meta {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    line-height: 30px;
+    border-bottom: 1px solid #3E4556;
+    border-top: 1px solid #2B303C;
+}
+
+.mod-meta li {
+    border-top: 1px solid #3E4556;
+    border-bottom: 1px solid #2B303C;
 }
 
 /* FOOTER */
