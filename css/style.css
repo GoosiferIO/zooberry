@@ -143,7 +143,13 @@ nav > a {
 }
 
 .mod-content {
-    display: flex;
+    display: inline-block;
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
 }
 
 /* BACKGROUND ELEMENT STYLES */
@@ -340,6 +346,13 @@ nav > a {
     width: 100%;
 }
 
+.mod-pg-title {
+    background-color: #596277;
+    display: inline-block;
+    border-radius: 5px;
+    padding: 1rem;
+}
+
 .mod-meta {
     list-style: none;
     margin: 0;
@@ -347,11 +360,38 @@ nav > a {
     line-height: 30px;
     border-bottom: 1px solid #3E4556;
     border-top: 1px solid #2B303C;
+    display: inline-block;
 }
 
 .mod-meta li {
     border-top: 1px solid #3E4556;
     border-bottom: 1px solid #2B303C;
+}
+
+.list-lft, .list-rt {
+    width: 50%;
+}
+
+.list-lft {
+    float: left;
+}
+
+.list-rt {
+    float: right;
+}
+
+.mod-desc-lbl {
+    margin-top: 0.8rem;
+    width: 100%;
+    display: inline-block;
+}
+
+.mod-desc {
+    background-color: #2D323F;
+    padding: 1rem;
+    margin-top: 1rem;
+    border-radius: 5px;
+    border: 1px solid #3A4152;
 }
 
 .btn-list {
@@ -371,6 +411,8 @@ footer {
     width: 100%;
     margin:0;
 }
+
+
 
 @media only screen and (min-width: 768px) {
     nav {
