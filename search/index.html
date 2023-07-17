@@ -46,17 +46,69 @@
         </div>
         <main class="berry-content">
             <div class="container">
-<div class="main-bg">
-    <h2>Search</h2>
-    <input type="search" id="searchField">
-    <button id="searchButton">Search</button>
-    <div id="output">
-        <p>Waiting for search input</p>
+    <div class="mod-content"><section class="mod-toc">
+    <h1 class="nav-head">Navigation</h1>
+    <div class="mod-nav main-bg">
+        <input type="checkbox" id="ch_tog_sub" />
+        <label for="ch_tog_sub" class="subnav-resp-ham">&#9776; Navigation</label>
+        <ul class="mod-nav-items">
+            <li><h1>Latest Mods</h1></li>
+            
+
+            <li class="mod-nav-item"><a href="/mods/zt1/animals/tazmanian-devil/" class="no-under">Tazmanian Devil</a></li>
+            
+
+            <li class="mod-nav-item"><a href="/mods/zt1/animals/silesian-tomcat/" class="no-under">Silesian Tomcat</a></li>
+            
+
+            <li class="mod-nav-item"><a href="/mods/zt1/animals/northwest-african-cheetah/" class="no-under">Northwest African Cheetah</a></li>
+            
+
+            <li class="mod-nav-item"><a href="/mods/zt1/animals/north-american-orca/" class="no-under">North American Orca</a></li>
+            
+
+            <li class="mod-nav-item"><a href="/mods/zt1/objects/ginger-bread-fence/" class="no-under">Ginger Bread Fence</a></li>
+            
+
+            <li class="mod-nav-item"><a href="/mods/zt1/animals/asian-elephant/" class="no-under">Asian Elephant</a></li>
+            
+
+            <li class="mod-nav-item"><a href="/mods/zt1/animals/aldabaran-giant-tortoise/" class="no-under">Aldabaran Giant Tortoise</a></li>
+            
+            <li><h1>Zoo Tycoon 1</h1></li>
+            <li class="mod-nav-item"><a href="/mods/zt1/animals" class="no-under"><span>Animals</span></a></li>
+            <li class="mod-nav-item"><a href="/mods/zt1/objects" class="no-under"><span>Objects</span></a></li>
+                
+            <li><h1>Zoo Tycoon 2</h1></li>
+            <li class="mod-nav-item"><a href="/mods/zt2/animals" class="no-under"><span>Animals</span></a></li>
+            <li class="mod-nav-item"><a href="/mods/zt2/objects" class="no-under"><span>Objects</span></a></li>
+        </ul>
     </div>
-</div>
-<script src="//unpkg.com/lunr@2.3.6/lunr.js"></script>
-<script src="//unpkg.com/axios@0.19.0/dist/axios.js"></script>
-<script src="/js/search.js"></script>
+    
+</section><div class="mod-bloc" style="width: 100%;">
+            <h1>Search</h1><div class="mods-bar">
+    <button class="mod-inst-btn mod-inst-lft">
+        <a href="#">ZT1 Mod Install Guide</a>
+    </button>
+    <button class="mod-inst-btn mod-inst-rt">
+        <a href="#">ZT2 Mod Install Guide</a>
+    </button>
+    <form id="search-form" action="http://localhost:1313/search/index.html">
+        <input type="text" id="search-bar" name="query" placeholder="Search...">
+        <button type="submit_search" class="mod-rpt-btn raised-btn">Search</button>
+    </form>
+</div><section class="main-bg block-w-100 mod-pg">
+                    <h2>Results</h2>
+                    <div class="sub-bg" id="output">
+                        <p>Waiting for search input...it's okay though. Take your time. I'm here all day. :)</p>
+                    </div>
+                </div>
+                <script src="//unpkg.com/lunr@2.3.6/lunr.js"></script>
+                <script src="//unpkg.com/axios@0.19.0/dist/axios.js"></script>
+                <script src="/js/search.js"></script>
+            </section>
+        </div>
+    </div>
 <footer>
     <p><small>Copyright 2023 Goosifer.IO</small></p>
     <p><small>Blueberry Theme designed by Goosifer.IO</small></p>
@@ -73,5 +125,25 @@ menuToggle.addEventListener('change', function() {
       }
     });
 </script>
-</body>
+<script>
+            'use strict';
+
+window.SearchApp = {
+  searchField: document.getElementById("searchField"),
+  searchButton: document.getElementById("searchButton"),
+  output: document.getElementById("output"),
+  searchData: {},
+  searchIndex: {},
+};
+
+SearchApp.searchButton.addEventListener('click', search);
+
+function search() {
+  let searchText = SearchApp.searchField.value;
+  const urlParams = new URLSearchParams(window.location.search);
+  urlParams.set('query', searchText);
+  window.location.href = window.location.pathname + '?' + urlParams.toString();
+}
+        </script>
+    </body>
 </html>

@@ -67,5 +67,25 @@ menuToggle.addEventListener('change', function() {
       }
     });
 </script>
-</body>
+<script>
+            'use strict';
+
+window.SearchApp = {
+  searchField: document.getElementById("searchField"),
+  searchButton: document.getElementById("searchButton"),
+  output: document.getElementById("output"),
+  searchData: {},
+  searchIndex: {},
+};
+
+SearchApp.searchButton.addEventListener('click', search);
+
+function search() {
+  let searchText = SearchApp.searchField.value;
+  const urlParams = new URLSearchParams(window.location.search);
+  urlParams.set('query', searchText);
+  window.location.href = window.location.pathname + '?' + urlParams.toString();
+}
+        </script>
+    </body>
 </html>
