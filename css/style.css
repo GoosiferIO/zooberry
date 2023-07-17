@@ -669,8 +669,11 @@ footer small {
         z-index: 2;
     }
 
+    .mod-nav {
+        margin-right: 0;
+    }
+
     .mod-nav:hover {
-        margin-right: 2rem;
         background-color:#333947;
     }
 
@@ -713,8 +716,7 @@ footer small {
     .mod-content {
         display: block;
         width: calc(100%-1rem-2px);
-        padding-left: 1rem;
-        padding-top: 1rem;
+        padding: 1rem;
     }
     .mod-toc {
         width: 100%;
