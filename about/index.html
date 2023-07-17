@@ -8,12 +8,15 @@
     <meta name="author" content="">
     <meta name="description" content="A Zoo Tycoon mod repository">
     <title>ZooBerry</title>
-    <link rel="stylesheet" href="https://cdn.goosifer.io/zb/css/style.css">
+    <link rel="stylesheet" href="/css/style.css">
 </head><body>
         <div class="container">
             <div class="bg-banner"><header>
     <a href="#" class="logo no-under"><img src="https://cdn.goosifer.io/zb/images/ZooBerry.png" alt="ZooBerry" /></a><nav>
+    <input type="checkbox" id="ch_tog" />
+    <label for="ch_tog" class="nav-resp-ham">&#9776;</label>
     <div class="nav-items">
+        
         <a href="/"><span>Home</span></a>
         <a href="/about"><span>About</span></a>
         <a href="/mods"><span>Mods</span></a>
@@ -22,6 +25,7 @@
     <div class="nav-right">
         
     </div>
+    <a href="#" class="logo-resp"><img src="https://cdn.goosifer.io/zb/images/ZooBerry.png" alt="ZooBerry" /></a>
 </nav></header><section class="newsbox">
     <div class="news-left">
         <h1>Welcome</h1>
@@ -32,7 +36,7 @@
             out at <em>_________</em> and we’ll get back to you if things change.</p>
     </div>
     <div class="news-right">
-        <h1>News From the ZT Community</h1>
+        <h1>Community News</h1>
         
     </div>
 
@@ -99,9 +103,20 @@
     </section>
 </div>
 <footer>
-    <small>Copyright 2023 Goosifer.IO</small>
+    <p><small>Copyright 2023 Goosifer.IO</small></p>
+    <p><small>Blueberry Theme designed by Goosifer.IO</small></p>
 </footer></div>
-        </main>
-        
-    </body>
+        </main><script>
+const menuToggle = document.querySelector('.nav-resp-ham');
+const navigationMenu = document.querySelector('.nav-items-resp');
+
+menuToggle.addEventListener('change', function() {
+      if (this.checked) {
+        navigationMenu.classList.add('open');
+      } else {
+        navigationMenu.classList.remove('open');
+      }
+    });
+</script>
+</body>
 </html>

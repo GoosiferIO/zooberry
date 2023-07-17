@@ -2,7 +2,6 @@
 
 html {
     font-size: 62.5%; 
-    background-image: url('https://cdn.goosifer.io/zb/images/bg-banner.jpg');
     background-position: top;
     background-size: 100vw;
     background-repeat: no-repeat;
@@ -21,6 +20,7 @@ body {
     color: #fff;
     margin:0;
     font-size: 1.6rem;
+    background: #B74747 url('https://cdn.goosifer.io/zb/images/bg-banner.jpg');
 }
 
 .container {
@@ -36,6 +36,16 @@ header {
     margin-top: 120px;
     height: 120px;
     justify-content: center;
+}
+
+input[type=checkbox] {
+    display: none;
+}
+
+.nav-resp-ham {
+    display: none;
+    font-size: 2.4rem;
+    user-select: none;
 }
 
 /* Logo fonts (for alt) */
@@ -77,6 +87,10 @@ nav {
     border-radius: 5px;
 }
 
+.logo-resp {
+    display: none;
+}
+
 .nav-items {
     display: flex;
     flex-direction: row;
@@ -85,6 +99,12 @@ nav {
     width: 50%;
     padding-left: 30px;
 
+}
+
+.nav-resp-ham {
+    display: none;
+    font-size: 2.4rem;
+    user-select: none;
 }
 
 .nav-right {
@@ -494,9 +514,170 @@ footer small {
     text-align: center;
 }
 
-@media only screen and (min-width: 768px) {
+/*@media only screen and (min-width: 768px) {
     nav {
         flex-direction: row;
+    }
+
+    .mod-container { display: flex; }
+    .mod-container .mod-list { width: 20%; }
+    .mod-container .mod { flex: 1; }
+}*/
+
+@media only screen and (max-width: 1150px) {
+    nav {
+        flex-direction: row;
+    }
+
+    .nav-items {
+        width: 85%;
+        padding-left: 1rem;
+    }
+    .mods-list { 
+        display: inline-block;
+        width: 100%;
+    }
+
+    .mod { width: 100%;}
+
+    .mod-container { display: flex; }
+    .mod-container .mod-list { width: 20%; }
+    .mod-container .mod { flex: 1; }
+}
+
+@media only screen and (max-width: 890px) {
+
+    header  {
+        margin: 0px;
+    }
+
+    input[type=checkbox] {
+        display: none;
+    }
+    
+    .nav-resp-ham {
+        display: inline-block;
+        top: 100%;
+        left: 0;
+        font-size: 2.4rem;
+        user-select: none;
+        border: 1px solid #f46060;
+        border-radius: 5px;
+        padding: 0 1rem;
+        float: left;
+        margin-left: 1rem;
+        z-index: 2;
+    }
+
+    .newsbox {
+        border: 0px;
+    }
+
+    nav {
+        display: inline-block;
+        width: 100%;
+        border-radius: 0px;
+        padding: 1rem 0;
+        text-align: left;
+    }
+
+    input[type=checkbox]:checked ~.nav-items {
+        display: block;
+        top:0;
+        left:0;
+        border: 0px 1px 1px 1px solid #f46060;
+        z-index: 2;
+    }
+
+    input[type=checkbox]:checked ~.logo-resp {
+        display: none;
+    }
+
+    input[type=checkbox]:checked ~.nav-resp-ham {
+        border: 1px 1px 0px 1px solid #f46060;
+        border-end-end-radius: 0px;
+        border-bottom-left-radius: 0px;
+    }
+
+    .nav-items {
+        display: none;
+        flex-direction: unset;
+        align-items: start;
+        justify-content: left;
+        border-end-end-radius: 5px;
+        z-index: 2;
+        float: left;
+    }
+
+    .nav-items a span {
+        border-radius: 0;
+        padding: 0;
+        padding: 1rem 2rem;
+    }
+
+    .logo-resp {
+        display: flex;
+        height: 100%;
+        max-width: 100%;
+        align-items: center;
+        box-sizing:border-box;
+        flex-shrink: 0;
+    }
+
+    .logo-resp img {
+        max-width: 130px;   
+        height: auto;
+        vertical-align: middle;
+        margin: 0 auto;
+    }
+
+    .mods-list { display: inline-block;
+                 width: 100%;}
+
+    .mods {
+        width: calc(100% - 1rem);
+        padding-right: 1rem;
+    }
+    .mod { width: 100%;}
+
+    .news-left { display:none;}
+
+    .news-right { 
+        width:100%;
+    }
+
+    .nav-right { 
+        display: none;
+        width:100%;
+    }
+    .newsbox { 
+        width: 100%;
+        border-radius: 0px;
+        opacity: 1.0;
+    }
+    header .logo { 
+        display: none;
+    }
+    .container { 
+        margin: 0; 
+        width: 100%;
+    }
+    .berry-content {
+        margin:0;
+        padding-top: 0;
+    }
+    
+    .mod-content {
+        display: inline-block;
+    }
+    .mod-toc {
+        width: 100%;
+        min-width: 100%;
+    }
+
+    .mod-nav {
+        margin: 0;
+        border: 0px;
     }
 
     .mod-container { display: flex; }
