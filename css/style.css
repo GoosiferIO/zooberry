@@ -385,8 +385,8 @@ nav > a {
     color: #798E97;
 }
 
-.mod-summary {
-
+.subnav-resp-ham {
+    display: none;
 }
 
 .mod-toc {
