@@ -310,14 +310,23 @@ nav > a {
     color: #8996B2;
 }
 
-.search-bar {
-    background-color: #454D5F;
+#search-form {
+    display: block;
+    width: 60%;
+}
+
+#search-bar {
+    background-color: #fff;
     color: #6D7A97;
     padding: 1rem 2rem;
     border-radius: 5px;
-    width: 60%;
+
     font-size: 1.4rem;
-    border: 1px dashed #3B4252;
+    border: 1px solid #3B4252;
+}
+
+#search-form button {
+
 }
 
 .mods-list {
