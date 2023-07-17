@@ -120,6 +120,11 @@ nav {
     width: 100%;
 }
 
+.nav-items a span:hover {
+    color:#ffea9e;
+    background-color: #8a3033;
+}
+
 nav > a {
     flex: 1;
     text-align: center;
@@ -559,14 +564,20 @@ footer small {
         display: inline-block;
         top: 100%;
         left: 0;
-        font-size: 2.4rem;
+        font-size: 1.6rem;
         user-select: none;
         border: 1px solid #f46060;
         border-radius: 5px;
-        padding: 0 1rem;
+        padding: 1rem 1rem;
         float: left;
+        margin-top: -0.6rem;
         margin-left: 1rem;
         z-index: 2;
+    }
+
+    .nav-resp-ham:hover {
+        background-color: #8a3033;
+        color: #E9C647;
     }
 
     .newsbox {
@@ -585,7 +596,7 @@ footer small {
         display: block;
         position: absolute;
         padding-left: 0;
-        top:4.5rem;
+        top:4.8rem;
         width: 100%;
         left:0;
         border: 0px 1px 1px 1px solid #f46060;
@@ -634,6 +645,35 @@ footer small {
         margin: 0 auto;
     }
 
+    .mod-nav ul {
+        display: none;
+        min-height: 0;
+    }
+
+    .subnav-resp-ham {
+        display:inline-block;
+        width:100%;
+    }
+
+    .subnav-resp-ham:hover {
+        color: #E9C647;
+    }
+
+    .nav-head {
+        display:none;
+    }
+
+    input[type=checkbox]:checked ~.mod-nav-items {
+        display: block;
+        min-height:max-content;
+        z-index: 2;
+    }
+
+    .mod-nav:hover {
+        margin-right: 2rem;
+        background-color:#333947;
+    }
+
     .mods-list { display: inline-block;
                  width: 100%;}
 
@@ -671,18 +711,15 @@ footer small {
     }
     
     .mod-content {
-        display: inline-block;
+        display: block;
+        width: calc(100%-1rem-2px);
+        padding-left: 1rem;
+        padding-top: 1rem;
     }
     .mod-toc {
         width: 100%;
         min-width: 100%;
     }
-
-    .mod-nav {
-        margin: 0;
-        border: 0px;
-    }
-
     .mod-container { display: flex; }
     .mod-container .mod-list { width: 20%; }
     .mod-container .mod { flex: 1; }
