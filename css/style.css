@@ -583,14 +583,17 @@ footer small {
 
     input[type=checkbox]:checked ~.nav-items {
         display: block;
-        top:0;
+        position: absolute;
+        padding-left: 0;
+        top:4.5rem;
+        width: 100%;
         left:0;
         border: 0px 1px 1px 1px solid #f46060;
         z-index: 2;
     }
 
     input[type=checkbox]:checked ~.logo-resp {
-        display: none;
+        position: relative;
     }
 
     input[type=checkbox]:checked ~.nav-resp-ham {
