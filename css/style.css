@@ -335,6 +335,14 @@ nav > a {
     margin-bottom: 1rem;
 }
 
+/* CATEGORIES */
+
+.cat-summ {
+    font-family: Jockey One, sans-serif;
+    color: #798E97;
+    display: block;
+}
+
 
 /* MODS */
 
@@ -539,7 +547,7 @@ nav > a {
     box-sizing: border-box;
 }
 
-.mod-title, .mod-author {
+.mod-title, .mod-author, .cat-summ, .mod-title  {
     display:list-item;
     font-family: Jockey One, serif;
     list-style: none;
@@ -557,9 +565,11 @@ nav > a {
     color: #E9C647;
 }
 
-.mod-author a {
+.mod-author {
     color: #798E97;
 }
+
+
 
 .subnav-resp-ham {
     display: none;
