@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animals on ZooBerry</title>
+    <link>http://localhost:1313/mods/zt1/animals/</link>
+    <description>Recent content in Animals on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/mods/zt1/animals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aldabaran Giant Tortoise</title>
+      <link>http://localhost:1313/mods/zt1/animals/aldabaran-giant-tortoise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mods/zt1/animals/aldabaran-giant-tortoise/</guid>
+      <description>Summary of the Aldabaran Giant Tortoise project</description>
+    </item>
+    
+    <item>
+      <title>Asian Elephant</title>
+      <link>http://localhost:1313/mods/zt1/animals/asian-elephant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mods/zt1/animals/asian-elephant/</guid>
+      <description>Summary of the Asian Elephant project</description>
+    </item>
+    
+    <item>
+      <title>North American Orca</title>
+      <link>http://localhost:1313/mods/zt1/animals/north-american-orca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mods/zt1/animals/north-american-orca/</guid>
+      <description>Summary of the North American Orca project</description>
+    </item>
+    
+    <item>
+      <title>Northwest African Cheetah</title>
+      <link>http://localhost:1313/mods/zt1/animals/northwest-african-cheetah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mods/zt1/animals/northwest-african-cheetah/</guid>
+      <description>Summary of the Northwest African Cheetah project</description>
+    </item>
+    
+    <item>
+      <title>Silesian Tomcat</title>
+      <link>http://localhost:1313/mods/zt1/animals/silesian-tomcat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mods/zt1/animals/silesian-tomcat/</guid>
+      <description>Summary of the Silesian Tomcat project</description>
+    </item>
+    
+    <item>
+      <title>Tazmanian Devil</title>
+      <link>http://localhost:1313/mods/zt1/animals/tazmanian-devil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mods/zt1/animals/tazmanian-devil/</guid>
+      <description>Summary of the TazmanianDevil project</description>
+    </item>
+    
+  </channel>
+</rss>

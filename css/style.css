@@ -7,6 +7,10 @@ html {
     background-repeat: no-repeat;
 }
 
+code {
+    color: #d1d3d9;
+}
+
 h1 {
     font-family: Jockey One, serif;
     font-size: 2.4rem;
@@ -293,7 +297,68 @@ nav > a {
     color: #E9C647;
 }
 
+.dflt-btn  {
+    text-align: center;
+    border: 1px solid #444C5E;
+    box-shadow: 0px 1px #272C36;
+    padding: 1rem 2rem;
+    background: #3b4151;
+    border-radius: 5px;
+    font-family: Jockey One, serif;
+    text-shadow: 1px 0px #1e2129;
+    font-size: 1.2rem;
+    color: #78859e;
+    text-decoration: none;
+    display:inline-block;
+    min-width:140px;
+}
+
+.search-btn {
+    border-radius: 0 5px 5px 0;
+}
+
+.dflt-btn a {
+    text-decoration: none;
+    color: #1e232b;
+    width: 100%;
+}
+
+.dflt-btn a:hover, .dflt-btn:hover {
+    background-color: #363c4a;
+}
+
+
 /* MODS */
+
+#breadcrumbs  {
+    list-style: none;
+    display: inline-block;
+    margin-bottom: 0;
+    margin-top: 2rem;
+    border-radius: 5px;
+    background: #2d323f;
+    padding: 1rem;
+    font-size: 1.4rem;
+}
+
+.mod-bloc-heading {
+    margin: 0;
+    padding: 0;
+}
+
+#breadcrumbs a {
+    text-decoration: none;
+    padding-right: 1rem;
+    color: #fff;
+}
+
+#breadcrumbs a:hover {
+    color: #E9C647;
+}
+
+#breadcrumbs li {
+    float:left;
+}
 
 .mods {
     width: 80%;
@@ -319,19 +384,15 @@ nav > a {
 
 /* SEARCH BAR */
 
-#search-form {
-    display: block;
-    width: 60%;
-}
 
 #search-bar {
     background-color: #fff;
     color: #6D7A97;
     padding: 1rem 2rem;
     border-radius: 5px;
-
     font-size: 1.4rem;
-    border: 1px solid #3B4252;
+    border: 1px solid #444C5E;
+    box-shadow: 0px 1px #272C36;
 }
 
 #search-form button {
@@ -343,16 +404,71 @@ nav > a {
     flex-wrap: wrap;
 }
 
+.pagination {
+    list-style: none;
+    display: flex;
+    width: 100%;
+    margin-top: 0;
+    margin-left: 0;
+    padding-left:1rem;
+    font-family: Jockey One, serif;
+    text-shadow: 0px 1px #4a5266;
+}
+
+.page-item {
+    display:inline-block;
+    margin-right: 0.8rem;
+    margin-left: 0;
+}
+
+.page-item a {
+    display:inline-block;
+    padding: 0.1rem;
+    background-color: #333947;
+    border-radius: 3px;
+    min-width: 20px;
+    
+    text-align: center;
+    border: 1px solid #444C5E;
+    box-shadow: 0px 1px #272C36;
+    text-decoration: none;
+    width: 100%;
+    color: #1A1E25;
+    font-size: 1.2rem;
+}
+
+.page-item a:hover {
+    background-color: #3b4151;
+}
+
+.page-item a:hover {
+    text-decoration: none;
+    color: #E9C647;
+}
+
+.disabled:hover a, .disabled a {
+    color: #24282e;
+}
+
+.disabled a, .disabled a:hover {
+    background-color: #383E4B;
+}
+
+.active a, .active:hover a {
+    color: #8996B2;
+}
+
+.active a, .active a:hover {
+    background-color:#21252e;
+}
+
 .mods-bar {
-    display: inline-block;
+    display: flex;
     width: 100%;
 }
 
 .mod-inst-btn {
-    width: calc(20% - 2px - 0.25rem);
-    float: left;
-    padding: 1.2rem;
-    min-width: 145px;
+    min-width: 100px;
     white-space: nowrap;
 }  
 
@@ -365,18 +481,10 @@ nav > a {
 }
 
 #search-form {
-    width: calc(60% - 0.25rem);
+    width: calc(60% - 1rem);
     display: flex;
     float: right;
     height: calc(100% - 4rem);
-}
-
-#search-form button {
-    display: block;
-    margin-top: 0;
-    border-radius: 0 5px 5px 0;
-    border-left: 0;
-    background:rgba(67,172,128,1);
 }
 
 #search-bar {
@@ -388,10 +496,10 @@ nav > a {
 /* SINGLE MOD */
 
 .mod {
-    width: 40%;
+    width: 50%;
     display: flex;
-    flex: 0 0 calc(50% - 18px);
-    margin: 5px;
+    flex: 0 0 calc(50% - 1rem);
+    margin: 0 1rem 1rem 0;
     box-sizing: border-box;
     flex: wrap;
 }
@@ -589,11 +697,7 @@ footer small {
     .mod-container .mod { flex: 1; }
 }*/
 
-@media only screen and (max-width: 1309px) {
-    #search-form {
-        width: calc(100% - 1rem - 290px);
-    }
-}
+
 
 @media only screen and (max-width: 1150px) {
     nav {
@@ -616,42 +720,23 @@ footer small {
     .mod-container .mod { flex: 1; }
 }
 
-@media only screen and (max-width: 1058px) {
+@media only screen and (max-width: 1000px) {
     .mods-bar {
         display: inline-block;
-        width: 100%;
-    }
-
-    .mod-inst-btn {
-        width: calc(50% - 2px - 0.25rem);
-    }  
-    
-    .mod-inst-lft {
-        margin-right: 0.5rem;
-    }
-    
-    .mod-inst-rt {
-        margin-right: 0;
     }
 
     #search-form {
-        width: calc(100%);
-        margin-top: 1rem;
-        display: flex;
+        width: 100%;
+        margin: 1rem 0 0 0;
     }
 
-    #search-form button {
-        display: block;
-        margin-top: 0;
-        border-radius: 0 5px 5px 0;
-        border-left: 0;
-        background:rgba(67,172,128,1);
+    .mod-inst-lft, .mod-inst-rt {
+        width: calc(50% - 4.7rem);
+        min-width: calc(50% - 7rem);
     }
 
-    #search-bar {
-        width:100%;
-        padding: 0.5rem 2rem;
-        border-radius: 5px 0 0 5px;
+    .mod-inst-rt {
+        margin-right: 0;
     }
 
 }

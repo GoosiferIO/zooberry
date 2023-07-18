@@ -19,6 +19,8 @@
   </url><url>
     <loc>http://localhost:1313/mods/zt1/animals/aldabaran-giant-tortoise/</loc>
   </url><url>
+    <loc>http://localhost:1313/mods/zt1/animals/</loc>
+  </url><url>
     <loc>http://localhost:1313/mods/zt1/animals/asian-elephant/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
@@ -31,10 +33,14 @@
   </url><url>
     <loc>http://localhost:1313/mods/zt1/animals/northwest-african-cheetah/</loc>
   </url><url>
+    <loc>http://localhost:1313/mods/zt1/objects/</loc>
+  </url><url>
     <loc>http://localhost:1313/mods/zt1/animals/silesian-tomcat/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/mods/zt1/animals/tazmanian-devil/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/</loc>
   </url>
 </urlset>
