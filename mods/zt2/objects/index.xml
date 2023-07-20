@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Objects on ZooBerry</title>
+    <link>http://zoo.goosifer.io/mods/zt2/objects/</link>
+    <description>Recent content in Objects on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://zoo.goosifer.io/mods/zt2/objects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cactus Donation Box</title>
+      <link>http://zoo.goosifer.io/mods/zt2/objects/cactus-donation-box/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://zoo.goosifer.io/mods/zt2/objects/cactus-donation-box/</guid>
+      <description>A donation box with a cactus in it.</description>
+    </item>
+    
+    <item>
+      <title>Glass Fence</title>
+      <link>http://zoo.goosifer.io/mods/zt2/objects/glass-fence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://zoo.goosifer.io/mods/zt2/objects/glass-fence/</guid>
+      <description>This is the an all glass fence created by Gibbon-Fanatic with help from Penguinman. Enjoy!</description>
+    </item>
+    
+  </channel>
+</rss>

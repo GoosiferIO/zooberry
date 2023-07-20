@@ -1,54 +1,224 @@
 {
     "results": [
     {
-    "href": "http://localhost:1313/contact/",
+    "href": "http://zoo.goosifer.io/zt1-install-guide/",
+    "title": "Zoo Tycoon 1 Install Guide",
+    "body": "Depending on the version of Zoo Tycoon 1 you own, the mod install directory might be different. The type of file you want to install might be important as well. Try these out and see which works for you.\nTable of Contents Important Installing Entity Mods Lang Files Installing Zoos Installing Scenarios Questions? Important Turn off the game: Though it shouldn\u0026rsquo;t cause any issues if we were to install a mod while your game is running, it makes sense to have it shut down so that any changes show up on a re-launch. Unzip your files: All files on ZooBerry are in .zip format and will require access to a zip utility. Below are resources that can get you started. Zipping/Unzipping files with the default Windows zip utility Zipping/Unzipping files with 7-Zip Download 7-Zip How to use 7-Zip Installing Entity Mods An entity in Zoo Tycoon can be described as any animal or object (buildings, foliage, etc). Installing custom entities in Zoo Tycoon 1 is easy and amounts to a simple drag and drop.\nFirst, go to the ZT1 root folder.\nC:\\Program Files (x86)\\Microsoft Games\\Zoo Tycoon\\\nIf you have a dlupdate folder, drop your .ztd file there:\nC:\\Program Files (x86)\\Microsoft Games\\Zoo Tycoon\\dlupdate\nIf you do not have a dlupdate folder, drop your .ztd file into the Updates folder instead:\nC:\\Program Files (x86)\\Microsoft Games\\Zoo Tycoon\\Updates\nThe install directory changes depending on the version of the game you own but these instructions should be consistent.\nLang Files Importantly, Zoo Tycoon mods will often add new UI strings, things like guest thoughts, zoopedia entries, and other additions that require the inclusion of a .dll file in your installation process. This .dll file serves as a serialized data container with most of the strings in the game. Community nomenclature has dubbed these files \u0026rsquo;lang files\u0026rsquo; because they are always prefixed by the \u0026rsquo;lang\u0026rsquo; identifier.\nIf your mod requires a lang file, simply download the referenced version in the mod instruction blurb, extract the .dll file, and drop it into the root Zoo Tycoon game directory:\nC:\\Program Files (x86)\\Microsoft Games\\Zoo Tycoon\\\nNote: Not all ZT1 mods make use of lang files.\nInstalling Zoos .zoo files are the Zoo Tycoon 1 save file format and is used for both the zoo maps themselves after saving the game and for scenarios.\nTo install a zoo save file, drop it into the following directory:\nC:\\Program Files\\Microsoft Games\\Zoo Tycoon\\Saved Games\nInstalling Scenarios If you happen to have a copy of one of the few custom scenarios and wish to install it, simply drop the .zoo file in the following directory. Any accompanying .ztd and lang files are installed the same as explained above.\nC:\\Program Files\\Microsoft Games\\Zoo Tycoon\\Maps\nQuestions? ZooBerry doesn\u0026rsquo;t have a discussion community of its own. Please visit the links page for other Zoo Tycoon websites that can help with installation problems or shoot me an email if you would like to report a bug. See the contact page for more info.\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/zt2-install-guide/",
+    "title": "Zoo Tycoon 2 Install Guide",
+    "body": "Depending on the version of Zoo Tycoon 2 you own, the mod install directory might be different. The type of file you want to install might be important as well. Try these out and see which works for you.\nTable of Contents Important Method 1 Method 2 Step 1 Step 2 Step 3 Installing Zoos and Maps Questions? Important Turn off the game: Though it shouldn\u0026rsquo;t cause any issues if we were to install a mod while your game is running, it makes sense to have it shut down so that any changes show up on a re-launch. Unzip your files: All files on ZooBerry are in .zip format and will require access to a zip utility. Below are resources that can get you started. Zipping/Unzipping files with the default Windows zip utility Zipping/Unzipping files with 7-Zip Download 7-Zip How to use 7-Zip Method 1 Method 1 is the easiest way to install mods and amounts to a simple drag and drop. Place your extracted .z2f files in here:\nC:/Program Files (x86)/Microsoft Games/Zoo Tycoon 2\nMethod 2 Many legacy mods from ZooMania and the Zoo Tycoon 2 Design Centre contain .dl files alongside the main mod files. These files were usually included because they credited the mod author and allowed for the mod to appear as a \u0026lsquo;download\u0026rsquo; within Zoo Tycoon 2. This section is a bit more involved, but is still worth understanding if you wish to have the original mods set up the way they were originally meant to be seen. It is also a great method because it allows to organize your mods a bit more within subdirectories. See ahead for details.\nPlease note that this does require displaying hidden files on Windows, so if this is a non-negotiable option to you, feel free to stick to the above install method.\nStep 1 Folders are hidden on Windows by default. We need to make them visible to see the install directory.\nTo display hidden files and folders on Windows XP, Windows 7\nOpen Folder Options in Control Panel. Click Start, and then click Control Panel. Click Appearance and Themes, and then click Folder Options. On the View tab, under Hidden files and folders, click Show hidden files and folders. To display hidden files and folders on modern Windows systems\nOpen a File Explorer window In the submenu up top, click on View \u0026gt; Show \u0026gt; Hidden Items Step 2 Drop your .dl files inside of the following directory:\nC:\\Documents and Settings\\All Users\\Application Data\\Microsoft Games\\Zoo Tycoon 2\\downloads\\zootycoon_com_zt2_1033\nThis directory should already be populated if you have official DLC installed.\nStep 3 Drop your .z2f files into any one of the folders denoted by a four-digit number.\nInstalling Zoos and Maps Zoos and maps are essentially save files and will go into the save folder. Open up a File Explorer on Windows and enter the following line into the address bar:\n%appdata%\nThis will convert into a proper file-system address that will have several folders named after applications installed on your computer. From here, go to the following path:\nMicrosoft Games \u0026gt; Zoo Tycoon 2 \u0026gt; Default Profile \u0026gt; Saved\nThis is where you will drop your .z2f save file.\nQuestions? ZooBerry doesn\u0026rsquo;t have a discussion community of its own. Please visit the links page for other Zoo Tycoon websites that can help with installation problems or shoot me an email if you would like to report a bug. See the contact page for more info.\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/contact/",
     "title": "Contact",
-    "body": "Want to host your mods here on the Zoo Vault? Feel free to reach out by email :)\n"
+    "body": "Feel free to contact me if you have any questions or simply want to get in touch. Please read ahead as I have a few emails set up for separate occasions.\nTable of Contents Submitting a new file File Policies Bug Reports Other queries Submitting a new file Want to submit a new file to ZooBerry? Email me at submit@goosifer.io\nPlease make sure to include the following in your email:\nAuthor name Compatibility (is your mod for Zoo Tycooon 1 or 2? what expansions are required, if any) Description of your mod and any other instructions License (if one exists) Please see ZooBerry\u0026rsquo;s stance on mod licensure: On Licenses Any screenshots Your file. Please don\u0026rsquo;t forget to zip it up! Zoo Tycoon 1-specific: If you\u0026rsquo;re submitting a Zoo Tycoon 1 file, please don\u0026rsquo;t forget to include a link to any required lang files if you have any. Misc Feel free to include any other information you wish such as links to a current projects thread to contact you, a github link, or other instructions. File Policies Keep it PG-13 I allow people to report bugs on every download page. A list of known bugs might be published alongside your file just so future guests are aware. You are welcome to email me back at the above email if you have an updated version of your file. You are welcome to email me with updated screenshots to update your file. In fact, you\u0026rsquo;re welcome to update your file whenever you want. Email me if you want any part of your submission modified and we\u0026rsquo;ll figure it out :) I will try my best to vet the file for any game-breaking bugs and will notify you in such a situation to see if you\u0026rsquo;d like to fix any issues I catch. In general though, I just want to make sure I\u0026rsquo;m not hosting any malicious content ;) This considering, it could take me a a few days to publish your file while I work my way to it.\nBug Reports Feel welcome to report any bugs both ZooBerry-specific while browsing the website or mod-specific.\nTo report a bug, email me at bug@goosifer.io. Please include the following:\nLink to the mod or page in question Description of the bug How to reproduce the bug Any screenshots if you can Depending on the bug, I might publish it alongside the mod so that others are aware before downloading and in hopes that it be addressed. If the author is active, I will also email them to notify.\nPlease note that any bug-fixing remains at the discretion of the author.\nOther queries If you have other questions or concerns, feel free to contact me at zooberry@goosifer.io.\n"
     },
     {
-    "href": "http://localhost:1313/about/",
+    "href": "http://zoo.goosifer.io/disclaimer/",
+    "title": "Disclaimer",
+    "body": "Disclaimer ZooBerry is a fan-made platform dedicated to hosting user-created modifications (\u0026ldquo;mods\u0026rdquo;) for Zoo Tycoon, a video game developed and owned by Microsoft Corporation. We would like to emphasize that this website is not affiliated with or endorsed by Microsoft in any way. Zoo Tycoon and all related trademarks, logos, characters, and other assets are the property of Microsoft Corporation.\nThe mods hosted on this website are created by the Zoo Tycoon community and are provided for informational and entertainment purposes only. They are not official content and may not have been reviewed or approved by Microsoft. The use of these mods is entirely at your own risk, and we advise users to exercise caution and ensure they are compatible with their version of the game.\nWhile we strive to ensure the accuracy and safety of the content provided on this website, we cannot guarantee the quality, functionality, or security of any third-party mods. Users are responsible for carefully reviewing and understanding the terms and conditions of each mod before downloading and using them.\nBy accessing and using this website and its content, you agree that the website owner, administrators, and contributors shall not be held liable for any damages, losses, or issues that may arise from the use of the mods or any information provided on this platform.\nPlease note that Microsoft\u0026rsquo;s official policies and terms of service for Zoo Tycoon apply, and we encourage users to adhere to them while using this website.\nIf you have any concerns or questions regarding this disclaimer or the content on this website, please contact us.\nLast updated: 2023-07-19\nZooBerry\nzooberry@goosifer.io\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/licenses-and-credits/",
+    "title": "Licenses and Credits",
+    "body": "Credits Thank you Jay and Fern Special thanks to Jay and Fern from the Zoo Tycoon Community Download Directory for their advice and great tips while I was getting my thoughts sorted about ZooBerry, and for all of their great work around the community in general!\nThank you MJ, Lgcfm, and NanoLancensis Big thanks to MJ, Lgcfm, and NanoLancensis over on the Zoo Tycoon Discord for helping \u0026lsquo;rediscover\u0026rsquo; some of our lost ZooMania files. This now allows us to host those files for others to enjoy here on ZooBerry :)\nThank you to Eric Davis Special thanks to Eric Davis and his Obsidian Nord theme. I use it daily for Obsidian projects, but namely heavy inspiration from the Obsidian Nord color scheme has been incorporated into the Blueberry Theme for ZooBerry. Though not quite a derived work in the sense of modifying his original code, I still feel compelled to include his license below.\nLicenses Below are a list of licenses that have given me permission to use code implemented in the production of ZooBerry as a website.\nObsidian Nord Theme\nMany of the color themes and hues on ZooBerry are derivative of the Obsidian Nord theme created by Eric Davis. Obsidian is a markdown editor.\nMIT License Copyright (c) 2020 Eric Davis\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \u0026ldquo;Software\u0026rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED \u0026ldquo;AS IS\u0026rdquo;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\nGalleria\nZooBerry uses a slightly-modified version of GalleriaJS to display mod images.\nThe MIT License\nCopyright (c) 2016 worse is better UG http://wib.io\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \u0026ldquo;Software\u0026rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED \u0026ldquo;AS IS\u0026rdquo;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\nLunr\nZooBerry uses lunr.js to provide search functionality without relaying on a remote server to process our data.\nCopyright (C) 2013 by Oliver Nightingale\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \u0026ldquo;Software\u0026rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED \u0026ldquo;AS IS\u0026rdquo;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\nAxiom\nZooBerry uses Axios to fetch the data for Lunr to use.\n# Copyright (c) 2014-present Matt Zabriskie \u0026amp; Collaborators\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \u0026ldquo;Software\u0026rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED \u0026ldquo;AS IS\u0026rdquo;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/links/",
+    "title": "Links",
+    "body": "ZooBerry itself does not endorse a specific Zoo Tycoon community nor does it run one of its own. However, there are many options that you are welcome to check out. These are also a good resource if you have questions about Zoo Tycoon mods or how to make your own.\nTable of Contents For Community Zoo Tek Phoenix The ZT2 Roundtable The r/ZooTycoon Subreddit For more mods not hosted on ZooBerry To learn how to create Zoo Tycoon mods For Community Zoo Tek Phoenix The longest-running Zoo Tycoon forum, Zoo Tek Phoenix sports one of the nicest communities out there and are always keen on helping if you get stuck.\nZoo Tek Phoenix\nThe ZT2 Roundtable As the name suggests, this community is more geared toward fans of the Zoo Tycoon sequel. Still, it has one of the largest communities for the game still around.\nThe ZT2 Roundtable\nThe r/ZooTycoon Subreddit Zoo Tycoon carries a large presence on Reddit and should quickly be a familiar format to any used to the karma-scoring link aggregator.\nr/ZooTycoon\nFor more mods not hosted on ZooBerry Zoo Tycoon 1\nZoo Tek Phoenix Zoo Admin Registration required Zoo Tycoon Community Download Directory Zoo Tycoon Designer Guild Zookeeper\u0026rsquo;s Lounge Zoo Tycoon 2\nThe ZT2 Roundtable Zoo Tycoon 2 Design Centre ZT2 Download Library Formsclub Registration required To learn how to create Zoo Tycoon mods Zoo Tycoon 1\nZoo Tycoon Designer Guild Zookeeper\u0026rsquo;s Lounge Zoo Tycoon 2\nZoo Tycoon 2 Design Centre "
+    },
+    {
+    "href": "http://zoo.goosifer.io/on-licenses/",
+    "title": "On Licenses",
+    "body": "Every file on ZooBerry contains a license field. If no license is disclosed, you can assume the file is a closed work and not available for derivation or redistribution. Many authors do choose to release their under an open source license, such as public domain. If you\u0026rsquo;re an author and wish to find out more about what license you might pick so submit to ZooBerry, please read ahead.\nZoo Tycoon Public Domain The Zoo Tycoon community has for many years regulated a self-imposed licensing mechanism that allows creators to establish whether their mod is to be released under public domain or not. To be public domain within the context of the Zoo Tycoon modding scene is to say that an author\u0026rsquo;s \u0026ldquo;content, meaning coding, model or mesh, skin and/or animations may be used to create new content and release it, as long as credit is given to the original creator.\u0026rdquo;\nThe license definition page continues with a \u0026lsquo;subflavor\u0026rsquo; of the main license: \u0026ldquo;A download can also be partly Public Domain when only some content, for example only a skin or only a model, can be used in this fashion.\u0026rdquo;\nSource: https://zt2downloadlibrary.fandom.com/wiki/Public_Domain\nWhen submitting files to ZooBerry, I do not want to discourage anyone from picking the license of their choice. However, I do understand that there have been disagreements in the past when a file released under public domain by its author would contest derivative work under certain circumstances. Though it is not my place to enforce their terms, I would encourage these authors to take a look at other open source licenses available that might prove a bit more flexible for their needs\u0026ndash;they might provide a bit more clarity to them, and to their users. Below are resources they can use to help them pick such a license.\nOther Licenses MIT License If you\u0026rsquo;re not sure and you\u0026rsquo;re keen on free and open source, you might consider the MIT license. See here for an MIT license rundown: click here See here for a copy of the MIT license you can use for your own project (don\u0026rsquo;t forget to replace the relevant sections!): click here Other Open Source Licenses Please take the time to visit https://choosealicense.com/. It is designed specifically for someone who wishes to publish their work with a certain framework in mind, and can help you get there quickly.\nQ\u0026amp;A Why use an open source license? There are many licenses out there and long-since established. If you\u0026rsquo;re excited to share your work for free and in open spirit to allow for derivative work, it might be worth looking into protecting your hard work within the boundaries you mean to establish even inside of an open source space.\nWhat if you don\u0026rsquo;t pick a license? That\u0026rsquo;s okay! If you don\u0026rsquo;t pick a license, your work is automatically protected by copyright law and is yours. However, by not declaring a license you are implicitly declaring that your work is not open source and not available for derivative work. Unfortunately, since so many of the legacy mods here on ZooBerry were released before modders started giving their works a license, they remain closed works.\nIn Summary What is most important to remember about picking an open source license is that you are committing your work for the public to use in some way, shape, or form. Please make sure to understand your own terms to avoid any possible miscommunication with your users.\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/about/",
     "title": "About",
-    "body": "Welcome to the ZooBerry Who are you? Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut lectus arcu bibendum at varius. Nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Laoreet non curabitur gravida arcu ac tortor dignissim convallis aenean. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Est velit egestas dui id ornare arcu odio ut. Urna duis convallis convallis tellus id interdum. Integer enim neque volutpat ac tincidunt. Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida neque. Turpis egestas maecenas pharetra convallis posuere morbi leo urna molestie. Non quam lacus suspendisse faucibus.\nWhere do these downloads come from? Tincidunt vitae semper quis lectus nulla at volutpat. Consectetur purus ut faucibus pulvinar elementum integer enim neque. Risus feugiat in ante metus. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin. Arcu non sodales neque sodales ut etiam. Cras tincidunt lobortis feugiat vivamus at augue eget. Urna nec tincidunt praesent semper feugiat nibh sed pulvinar proin. Pellentesque dignissim enim sit amet venenatis urna cursus eget nunc. Quam vulputate dignissim suspendisse in est. Pellentesque eu tincidunt tortor aliquam nulla facilisi. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Neque sodales ut etiam sit amet nisl purus in mollis. Commodo sed egestas egestas fringilla. Velit sed ullamcorper morbi tincidunt ornare massa eget egestas purus. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Risus in hendrerit gravida rutrum.\nFacilisis mauris sit amet massa vitae tortor. Tristique senectus et netus et malesuada fames ac turpis. Pharetra massa massa ultricies mi quis hendrerit dolor magna. Suspendisse potenti nullam ac tortor vitae. Massa vitae tortor condimentum lacinia quis. Morbi tristique senectus et netus. Dolor purus non enim praesent elementum facilisis leo vel fringilla. Amet consectetur adipiscing elit ut aliquam purus sit amet. Elementum curabitur vitae nunc sed velit dignissim. Pharetra vel turpis nunc eget lorem dolor sed viverra. Vitae ultricies leo integer malesuada nunc vel risus commodo. Dignissim diam quis enim lobortis scelerisque fermentum dui. Vel pretium lectus quam id. Velit euismod in pellentesque massa. Sem fringilla ut morbi tincidunt augue interdum velit euismod in. Massa vitae tortor condimentum lacinia. In est ante in nibh mauris cursus. Id venenatis a condimentum vitae sapien. Convallis tellus id interdum velit laoreet.\nDisclaimer Sollicitudin ac orci phasellus egestas tellus. Bibendum est ultricies integer quis auctor elit sed vulputate mi. Vitae proin sagittis nisl rhoncus mattis rhoncus urna neque viverra. Elit sed vulputate mi sit amet mauris. A condimentum vitae sapien pellentesque habitant morbi tristique senectus et. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra justo. Lectus mauris ultrices eros in cursus. Bibendum arcu vitae elementum curabitur vitae. Odio aenean sed adipiscing diam donec. Dolor sit amet consectetur adipiscing elit ut. Enim nec dui nunc mattis enim ut. Gravida dictum fusce ut placerat orci nulla pellentesque. Tellus elementum sagittis vitae et leo duis. Et ligula ullamcorper malesuada proin libero. A lacus vestibulum sed arcu non odio euismod lacinia. Vitae congue eu consequat ac felis. Nec sagittis aliquam malesuada bibendum arcu vitae. Vestibulum sed arcu non odio euismod lacinia. Massa sed elementum tempus egestas. Cras fermentum odio eu feugiat pretium nibh ipsum consequat.\nFuture Mods Imperdiet nulla malesuada pellentesque elit eget gravida cum. Mauris cursus mattis molestie a. A lacus vestibulum sed arcu non. Velit ut tortor pretium viverra suspendisse potenti nullam. Vitae auctor eu augue ut. Quis auctor elit sed vulputate mi sit amet mauris. Id cursus metus aliquam eleifend. Lectus magna fringilla urna porttitor rhoncus dolor. Amet tellus cras adipiscing enim eu. Tellus cras adipiscing enim eu turpis egestas. Id semper risus in hendrerit. Orci eu lobortis elementum nibh tellus molestie nunc. Nisi quis eleifend quam adipiscing.\n"
+    "body": "Welcome to ZooBerry Table of Contents Welcome to ZooBerry A Brief History ZooMania Northern Skies Artifex Where does ZooBerry come in? Who are you? Where did all of the other admins go? Why now? Will you backup legacy mods from other forums not from ZooMania, Northern Skies, or Artifex? What about new mods released today? Mod ownership Future mods A Brief History ZooMania ZooMania was created by Koala Komander somewhere around the year 2005. ZooMania had two iterations. In her second iteration of ZooMania, KK brought on Animalover44, Catc, and Penguinman to the administrative team.\nToward the end of its life, ZooMania partnered up with the Zoo Tycoon 2 Design Centre and would \u0026lsquo;cross-host\u0026rsquo; Zoo Tycoon mods, hence why you might see a ZT2DC file on occasion.\nNorthern Skies Around the year 2008 or 2009, Catc was invited by Simba and Otter Lord of the Aurora Designs team to help them start a new forum they were calling \u0026lsquo;Northern Skies\u0026rsquo;. Northern Skies grew to become the largest Zoo Tycoon community of its time and was active for a couple of years.\nArtifex Artifex was originally the official Zoo Tycoon 2 design team at Zoo Admin but took on a life of its own as a passion project between some of the best designers in the community at the time. The original Zoo Tycoon 2 user-made expansion team, they are known for creating Arabian Nights and Island Excursions.\nWhere does ZooBerry come in? Since none of us had any money back then, all mods were hosted on free file hosting services like SaveFile or MediaFire. Luckily, most files hosted on MediaFire have survived the test of time (some files are as old as 16 years!). Files hosted on SaveFile, not so much.\nThese forums and websites are no longer around. Zoomania was never transferred to Tapatalk before Invisionfree and Zetaboards shut down, so the only archive available is on archive.org. Northern Skies, luckily, was transferred and saved (or at least a version of it), so most of its content is still accessible.\nThe purpose behind this website is to conserve these downloads before more are lost\u0026ndash;specifically files hosted by websites I once had a hand in running, or as a member of its design team. At the moment, this website is a trial run. Hosting files does cost money, so it\u0026rsquo;s all dependant on how much I\u0026rsquo;m able to handle. At the moment, I do not have a donation setup\u0026ndash;but I might put one up in the future if people are keen on supporting this effort. :)\nWho are you? My handle these days is Goosifer. Back in the day I used to run Zoomania and Northern Skies, and was also a freshman member of the Artifex modding team. You may try your best to guess which one, I wasn\u0026rsquo;t very prolific :P. However, it might be obvious after reading the previous section what I used to go by.\nI was only a kid when I helped run these websites (or in Artifex\u0026rsquo;s case, made mods for people to download). I didn\u0026rsquo;t quite have any sysadmin experience let alone a job that allowed me to keep them going. I still tried, but I was quite young and so made many mistakes.\nWhere did all of the other admins go? As all things go on the internet, people move on and stop signing in. We were all in high school at the time so you can say we all grew up and developed other interests over time as we got older. :) Some of us moved on to become lawyers, others became doctors, some animal rehab coordinators, and on and on!\nWhy now? These days I am a computer science major and know a lot more about web development, programming, and the reality of hosting your own website than I did way back when. It helps that this doubles as a project I can share with others to show what I can do ;)\nWill you backup legacy mods from other forums not from ZooMania, Northern Skies, or Artifex? I need to see what my baseline hosting costs will be after a few months of running ZooBerry. If all looks good and reasonable, I might consider backing up other forums as long as I have permission from an admin in charge. I would also need them to express interest first. For the moment, I will have to respectfully decline until I can see where things go. That said, if you\u0026rsquo;re interested, feel free to reach out to me on Discord or at zooberry@goosifer.io and I can keep you posted if things change!\nWhat about new mods released today? If you\u0026rsquo;re a designer and wish to host your new mod on ZooBerry today, I would be happy to do so. This is agreeable versus full website backups since I can say I\u0026rsquo;m not committing to 300 files at a time. Please check out the contact page for more information.\nMod ownership ZooBerry believes in mod ownership and therefore if you are author to a mod hosted here on ZooBerry and wish to have it taken down, please do not hesitate to message me at zooberry@goosifer.io and I can take it down.\nFuture mods Since ZooBerry is a statically-generated website, this means we do not have dynamic functionality in a backend somewhere that lets us send emails out. You can expect any new mods added to the ZooBerry database to be advertised at any of the links in the links page. You may also follow ZooBerry on Mastadon\n"
     },
     {
-    "href": "http://localhost:1313/search/",
+    "href": "http://zoo.goosifer.io/search/",
     "title": "Search",
-    "body": "Search guide\nUse * asterisks before or after words to expand results. Do not use the asterisks if looking for exact words. Say we want to find anything with the word Ginger Ging* will find Ginger or other words that start with Ging Ginger* won\u0026rsquo;t work. If you\u0026rsquo;re looking for Gingerella though, well, knock yourself out :P Simply search Ginger without asterisk if looking for Ginger ZooBerry is a statically-generated website, which means performing a site search on Google.com would work great. Example on Google.com: search:zoo.goosifer.io ginger It\u0026rsquo;s not ideal, but improvements are coming! :)\n- Goosifer\n"
+    "body": "Search guide Use * asterisks before or after words to expand results.\nDo not use the asterisks if looking for exact words.\nSay we want to find anything with the word Ginger Simply search Ginger without asterisk if looking for Ginger Ging* will find Ginger or other words that start with Ging Ginger* won\u0026rsquo;t work. If you\u0026rsquo;re looking for Gingerella though, well, knock yourself out :P ZooBerry is a statically-generated website, which means performing a site search on Google.com would work great.\nExample on Google.com: search:zoo.goosifer.io ginger It\u0026rsquo;s not ideal, but improvements are coming! :)\n- Goosifer\n"
     },
     {
-    "href": "http://localhost:1313/mods/zt1/animals/aldabaran-giant-tortoise/",
-    "title": "Aldabaran Giant Tortoise",
-    "body": ""
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/american-flamingo/",
+    "title": "American Flamingo",
+    "body": "The American flamingo lives in the Coastal Biome.\n"
     },
     {
-    "href": "http://localhost:1313/mods/zt1/animals/asian-elephant/",
-    "title": "Asian Elephant",
-    "body": ""
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/ankole-cow/",
+    "title": "Ankole Cow",
+    "body": "An African Cow for your zoos!\n"
     },
     {
-    "href": "http://localhost:1313/mods/zt1/objects/ginger-bread-fence/",
-    "title": "Ginger Bread Fence",
-    "body": ""
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/asian-small-clawed-otter/",
+    "title": "Asian Small Clawed Otter",
+    "body": "The Asian Small-Clawed Otter is a wetlands mammal. It is smaller than the Sea Otter.\n"
     },
     {
-    "href": "http://localhost:1313/mods/zt1/animals/north-american-orca/",
-    "title": "North American Orca",
-    "body": ""
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/atlantic-devil-ray/",
+    "title": "Atlantic Devil Ray",
+    "body": "This Smal ray is a coastal animal but it also loves rainforest and reef. This ray has a other skin than the manta ray but the collor is almost thisame but there is a big diffrence between the skin. I hope you will love my first animal that i have made.\n"
     },
     {
-    "href": "http://localhost:1313/mods/zt1/animals/northwest-african-cheetah/",
-    "title": "Northwest African Cheetah",
-    "body": ""
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/atlantic-sailfish/",
+    "title": "Atlantic Sailfish",
+    "body": "The Atlantic Sailfish is uber amazing: It\u0026rsquo;s also AWESOME and POINTY! (quote from ShenTirag)\n"
     },
     {
-    "href": "http://localhost:1313/mods/zt1/animals/silesian-tomcat/",
-    "title": "Silesian Tomcat",
-    "body": ""
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/brown-pelican/",
+    "title": "Brown Pelican",
+    "body": "A large, colourful Pelican found in South and Central America. Has 2 varients, biome is Reef.\n"
     },
     {
-    "href": "http://localhost:1313/mods/zt1/animals/tazmanian-devil/",
-    "title": "Tazmanian Devil",
-    "body": ""
+    "href": "http://zoo.goosifer.io/mods/zt2/objects/cactus-donation-box/",
+    "title": "Cactus Donation Box",
+    "body": "A donation box with a cactus in it. Requires ZT2\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/dall-sheep/",
+    "title": "Dall Sheep",
+    "body": "A relative of the Bighorn sheep\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/dhole/",
+    "title": "Dhole",
+    "body": "This dhole is mainly tropical rainforest. It is bigger than the wolf. Enjoy.\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/dire-wolf/",
+    "title": "Dire Wolf",
+    "body": "Its an prehistoric wolf. I\u0026rsquo;m not sure if the mod\u0026rsquo;s here have to test these links first or what-ever, but I\u0026rsquo;ve tested it myself and it works fine. Just put the Z2f file and the DL file both in the MAIN Zoo Tycoon 2 folder : C drive \u0026gt; Program Files \u0026gt; Microsoft games \u0026gt; Zoo Tycoon 2.\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/dwarf-panda/",
+    "title": "Dwarf Panda",
+    "body": "I would recommend having at least AA. An extinct version of the giant panda, about half its size. Five stars. My first project.\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/fanaloka/",
+    "title": "Fanaloka",
+    "body": "A cute, spotted civet from Madagascar! New and improved, with 4 different skins and a new model for both adult and baby!\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/fantasy-wolf/",
+    "title": "Fantasy Wolf",
+    "body": "Here\u0026rsquo;s a colorful wolf that eats almost anything.\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/fringe-eared-oryx/",
+    "title": "Fringe Eared Oryx",
+    "body": "The Fringe-Eared Oryx is a scrub dwelling antelope. It is a subspecies of gemsbok native to southern Africa.\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/giant-eland/",
+    "title": "Giant Eland",
+    "body": "The Largest Species of Antelope - Now Available to Adopt in Your Zoo! Comes with 3 Variant Skins!\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt1/objects/gingerbread-fence/",
+    "title": "Gingerbread Fence",
+    "body": "Use the gingerbread wall to spice up your holiday zoos and to create fun areas in your zoos.\nAuthors: Genki - graphics, Fern - ztd creation, rotations and configuring.\nRequires (just one):\nFern-Tek dll (ZooTek Phoenix): Download here LangZA03.dll (Zoo Admin): Download here "
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/objects/glass-fence/",
+    "title": "Glass Fence",
+    "body": "This is the an all glass fence created by Gibbon-Fanatic with help from Penguinman. Enjoy!\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/goral/",
+    "title": "Goral",
+    "body": "The Goral is an Asian Antelope\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/greater-kudu/",
+    "title": "Greater Kudu",
+    "body": "This is the Greater Kudu, the second largest antelope in Africa. Must have the Addax download to work.\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/maps/hedge-maze/",
+    "title": "Hedge Maze",
+    "body": "Attempting maze may result in loss of sanity. Use the included map for help. Its in a large zoo so BEWARE!\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/maps/himalayan-mountain-range/",
+    "title": "Himalayan Mountain Range",
+    "body": "Requirements: Requires ES and MM All the foliage is from Artifex\u0026rsquo;s Arabian Nights. You will need the three packs of foliage for it to work along with the Arabian Nights any XP animals 2 for the sindh ibex.\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/himalayan_tahr/",
+    "title": "Himalayan_tahr",
+    "body": "A large goat from the Himalayas. Skinned, coded and meshed by Pavocristantus. Comes with 3 variants. To install place the .z2f file into C:\\Program Files\\Microsoft Games\\Zoo Tycoon 2.\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/indian-rhinoceros-i/",
+    "title": "Indian Rhinoceros I",
+    "body": "An Indian rhino for your zoo. Recolored from the Javan rhino.\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/indian-rhinoceros-ii/",
+    "title": "Indian Rhinoceros II",
+    "body": "A large, endangered species of rhino from Northern India. \u0026mdash;- Put in your 1020_1.0 folder, it\u0026rsquo;s in your official download folder. It has the challenge pack in it, place it in there with it.\nComes with three varients.\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/iriomote-cat/",
+    "title": "Iriomote Cat",
+    "body": "The Iriomote cat, an endangered species from Japan. Skinned, meshed, and coded by Gloria Pike.\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/italian-wolf/",
+    "title": "Italian Wolf",
+    "body": "A subspecies of wolf from the Apennine Mountains in Italy. Comes with 2 variants. To install, simply place the .z2f file into C:\\Program Files\\Microsoft Games\\Zoo Tycoon 2\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/kiang/",
+    "title": "Kiang",
+    "body": "This Asian equid lives in the desert biome, and is a light sandy colour. Has a darker variant.\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/foliage/large-kelp-forest/",
+    "title": "Large Kelp Forest",
+    "body": "This is a large version of the kelp forest available in MM2. I think that this plant size will be more suitable and realistic for our zoo building needs. Requires MM2.\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/long-tailed-weasel/",
+    "title": "Long-Tailed Weasel",
+    "body": "This is a North American weasel for ZT2. It contains 2 variants (not shown) - white and brown with light facial markings.\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/mexican-wolf/",
+    "title": "Mexican Wolf",
+    "body": "The Mexican Wolf is a sub-species of the Gray Wolf. The Mexican Wolf was once on the verge of extinction, but due to combined efforts by the U.S. and Mexico, is making a comeback.\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/miniature-pony/",
+    "title": "Miniature Pony",
+    "body": "A miniature pony! for your zoo! =D 4 variants: main colour is bay, then dun, speckled,black and pinto.\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/pine-marten/",
+    "title": "Pine Marten",
+    "body": "This file contains the Pine Marten, a small boreal forest mustelid. ES requirement to use the variant.\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/platyhystrix/",
+    "title": "Platyhystrix",
+    "body": "Platyhystrix, a little-known sailbacked amphibian from the permian, is now adoptable for your zoos! Compatible with wetland and scrub biomes, includes 3 varients, requires water to lay eggs. ZT2 and AA, ES or MM optional for varients, DD or EA required to see Extinct icon, but not required to use the animal.\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/animals/sarcosuchus/",
+    "title": "Sarcosuchus",
+    "body": "Sarcosuchus was a giant crocodilian.\n"
+    },
+    {
+    "href": "http://zoo.goosifer.io/mods/zt2/maps/volcanoes-national-park/",
+    "title": "Volcanoes National Park",
+    "body": "All the foliage in the map is from Artifex\u0026rsquo;s Arabian Nights. You will need all the foliage packs for it.\nThe packs required are:\nAN: any XP required foliage 1\rAN: any XP required foliage 2\rAN: ES needed foliage\r*thanks ShenTirag for pointing that out Cheesy *\nIt requires ES and MM There is 4 groups of gorillas and Dian Fossey\u0026rsquo;s camp at Karisoke\n"
     }
 ]
 }
