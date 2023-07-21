@@ -1,5 +1,5 @@
 images/
-/*/.zip
-/*/.jpg
-/*/.webp
-/*/.png
+/**/*.zip
+/**/*.jpg
+/**/*.webp
+/**/*.png
