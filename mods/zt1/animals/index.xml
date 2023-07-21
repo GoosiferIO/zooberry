@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Animals on ZooBerry</title>
-    <link>http://zoo.goosifer.io/mods/zt1/animals/</link>
+    <link>https://zoo.goosifer.io/mods/zt1/animals/</link>
     <description>Recent content in Animals on ZooBerry</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://zoo.goosifer.io/mods/zt1/animals/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://zoo.goosifer.io/mods/zt1/animals/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
