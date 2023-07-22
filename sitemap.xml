@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zoo.goosifer.io/mods/zt2/packs/african-civet-and-giant-eland/</loc>
-    <lastmod>2023-07-22T09:11:31-07:00</lastmod>
+    <loc>https://zoo.goosifer.io/mods/zt1/animals/</loc>
+    <lastmod>2023-07-22T09:31:25-07:00</lastmod>
   </url><url>
     <loc>https://zoo.goosifer.io/mods/</loc>
+    <lastmod>2023-07-22T09:31:25-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/mods/zt1/animals/nile-monitor/</loc>
+    <lastmod>2023-07-22T09:31:25-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/mods/zt1/</loc>
+    <lastmod>2023-07-22T09:31:25-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/mods/zt2/packs/african-civet-and-giant-eland/</loc>
     <lastmod>2023-07-22T09:11:31-07:00</lastmod>
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/packs/</loc>
@@ -142,8 +151,6 @@
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/animals/american-flamingo/</loc>
   </url><url>
-    <loc>https://zoo.goosifer.io/mods/zt1/animals/</loc>
-  </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/animals/ankole-cow/</loc>
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/animals/asian-small-clawed-otter/</loc>
@@ -225,7 +232,5 @@
     <loc>https://zoo.goosifer.io/mods/zt2/variants/</loc>
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/maps/volcanoes-national-park/</loc>
-  </url><url>
-    <loc>https://zoo.goosifer.io/mods/zt1/</loc>
   </url>
 </urlset>
