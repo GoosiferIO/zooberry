@@ -1,8 +1,13 @@
 {
     "results": [
     {
-    "href": "https://zoo.goosifer.io/mods/zt2/objects/duckweed-round/",
-    "title": "Duckweed Round",
+    "href": "https://zoo.goosifer.io/mods/zt2/foliage/duckweed-square/",
+    "title": "Duckweed, Square",
+    "body": "This plant floats on the water.\nSee also: Round Duckweed\n"
+    },
+    {
+    "href": "https://zoo.goosifer.io/mods/zt2/foliage/duckweed-round/",
+    "title": "Duckweed, Round",
     "body": "This plant floats on the water.\nSee Also: Duckweed, Square\n"
     },
     {

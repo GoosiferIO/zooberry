@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zoo.goosifer.io/mods/zt2/objects/duckweed-round/</loc>
-    <lastmod>2023-07-22T08:34:46-07:00</lastmod>
+    <loc>https://zoo.goosifer.io/mods/zt2/foliage/duckweed-square/</loc>
+    <lastmod>2023-07-22T08:38:13-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/mods/zt2/foliage/</loc>
+    <lastmod>2023-07-22T08:38:13-07:00</lastmod>
   </url><url>
     <loc>https://zoo.goosifer.io/mods/</loc>
-    <lastmod>2023-07-22T08:34:46-07:00</lastmod>
-  </url><url>
-    <loc>https://zoo.goosifer.io/mods/zt2/objects/</loc>
-    <lastmod>2023-07-22T08:34:46-07:00</lastmod>
+    <lastmod>2023-07-22T08:38:13-07:00</lastmod>
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/</loc>
+    <lastmod>2023-07-22T08:38:13-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/mods/zt2/foliage/duckweed-round/</loc>
     <lastmod>2023-07-22T08:34:46-07:00</lastmod>
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/packs/colored-path-pack/</loc>
@@ -24,6 +27,9 @@
     <lastmod>2023-07-22T08:20:40-07:00</lastmod>
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/objects/aa-photo-stand/</loc>
+    <lastmod>2023-07-22T08:16:07-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/mods/zt2/objects/</loc>
     <lastmod>2023-07-22T08:16:07-07:00</lastmod>
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/objects/zoomania-path/</loc>
@@ -143,8 +149,6 @@
     <loc>https://zoo.goosifer.io/mods/zt2/animals/fanaloka/</loc>
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/animals/fantasy-wolf/</loc>
-  </url><url>
-    <loc>https://zoo.goosifer.io/mods/zt2/foliage/</loc>
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/animals/fringe-eared-oryx/</loc>
   </url><url>

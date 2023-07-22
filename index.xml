@@ -8,11 +8,20 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jul 2023 23:45:26 -0700</lastBuildDate><atom:link href="https://zoo.goosifer.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Duckweed Round</title>
-      <link>https://zoo.goosifer.io/mods/zt2/objects/duckweed-round/</link>
+      <title>Duckweed, Square</title>
+      <link>https://zoo.goosifer.io/mods/zt2/foliage/duckweed-square/</link>
+      <pubDate>Sat, 22 Jul 2023 08:38:13 -0700</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/foliage/duckweed-square/</guid>
+      <description>This plant floats on the water.</description>
+    </item>
+    
+    <item>
+      <title>Duckweed, Round</title>
+      <link>https://zoo.goosifer.io/mods/zt2/foliage/duckweed-round/</link>
       <pubDate>Sat, 22 Jul 2023 08:34:46 -0700</pubDate>
       
-      <guid>https://zoo.goosifer.io/mods/zt2/objects/duckweed-round/</guid>
+      <guid>https://zoo.goosifer.io/mods/zt2/foliage/duckweed-round/</guid>
       <description>This plant floats on the water.</description>
     </item>
     
