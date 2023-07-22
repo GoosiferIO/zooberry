@@ -5,7 +5,26 @@
     <link>https://zoo.goosifer.io/mods/zt2/packs/</link>
     <description>Recent content in Packs on ZooBerry</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://zoo.goosifer.io/mods/zt2/packs/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Jul 2023 08:20:40 -0700</lastBuildDate><atom:link href="https://zoo.goosifer.io/mods/zt2/packs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Binoculars Pack</title>
+      <link>https://zoo.goosifer.io/mods/zt2/packs/binoculars-pack/</link>
+      <pubDate>Sat, 22 Jul 2023 08:20:40 -0700</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/packs/binoculars-pack/</guid>
+      <description>A pack of four themed binoculars!</description>
+    </item>
+    
+    <item>
+      <title>Mini Trashcan Pack</title>
+      <link>https://zoo.goosifer.io/mods/zt2/packs/mini-trashcan-pack/</link>
+      <pubDate>Fri, 21 Jul 2023 21:36:57 -0700</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/packs/mini-trashcan-pack/</guid>
+      <description>In this pack, you will find a Royal Trascan, Marble Trashcan, and a Wooden Trashcan.</description>
+    </item>
+    
     <item>
       <title>Biome Shelter Pack</title>
       <link>https://zoo.goosifer.io/mods/zt2/packs/biome-shelter-pack/</link>

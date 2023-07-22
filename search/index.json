@@ -1,6 +1,11 @@
 {
     "results": [
     {
+    "href": "https://zoo.goosifer.io/mods/zt2/packs/binoculars-pack/",
+    "title": "Binoculars Pack",
+    "body": "This pack contains four binoculars. One for each of the following themes:\nEndangered Species Theme Tundra Theme Jungle Theme Safari Theme "
+    },
+    {
     "href": "https://zoo.goosifer.io/mods/zt2/objects/aa-photo-stand/",
     "title": "AA Photo Stand",
     "body": "This stand contains photos of each of the 20 animals featured in the African Adventures expansion pack.\nThis stand does NOT require AA to work, might need ES\nAuthors - Samemo and Penguinman\n"
@@ -31,7 +36,7 @@
     "body": "A dish with the green meat inside.\nSee Also: Mystery Meat Trough and Mystery Meat Carcass\n"
     },
     {
-    "href": "https://zoo.goosifer.io/mods/zt2/objects/mini-trashcan-pack/",
+    "href": "https://zoo.goosifer.io/mods/zt2/packs/mini-trashcan-pack/",
     "title": "Mini Trashcan Pack",
     "body": "In this pack, you will find a Royal Trascan, Marble Trashcan, and a Wooden Trashcan.\n"
     },

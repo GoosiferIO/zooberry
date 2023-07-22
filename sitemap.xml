@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://zoo.goosifer.io/mods/zt2/packs/binoculars-pack/</loc>
+    <lastmod>2023-07-22T08:20:40-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/mods/</loc>
+    <lastmod>2023-07-22T08:20:40-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/mods/zt2/packs/</loc>
+    <lastmod>2023-07-22T08:20:40-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/mods/zt2/</loc>
+    <lastmod>2023-07-22T08:20:40-07:00</lastmod>
+  </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/objects/aa-photo-stand/</loc>
     <lastmod>2023-07-22T08:16:07-07:00</lastmod>
   </url><url>
-    <loc>https://zoo.goosifer.io/mods/</loc>
-    <lastmod>2023-07-22T08:16:07-07:00</lastmod>
-  </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/objects/</loc>
-    <lastmod>2023-07-22T08:16:07-07:00</lastmod>
-  </url><url>
-    <loc>https://zoo.goosifer.io/mods/zt2/</loc>
     <lastmod>2023-07-22T08:16:07-07:00</lastmod>
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/objects/zoomania-path/</loc>
@@ -29,7 +35,7 @@
     <loc>https://zoo.goosifer.io/mods/zt2/objects/mystery-meat-dish/</loc>
     <lastmod>2023-07-21T22:04:11-07:00</lastmod>
   </url><url>
-    <loc>https://zoo.goosifer.io/mods/zt2/objects/mini-trashcan-pack/</loc>
+    <loc>https://zoo.goosifer.io/mods/zt2/packs/mini-trashcan-pack/</loc>
     <lastmod>2023-07-21T21:36:57-07:00</lastmod>
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/objects/mahogany-bench/</loc>
@@ -173,8 +179,6 @@
     <loc>https://zoo.goosifer.io/mods/zt2/animals/miniature-pony/</loc>
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt1/objects/</loc>
-  </url><url>
-    <loc>https://zoo.goosifer.io/mods/zt2/packs/</loc>
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/animals/pine-marten/</loc>
   </url><url>
