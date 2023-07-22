@@ -312,5 +312,14 @@
       <description>Here&amp;rsquo;s a waterbuck for your zoo.</description>
     </item>
     
+    <item>
+      <title>Yellow Mongoose</title>
+      <link>https://zoo.goosifer.io/mods/zt2/animals/yellow-mongoose/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/animals/yellow-mongoose/</guid>
+      <description>An African mongoose. Its main biome is scrub. Will not dig under chain link fences!</description>
+    </item>
+    
   </channel>
 </rss>
