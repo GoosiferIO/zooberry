@@ -466,5 +466,23 @@ Say we want to find anything with the word Ginger Simply search Ginger without a
       <description>Summary of the Volcanoes National Park project</description>
     </item>
     
+    <item>
+      <title>Wallaroo</title>
+      <link>https://zoo.goosifer.io/mods/zt2/animals/wallaroo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/animals/wallaroo/</guid>
+      <description>It is one star, main biome is scrub, but it also likes alpine.</description>
+    </item>
+    
+    <item>
+      <title>Waterbuck</title>
+      <link>https://zoo.goosifer.io/mods/zt2/animals/waterbuck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/animals/waterbuck/</guid>
+      <description>Here&amp;rsquo;s a waterbuck for your zoo.</description>
+    </item>
+    
   </channel>
 </rss>
