@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://zoo.goosifer.io/mods/zt2/objects/lighthouse/</loc>
+    <lastmod>2023-07-21T18:28:54-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/mods/</loc>
+    <lastmod>2023-07-21T18:28:54-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/mods/zt2/objects/</loc>
+    <lastmod>2023-07-21T18:28:54-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/mods/zt2/</loc>
+    <lastmod>2023-07-21T18:28:54-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/mods/zt2/objects/large-safari-fountain/</loc>
+    <lastmod>2023-07-21T17:57:54-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/mods/zt2/animals/</loc>
+    <lastmod>2023-07-21T17:41:54-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/mods/zt2/animals/yellow-mongoose/</loc>
+    <lastmod>2023-07-21T17:41:54-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/mods/zt2/animals/waterbuck/</loc>
+    <lastmod>2023-07-21T17:30:54-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/mods/zt2/animals/wallaroo/</loc>
+    <lastmod>2023-07-21T17:24:54-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/mods/zt2/animals/spanish-broom-hare/</loc>
+    <lastmod>2023-07-21T17:14:54-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/mods/zt2/animals/narrow-striped-mongoose/</loc>
+    <lastmod>2023-07-21T17:04:54-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/mods/zt2/animals/pygmy-goat/</loc>
+    <lastmod>2023-07-21T16:58:54-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/mods/zt2/animals/nutria/</loc>
+    <lastmod>2023-07-21T16:49:54-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/latest-mods/</loc>
+    <lastmod>2023-07-21T16:47:29-07:00</lastmod>
+  </url><url>
     <loc>https://zoo.goosifer.io/zt1-install-guide/</loc>
     <lastmod>2023-07-19T00:29:29-07:00</lastmod>
   </url><url>
@@ -35,8 +77,6 @@
     <loc>https://zoo.goosifer.io/mods/zt2/animals/american-flamingo/</loc>
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt1/animals/</loc>
-  </url><url>
-    <loc>https://zoo.goosifer.io/mods/zt2/animals/</loc>
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/animals/ankole-cow/</loc>
   </url><url>
@@ -100,8 +140,6 @@
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/foliage/large-kelp-forest/</loc>
   </url><url>
-    <loc>https://zoo.goosifer.io/mods/zt2/objects/large-safari-fountain/</loc>
-  </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/animals/long-tailed-weasel/</loc>
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/maps/</loc>
@@ -110,15 +148,7 @@
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/animals/miniature-pony/</loc>
   </url><url>
-    <loc>https://zoo.goosifer.io/mods/</loc>
-  </url><url>
-    <loc>https://zoo.goosifer.io/mods/zt2/animals/narrow-striped-mongoose/</loc>
-  </url><url>
-    <loc>https://zoo.goosifer.io/mods/zt2/animals/nutria/</loc>
-  </url><url>
     <loc>https://zoo.goosifer.io/mods/zt1/objects/</loc>
-  </url><url>
-    <loc>https://zoo.goosifer.io/mods/zt2/objects/</loc>
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/packs/</loc>
   </url><url>
@@ -126,11 +156,7 @@
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/animals/platyhystrix/</loc>
   </url><url>
-    <loc>https://zoo.goosifer.io/mods/zt2/animals/pygmy-goat/</loc>
-  </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/animals/sarcosuchus/</loc>
-  </url><url>
-    <loc>https://zoo.goosifer.io/mods/zt2/animals/spanish-broom-hare/</loc>
   </url><url>
     <loc>https://zoo.goosifer.io/tags/</loc>
   </url><url>
@@ -138,14 +164,6 @@
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/maps/volcanoes-national-park/</loc>
   </url><url>
-    <loc>https://zoo.goosifer.io/mods/zt2/animals/wallaroo/</loc>
-  </url><url>
-    <loc>https://zoo.goosifer.io/mods/zt2/animals/waterbuck/</loc>
-  </url><url>
-    <loc>https://zoo.goosifer.io/mods/zt2/animals/yellow-mongoose/</loc>
-  </url><url>
     <loc>https://zoo.goosifer.io/mods/zt1/</loc>
-  </url><url>
-    <loc>https://zoo.goosifer.io/mods/zt2/</loc>
   </url>
 </urlset>
