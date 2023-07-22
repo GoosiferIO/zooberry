@@ -305,11 +305,11 @@ Say we want to find anything with the word Ginger Simply search Ginger without a
     </item>
     
     <item>
-      <title>Himalayan_tahr</title>
-      <link>https://zoo.goosifer.io/mods/zt2/animals/himalayan_tahr/</link>
+      <title>Himalayan Tahr</title>
+      <link>https://zoo.goosifer.io/mods/zt2/animals/himalayan-tahr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zoo.goosifer.io/mods/zt2/animals/himalayan_tahr/</guid>
+      <guid>https://zoo.goosifer.io/mods/zt2/animals/himalayan-tahr/</guid>
       <description>A large goat from the Himalayas.</description>
     </item>
     
@@ -395,6 +395,15 @@ Say we want to find anything with the word Ginger Simply search Ginger without a
     </item>
     
     <item>
+      <title>Nutria</title>
+      <link>https://zoo.goosifer.io/mods/zt2/animals/nutria/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/animals/nutria/</guid>
+      <description>A large rodent!</description>
+    </item>
+    
+    <item>
       <title>Pine Marten</title>
       <link>https://zoo.goosifer.io/mods/zt2/animals/pine-marten/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -410,6 +419,15 @@ Say we want to find anything with the word Ginger Simply search Ginger without a
       
       <guid>https://zoo.goosifer.io/mods/zt2/animals/platyhystrix/</guid>
       <description>Platyhystrix, a little-known sailbacked amphibian from the permian, is now adoptable for your zoos!</description>
+    </item>
+    
+    <item>
+      <title>Pygmy Goat</title>
+      <link>https://zoo.goosifer.io/mods/zt2/animals/pygmy-goat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/animals/pygmy-goat/</guid>
+      <description>The Pygmy Goat is a grassland animal that all of the guests love.</description>
     </item>
     
     <item>
