@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zoo Tycoon 1 on ZooBerry</title>
+    <link>https://zoo.goosifer.io/game/zoo-tycoon-1/</link>
+    <description>Recent content in Zoo Tycoon 1 on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Jul 2023 09:34:23 -0700</lastBuildDate><atom:link href="https://zoo.goosifer.io/game/zoo-tycoon-1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perentie</title>
+      <link>https://zoo.goosifer.io/mods/zt1/animals/perentie/</link>
+      <pubDate>Sat, 22 Jul 2023 09:34:23 -0700</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt1/animals/perentie/</guid>
+      <description>Perenties are fairly large lizards in the monitor family.</description>
+    </item>
+    
+    <item>
+      <title>Nile Monitor</title>
+      <link>https://zoo.goosifer.io/mods/zt1/animals/nile-monitor/</link>
+      <pubDate>Sat, 22 Jul 2023 09:31:25 -0700</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt1/animals/nile-monitor/</guid>
+      <description>The Nile Monitor is a large, fast, and agile lizard from the rainforest outskirts and grasslands of Africa.</description>
+    </item>
+    
+    <item>
+      <title>Gingerbread Fence</title>
+      <link>https://zoo.goosifer.io/mods/zt1/objects/gingerbread-fence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt1/objects/gingerbread-fence/</guid>
+      <description>Use the gingerbread wall to spice up your holiday zoos and to create fun areas in your zoos.</description>
+    </item>
+    
+    <item>
+      <title>Sarcosuchus</title>
+      <link>https://zoo.goosifer.io/mods/zt2/animals/sarcosuchus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/animals/sarcosuchus/</guid>
+      <description>Sarcosuchus was a giant crocodilian.</description>
+    </item>
+    
+  </channel>
+</rss>

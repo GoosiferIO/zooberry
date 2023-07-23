@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Penguinman on ZooBerry</title>
+    <link>https://zoo.goosifer.io/author/penguinman/</link>
+    <description>Recent content in Penguinman on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Jul 2023 08:52:35 -0700</lastBuildDate><atom:link href="https://zoo.goosifer.io/author/penguinman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insect Dish</title>
+      <link>https://zoo.goosifer.io/mods/zt2/objects/insect-dish/</link>
+      <pubDate>Sat, 22 Jul 2023 08:52:35 -0700</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/objects/insect-dish/</guid>
+      <description>This is a dish containing insects to be eaten from by insectivores.</description>
+    </item>
+    
+    <item>
+      <title>Giant Bamboo</title>
+      <link>https://zoo.goosifer.io/mods/zt2/foliage/giant-bamboo/</link>
+      <pubDate>Sat, 22 Jul 2023 08:43:42 -0700</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/foliage/giant-bamboo/</guid>
+      <description>This is a larger version of the water bamboo to create bamboo forests.</description>
+    </item>
+    
+    <item>
+      <title>Duckweed, Square</title>
+      <link>https://zoo.goosifer.io/mods/zt2/foliage/duckweed-square/</link>
+      <pubDate>Sat, 22 Jul 2023 08:38:13 -0700</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/foliage/duckweed-square/</guid>
+      <description>This plant floats on the water.</description>
+    </item>
+    
+    <item>
+      <title>Duckweed, Round</title>
+      <link>https://zoo.goosifer.io/mods/zt2/foliage/duckweed-round/</link>
+      <pubDate>Sat, 22 Jul 2023 08:34:46 -0700</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/foliage/duckweed-round/</guid>
+      <description>This plant floats on the water.</description>
+    </item>
+    
+    <item>
+      <title>Binoculars Pack</title>
+      <link>https://zoo.goosifer.io/mods/zt2/packs/binoculars-pack/</link>
+      <pubDate>Sat, 22 Jul 2023 08:20:40 -0700</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/packs/binoculars-pack/</guid>
+      <description>A pack of four themed binoculars!</description>
+    </item>
+    
+  </channel>
+</rss>
