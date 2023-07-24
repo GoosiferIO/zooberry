@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foliage on ZooBerry</title>
+    <link>https://zoo.goosifer.io/title/foliage/</link>
+    <description>Recent content in Foliage on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://zoo.goosifer.io/title/foliage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Foliage</title>
+      <link>https://zoo.goosifer.io/mods/zt2/foliage/</link>
+      <pubDate>Sat, 22 Jul 2023 08:43:42 -0700</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/foliage/</guid>
+      <description>Make your animals feel more at home with new living fauna.</description>
+    </item>
+    
+  </channel>
+</rss>

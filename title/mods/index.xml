@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mods on ZooBerry</title>
+    <link>https://zoo.goosifer.io/title/mods/</link>
+    <description>Recent content in Mods on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://zoo.goosifer.io/title/mods/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mods</title>
+      <link>https://zoo.goosifer.io/mods/</link>
+      <pubDate>Mon, 24 Jul 2023 10:51:30 -0700</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/</guid>
+      <description>ZooBerry Times
+July 21, 2023
+Hi and welcome. I&amp;rsquo;m excited to finally share this project with everyone. It&amp;rsquo;s been a grueling past few weeks as I worked out all of the nerd stuff that goes behind making a website, but we&amp;rsquo;re now in the fun part: uploading mods. More will be backed up over the next few weeks&amp;ndash;just know that on my last count there would be ~800 mods give or take by the end of it all, so we&amp;rsquo;ll get there but in due time.</description>
+    </item>
+    
+  </channel>
+</rss>
