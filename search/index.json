@@ -1,9 +1,9 @@
 {
     "results": [
     {
-    "href": "https://zoo.goosifer.io/updates/update-2023-04-24/",
-    "title": "Update 2023 04 24",
-    "body": ""
+    "href": "https://zoo.goosifer.io/updates/update-2023-07-24/",
+    "title": "Update July 24, 2023",
+    "body": "Update log for ZooBerry on July 24, 2023.\nTable of Contents Updated to ZooBerry Beta v0.2.2 Changelog: General ZooBerry developments: New Additions Zoo Tycoon 1 Objects Packs Zoo Tycoon 2 Packs Updated to ZooBerry Beta v0.2.2 Changelog: Can now click on an author\u0026rsquo;s name and get a full list of their mods in the ZooBerry database. Can now also get a full list of authors whose files are hosted on ZooBerry along with a list of each of their mods: https://zoo.goosifer.io/author/ Note that this path will eventually change No other way to get there - there will be a button for it soon. More sorting options also coming. Readability improved on some buttons Updated button clarity (i.e. renamed a button from \u0026lsquo;Download\u0026rsquo; to \u0026lsquo;Details\u0026rsquo; because that\u0026rsquo;s what it actually did.) (Thanks for the feedback, @Gymnasiast!) Feel free to track upcoming features on the ZooBerry Trello: https://trello.com/b/X9FjAPnO/zooberry\nGeneral ZooBerry developments: A dedicated domain has been purchased. ZooBerry.org will be its new home soon :) Discussed it with the EMU team and we decided we will be integrating a forum into ZooBerry. Similar to the design centre from long ago, it will be project-centric (and also meant as a platform to support and discuss our team projects: EMU, ZooBerry, \u0026lt;unannounced-project-1\u0026gt;, \u0026lt;unannounced-project-2\u0026gt;.) ;) New Additions 34 additional Northern Skies and ZooMania files have been backed up to ZooBerry on 2024-07-24. Check out what\u0026rsquo;s \u0026rsquo;new\u0026rsquo; below.\nZoo Tycoon 1 Objects AOE2 Viking Ship by RDingFT American Alligator in the Water Statue by RDingFT Diplodocus Statue by RDingFT Emperor Chinese Magnificent Palace by RDingFT Gardens of Time Mini London Clock Tower by RDingFT Guanlong Statue by RDingFT Insect House With Ant and the Hercules Beetle by RDingFT Kaprosuchus Statue by RDingFT Packs Anaconda and Turtle in the Water Statues by RDingFT AOE2 Gold Ore and Rock Ore by RDingFT AOE2 Houses by RDingFT AOE2 New World Pile Walls by RDingFT AOE2 Remains of the Vessels by RDingFT AOE2 World Wonders by RDingFT Brown Bear, Black and White Lion Statues by RDingFT Emperor Chinese Scenery Items by RDingFT Emperor Heavenly Compound Luxury Apt by RDingFT Emperor Watercourse by RDingFT WLP1 Foliage Pack Part 1 by RDingFT WLP1 Foliage Pack Part 2 by RDingFT WLP1 Foliage Pack Part 3 by RDingFT WLP1 Foliage Pack Part 4 by RDingFT WLP1 Foliage Pack Part 5 by RDingFT WLP1 Foliage Pack Part 6 by RDingFT WLP1 Scenery by RDingFT Wolves and Panthera Hunting Statues by RDingFT Zoo Tycoon 2 Tested the following files. If I picked up a general bug, I documented in the file description. Please let me know if I missed any.\nPacks African Safari Pack by Koala Komander Arabia Pack by Kangorilaphant and Plants Coastal Theme Pack by ShenTirag EA Foliage Expansion Pack by ShenTirag Elements Pack by Penguinman and Budgielover101 Europe Pack by Kangorilaphant and Gorgonopsid master Mediterranean Pack by Kangorilaphant and Gorgonopsid master Megafauna Pack by Zooasaurus "
     },
     {
     "href": "https://zoo.goosifer.io/mods/zt2/packs/african-safari-pack/",
@@ -13,7 +13,7 @@
     {
     "href": "https://zoo.goosifer.io/mods/zt2/packs/megafauna-pack/",
     "title": "Megafauna Pack",
-    "body": "Note 07-24-2023: The compatibility is an estimate and may not be accurate. The original instructions that came with this file are long gone. Feel free to give it a spin and see if it works on your version of the game. :) - Goosifer\nIncludes the following:\nInside of Titanus.z2f: Titanus (animal) Phorusrhacos Nest Titanus Gift\nInside of Indricotherium.z2f: Indricothere (animal) Indricothere Gift\nInside of Argentavius.z2f Argentavis ambient\nInside of Andrewsarchus.z2f Andrewsarchus (animal) Andrewsarchus gift\n**Known issues (07-24-2023): **\nThere is a bug in the zoopedia that prevents the Indricothere from showing up as a zoopedia entry or as a purchasable animal. I noticed many named entries in the xml files do not match up which could be causing the problem.\nSame deal with the Andrewsarchus. Titanus seems to work fine though. Unsure about Argentavius.\nCompatibility determination could be innacurate; original post with instructions is long gone.\nGoosifer\n"
+    "body": "Note 07-24-2023: The compatibility is an estimate and may not be accurate. The original instructions that came with this file are long gone. Feel free to give it a spin and see if it works on your version of the game. :) - Goosifer\nIncludes the following:\nInside of Titanus.z2f:\nTitanus (animal) Phorusrhacos Nest Titanus Gift Inside of Indricotherium.z2f:\nIndricothere (animal) Indricothere Gift Inside of Argentavius.z2f\nArgentavis ambient Inside of Andrewsarchus.z2f\nAndrewsarchus (animal) Andrewsarchus gift **Known issues (07-24-2023): **\nThere is a bug in the zoopedia that prevents the Indricothere from showing up as a zoopedia entry or as a purchasable animal. I noticed many named entries in the xml files do not match up which could be causing the problem.\nSame deal with the Andrewsarchus. Titanus seems to work fine though. Unsure about Argentavius.\nCompatibility determination could be innacurate; original post with instructions is long gone.\nGoosifer\n"
     },
     {
     "href": "https://zoo.goosifer.io/mods/zt2/packs/mediterranean-pack/",
@@ -32,7 +32,7 @@
     },
     {
     "href": "https://zoo.goosifer.io/mods/zt2/packs/ea-foliage-expansion-pack/",
-    "title": "Ea Foliage Expansion Pack",
+    "title": "EA Foliage Expansion Pack",
     "body": "Included in this foliage pack are the following plants:\nSacred Lotus Rooibos Norway Spruce Kaki Persimmon Honeybush European Beech Corn Poppy Coontie Common Bluebell Butterfly Bush "
     },
     {
@@ -167,8 +167,8 @@
     },
     {
     "href": "https://zoo.goosifer.io/mods/zt1/objects/aoe2-viking-ship/",
-    "title": "Age of Empires 2 Viking Ship",
-    "body": "Imported from Age of Empires 2. Tile: 3x3, Water placeable, Exhibit placeable(Animals don\u0026rsquo;t feel happy or unhappy)\nUpdated by Fern 24 May 2013 to make it sit on the surface of a tank - update released 27 June 2013.\n"
+    "title": "AOE2 Viking Ship",
+    "body": "Imported from Age of Empires 2.\nTile: 3x3, Water placeable, Exhibit placeable(Animals don\u0026rsquo;t feel happy or unhappy)\nUpdated by Fern 24 May 2013 to make it sit on the surface of a tank - update released 27 June 2013.\n"
     },
     {
     "href": "https://zoo.goosifer.io/mods/zt1/objects/american-alligator-in-the-water-statue/",

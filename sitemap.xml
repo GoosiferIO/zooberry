@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zoo.goosifer.io/title/update-2023-04-24/</loc>
+    <loc>https://zoo.goosifer.io/title/update-july-24-2023/</loc>
     <lastmod>2023-07-24T18:51:37-07:00</lastmod>
   </url><url>
-    <loc>https://zoo.goosifer.io/updates/update-2023-04-24/</loc>
+    <loc>https://zoo.goosifer.io/updates/update-2023-07-24/</loc>
     <lastmod>2023-07-24T18:51:37-07:00</lastmod>
   </url><url>
     <loc>https://zoo.goosifer.io/exp_req/aa/</loc>
@@ -90,6 +90,9 @@
     <lastmod>2023-07-24T18:05:07-07:00</lastmod>
   </url><url>
     <loc>https://zoo.goosifer.io/author/penguinman/</loc>
+    <lastmod>2023-07-24T18:05:07-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/orig_rel_at/zt2-design-centre/</loc>
     <lastmod>2023-07-24T18:05:07-07:00</lastmod>
   </url><url>
     <loc>https://zoo.goosifer.io/exp_req/ea/</loc>
@@ -284,13 +287,13 @@
     <loc>https://zoo.goosifer.io/mods/zt1/objects/diplodocus-statue/</loc>
     <lastmod>2023-07-23T17:53:32-07:00</lastmod>
   </url><url>
-    <loc>https://zoo.goosifer.io/title/age-of-empires-2-viking-ship/</loc>
+    <loc>https://zoo.goosifer.io/exp_req/all-game-versions/</loc>
+    <lastmod>2023-07-23T17:48:52-07:00</lastmod>
+  </url><url>
+    <loc>https://zoo.goosifer.io/title/aoe2-viking-ship/</loc>
     <lastmod>2023-07-23T17:48:52-07:00</lastmod>
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt1/objects/aoe2-viking-ship/</loc>
-    <lastmod>2023-07-23T17:48:52-07:00</lastmod>
-  </url><url>
-    <loc>https://zoo.goosifer.io/exp_req/all-game-versions/</loc>
     <lastmod>2023-07-23T17:48:52-07:00</lastmod>
   </url><url>
     <loc>https://zoo.goosifer.io/title/american-alligator-in-the-water-statue/</loc>
@@ -363,9 +366,6 @@
     <lastmod>2023-07-22T09:04:01-07:00</lastmod>
   </url><url>
     <loc>https://zoo.goosifer.io/mods/zt2/objects/mystery-meat-carcass/</loc>
-    <lastmod>2023-07-22T09:04:01-07:00</lastmod>
-  </url><url>
-    <loc>https://zoo.goosifer.io/orig_rel_at/zt2-design-centre/</loc>
     <lastmod>2023-07-22T09:04:01-07:00</lastmod>
   </url><url>
     <loc>https://zoo.goosifer.io/title/meat-in-a-wooden-trough/</loc>
