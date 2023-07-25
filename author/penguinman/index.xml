@@ -6,7 +6,16 @@
     <description>Recent content in Penguinman on ZooBerry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jul 2023 08:52:35 -0700</lastBuildDate><atom:link href="https://zoo.goosifer.io/author/penguinman/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jul 2023 18:05:07 -0700</lastBuildDate><atom:link href="https://zoo.goosifer.io/author/penguinman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elements Pack</title>
+      <link>https://zoo.goosifer.io/mods/zt2/packs/elements-pack/</link>
+      <pubDate>Mon, 24 Jul 2023 18:05:07 -0700</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/packs/elements-pack/</guid>
+      <description>Summary of the Elements Pack project</description>
+    </item>
+    
     <item>
       <title>Insect Dish</title>
       <link>https://zoo.goosifer.io/mods/zt2/objects/insect-dish/</link>
@@ -50,6 +59,51 @@
       
       <guid>https://zoo.goosifer.io/mods/zt2/packs/binoculars-pack/</guid>
       <description>A pack of four themed binoculars!</description>
+    </item>
+    
+    <item>
+      <title>AA Photo Stand</title>
+      <link>https://zoo.goosifer.io/mods/zt2/objects/aa-photo-stand/</link>
+      <pubDate>Sat, 22 Jul 2023 08:16:07 -0700</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/objects/aa-photo-stand/</guid>
+      <description>This stand contains photos of each of the 20 animals featured in the African Adventures expansion pack.</description>
+    </item>
+    
+    <item>
+      <title>Asian Small Clawed Otter</title>
+      <link>https://zoo.goosifer.io/mods/zt2/animals/asian-small-clawed-otter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/animals/asian-small-clawed-otter/</guid>
+      <description>Summary of the Asian Small Clawed Otter project</description>
+    </item>
+    
+    <item>
+      <title>Fantasy Wolf</title>
+      <link>https://zoo.goosifer.io/mods/zt2/animals/fantasy-wolf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/animals/fantasy-wolf/</guid>
+      <description>Here&amp;rsquo;s a colorful wolf that eats almost anything.</description>
+    </item>
+    
+    <item>
+      <title>Glass Fence</title>
+      <link>https://zoo.goosifer.io/mods/zt2/objects/glass-fence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/objects/glass-fence/</guid>
+      <description>This is the an all glass fence created by Gibbon-Fanatic with help from Penguinman. Enjoy!</description>
+    </item>
+    
+    <item>
+      <title>Indian Rhinoceros I</title>
+      <link>https://zoo.goosifer.io/mods/zt2/animals/indian-rhinoceros-i/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/animals/indian-rhinoceros-i/</guid>
+      <description>An Indian rhino for your zoo.  Recolored from the Javan rhino.</description>
     </item>
     
   </channel>

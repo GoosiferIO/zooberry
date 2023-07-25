@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>South American Trashcan</title>
+      <link>https://zoo.goosifer.io/mods/zt2/objects/south-american-trashcan/</link>
+      <pubDate>Sat, 22 Jul 2023 08:07:39 -0700</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/objects/south-american-trashcan/</guid>
+      <description>We made this trashcan a while ago. We hope that you all enjoy it.</description>
+    </item>
+    
+    <item>
       <title>Mahogany Bench</title>
       <link>https://zoo.goosifer.io/mods/zt2/objects/mahogany-bench/</link>
       <pubDate>Fri, 21 Jul 2023 21:29:59 -0700</pubDate>
@@ -62,12 +71,30 @@
     </item>
     
     <item>
+      <title>Asian Small Clawed Otter</title>
+      <link>https://zoo.goosifer.io/mods/zt2/animals/asian-small-clawed-otter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/animals/asian-small-clawed-otter/</guid>
+      <description>Summary of the Asian Small Clawed Otter project</description>
+    </item>
+    
+    <item>
       <title>Atlantic Sailfish</title>
       <link>https://zoo.goosifer.io/mods/zt2/animals/atlantic-sailfish/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zoo.goosifer.io/mods/zt2/animals/atlantic-sailfish/</guid>
       <description>The Atlantic Sailfish is uber amazing: It&amp;rsquo;s also AWESOME and POINTY! (quote from ShenTirag)</description>
+    </item>
+    
+    <item>
+      <title>Cactus Donation Box</title>
+      <link>https://zoo.goosifer.io/mods/zt2/objects/cactus-donation-box/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/objects/cactus-donation-box/</guid>
+      <description>A donation box with a cactus in it.</description>
     </item>
     
     <item>
@@ -80,12 +107,30 @@
     </item>
     
     <item>
+      <title>Goral</title>
+      <link>https://zoo.goosifer.io/mods/zt2/animals/goral/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/animals/goral/</guid>
+      <description>The Goral is an Asian Antelope</description>
+    </item>
+    
+    <item>
       <title>Large Kelp Forest</title>
       <link>https://zoo.goosifer.io/mods/zt2/foliage/large-kelp-forest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zoo.goosifer.io/mods/zt2/foliage/large-kelp-forest/</guid>
       <description>This is a large version of the kelp forest available in MM2.</description>
+    </item>
+    
+    <item>
+      <title>Mexican Wolf</title>
+      <link>https://zoo.goosifer.io/mods/zt2/animals/mexican-wolf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/animals/mexican-wolf/</guid>
+      <description>The Mexican Wolf is a sub-species of the Gray Wolf.</description>
     </item>
     
   </channel>

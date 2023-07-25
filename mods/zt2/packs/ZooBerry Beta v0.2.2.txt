@@ -1,0 +1,43 @@
+ZooBerry Beta v0.2.2
+- Can now sort mods by author
+ - It's in an early state but will be improved
+- Can now click on an author's name and get a list of all mods they have worked on
+- Readability improved on some buttons
+- Changed the name of the button in a file listing from 'Download' to 'Details' because 'Download' didn't take you straight to the file on this page. (Thanks for the feedback, @Gymnasiast!)
+- Visit the ZooBerry trello track ZooBerry progress
+
+Near-future update:
+- A dedicated domain has been purchased. ZooBerry.org will be its new home :)
+- Discussed it with the EMU team and we decided we will be integrating a forum into ZooBerry. Similar to the design centre from long ago, it will be project-centric (and also meant as a platform to support our team projects: EMU, ZooBerry, <unannounced>, <unannounced>.
+
+
+35 additional mods have been backed up on ZooBerry
+
+Zoo Tycoon 1
+
+Zoo Tycoon 2
+
+Packs
+
+Arabia Pack by kangorilaphant and Plants NEEDS SCREENS
+Mediterranean Pack by kangorilaphant and GM NEEDS SCREENS
+Europe Pack by kangorilaphant and GM NEEDS SCREENS REL DATE
+Coastal Theme Pack by ShenTirag NEEDS POST REL DATE
+Sandstone Theme by ShenTirag NEEDS POST
+Shark Pack 2 by Zooasaurus NEEDS POST NEEDS SCREENS
+Shark Pack 1 by Zoosaurus and K_mac NEEDS POST NEEDS SCREENS
+Megafauna Pack by Zoosaurus NEEDS POST NEEDS SCREENS
+Tang Pack by Unknown NEEDS AUTHOR NEEDS POST
+Reskin Pack 1 by Koala Komander NEEDS POST NEEDS SCREENS
+Aboriginal Australian Pack_bySheltiefan NEEDS SCREENS
+Elements Pack by Penguinman and Budgielover101
+African Safari Pack by Koala Komander
+Shen's Fences Pack by ShenTirag
+EA Foliage Expansion Pack
+
+
+name: Sheltiefan
+exp: ZT2 
+
+
+Note: The original instructions for this file are no longer available. The compatible expansion may be inaccurate. If you think we should make a correction, please 'Report a Bug' below.

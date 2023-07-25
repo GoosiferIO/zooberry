@@ -79,5 +79,23 @@
       <description>In this pack, you will find a Royal Trascan, Marble Trashcan, and a Wooden Trashcan.</description>
     </item>
     
+    <item>
+      <title>Cactus Donation Box</title>
+      <link>https://zoo.goosifer.io/mods/zt2/objects/cactus-donation-box/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/objects/cactus-donation-box/</guid>
+      <description>A donation box with a cactus in it.</description>
+    </item>
+    
+    <item>
+      <title>European Pack I</title>
+      <link>https://zoo.goosifer.io/mods/zt2/packs/european-pack-i/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/packs/european-pack-i/</guid>
+      <description>Each animal has a variety of variants!</description>
+    </item>
+    
   </channel>
 </rss>

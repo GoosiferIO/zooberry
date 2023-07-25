@@ -5,7 +5,17 @@
     <link>https://zoo.goosifer.io/exp_req/es-aa/</link>
     <description>Recent content in ES, AA on ZooBerry</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://zoo.goosifer.io/exp_req/es-aa/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jul 2023 17:43:25 -0700</lastBuildDate><atom:link href="https://zoo.goosifer.io/exp_req/es-aa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arabia Pack</title>
+      <link>https://zoo.goosifer.io/mods/zt2/packs/arabia-pack/</link>
+      <pubDate>Mon, 24 Jul 2023 17:43:25 -0700</pubDate>
+      
+      <guid>https://zoo.goosifer.io/mods/zt2/packs/arabia-pack/</guid>
+      <description>A Pack containing four Arabian animals and Plants.</description>
+    </item>
+    
     <item>
       <title>Goral</title>
       <link>https://zoo.goosifer.io/mods/zt2/animals/goral/</link>

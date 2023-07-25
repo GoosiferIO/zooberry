@@ -1,6 +1,51 @@
 {
     "results": [
     {
+    "href": "https://zoo.goosifer.io/updates/update-2023-04-24/",
+    "title": "Update 2023 04 24",
+    "body": ""
+    },
+    {
+    "href": "https://zoo.goosifer.io/mods/zt2/packs/african-safari-pack/",
+    "title": "African Safari Pack",
+    "body": "Note 07-24-2023: Compatibility might be inaccurate, and it\u0026rsquo;s also possible it works fine on other versions. Give it a try! - Goosifer\nBlack-Backed Jackal Zoopedia entries by Burnt_Gecko.\nIncluded:\nAnimals\nBlack-Backed Jackal Spotted Hyena West African Dwarf Crocodile Banded Mongoose Gifts\nBlack-Backed Jackal Toy Spotted Hyena Toy West African Dwarf Crocodile Hat "
+    },
+    {
+    "href": "https://zoo.goosifer.io/mods/zt2/packs/megafauna-pack/",
+    "title": "Megafauna Pack",
+    "body": "Note 07-24-2023: The compatibility is an estimate and may not be accurate. The original instructions that came with this file are long gone. Feel free to give it a spin and see if it works on your version of the game. :) - Goosifer\nIncludes the following:\nInside of Titanus.z2f: Titanus (animal) Phorusrhacos Nest Titanus Gift\nInside of Indricotherium.z2f: Indricothere (animal) Indricothere Gift\nInside of Argentavius.z2f Argentavis ambient\nInside of Andrewsarchus.z2f Andrewsarchus (animal) Andrewsarchus gift\n**Known issues (07-24-2023): **\nThere is a bug in the zoopedia that prevents the Indricothere from showing up as a zoopedia entry or as a purchasable animal. I noticed many named entries in the xml files do not match up which could be causing the problem.\nSame deal with the Andrewsarchus. Titanus seems to work fine though. Unsure about Argentavius.\nCompatibility determination could be innacurate; original post with instructions is long gone.\nGoosifer\n"
+    },
+    {
+    "href": "https://zoo.goosifer.io/mods/zt2/packs/mediterranean-pack/",
+    "title": "Mediterranean Pack",
+    "body": "Known issues: 07-24-2023: On my test I had trouble locating the Alpine Marmot in the zoopedia or the adopt menu. Could be an xml coding error. Otherwise, the rest of the pack seems to work as described. Goosifer\nThe Mediterranean Pack contains Four animals and Four Plant from the Mediterranean Region, both Aquatic and Terrestrial.\nZt2 + ES and MM2 requiered. (EA for Black pine, but not esential)\nIt Includes:\nAlpine Marmot Spanish Ibex Iberian Wolf Dalmatian Pelican\nAswell as Four foliage items, The European Black Pine, Cork Oak, Spanish Lavender and Allepo Pine.\nTo Install place the z2f file in c:\\Program Files\\Microsoft Gmaes\\Zoo Tycoon 2\n"
+    },
+    {
+    "href": "https://zoo.goosifer.io/mods/zt2/packs/europe-pack/",
+    "title": "Europe Pack",
+    "body": "A Pack containing four European animals and Plants.\nZt2 + ES and AA requiered.\nThe Pacck Contains:\nEuropean Bison Western Capercaillie Red Deer Wild Boar Aswell as an English Oak, Toadstool, Norway Spruce and European Beech.\nTo Install place the z2f file in c:\\Program Files\\Microsoft Gmaes\\Zoo Tycoon 2\n"
+    },
+    {
+    "href": "https://zoo.goosifer.io/mods/zt2/packs/elements-pack/",
+    "title": "Elements Pack",
+    "body": "Note 07-24-2023: The compatability above may be incaccurate; the original instructions for this file are long gone. Feel free to give it a spin and see if it works in your version! - Goosifer\nThis is a scenery pack from the creative minds of Penguinman and Budgielover101. Bring a fantastical element to your zoo decorations.\nIncluded in this pack:\nAir Orb Blood Fountain Dark Arch Light Arch Earch Bench Electricity Binoculars Fire Fountain Flora Box (donation box) Death Lamp Metal Path Poison Pool Shadow "
+    },
+    {
+    "href": "https://zoo.goosifer.io/mods/zt2/packs/ea-foliage-expansion-pack/",
+    "title": "Ea Foliage Expansion Pack",
+    "body": "Included in this foliage pack are the following plants:\nSacred Lotus Rooibos Norway Spruce Kaki Persimmon Honeybush European Beech Corn Poppy Coontie Common Bluebell Butterfly Bush "
+    },
+    {
+    "href": "https://zoo.goosifer.io/mods/zt2/packs/coastal-theme-pack/",
+    "title": "Coastal Theme Pack",
+    "body": "Note 07-24-2023: Compatability is an estimate and may not be accurate. The original instructions for this file are lost. Feel free to try it if you don\u0026rsquo;t have AA. - Goosifer\nThis pack includes:\nCoastal Fence Coastal Viewing Canopy Bamboo Reed Path Low Coastal Fence Coastal Theme Boardwalk Path Canvas Bench "
+    },
+    {
+    "href": "https://zoo.goosifer.io/mods/zt2/packs/arabia-pack/",
+    "title": "Arabia Pack",
+    "body": "A Pack containing four Arabian animals and Plants.\nZt2 + ES and AA requiered.\nThe Pack Contains:\nLammergeier Syrian Brown Bear Arabian Oryx Persian Leopard. The Foliage is the Syrian Juniper, Weeping Pear, Ghaf Tree and Jasmine Flower.\nDownload the pack\nTo Install place the z2f file in c:\\Program Files\\Microsoft Gmaes\\Zoo Tycoon 2\n"
+    },
+    {
     "href": "https://zoo.goosifer.io/mods/zt1/packs/wolves-and-panthera-hunting-statues/",
     "title": "Wolves and Panthera Hunting Statues",
     "body": "Contains:\n1.Gray Wolves hunting Bison Statue 2.African Lions hunting African Buffalo Statue 3.African Leopard hunting Wildebeest Statue 4.Bengal Tiger hunting Deer Statue 5.Siberian Tiger hunting Wild Boar Statue 6.Jaguar hunting Brazilian Tapir Statue\nDescription : Water placeable, Exhibit placeable(Animals don\u0026rsquo;t feel happy or unhappy) Tile:Wolves:3x3 Lions:3x3 Leopard:2x2 Bengal Tiger:2x2 Siberian Tiger:2x2 Jaguar:2x2\n"
