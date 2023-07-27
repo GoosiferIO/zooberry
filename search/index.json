@@ -1,6 +1,11 @@
 {
     "results": [
     {
+    "href": "https://zoo.goosifer.io/updates/updated-2023-07-27/",
+    "title": "Updated 2023 07 27",
+    "body": "So far:\nFixed formatting issues on all of RDingFT files. Text with lists were displaying as a single line without breaks. "
+    },
+    {
     "href": "https://zoo.goosifer.io/updates/update-2023-07-24/",
     "title": "Update July 24, 2023",
     "body": "Update log for ZooBerry on July 24, 2023.\nTable of Contents Updated to ZooBerry Beta v0.2.2 Changelog: General ZooBerry developments: New Additions Zoo Tycoon 1 Objects Packs Zoo Tycoon 2 Packs Updated to ZooBerry Beta v0.2.2 Changelog: Can now click on an author\u0026rsquo;s name and get a full list of their mods in the ZooBerry database. Can now also get a full list of authors whose files are hosted on ZooBerry along with a list of each of their mods: https://zoo.goosifer.io/author/ Note that this path will eventually change No other way to get there - there will be a button for it soon. More sorting options also coming. Readability improved on some buttons Updated button clarity (i.e. renamed a button from \u0026lsquo;Download\u0026rsquo; to \u0026lsquo;Details\u0026rsquo; because that\u0026rsquo;s what it actually did.) (Thanks for the feedback, @Gymnasiast!) Feel free to track upcoming features on the ZooBerry Trello: https://trello.com/b/X9FjAPnO/zooberry\nGeneral ZooBerry developments: A dedicated domain has been purchased. ZooBerry.org will be its new home soon :) Discussed it with the EMU team and we decided we will be integrating a forum into ZooBerry. Similar to the design centre from long ago, it will be project-centric (and also meant as a platform to support and discuss our team projects: EMU, ZooBerry, \u0026lt;unannounced-project-1\u0026gt;, \u0026lt;unannounced-project-2\u0026gt;.) ;) New Additions 34 additional Northern Skies and ZooMania files have been backed up to ZooBerry on 2024-07-24. Check out what\u0026rsquo;s \u0026rsquo;new\u0026rsquo; below.\nZoo Tycoon 1 Objects AOE2 Viking Ship by RDingFT American Alligator in the Water Statue by RDingFT Diplodocus Statue by RDingFT Emperor Chinese Magnificent Palace by RDingFT Gardens of Time Mini London Clock Tower by RDingFT Guanlong Statue by RDingFT Insect House With Ant and the Hercules Beetle by RDingFT Kaprosuchus Statue by RDingFT Packs Anaconda and Turtle in the Water Statues by RDingFT AOE2 Gold Ore and Rock Ore by RDingFT AOE2 Houses by RDingFT AOE2 New World Pile Walls by RDingFT AOE2 Remains of the Vessels by RDingFT AOE2 World Wonders by RDingFT Brown Bear, Black and White Lion Statues by RDingFT Emperor Chinese Scenery Items by RDingFT Emperor Heavenly Compound Luxury Apt by RDingFT Emperor Watercourse by RDingFT WLP1 Foliage Pack Part 1 by RDingFT WLP1 Foliage Pack Part 2 by RDingFT WLP1 Foliage Pack Part 3 by RDingFT WLP1 Foliage Pack Part 4 by RDingFT WLP1 Foliage Pack Part 5 by RDingFT WLP1 Foliage Pack Part 6 by RDingFT WLP1 Scenery by RDingFT Wolves and Panthera Hunting Statues by RDingFT Zoo Tycoon 2 Tested the following files. If I picked up a general bug, I documented in the file description. Please let me know if I missed any.\nPacks African Safari Pack by Koala Komander Arabia Pack by Kangorilaphant and Plants Coastal Theme Pack by ShenTirag EA Foliage Expansion Pack by ShenTirag Elements Pack by Penguinman and Budgielover101 Europe Pack by Kangorilaphant and Gorgonopsid master Mediterranean Pack by Kangorilaphant and Gorgonopsid master Megafauna Pack by Zooasaurus "
@@ -13,17 +18,17 @@
     {
     "href": "https://zoo.goosifer.io/mods/zt2/packs/megafauna-pack/",
     "title": "Megafauna Pack",
-    "body": "Note 07-24-2023: The compatibility is an estimate and may not be accurate. The original instructions that came with this file are long gone. Feel free to give it a spin and see if it works on your version of the game. :) - Goosifer\nIncludes the following:\nInside of Titanus.z2f:\nTitanus (animal) Phorusrhacos Nest Titanus Gift Inside of Indricotherium.z2f:\nIndricothere (animal) Indricothere Gift Inside of Argentavius.z2f\nArgentavis ambient Inside of Andrewsarchus.z2f\nAndrewsarchus (animal) Andrewsarchus gift **Known issues (07-24-2023): **\nThere is a bug in the zoopedia that prevents the Indricothere from showing up as a zoopedia entry or as a purchasable animal. I noticed many named entries in the xml files do not match up which could be causing the problem.\nSame deal with the Andrewsarchus. Titanus seems to work fine though. Unsure about Argentavius.\nCompatibility determination could be innacurate; original post with instructions is long gone.\nGoosifer\n"
+    "body": "Note 07-24-2023: The compatibility is an estimate and may not be accurate. The original instructions that came with this file are long gone. Feel free to give it a spin and see if it works on your version of the game. :) - Goosifer\nIncludes the following:\nInside of Titanus.z2f:\nTitanus (animal) Phorusrhacos Nest Titanus Gift Inside of Indricotherium.z2f:\nIndricothere (animal) Indricothere Gift Inside of Argentavius.z2f\nArgentavis ambient Inside of Andrewsarchus.z2f\nAndrewsarchus (animal) Andrewsarchus gift **Known issues (07-24-2023): **\nThere is a bug in the zoopedia that prevents the Indricothere from showing up as a zoopedia entry or as a purchasable animal. I noticed many named entries in the xml files do not match up which could be causing the problem. Same deal with the Andrewsarchus. Titanus seems to work fine though. Unsure about Argentavius. Compatibility determination could be innacurate; original post with instructions is long gone. - Goosifer\n"
     },
     {
     "href": "https://zoo.goosifer.io/mods/zt2/packs/mediterranean-pack/",
     "title": "Mediterranean Pack",
-    "body": "Known issues: 07-24-2023: On my test I had trouble locating the Alpine Marmot in the zoopedia or the adopt menu. Could be an xml coding error. Otherwise, the rest of the pack seems to work as described. Goosifer\nThe Mediterranean Pack contains Four animals and Four Plant from the Mediterranean Region, both Aquatic and Terrestrial.\nZt2 + ES and MM2 requiered. (EA for Black pine, but not esential)\nIt Includes:\nAlpine Marmot Spanish Ibex Iberian Wolf Dalmatian Pelican\nAswell as Four foliage items, The European Black Pine, Cork Oak, Spanish Lavender and Allepo Pine.\nTo Install place the z2f file in c:\\Program Files\\Microsoft Gmaes\\Zoo Tycoon 2\n"
+    "body": "Known issues: 07-24-2023: On my test I had trouble locating the Alpine Marmot in the zoopedia or the adopt menu. Could be an xml coding error. Otherwise, the rest of the pack seems to work as described. Goosifer\nThe Mediterranean Pack contains Four animals and Four Plant from the Mediterranean Region, both Aquatic and Terrestrial.\nZt2 + ES and MM2 requiered. (EA for Black pine, but not esential)\nIt Includes:\nAlpine Marmot Spanish Ibex Iberian Wolf Dalmatian Pelican Aswell as Four foliage items, The European Black Pine, Cork Oak, Spanish Lavender and Allepo Pine.\nTo Install place the z2f file in c:\\Program Files\\Microsoft Games\\Zoo Tycoon 2\n"
     },
     {
     "href": "https://zoo.goosifer.io/mods/zt2/packs/europe-pack/",
     "title": "Europe Pack",
-    "body": "A Pack containing four European animals and Plants.\nZt2 + ES and AA requiered.\nThe Pacck Contains:\nEuropean Bison Western Capercaillie Red Deer Wild Boar Aswell as an English Oak, Toadstool, Norway Spruce and European Beech.\nTo Install place the z2f file in c:\\Program Files\\Microsoft Gmaes\\Zoo Tycoon 2\n"
+    "body": "A Pack containing four European animals and Plants.\nZt2 + ES and AA requiered.\nThe Pacck Contains:\nEuropean Bison Western Capercaillie Red Deer Wild Boar Aswell as an English Oak, Toadstool, Norway Spruce and European Beech.\nTo Install place the z2f file in c:\\Program Files\\Microsoft Games\\Zoo Tycoon 2\n"
     },
     {
     "href": "https://zoo.goosifer.io/mods/zt2/packs/elements-pack/",
@@ -43,7 +48,7 @@
     {
     "href": "https://zoo.goosifer.io/mods/zt2/packs/arabia-pack/",
     "title": "Arabia Pack",
-    "body": "A Pack containing four Arabian animals and Plants.\nZt2 + ES and AA requiered.\nThe Pack Contains:\nLammergeier Syrian Brown Bear Arabian Oryx Persian Leopard. The Foliage is the Syrian Juniper, Weeping Pear, Ghaf Tree and Jasmine Flower.\nDownload the pack\nTo Install place the z2f file in c:\\Program Files\\Microsoft Gmaes\\Zoo Tycoon 2\n"
+    "body": "A Pack containing four Arabian animals and Plants.\nZt2 + ES and AA requiered.\nThe Pack Contains:\nLammergeier Syrian Brown Bear Arabian Oryx Persian Leopard. The Foliage is the Syrian Juniper, Weeping Pear, Ghaf Tree and Jasmine Flower.\nDownload the pack\nTo Install place the z2f file in c:\\Program Files\\Microsoft Games\\Zoo Tycoon 2\n"
     },
     {
     "href": "https://zoo.goosifer.io/mods/zt1/packs/wolves-and-panthera-hunting-statues/",
@@ -53,37 +58,37 @@
     {
     "href": "https://zoo.goosifer.io/mods/zt1/packs/wlp1-scenery/",
     "title": "WLP1 Scenery",
-    "body": "Scenery, UCS File fixed, Water placeable, Exhibit placeable(Animals don\u0026rsquo;t feel happy or unhappy) If you have the old files, delete them and download new files thank you~ :) If you want them to be shelters, you can try to look for them at \u0026ldquo;ZooTek Phoenix\u0026rdquo; site :) Thanks to hawkmistress for the help\n"
+    "body": "Scenery, UCS File fixed, Water placeable, Exhibit placeable(Animals don\u0026rsquo;t feel happy or unhappy)\nIf you have the old files, delete them and download new files thank you~ :)\nIf you want them to be shelters, you can try to look for them at \u0026ldquo;ZooTek Phoenix\u0026rdquo; site :)\nThanks to hawkmistress for the help\n"
     },
     {
     "href": "https://zoo.goosifer.io/mods/zt1/packs/wlp1-foliage-pack-part-6/",
     "title": "WLP1 Foliage Pack Part 6",
-    "body": "Imported from Wildlife Park 1.\n1.Fern 2.Bottle Palm 3.Croton 4.Agave 5.Organ Pipe Cactus 6.Reeds 7.Heather 8.Flower Bed-Cornsilk\nDescription : I set these habitat 9411(many) to let the player place the foliage free and all the animals will be happy with these, you still can see the habitat of the foliage from the background of its icon, Water placeable\n"
+    "body": "Imported from Wildlife Park 1.\nFern Bottle Palm Croton Agave Organ Pipe Cactus Reeds Heather Flower Bed-Cornsilk Description : I set these habitat 9411(many) to let the player place the foliage free and all the animals will be happy with these, you still can see the habitat of the foliage from the background of its icon, Water placeable\n"
     },
     {
     "href": "https://zoo.goosifer.io/mods/zt1/packs/wlp1-foliage-pack-part-5/",
     "title": "WLP1 Foliage Pack Part 5",
-    "body": "Imported from Wildlife Park 1.\n1.Cardones 2.Juniper 3.Rhododendron 4.Box Tree 5.Silver Draw Cypress 6.Thuja 7.Laurel 8.Rowan\nDescription : I set these habitat 9411(many) to let the player place the foliage free and all the animals will be happy with these, you still can see the habitat of the foliage from the background of its icon, Water placeable\n"
+    "body": "Imported from Wildlife Park 1.\nCardones Juniper Rhododendron Box Tree Silver Draw Cypress Thuja Laurel Rowan Description : I set these habitat 9411(many) to let the player place the foliage free and all the animals will be happy with these, you still can see the habitat of the foliage from the background of its icon, Water placeable\n"
     },
     {
     "href": "https://zoo.goosifer.io/mods/zt1/packs/wlp1-foliage-pack-part-4/",
     "title": "WLP1 Foliage Pack Part 4",
-    "body": "Imported from Wildlife Park 1.\n1.Bamboo 2.Screw Pine 3.Coconut Palm 4.Mangrove 5.Rain Tree 6.Fire Tree 7.Large fruited Cassia 8.Saguaro Cactus\nDescription : I set these habitat 9411(many) to let the player place the foliage free and all the animals will be happy with these, you still can see the habitat of the foliage from the background of its icon, Water placeable\n"
+    "body": "Imported from Wildlife Park 1.\nBamboo Screw Pine Coconut Palm Mangrove Rain Tree Fire Tree Large fruited Cassia Saguaro Cactus Description : I set these habitat 9411(many) to let the player place the foliage free and all the animals will be happy with these, you still can see the habitat of the foliage from the background of its icon, Water placeable\n"
     },
     {
     "href": "https://zoo.goosifer.io/mods/zt1/packs/wlp1-foliage-pack-part-3/",
     "title": "WLP1 Foliage Pack Part 3",
-    "body": "Imported from Wildlife Park 1.\n1.Traveler\u0026rsquo;s Palm 2.Chinese Windmill Palm 3.Banana Palm 4.Date Palm 5.Yucca 6.Eucalyptus 7.Almond Tree 8.Fig Tree\nI set these habitat 9411(many) to let the player place the foliage free and all the animals will be happy with these, you still can see the habitat of the foliage from the background of its icon, Water placeable\n"
+    "body": "Imported from Wildlife Park 1.\nTraveler\u0026rsquo;s Palm Chinese Windmill Palm Banana Palm Date Palm Yucca Eucalyptus Almond Tree Fig Tree I set these habitat 9411(many) to let the player place the foliage free and all the animals will be happy with these, you still can see the habitat of the foliage from the background of its icon, Water placeable\n"
     },
     {
     "href": "https://zoo.goosifer.io/mods/zt1/packs/wlp1-foliage-pack-part-2/",
     "title": "WLP1 Foliage Pack Part 2",
-    "body": "Imported from Wildlife Park 1.\nContains:\n1.Traveler\u0026rsquo;s Palm 2.Chinese Windmill Palm 3.Banana Palm 4.Date Palm 5.Yucca 6.Eucalyptus 7.Almond Tree 8.Fig Tree\n"
+    "body": "Imported from Wildlife Park 1.\nContains:\nTraveler\u0026rsquo;s Palm Chinese Windmill Palm Banana Palm Date Palm Yucca Eucalyptus Almond Tree Fig Tree "
     },
     {
     "href": "https://zoo.goosifer.io/mods/zt1/packs/wlp1-foliage-pack-part-1/",
     "title": "WLP1 Foliage Pack Part 1",
-    "body": "Imported from Wildlife Park 1.\n1.Poplar 2.Oak 3.Willow 4.Birch 5.Small Pine 6.High Pine 7.Large Pine 8.Sequoia\nI set these habitat 9411(many) to let the player place the foliage free and all the animals will be happy with these, you still can see the habitat of the foliage from the background of its icon, Water placeable\nUpdated: 10 May 2013 to remove unnecessary texts files (Fern).\n"
+    "body": "Imported from Wildlife Park 1.\nPoplar Oak Willow Birch Small Pine High Pine Large Pine Sequoia I set these habitat 9411(many) to let the player place the foliage free and all the animals will be happy with these, you still can see the habitat of the foliage from the background of its icon, Water placeable\nUpdated: 10 May 2013 to remove unnecessary texts files (Fern).\n"
     },
     {
     "href": "https://zoo.goosifer.io/mods/zt1/packs/pile-walls/",
@@ -93,7 +98,7 @@
     {
     "href": "https://zoo.goosifer.io/mods/zt1/packs/emperor-watercourse/",
     "title": "Emperor Watercourse",
-    "body": "A pack of components that let you build water channels.\nDescription : Tile:3x3, Water placeable, Exhibit placeable(Animals don\u0026rsquo;t feel happy or unhappy)\nAnd there are: Watercourse-Small: Watercourse-Small-Under the Brige Watercourse-Small-Corner Watercourse-Small-Middle Water\nWatercourse-Big: 1.Watercourse-Big-Exterior Angle 2.Watercourse-Big-Interior Angle 3.Watercourse-Big-UnderBrige-Wideside 4.Watercourse-Big-UnderBrige-Middle 5.Watercourse-Big-UnderBrige-Narrowside 6.Watercourse-Big-UnderBrige-MiddlePillar 7.Watercourse-Big-Wideside 8.Watercourse-Big-MiddleWater 9.Watercourse-Big-Narrowside\n"
+    "body": "A pack of components that let you build water channels.\nDescription : Tile:3x3, Water placeable, Exhibit placeable(Animals don\u0026rsquo;t feel happy or unhappy)\nAnd there are:\nWatercourse-Small: Watercourse-Small-Under the Brige Watercourse-Small-Corner Watercourse-Small-Middle Water Watercourse-Big:\nWatercourse-Big-Exterior Angle Watercourse-Big-Interior Angle Watercourse-Big-UnderBrige-Wideside Watercourse-Big-UnderBrige-Middle Watercourse-Big-UnderBrige-Narrowside Watercourse-Big-UnderBrige-MiddlePillar Watercourse-Big-Wideside Watercourse-Big-MiddleWater Watercourse-Big-Narrowside "
     },
     {
     "href": "https://zoo.goosifer.io/mods/zt1/packs/emperor-heavenly-compound-luxury-apt/",
@@ -108,12 +113,12 @@
     {
     "href": "https://zoo.goosifer.io/mods/zt1/packs/brown-bear-black-and-white-lion-statues/",
     "title": "Brown Bear, Black and White Lion Statues",
-    "body": "Simple objects~ :D 1.Brown bear statue x4 2.Black \u0026amp; White lion statue x2\n"
+    "body": "Simple objects~ :D\nBrown bear statue x4 Black \u0026amp; White lion statue x2 "
     },
     {
     "href": "https://zoo.goosifer.io/mods/zt1/packs/aoe2-world-wonders/",
     "title": "AOE2 World Wonders",
-    "body": "Part1\n1.I don\u0026rsquo;t know the name XD (If you know please tell me thank you~ :) ) 2.Britons - Aachen Cathedral 3.Chinese-Temple of Heaven 4.Japanese-Todai-ji Temple 5.Teutons-Maria Laach Abbey 6.Turks-Suleymaniye Mosque\nPart2: 1.Spanish-Torre del Oro 2.Saracens-Great Mosque of Samarra 3.Koreans-Hwangnyong Temple 4.Huns-Arch of Augustus 5.Mongols-Genghis Khan Tent 6.Vikings-Borgund Stave Church\nPart3: 1.Mayans-Temple of the Great Jaguar 2.Aztecs-Great Pyramid of Tenochtitlan 3.Byzantines-Hagia Sophia 4.Franks-Catherdral of Chartres 5.Celts-Rock of Cashel 6.Goths-Mausoleum of Theodoric 7.Persians-Taq-i Kisra Palace\n"
+    "body": "Part1\nI don\u0026rsquo;t know the name XD (If you know please tell me thank you~ :) ) Britons - Aachen Cathedral Chinese-Temple of Heaven Japanese-Todai-ji Temple Teutons-Maria Laach Abbey Turks-Suleymaniye Mosque Part 2:\nSpanish-Torre del Oro Saracens-Great Mosque of Samarra Koreans-Hwangnyong Temple Huns-Arch of Augustus Mongols-Genghis Khan Tent Vikings-Borgund Stave Church Part 3:\nMayans-Temple of the Great Jaguar Aztecs-Great Pyramid of Tenochtitlan Byzantines-Hagia Sophia Franks-Catherdral of Chartres Celts-Rock of Cashel Goths-Mausoleum of Theodoric Persians-Taq-i Kisra Palace "
     },
     {
     "href": "https://zoo.goosifer.io/mods/zt1/packs/aoe2-remains-of-the-vessels/",
@@ -143,7 +148,7 @@
     {
     "href": "https://zoo.goosifer.io/mods/zt1/objects/kaprosuchus-statue/",
     "title": "Kaprosuchus Statue",
-    "body": "Kaprosuchus is an extinct genus of mahajangasuchid crocodyliform. Tile:1x2, Water placeable, Exhibit placeable(Animals don\u0026rsquo;t feel happy or unhappy)\n"
+    "body": "Kaprosuchus is an extinct genus of mahajangasuchid crocodyliform.\nTile:1x2, Water placeable, Exhibit placeable(Animals don\u0026rsquo;t feel happy or unhappy)\n"
     },
     {
     "href": "https://zoo.goosifer.io/mods/zt1/objects/insect-house-with-ant-and-the-hercules-beetle/",
