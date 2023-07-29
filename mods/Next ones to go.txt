@@ -10,6 +10,17 @@ Screens for:
 Ambients
 Tang Pack
 
+** OBJECTS
+
+* IN TEMP (needs screens)
+
+Shen's Path Pack by ShenTirag (check that it hasn't been uploaded)
+Shen's Fences Pack by ShenTirag (check that it hasn't been uploaded)
+Small Gemstone Pack by Budgielover101
+Snow Volcano by Animalover44
+Enlarged Desert Fountain by Animalover44
+
+* COLISEUM
 Atlantis Viewing Area by Otter Lord
 Ibex Arch by badisbadis101
 Ancient Castle by Catc
@@ -17,6 +28,7 @@ Markhor Fountain by King Hoopla
 Alpine Geological Model by Otter Lord
 Alpine Viewing Area by Zooasaurus
 
+** HACKS
 Need screens:
 Compatibility Hack by Eriorguez
 Guest Limit Hack by Penguino
@@ -28,7 +40,7 @@ Missing in game
 Ibex Fountain by Catc
 Round Alpine Fountain by Unknown
 
-Variants (neeeds sorting):
+** VARIANTS (neeeds sorting):
 
 
 
