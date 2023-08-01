@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>American Flamingo on ZooBerry</title>
-    <link>https://zoo.goosifer.io/title/american-flamingo/</link>
+    <link>https://www.zooberry.org/title/american-flamingo/</link>
     <description>Recent content in American Flamingo on ZooBerry</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://zoo.goosifer.io/title/american-flamingo/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.zooberry.org/title/american-flamingo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>American Flamingo</title>
-      <link>https://zoo.goosifer.io/mods/zt2/animals/american-flamingo/</link>
+      <link>https://www.zooberry.org/mods/zt2/animals/american-flamingo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zoo.goosifer.io/mods/zt2/animals/american-flamingo/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/animals/american-flamingo/</guid>
       <description>The American flamingo lives in the Coastal Biome.</description>
     </item>
     

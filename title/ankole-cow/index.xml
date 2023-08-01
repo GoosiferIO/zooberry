@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ankole Cow on ZooBerry</title>
-    <link>https://zoo.goosifer.io/title/ankole-cow/</link>
+    <link>https://www.zooberry.org/title/ankole-cow/</link>
     <description>Recent content in Ankole Cow on ZooBerry</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://zoo.goosifer.io/title/ankole-cow/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.zooberry.org/title/ankole-cow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ankole Cow</title>
-      <link>https://zoo.goosifer.io/mods/zt2/animals/ankole-cow/</link>
+      <link>https://www.zooberry.org/mods/zt2/animals/ankole-cow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zoo.goosifer.io/mods/zt2/animals/ankole-cow/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/animals/ankole-cow/</guid>
       <description>An African Cow for your zoos!</description>
     </item>
     

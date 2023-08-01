@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Variants on ZooBerry</title>
-    <link>https://zoo.goosifer.io/mods/zt2/variants/</link>
+    <link>https://www.zooberry.org/mods/zt2/variants/</link>
     <description>Recent content in Variants on ZooBerry</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://zoo.goosifer.io/mods/zt2/variants/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.zooberry.org/mods/zt2/variants/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mods on ZooBerry</title>
-    <link>https://zoo.goosifer.io/mods/</link>
+    <link>https://www.zooberry.org/mods/</link>
     <description>Recent content in Mods on ZooBerry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jul 2023 18:31:26 -0700</lastBuildDate><atom:link href="https://zoo.goosifer.io/mods/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jul 2023 18:31:26 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/mods/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

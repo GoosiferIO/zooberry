@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>On Licenses on ZooBerry</title>
-    <link>https://zoo.goosifer.io/title/on-licenses/</link>
+    <link>https://www.zooberry.org/title/on-licenses/</link>
     <description>Recent content in On Licenses on ZooBerry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Jul 2023 00:51:18 -0700</lastBuildDate><atom:link href="https://zoo.goosifer.io/title/on-licenses/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Jul 2023 00:51:18 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/title/on-licenses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On Licenses</title>
-      <link>https://zoo.goosifer.io/on-licenses/</link>
+      <link>https://www.zooberry.org/on-licenses/</link>
       <pubDate>Tue, 04 Jul 2023 00:51:18 -0700</pubDate>
       
-      <guid>https://zoo.goosifer.io/on-licenses/</guid>
+      <guid>https://www.zooberry.org/on-licenses/</guid>
       <description>Every file on ZooBerry contains a license field. If no license is disclosed, you can assume the file is a closed work and not available for derivation or redistribution. Many authors do choose to release their work under an open source license, even one as open as public domain. If you&amp;rsquo;re an author and wish to find out more about what license you might pick to submit to ZooBerry, please read ahead.</description>
     </item>
     

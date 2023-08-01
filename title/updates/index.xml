@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Updates on ZooBerry</title>
-    <link>https://zoo.goosifer.io/title/updates/</link>
+    <link>https://www.zooberry.org/title/updates/</link>
     <description>Recent content in Updates on ZooBerry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jul 2023 10:03:26 -0700</lastBuildDate><atom:link href="https://zoo.goosifer.io/title/updates/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Jul 2023 10:03:26 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/title/updates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Updates</title>
-      <link>https://zoo.goosifer.io/updates/</link>
+      <link>https://www.zooberry.org/updates/</link>
       <pubDate>Sat, 22 Jul 2023 10:03:26 -0700</pubDate>
       
-      <guid>https://zoo.goosifer.io/updates/</guid>
+      <guid>https://www.zooberry.org/updates/</guid>
       <description>Hi. Welcome to ZooBerry. We host legacy mods from old Zoo Tycoon modding forums, specifically from Zoomania, Northern Skies, and Artifex. Find out more in the about section.</description>
     </item>
     

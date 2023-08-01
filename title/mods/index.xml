@@ -2,20 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mods on ZooBerry</title>
-    <link>https://zoo.goosifer.io/title/mods/</link>
+    <link>https://www.zooberry.org/title/mods/</link>
     <description>Recent content in Mods on ZooBerry</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://zoo.goosifer.io/title/mods/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.zooberry.org/title/mods/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mods</title>
-      <link>https://zoo.goosifer.io/mods/</link>
+      <link>https://www.zooberry.org/mods/</link>
       <pubDate>Mon, 24 Jul 2023 18:31:26 -0700</pubDate>
       
-      <guid>https://zoo.goosifer.io/mods/</guid>
+      <guid>https://www.zooberry.org/mods/</guid>
       <description>ZooBerry Times
-July 24, 2023
-Hi and welcome. An additional 34 mods have now been backed up to the ZooBerry mod database. Check out what&amp;rsquo;s new here.
-Our team has decided to move forward on a forum integration in the near future which will give us the space we need to share our upcoming Zoo Tycoon mod-related projects&amp;ndash;including ZooBerry! We&amp;rsquo;ll have more news soon and can&amp;rsquo;t wait to see you all there.</description>
+Aug 1, 2023
+Hi and welcome. Mod drops this week are delayed until at least this coming weekend. Please check back then.
+In other news, ZooBerry now has a forum: https://forums.zooberry.org/. Come check it out, register, and join in. :) A few of us are actively working on mods in the personal projects section.
+In addition to the options available in the contact section, please feel welcome to report any bugs you find in the forum.</description>
     </item>
     
   </channel>

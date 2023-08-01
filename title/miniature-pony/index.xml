@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miniature Pony on ZooBerry</title>
-    <link>https://zoo.goosifer.io/title/miniature-pony/</link>
+    <link>https://www.zooberry.org/title/miniature-pony/</link>
     <description>Recent content in Miniature Pony on ZooBerry</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://zoo.goosifer.io/title/miniature-pony/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.zooberry.org/title/miniature-pony/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Miniature Pony</title>
-      <link>https://zoo.goosifer.io/mods/zt2/animals/miniature-pony/</link>
+      <link>https://www.zooberry.org/mods/zt2/animals/miniature-pony/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zoo.goosifer.io/mods/zt2/animals/miniature-pony/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/animals/miniature-pony/</guid>
       <description>A miniature pony! for your zoo! =D</description>
     </item>
     

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Animals on ZooBerry</title>
-    <link>https://zoo.goosifer.io/mods/zt1/animals/</link>
+    <link>https://www.zooberry.org/mods/zt1/animals/</link>
     <description>Recent content in Animals on ZooBerry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jul 2023 09:34:23 -0700</lastBuildDate><atom:link href="https://zoo.goosifer.io/mods/zt1/animals/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Jul 2023 09:34:23 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/mods/zt1/animals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Perentie</title>
-      <link>https://zoo.goosifer.io/mods/zt1/animals/perentie/</link>
+      <link>https://www.zooberry.org/mods/zt1/animals/perentie/</link>
       <pubDate>Sat, 22 Jul 2023 09:34:23 -0700</pubDate>
       
-      <guid>https://zoo.goosifer.io/mods/zt1/animals/perentie/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/animals/perentie/</guid>
       <description>Perenties are fairly large lizards in the monitor family.</description>
     </item>
     
     <item>
       <title>Nile Monitor</title>
-      <link>https://zoo.goosifer.io/mods/zt1/animals/nile-monitor/</link>
+      <link>https://www.zooberry.org/mods/zt1/animals/nile-monitor/</link>
       <pubDate>Sat, 22 Jul 2023 09:31:25 -0700</pubDate>
       
-      <guid>https://zoo.goosifer.io/mods/zt1/animals/nile-monitor/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/animals/nile-monitor/</guid>
       <description>The Nile Monitor is a large, fast, and agile lizard from the rainforest outskirts and grasslands of Africa.</description>
     </item>
     

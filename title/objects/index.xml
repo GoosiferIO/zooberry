@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Objects on ZooBerry</title>
-    <link>https://zoo.goosifer.io/title/objects/</link>
+    <link>https://www.zooberry.org/title/objects/</link>
     <description>Recent content in Objects on ZooBerry</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://zoo.goosifer.io/title/objects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.zooberry.org/title/objects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Objects</title>
-      <link>https://zoo.goosifer.io/mods/zt1/objects/</link>
+      <link>https://www.zooberry.org/mods/zt1/objects/</link>
       <pubDate>Mon, 24 Jul 2023 10:51:30 -0700</pubDate>
       
-      <guid>https://zoo.goosifer.io/mods/zt1/objects/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/objects/</guid>
       <description>Any inanimate objects including buildings, fences, paths, animal enrichment items, etc.</description>
     </item>
     
     <item>
       <title>Objects</title>
-      <link>https://zoo.goosifer.io/mods/zt2/objects/</link>
+      <link>https://www.zooberry.org/mods/zt2/objects/</link>
       <pubDate>Sat, 22 Jul 2023 09:06:32 -0700</pubDate>
       
-      <guid>https://zoo.goosifer.io/mods/zt2/objects/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/objects/</guid>
       <description>Any inanimate objects including buildings, fences, paths, animal enrichment items, etc.</description>
     </item>
     
