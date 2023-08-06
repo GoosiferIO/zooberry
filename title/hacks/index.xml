@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacks on ZooBerry</title>
+    <link>https://www.zooberry.org/title/hacks/</link>
+    <description>Recent content in Hacks on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.zooberry.org/title/hacks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hacks</title>
+      <link>https://www.zooberry.org/mods/zt2/hacks/</link>
+      <pubDate>Sat, 05 Aug 2023 16:04:10 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/hacks/</guid>
+      <description>Become an expert hacker and manipulate your Zoo Tycoon gameplay with these hacks!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,10 +1,45 @@
-ALl of the ones that haven't been renamed in Packs
+Done:
+
+PACKS
+Aboriginal Australian Pack by sheltiefan
 Reskin Pack 1 by Koala Komander
 Sandstone Theme by ShenTirag
-Shark Pack 1 by Zooasaurus and K_Mac
+Shark Pack 1 by Zooasaurus and K_mac
 Shark Pack 2 by Zooasaurus
-Shen's Fence Pack by ShenTirag
-Aboriginal Australian Pack by SheltieFan, badisbadis101, ShenTirag
+Shen's Fence Pack
+Shen's Path Pack by ShenTirag
+Small Gemstone Pack by Budgielover101
+
+OBJECTS
+Snow Volcano by Animalover44
+Enlarged Desert Fountain by Animalover44
+
+COLISEUM
+Atlantis Viewing Area by Otter Lord
+Ibex Arch by badisbadis101
+Forgotten Spire by Catc
+Markhor Fountain by King Hoopla
+Alpine Geological Model by Otter Lord
+Alpine Viewing Area by Zooasaurus
+
+HACKS
+Guest Limit Hack by Penguino
+Compatibility Hack by Eriorguez
+Compatibility Hack Plus EA by Eriorguez
+Pink Elephant Disorder Fix by Dinwrest
+
+RESKINS
+African Elephant Reskin by Koala Komander
+Lion Reskins by Koala Komander
+Jaguar Reskin by Koala Komander
+Dromedary Camel Reskin by Koala Komander
+Giant Panda Reskin by Koala Komander
+Ring-Tailed Lemur Reskin by Koala Komander
+Moose Reskin iby Koala Komander
+Grizzly Bear Reskin by Koala Komander
+Hippo Reskin by Koala Komander
+Mountain Gorilla Reskin by Angilas44
+Nile Crocodile Reskin by Koala Komander
 
 Screens for:
 Ambients
@@ -12,28 +47,11 @@ Tang Pack
 
 ** OBJECTS
 
-* IN TEMP (needs screens)
-
-Shen's Path Pack by ShenTirag (check that it hasn't been uploaded)
-Shen's Fences Pack by ShenTirag (check that it hasn't been uploaded)
-Small Gemstone Pack by Budgielover101
-Snow Volcano by Animalover44
-Enlarged Desert Fountain by Animalover44
-
 * COLISEUM
-Atlantis Viewing Area by Otter Lord
-Ibex Arch by badisbadis101
-Ancient Castle by Catc
-Markhor Fountain by King Hoopla
-Alpine Geological Model by Otter Lord
-Alpine Viewing Area by Zooasaurus
 
 ** HACKS
 Need screens:
-Compatibility Hack by Eriorguez
-Guest Limit Hack by Penguino
 Free Staff Hack by Animalover44
-Pink Elephant Disorder Fix by Dinwrest
 
 
 Missing in game
@@ -44,20 +62,11 @@ Round Alpine Fountain by Unknown
 
 
 
-Reskins (needs screens:
-Mountain Gorilla Reskin by Angilas44
-Nile Crocodile Reskin by Koala Komander
+Reskins (needs screens):
 Reticulated Giraffe Reskin by Koala Komander
 Black Rhino Reskin by Koala Komander
 
 Check maybe pile (and screens):
-Beaver Reskin by Koala Komander
-Dromedary Camel Reskin by Koala Komander
-Giant Panda Reskin by Koala Komander
-Ring-Tailed Lemur Reskin by Koala Komander
-Moose Reskin iby Koala Komander
-Grizzly Bear Reskin by Koala Komander
-Hippo Reskin by Koala Komander
 Bengal Tiger Reskin Koala Komander
 Okapi Reskin by Koala Komander
 Snow Leopard Reskin by Koala Komander

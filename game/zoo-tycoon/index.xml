@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zoo Tycoon on ZooBerry</title>
+    <link>https://www.zooberry.org/game/zoo-tycoon/</link>
+    <description>Recent content in Zoo Tycoon on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Aug 2023 02:15:27 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/game/zoo-tycoon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shens Path Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/packs/shens-path-pack/</link>
+      <pubDate>Sat, 05 Aug 2023 02:15:27 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/packs/shens-path-pack/</guid>
+      <description>Summary of the Shens Path Pack project</description>
+    </item>
+    
+  </channel>
+</rss>
