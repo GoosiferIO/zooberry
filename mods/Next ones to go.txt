@@ -40,6 +40,8 @@ Grizzly Bear Reskin by Koala Komander
 Hippo Reskin by Koala Komander
 Mountain Gorilla Reskin by Angilas44
 Nile Crocodile Reskin by Koala Komander
+Reticulated Giraffe Reskin by Koala Komander
+Black Rhino Reskin by Koala Komander
 
 Screens for:
 Ambients
@@ -63,8 +65,6 @@ Round Alpine Fountain by Unknown
 
 
 Reskins (needs screens):
-Reticulated Giraffe Reskin by Koala Komander
-Black Rhino Reskin by Koala Komander
 
 Check maybe pile (and screens):
 Bengal Tiger Reskin Koala Komander
