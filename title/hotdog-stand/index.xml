@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hotdog Stand on ZooBerry</title>
+    <link>https://www.zooberry.org/title/hotdog-stand/</link>
+    <description>Recent content in Hotdog Stand on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Aug 2023 21:12:56 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/title/hotdog-stand/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hotdog Stand</title>
+      <link>https://www.zooberry.org/mods/zt1/objects/hotdog-stand/</link>
+      <pubDate>Wed, 09 Aug 2023 21:12:56 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt1/objects/hotdog-stand/</guid>
+      <description>Pictured is a hotdog stand, conqueror of all lands before lands were even lands.</description>
+    </item>
+    
+  </channel>
+</rss>

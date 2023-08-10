@@ -2,25 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.zooberry.org/exp_req/all-versions/</loc>
+    <lastmod>2023-08-09T21:12:56-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/exp_req/</loc>
+    <lastmod>2023-08-09T21:12:56-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/game/</loc>
+    <lastmod>2023-08-09T21:12:56-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/author/goosifer/</loc>
+    <lastmod>2023-08-09T21:12:56-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/title/hotdog-stand/</loc>
+    <lastmod>2023-08-09T21:12:56-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt1/objects/hotdog-stand/</loc>
+    <lastmod>2023-08-09T21:12:56-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/</loc>
+    <lastmod>2023-08-09T21:12:56-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt1/objects/</loc>
+    <lastmod>2023-08-09T21:12:56-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/orig_rel_at/</loc>
+    <lastmod>2023-08-09T21:12:56-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/game/zoo-tycoon-1/</loc>
+    <lastmod>2023-08-09T21:12:56-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt1/</loc>
+    <lastmod>2023-08-09T21:12:56-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/orig_rel_at/zooberry/</loc>
+    <lastmod>2023-08-09T21:12:56-07:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/title/black-rhino-reskin/</loc>
     <lastmod>2023-08-05T17:58:53-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/reskins/black-rhino-reskin/</loc>
     <lastmod>2023-08-05T17:58:53-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/exp_req/</loc>
-    <lastmod>2023-08-05T17:58:53-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/game/</loc>
-    <lastmod>2023-08-05T17:58:53-07:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/author/koala-komander/</loc>
-    <lastmod>2023-08-05T17:58:53-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/</loc>
-    <lastmod>2023-08-05T17:58:53-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/orig_rel_at/</loc>
     <lastmod>2023-08-05T17:58:53-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/reskins/</loc>
@@ -353,9 +377,6 @@
     <loc>https://www.zooberry.org/exp_req/zt2-es-aa/</loc>
     <lastmod>2023-07-24T18:13:49-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/exp_req/all-versions/</loc>
-    <lastmod>2023-07-24T18:05:07-07:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/title/elements-pack/</loc>
     <lastmod>2023-07-24T18:05:07-07:00</lastmod>
   </url><url>
@@ -405,12 +426,6 @@
     <lastmod>2023-07-24T12:50:54-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt1/packs/wolves-and-panthera-hunting-statues/</loc>
-    <lastmod>2023-07-24T12:50:54-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/game/zoo-tycoon-1/</loc>
-    <lastmod>2023-07-24T12:50:54-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt1/</loc>
     <lastmod>2023-07-24T12:50:54-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/wlp1-scenery/</loc>
@@ -519,9 +534,6 @@
     <lastmod>2023-07-24T10:51:30-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt1/objects/mini-london-clock-tower/</loc>
-    <lastmod>2023-07-24T10:51:30-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt1/objects/</loc>
     <lastmod>2023-07-24T10:51:30-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/kaprosuchus-statue/</loc>
@@ -741,9 +753,6 @@
     <lastmod>2023-07-21T18:28:54-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/lighthouse/</loc>
-    <lastmod>2023-07-21T18:28:54-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/orig_rel_at/zooberry/</loc>
     <lastmod>2023-07-21T18:28:54-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/large-safari-fountain/</loc>
