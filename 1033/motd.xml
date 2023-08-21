@@ -1,0 +1,16 @@
+<messages>
+    <message id="1" type="html" frequency="10" priority="true">
+        <html>
+            <font name="arial" size="8">
+                Yeetus dabbus
+            </font>
+        </html>
+    </message>
+    <message id="2" type="html" frequency="10" priority="true">
+        <html>
+            <font name="arial" size="8">
+                Yeetus dabbus
+            </font>
+        </html>
+    </message>
+</messages>
