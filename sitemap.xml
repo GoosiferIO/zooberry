@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.zooberry.org/title/aavp-p2/</loc>
+    <lastmod>2023-09-23T12:22:49-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/variants/aavp-p2/</loc>
+    <lastmod>2023-09-23T12:22:49-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/game/</loc>
+    <lastmod>2023-09-23T12:22:49-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/author/jack/</loc>
+    <lastmod>2023-09-23T12:22:49-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/</loc>
+    <lastmod>2023-09-23T12:22:49-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/orig_rel_at/</loc>
+    <lastmod>2023-09-23T12:22:49-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/variants/</loc>
+    <lastmod>2023-09-23T12:22:49-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/game/zoo-tycoon/</loc>
+    <lastmod>2023-09-23T12:22:49-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/</loc>
+    <lastmod>2023-09-23T12:22:49-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/orig_rel_at/zooberry/</loc>
+    <lastmod>2023-09-23T12:22:49-07:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/exp_req/aa/</loc>
     <lastmod>2023-09-22T21:50:18-07:00</lastmod>
   </url><url>
@@ -14,25 +44,10 @@
     <loc>https://www.zooberry.org/exp_req/</loc>
     <lastmod>2023-09-22T21:50:18-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/game/</loc>
-    <lastmod>2023-09-22T21:50:18-07:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/author/koala-komander/</loc>
     <lastmod>2023-09-22T21:50:18-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/</loc>
-    <lastmod>2023-09-22T21:50:18-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/orig_rel_at/</loc>
-    <lastmod>2023-09-22T21:50:18-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/variants/</loc>
-    <lastmod>2023-09-22T21:50:18-07:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/game/zoo-tycoon-2/</loc>
-    <lastmod>2023-09-22T21:50:18-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/</loc>
     <lastmod>2023-09-22T21:50:18-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/orig_rel_at/zoomania/</loc>
@@ -51,12 +66,6 @@
     <lastmod>2023-08-15T02:49:24-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/exp_req/not-applicable/</loc>
-    <lastmod>2023-08-15T02:49:24-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/game/zoo-tycoon/</loc>
-    <lastmod>2023-08-15T02:49:24-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/orig_rel_at/zooberry/</loc>
     <lastmod>2023-08-15T02:49:24-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/exp_req/all-versions/</loc>
