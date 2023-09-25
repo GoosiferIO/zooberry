@@ -6,22 +6,40 @@
     <description>Recent content in Exp_req on ZooBerry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Sep 2023 13:36:15 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/exp_req/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Sep 2023 13:00:23 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/exp_req/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>All expansions</title>
-      <link>https://www.zooberry.org/exp_req/all-expansions/</link>
-      <pubDate>Sun, 24 Sep 2023 13:36:15 -0700</pubDate>
+      <title>EA</title>
+      <link>https://www.zooberry.org/exp_req/ea/</link>
+      <pubDate>Mon, 25 Sep 2023 13:00:23 -0700</pubDate>
       
-      <guid>https://www.zooberry.org/exp_req/all-expansions/</guid>
+      <guid>https://www.zooberry.org/exp_req/ea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MM2</title>
+      <link>https://www.zooberry.org/exp_req/mm2/</link>
+      <pubDate>Mon, 25 Sep 2023 12:43:29 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/exp_req/mm2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AA</title>
       <link>https://www.zooberry.org/exp_req/aa/</link>
-      <pubDate>Sat, 23 Sep 2023 12:22:49 -0700</pubDate>
+      <pubDate>Mon, 25 Sep 2023 12:35:52 -0700</pubDate>
       
       <guid>https://www.zooberry.org/exp_req/aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All expansions</title>
+      <link>https://www.zooberry.org/exp_req/all-expansions/</link>
+      <pubDate>Sun, 24 Sep 2023 13:36:15 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/exp_req/all-expansions/</guid>
       <description></description>
     </item>
     
@@ -62,15 +80,6 @@
     </item>
     
     <item>
-      <title>EA</title>
-      <link>https://www.zooberry.org/exp_req/ea/</link>
-      <pubDate>Sat, 05 Aug 2023 16:04:10 -0700</pubDate>
-      
-      <guid>https://www.zooberry.org/exp_req/ea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ES, AA, MM2, EA</title>
       <link>https://www.zooberry.org/exp_req/es-aa-mm2-ea/</link>
       <pubDate>Sat, 05 Aug 2023 15:54:41 -0700</pubDate>
@@ -85,15 +94,6 @@
       <pubDate>Sat, 05 Aug 2023 15:50:28 -0700</pubDate>
       
       <guid>https://www.zooberry.org/exp_req/es-aa-mm2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MM2</title>
-      <link>https://www.zooberry.org/exp_req/mm2/</link>
-      <pubDate>Thu, 03 Aug 2023 06:26:19 -0700</pubDate>
-      
-      <guid>https://www.zooberry.org/exp_req/mm2/</guid>
       <description></description>
     </item>
     
