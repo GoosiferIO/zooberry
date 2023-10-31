@@ -6,13 +6,40 @@
     <description>Recent content in Exp_req on ZooBerry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Sep 2023 00:30:57 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/exp_req/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Oct 2023 20:39:01 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/exp_req/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EA</title>
       <link>https://www.zooberry.org/exp_req/ea/</link>
-      <pubDate>Thu, 28 Sep 2023 00:30:57 -0700</pubDate>
+      <pubDate>Mon, 30 Oct 2023 20:39:01 -0700</pubDate>
       
       <guid>https://www.zooberry.org/exp_req/ea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All versions</title>
+      <link>https://www.zooberry.org/exp_req/all-versions/</link>
+      <pubDate>Mon, 30 Oct 2023 20:36:32 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/exp_req/all-versions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ES</title>
+      <link>https://www.zooberry.org/exp_req/es/</link>
+      <pubDate>Mon, 30 Oct 2023 20:32:43 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/exp_req/es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AA</title>
+      <link>https://www.zooberry.org/exp_req/aa/</link>
+      <pubDate>Mon, 30 Oct 2023 20:25:05 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/exp_req/aa/</guid>
       <description></description>
     </item>
     
@@ -53,15 +80,6 @@
     </item>
     
     <item>
-      <title>AA</title>
-      <link>https://www.zooberry.org/exp_req/aa/</link>
-      <pubDate>Mon, 25 Sep 2023 12:35:52 -0700</pubDate>
-      
-      <guid>https://www.zooberry.org/exp_req/aa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>All expansions</title>
       <link>https://www.zooberry.org/exp_req/all-expansions/</link>
       <pubDate>Sun, 24 Sep 2023 13:36:15 -0700</pubDate>
@@ -76,15 +94,6 @@
       <pubDate>Tue, 15 Aug 2023 02:49:24 -0700</pubDate>
       
       <guid>https://www.zooberry.org/exp_req/not-applicable/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>All versions</title>
-      <link>https://www.zooberry.org/exp_req/all-versions/</link>
-      <pubDate>Mon, 14 Aug 2023 17:20:20 -0700</pubDate>
-      
-      <guid>https://www.zooberry.org/exp_req/all-versions/</guid>
       <description></description>
     </item>
     
@@ -112,15 +121,6 @@
       <pubDate>Sat, 05 Aug 2023 15:50:28 -0700</pubDate>
       
       <guid>https://www.zooberry.org/exp_req/es-aa-mm2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ES</title>
-      <link>https://www.zooberry.org/exp_req/es/</link>
-      <pubDate>Thu, 03 Aug 2023 05:51:46 -0700</pubDate>
-      
-      <guid>https://www.zooberry.org/exp_req/es/</guid>
       <description></description>
     </item>
     
