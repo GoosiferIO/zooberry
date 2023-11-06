@@ -2,16 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.zooberry.org/exp_req/es-aa-mm2/</loc>
-    <lastmod>2023-11-03T21:34:57-07:00</lastmod>
+    <loc>https://www.zooberry.org/exp_req/es-aa-mm2-ea/</loc>
+    <lastmod>2023-11-06T02:33:26-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/title/european-expeditions/</loc>
+    <lastmod>2023-11-06T02:33:26-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/packs/european-expeditions/</loc>
+    <lastmod>2023-11-06T02:33:26-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/exp_req/</loc>
-    <lastmod>2023-11-03T21:34:57-07:00</lastmod>
+    <lastmod>2023-11-06T02:33:26-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/game/</loc>
-    <lastmod>2023-11-03T21:34:57-07:00</lastmod>
+    <lastmod>2023-11-06T02:33:26-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/author/hendrix/</loc>
+    <lastmod>2023-11-06T02:33:26-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/</loc>
+    <lastmod>2023-11-06T02:33:26-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/orig_rel_at/northern-skies/</loc>
+    <lastmod>2023-11-06T02:33:26-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/orig_rel_at/</loc>
+    <lastmod>2023-11-06T02:33:26-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/packs/</loc>
+    <lastmod>2023-11-06T02:33:26-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/game/zoo-tycoon-2/</loc>
+    <lastmod>2023-11-06T02:33:26-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/</loc>
+    <lastmod>2023-11-06T02:33:26-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/exp_req/es-aa-mm2/</loc>
     <lastmod>2023-11-03T21:34:57-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/author/iben/</loc>
@@ -20,28 +47,10 @@
     <loc>https://www.zooberry.org/author/longisquama/</loc>
     <lastmod>2023-11-03T21:34:57-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/</loc>
-    <lastmod>2023-11-03T21:34:57-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/orig_rel_at/northern-skies/</loc>
-    <lastmod>2023-11-03T21:34:57-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/orig_rel_at/</loc>
-    <lastmod>2023-11-03T21:34:57-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/packs/</loc>
-    <lastmod>2023-11-03T21:34:57-07:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/title/reptilia/</loc>
     <lastmod>2023-11-03T21:34:57-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/packs/reptilia-abc/</loc>
-    <lastmod>2023-11-03T21:34:57-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/game/zoo-tycoon-2/</loc>
-    <lastmod>2023-11-03T21:34:57-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/</loc>
     <lastmod>2023-11-03T21:34:57-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/author/zt-abc/</loc>
@@ -408,9 +417,6 @@
     <lastmod>2023-08-05T15:54:41-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/author/eriorguez/</loc>
-    <lastmod>2023-08-05T15:54:41-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/exp_req/es-aa-mm2-ea/</loc>
     <lastmod>2023-08-05T15:54:41-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/compatibility-hack/</loc>
