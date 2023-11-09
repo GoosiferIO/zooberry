@@ -1,6 +1,11 @@
 {
     "results": [
     {
+    "href": "https://www.zooberry.org/mods/zt2/objects/rhino-statue/",
+    "title": "Rhino Statue",
+    "body": "A rhino statue made by Rhino Designs.\nLanguage(s):\nEnglish Bugs/Considerations:\nNo lang or ui file (no zoopedia). "
+    },
+    {
     "href": "https://www.zooberry.org/mods/zt2/packs/restroom-sign-pack/",
     "title": "Restroom Sign Pack",
     "body": "These are signs to go on fences to symbolise it being a restroom door. No these don\u0026rsquo;t really work however for show and tells they are very handy. Thanks to Z-studio for the models.\nRequires:\nAt least one expansion installed Z-Studio\u0026rsquo;s Museum Building Pack Language(s):\nEnglish Known Bugs/Considerations:\nUses Family Restroom Zoopedia in error. Only scenery does not work like real restroom. At perfect height to go right over Sophie\u0026rsquo;s Scenery Pack 3 fence doors. "

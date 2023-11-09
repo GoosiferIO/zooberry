@@ -2,20 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.zooberry.org/exp_req/all-versions/</loc>
+    <lastmod>2023-11-09T00:17:21-08:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/exp_req/</loc>
-    <lastmod>2023-11-08T23:48:12-08:00</lastmod>
+    <lastmod>2023-11-09T00:17:21-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/game/</loc>
-    <lastmod>2023-11-08T23:48:12-08:00</lastmod>
+    <lastmod>2023-11-09T00:17:21-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/</loc>
-    <lastmod>2023-11-08T23:48:12-08:00</lastmod>
+    <lastmod>2023-11-09T00:17:21-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/orig_rel_at/northern-skies/</loc>
-    <lastmod>2023-11-08T23:48:12-08:00</lastmod>
+    <lastmod>2023-11-09T00:17:21-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/objects/</loc>
+    <lastmod>2023-11-09T00:17:21-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/orig_rel_at/</loc>
-    <lastmod>2023-11-08T23:48:12-08:00</lastmod>
+    <lastmod>2023-11-09T00:17:21-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/author/rhino-designs/</loc>
+    <lastmod>2023-11-09T00:17:21-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/title/rhino-statue/</loc>
+    <lastmod>2023-11-09T00:17:21-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/objects/rhino-statue/</loc>
+    <lastmod>2023-11-09T00:17:21-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/game/zoo-tycoon-2/</loc>
+    <lastmod>2023-11-09T00:17:21-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/</loc>
+    <lastmod>2023-11-09T00:17:21-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/packs/</loc>
     <lastmod>2023-11-08T23:48:12-08:00</lastmod>
@@ -30,12 +51,6 @@
     <lastmod>2023-11-08T23:48:12-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/author/the-crg-problem/</loc>
-    <lastmod>2023-11-08T23:48:12-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/game/zoo-tycoon-2/</loc>
-    <lastmod>2023-11-08T23:48:12-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/</loc>
     <lastmod>2023-11-08T23:48:12-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/exp_req/es-aa-mm2-ea/</loc>
@@ -67,9 +82,6 @@
   </url><url>
     <loc>https://www.zooberry.org/author/zt-abc/</loc>
     <lastmod>2023-11-03T21:34:57-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/exp_req/all-versions/</loc>
-    <lastmod>2023-10-31T19:32:19-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/balloon-animal-stand/</loc>
     <lastmod>2023-10-31T19:32:19-07:00</lastmod>
@@ -450,9 +462,6 @@
     <lastmod>2023-08-05T14:54:11-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/alpine-viewing-area/</loc>
-    <lastmod>2023-08-05T14:54:11-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/objects/</loc>
     <lastmod>2023-08-05T14:54:11-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/author/zooasaurus/</loc>
