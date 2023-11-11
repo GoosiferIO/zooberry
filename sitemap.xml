@@ -26,6 +26,9 @@
     <loc>https://www.zooberry.org/author/rhino-designs/</loc>
     <lastmod>2023-11-10T03:29:25-08:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/title/</loc>
+    <lastmod>2023-11-10T03:29:25-08:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/title/white-salt-fence/</loc>
     <lastmod>2023-11-10T03:29:25-08:00</lastmod>
   </url><url>
@@ -1109,7 +1112,10 @@
     <loc>https://www.zooberry.org/disclaimer/</loc>
     <lastmod>2023-07-04T00:51:18-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/latest-mods/</loc>
+    <loc>https://www.zooberry.org/title/latest-mods/</loc>
+    <lastmod>2023-07-04T00:51:18-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/latest/</loc>
     <lastmod>2023-07-04T00:51:18-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/licenses-and-credits/</loc>
