@@ -1,8 +1,9 @@
 images/
 /**/*.zip
 /**/*.jpg
-/**/*.webp
 /**/*.png
+/**/*.gif
+/**/*.jpeg
+/**/*.webp
 /**/*.z2f
-/**/*.ztd
-Post.txt
+/**/*.z2d
