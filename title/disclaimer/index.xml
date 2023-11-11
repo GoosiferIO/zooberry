@@ -1,21 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Disclaimer on ZooBerry</title>
-    <link>https://www.zooberry.org/title/disclaimer/</link>
-    <description>Recent content in Disclaimer on ZooBerry</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 04 Jul 2023 00:51:18 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/title/disclaimer/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Disclaimer</title>
-      <link>https://www.zooberry.org/disclaimer/</link>
-      <pubDate>Tue, 04 Jul 2023 00:51:18 -0700</pubDate>
-      
-      <guid>https://www.zooberry.org/disclaimer/</guid>
-      <description>Disclaimer ZooBerry is a fan-made platform dedicated to hosting user-created modifications (&amp;ldquo;mods&amp;rdquo;) for Zoo Tycoon, a video game developed and owned by Microsoft Corporation. We would like to emphasize that this website is not affiliated with or endorsed by Microsoft in any way. Zoo Tycoon and all related trademarks, logos, characters, and other assets are the property of Microsoft Corporation.
-The mods hosted on this website are created by the Zoo Tycoon community and are provided for informational and entertainment purposes only.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Disclaimer on ZooBerry</title><link>https://www.zooberry.org/title/disclaimer/</link><description>Recent content in Disclaimer on ZooBerry</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 04 Jul 2023 00:51:18 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/title/disclaimer/index.xml" rel="self" type="application/rss+xml"/><item><title>Disclaimer</title><link>https://www.zooberry.org/disclaimer/</link><pubDate>Tue, 04 Jul 2023 00:51:18 -0700</pubDate><guid>https://www.zooberry.org/disclaimer/</guid><description>Disclaimer ZooBerry is a fan-made platform dedicated to hosting user-created modifications (&amp;ldquo;mods&amp;rdquo;) for Zoo Tycoon, a video game developed and owned by Microsoft Corporation. We would like to emphasize that this website is not affiliated with or endorsed by Microsoft in any way. Zoo Tycoon and all related trademarks, logos, characters, and other assets are the property of Microsoft Corporation.
+The mods hosted on this website are created by the Zoo Tycoon community and are provided for informational and entertainment purposes only.</description></item></channel></rss>

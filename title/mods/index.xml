@@ -1,22 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Mods on ZooBerry</title>
-    <link>https://www.zooberry.org/title/mods/</link>
-    <description>Recent content in Mods on ZooBerry</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.zooberry.org/title/mods/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Mods</title>
-      <link>https://www.zooberry.org/mods/</link>
-      <pubDate>Fri, 10 Nov 2023 03:29:25 -0800</pubDate>
-      
-      <guid>https://www.zooberry.org/mods/</guid>
-      <description>ZooBerry Times
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mods on ZooBerry</title><link>https://www.zooberry.org/title/mods/</link><description>Recent content in Mods on ZooBerry</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://www.zooberry.org/title/mods/index.xml" rel="self" type="application/rss+xml"/><item><title>Mods</title><link>https://www.zooberry.org/mods/</link><pubDate>Fri, 10 Nov 2023 03:29:25 -0800</pubDate><guid>https://www.zooberry.org/mods/</guid><description>ZooBerry Times
 Aug 5, 2023
 Hi and welcome. 33 additional mods have been added to the ZooBerry database, including some that were never before released. Check out what&amp;rsquo;s new here: itemized list
-- Goosifer</description>
-    </item>
-    
-  </channel>
-</rss>
+- Goosifer</description></item></channel></rss>

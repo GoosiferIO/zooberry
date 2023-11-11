@@ -1,21 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Links on ZooBerry</title>
-    <link>https://www.zooberry.org/title/links/</link>
-    <description>Recent content in Links on ZooBerry</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 04 Jul 2023 00:51:18 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/title/links/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Links</title>
-      <link>https://www.zooberry.org/links/</link>
-      <pubDate>Tue, 04 Jul 2023 00:51:18 -0700</pubDate>
-      
-      <guid>https://www.zooberry.org/links/</guid>
-      <description>ZooBerry itself does not endorse a specific Zoo Tycoon community nor does it run one of its own. However, there are many options that you are welcome to check out. These are also a good resource if you have questions about Zoo Tycoon mods or how to make your own.
-Table of Contents For Community Zoo Tek Phoenix The ZT2 Roundtable The r/ZooTycoon Subreddit For more mods not hosted on ZooBerry Learn how to create Zoo Tycoon mods For Community Zoo Tek Phoenix The longest-running Zoo Tycoon forum, Zoo Tek Phoenix sports one of the nicest communities out there and are always keen on helping if you get stuck.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Links on ZooBerry</title><link>https://www.zooberry.org/title/links/</link><description>Recent content in Links on ZooBerry</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 04 Jul 2023 00:51:18 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/title/links/index.xml" rel="self" type="application/rss+xml"/><item><title>Links</title><link>https://www.zooberry.org/links/</link><pubDate>Tue, 04 Jul 2023 00:51:18 -0700</pubDate><guid>https://www.zooberry.org/links/</guid><description>ZooBerry itself does not endorse a specific Zoo Tycoon community nor does it run one of its own. However, there are many options that you are welcome to check out. These are also a good resource if you have questions about Zoo Tycoon mods or how to make your own.
+Table of Contents For Community Zoo Tek Phoenix The ZT2 Roundtable The r/ZooTycoon Subreddit For more mods not hosted on ZooBerry Learn how to create Zoo Tycoon mods For Community Zoo Tek Phoenix The longest-running Zoo Tycoon forum, Zoo Tek Phoenix sports one of the nicest communities out there and are always keen on helping if you get stuck.</description></item></channel></rss>
