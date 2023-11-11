@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AOE2 World Wonders on ZooBerry</title><link>https://www.zooberry.org/title/aoe2-world-wonders/</link><description>Recent content in AOE2 World Wonders on ZooBerry</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 24 Jul 2023 11:37:37 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/title/aoe2-world-wonders/index.xml" rel="self" type="application/rss+xml"/><item><title>AOE2 World Wonders</title><link>https://www.zooberry.org/mods/zt1/packs/aoe2-world-wonders/</link><pubDate>Mon, 24 Jul 2023 11:37:37 -0700</pubDate><guid>https://www.zooberry.org/mods/zt1/packs/aoe2-world-wonders/</guid><description>Scenery pack with buildings from around the world.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AOE2 World Wonders on ZooBerry</title>
+    <link>https://www.zooberry.org/title/aoe2-world-wonders/</link>
+    <description>Recent content in AOE2 World Wonders on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jul 2023 11:37:37 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/title/aoe2-world-wonders/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AOE2 World Wonders</title>
+      <link>https://www.zooberry.org/mods/zt1/packs/aoe2-world-wonders/</link>
+      <pubDate>Mon, 24 Jul 2023 11:37:37 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt1/packs/aoe2-world-wonders/</guid>
+      <description>Scenery pack with buildings from around the world.</description>
+    </item>
+    
+  </channel>
+</rss>

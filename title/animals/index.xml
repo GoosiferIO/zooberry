@@ -1,1 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Animals on ZooBerry</title><link>https://www.zooberry.org/title/animals/</link><description>Recent content in Animals on ZooBerry</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://www.zooberry.org/title/animals/index.xml" rel="self" type="application/rss+xml"/><item><title>Animals</title><link>https://www.zooberry.org/mods/zt1/animals/</link><pubDate>Sat, 22 Jul 2023 09:34:23 -0700</pubDate><guid>https://www.zooberry.org/mods/zt1/animals/</guid><description>Adopt new animals to share with your guests at home!</description></item><item><title>Animals</title><link>https://www.zooberry.org/mods/zt2/animals/</link><pubDate>Fri, 10 Nov 2023 03:15:31 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/</guid><description>Adopt new animals to share with your guests at home!</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animals on ZooBerry</title>
+    <link>https://www.zooberry.org/title/animals/</link>
+    <description>Recent content in Animals on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.zooberry.org/title/animals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animals</title>
+      <link>https://www.zooberry.org/mods/zt1/animals/</link>
+      <pubDate>Sat, 22 Jul 2023 09:34:23 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt1/animals/</guid>
+      <description>Adopt new animals to share with your guests at home!</description>
+    </item>
+    
+    <item>
+      <title>Animals</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/</link>
+      <pubDate>Fri, 10 Nov 2023 03:15:31 -0800</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/animals/</guid>
+      <description>Adopt new animals to share with your guests at home!</description>
+    </item>
+    
+  </channel>
+</rss>

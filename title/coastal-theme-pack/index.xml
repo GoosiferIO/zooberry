@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Coastal Theme Pack on ZooBerry</title><link>https://www.zooberry.org/title/coastal-theme-pack/</link><description>Recent content in Coastal Theme Pack on ZooBerry</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 24 Jul 2023 17:51:11 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/title/coastal-theme-pack/index.xml" rel="self" type="application/rss+xml"/><item><title>Coastal Theme Pack</title><link>https://www.zooberry.org/mods/zt2/packs/coastal-theme-pack/</link><pubDate>Mon, 24 Jul 2023 17:51:11 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/packs/coastal-theme-pack/</guid><description>A coastal theme pack by ShenTirag.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coastal Theme Pack on ZooBerry</title>
+    <link>https://www.zooberry.org/title/coastal-theme-pack/</link>
+    <description>Recent content in Coastal Theme Pack on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jul 2023 17:51:11 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/title/coastal-theme-pack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coastal Theme Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/packs/coastal-theme-pack/</link>
+      <pubDate>Mon, 24 Jul 2023 17:51:11 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/packs/coastal-theme-pack/</guid>
+      <description>A coastal theme pack by ShenTirag.</description>
+    </item>
+    
+  </channel>
+</rss>

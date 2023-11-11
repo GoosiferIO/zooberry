@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>South American Trashcan on ZooBerry</title><link>https://www.zooberry.org/title/south-american-trashcan/</link><description>Recent content in South American Trashcan on ZooBerry</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 22 Jul 2023 08:07:39 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/title/south-american-trashcan/index.xml" rel="self" type="application/rss+xml"/><item><title>South American Trashcan</title><link>https://www.zooberry.org/mods/zt2/objects/south-american-trashcan/</link><pubDate>Sat, 22 Jul 2023 08:07:39 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/south-american-trashcan/</guid><description>We made this trashcan a while ago. We hope that you all enjoy it.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>South American Trashcan on ZooBerry</title>
+    <link>https://www.zooberry.org/title/south-american-trashcan/</link>
+    <description>Recent content in South American Trashcan on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Jul 2023 08:07:39 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/title/south-american-trashcan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>South American Trashcan</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/south-american-trashcan/</link>
+      <pubDate>Sat, 22 Jul 2023 08:07:39 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/objects/south-american-trashcan/</guid>
+      <description>We made this trashcan a while ago. We hope that you all enjoy it.</description>
+    </item>
+    
+  </channel>
+</rss>

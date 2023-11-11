@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nile Crocodile Reskin on ZooBerry</title><link>https://www.zooberry.org/title/nile-crocodile-reskin/</link><description>Recent content in Nile Crocodile Reskin on ZooBerry</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 05 Aug 2023 17:50:53 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/title/nile-crocodile-reskin/index.xml" rel="self" type="application/rss+xml"/><item><title>Nile Crocodile Reskin</title><link>https://www.zooberry.org/mods/zt2/reskins/nile-crocodile-reskin/</link><pubDate>Sat, 05 Aug 2023 17:50:53 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/reskins/nile-crocodile-reskin/</guid><description>Summary of the Nile Crocodile Reskin project</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nile Crocodile Reskin on ZooBerry</title>
+    <link>https://www.zooberry.org/title/nile-crocodile-reskin/</link>
+    <description>Recent content in Nile Crocodile Reskin on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Aug 2023 17:50:53 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/title/nile-crocodile-reskin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nile Crocodile Reskin</title>
+      <link>https://www.zooberry.org/mods/zt2/reskins/nile-crocodile-reskin/</link>
+      <pubDate>Sat, 05 Aug 2023 17:50:53 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/reskins/nile-crocodile-reskin/</guid>
+      <description>Summary of the Nile Crocodile Reskin project</description>
+    </item>
+    
+  </channel>
+</rss>

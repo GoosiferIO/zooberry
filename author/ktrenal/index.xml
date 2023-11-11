@@ -1,1 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ktrenal on ZooBerry</title><link>https://www.zooberry.org/author/ktrenal/</link><description>Recent content in Ktrenal on ZooBerry</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 30 Oct 2023 20:36:32 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/author/ktrenal/index.xml" rel="self" type="application/rss+xml"/><item><title>Bengal Tiger Variants</title><link>https://www.zooberry.org/mods/zt2/variants/bengal-tiger-variants-kt/</link><pubDate>Mon, 30 Oct 2023 20:36:32 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/variants/bengal-tiger-variants-kt/</guid><description>Four bengal tiger variants made by Ktrenal.</description></item><item><title>Fennec Fox Variants</title><link>https://www.zooberry.org/mods/zt2/variants/fennec-fox-variants-kt/</link><pubDate>Mon, 30 Oct 2023 20:32:43 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/variants/fennec-fox-variants-kt/</guid><description>Included are three fennec fox variants made by Ktrenal.</description></item><item><title>Velociraptor Variants</title><link>https://www.zooberry.org/mods/zt2/variants/velociraptor-variants-kt/</link><pubDate>Thu, 28 Sep 2023 00:30:57 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/variants/velociraptor-variants-kt/</guid><description>Summary of the Velociraptor Variants Kt project</description></item><item><title>Striped Hyena Variants</title><link>https://www.zooberry.org/mods/zt2/variants/striped-hyena-variants-kt/</link><pubDate>Thu, 28 Sep 2023 00:27:06 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/variants/striped-hyena-variants-kt/</guid><description>Two new striped hyena variants by Ktrenal.</description></item><item><title>African Spurred Tortoise Variants</title><link>https://www.zooberry.org/mods/zt2/variants/african-spurred-tort-vars-ktrenal/</link><pubDate>Mon, 25 Sep 2023 12:35:52 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/variants/african-spurred-tort-vars-ktrenal/</guid><description>A pack of six African spurred tortoise variants by Ktrenal.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ktrenal on ZooBerry</title>
+    <link>https://www.zooberry.org/author/ktrenal/</link>
+    <description>Recent content in Ktrenal on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Oct 2023 20:36:32 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/author/ktrenal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bengal Tiger Variants</title>
+      <link>https://www.zooberry.org/mods/zt2/variants/bengal-tiger-variants-kt/</link>
+      <pubDate>Mon, 30 Oct 2023 20:36:32 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/variants/bengal-tiger-variants-kt/</guid>
+      <description>Four bengal tiger variants made by Ktrenal.</description>
+    </item>
+    
+    <item>
+      <title>Fennec Fox Variants</title>
+      <link>https://www.zooberry.org/mods/zt2/variants/fennec-fox-variants-kt/</link>
+      <pubDate>Mon, 30 Oct 2023 20:32:43 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/variants/fennec-fox-variants-kt/</guid>
+      <description>Included are three fennec fox variants made by Ktrenal.</description>
+    </item>
+    
+    <item>
+      <title>Velociraptor Variants</title>
+      <link>https://www.zooberry.org/mods/zt2/variants/velociraptor-variants-kt/</link>
+      <pubDate>Thu, 28 Sep 2023 00:30:57 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/variants/velociraptor-variants-kt/</guid>
+      <description>Summary of the Velociraptor Variants Kt project</description>
+    </item>
+    
+    <item>
+      <title>Striped Hyena Variants</title>
+      <link>https://www.zooberry.org/mods/zt2/variants/striped-hyena-variants-kt/</link>
+      <pubDate>Thu, 28 Sep 2023 00:27:06 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/variants/striped-hyena-variants-kt/</guid>
+      <description>Two new striped hyena variants by Ktrenal.</description>
+    </item>
+    
+    <item>
+      <title>African Spurred Tortoise Variants</title>
+      <link>https://www.zooberry.org/mods/zt2/variants/african-spurred-tort-vars-ktrenal/</link>
+      <pubDate>Mon, 25 Sep 2023 12:35:52 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/variants/african-spurred-tort-vars-ktrenal/</guid>
+      <description>A pack of six African spurred tortoise variants by Ktrenal.</description>
+    </item>
+    
+  </channel>
+</rss>

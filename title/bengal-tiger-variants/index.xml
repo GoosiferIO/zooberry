@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bengal Tiger Variants on ZooBerry</title><link>https://www.zooberry.org/title/bengal-tiger-variants/</link><description>Recent content in Bengal Tiger Variants on ZooBerry</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 30 Oct 2023 20:36:32 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/title/bengal-tiger-variants/index.xml" rel="self" type="application/rss+xml"/><item><title>Bengal Tiger Variants</title><link>https://www.zooberry.org/mods/zt2/variants/bengal-tiger-variants-kt/</link><pubDate>Mon, 30 Oct 2023 20:36:32 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/variants/bengal-tiger-variants-kt/</guid><description>Four bengal tiger variants made by Ktrenal.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bengal Tiger Variants on ZooBerry</title>
+    <link>https://www.zooberry.org/title/bengal-tiger-variants/</link>
+    <description>Recent content in Bengal Tiger Variants on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Oct 2023 20:36:32 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/title/bengal-tiger-variants/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bengal Tiger Variants</title>
+      <link>https://www.zooberry.org/mods/zt2/variants/bengal-tiger-variants-kt/</link>
+      <pubDate>Mon, 30 Oct 2023 20:36:32 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/variants/bengal-tiger-variants-kt/</guid>
+      <description>Four bengal tiger variants made by Ktrenal.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,92 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ZooBerry</title><link>https://www.zooberry.org/orig_rel_at/zooberry/</link><description>Recent content on ZooBerry</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 31 Oct 2023 19:32:19 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/orig_rel_at/zooberry/index.xml" rel="self" type="application/rss+xml"/><item><title>Balloon Animal Stand</title><link>https://www.zooberry.org/mods/zt1/objects/balloon-animal-stand-gs/</link><pubDate>Tue, 31 Oct 2023 19:32:19 -0700</pubDate><guid>https://www.zooberry.org/mods/zt1/objects/balloon-animal-stand-gs/</guid><description>A balloon animal stand with custom vendor animations made by Goosifer.</description></item><item><title>233x233 Enlarged Map</title><link>https://www.zooberry.org/mods/zt1/maps/233x233-map/</link><pubDate>Sun, 24 Sep 2023 13:36:15 -0700</pubDate><guid>https://www.zooberry.org/mods/zt1/maps/233x233-map/</guid><description>A map larger than ZT1 will let you!</description></item><item><title>Atlantean Fountain Asset Pack</title><link>https://www.zooberry.org/mods/assets/atl-ftn-3d-model/</link><pubDate>Tue, 15 Aug 2023 02:49:24 -0700</pubDate><guid>https://www.zooberry.org/mods/assets/atl-ftn-3d-model/</guid><description>This bundle includes all assets used in the creation of the Zoo Tycoon 1 Atlantean Fountain mod by Goosifer.</description></item><item><title>Atlantean Fountain</title><link>https://www.zooberry.org/mods/zt1/objects/atlantean-fountain/</link><pubDate>Mon, 14 Aug 2023 17:20:20 -0700</pubDate><guid>https://www.zooberry.org/mods/zt1/objects/atlantean-fountain/</guid><description>This Atlantean Fountain will fit in seamlessly with Zoo Tycoon&amp;rsquo;s other Atlantean scenery items!</description></item><item><title>Hotdog Stand Assets</title><link>https://www.zooberry.org/mods/assets/hotdog-stand/</link><pubDate>Fri, 11 Aug 2023 16:59:15 -0700</pubDate><guid>https://www.zooberry.org/mods/assets/hotdog-stand/</guid><description>Summary of the Hotdog Stand project</description></item><item><title>Hotdog Stand</title><link>https://www.zooberry.org/mods/zt1/objects/hotdog-stand/</link><pubDate>Wed, 09 Aug 2023 21:12:56 -0700</pubDate><guid>https://www.zooberry.org/mods/zt1/objects/hotdog-stand/</guid><description>Pictured is a hotdog stand, conqueror of all lands before lands were even lands.</description></item><item><title>Lighthouse</title><link>https://www.zooberry.org/mods/zt2/objects/lighthouse/</link><pubDate>Fri, 21 Jul 2023 18:28:54 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/lighthouse/</guid><description>The Lighthouse was made from the Lighthouse Gazebo.</description></item><item><title>Mexican Wolf</title><link>https://www.zooberry.org/mods/zt2/animals/mexican-wolf/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/mexican-wolf/</guid><description>The Mexican Wolf is a sub-species of the Gray Wolf.</description></item><item><title>Pine Marten</title><link>https://www.zooberry.org/mods/zt2/animals/pine-marten/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/pine-marten/</guid><description>Summary of the Pine Marten project</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZooBerry</title>
+    <link>https://www.zooberry.org/orig_rel_at/zooberry/</link>
+    <description>Recent content on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2023 19:32:19 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/orig_rel_at/zooberry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Balloon Animal Stand</title>
+      <link>https://www.zooberry.org/mods/zt1/objects/balloon-animal-stand-gs/</link>
+      <pubDate>Tue, 31 Oct 2023 19:32:19 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt1/objects/balloon-animal-stand-gs/</guid>
+      <description>A balloon animal stand with custom vendor animations made by Goosifer.</description>
+    </item>
+    
+    <item>
+      <title>233x233 Enlarged Map</title>
+      <link>https://www.zooberry.org/mods/zt1/maps/233x233-map/</link>
+      <pubDate>Sun, 24 Sep 2023 13:36:15 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt1/maps/233x233-map/</guid>
+      <description>A map larger than ZT1 will let you!</description>
+    </item>
+    
+    <item>
+      <title>Atlantean Fountain Asset Pack</title>
+      <link>https://www.zooberry.org/mods/assets/atl-ftn-3d-model/</link>
+      <pubDate>Tue, 15 Aug 2023 02:49:24 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/assets/atl-ftn-3d-model/</guid>
+      <description>This bundle includes all assets used in the creation of the Zoo Tycoon 1 Atlantean Fountain mod by Goosifer.</description>
+    </item>
+    
+    <item>
+      <title>Atlantean Fountain</title>
+      <link>https://www.zooberry.org/mods/zt1/objects/atlantean-fountain/</link>
+      <pubDate>Mon, 14 Aug 2023 17:20:20 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt1/objects/atlantean-fountain/</guid>
+      <description>This Atlantean Fountain will fit in seamlessly with Zoo Tycoon&amp;rsquo;s other Atlantean scenery items!</description>
+    </item>
+    
+    <item>
+      <title>Hotdog Stand Assets</title>
+      <link>https://www.zooberry.org/mods/assets/hotdog-stand/</link>
+      <pubDate>Fri, 11 Aug 2023 16:59:15 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/assets/hotdog-stand/</guid>
+      <description>Summary of the Hotdog Stand project</description>
+    </item>
+    
+    <item>
+      <title>Hotdog Stand</title>
+      <link>https://www.zooberry.org/mods/zt1/objects/hotdog-stand/</link>
+      <pubDate>Wed, 09 Aug 2023 21:12:56 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt1/objects/hotdog-stand/</guid>
+      <description>Pictured is a hotdog stand, conqueror of all lands before lands were even lands.</description>
+    </item>
+    
+    <item>
+      <title>Lighthouse</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/lighthouse/</link>
+      <pubDate>Fri, 21 Jul 2023 18:28:54 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/objects/lighthouse/</guid>
+      <description>The Lighthouse was made from the Lighthouse Gazebo.</description>
+    </item>
+    
+    <item>
+      <title>Mexican Wolf</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/mexican-wolf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/animals/mexican-wolf/</guid>
+      <description>The Mexican Wolf is a sub-species of the Gray Wolf.</description>
+    </item>
+    
+    <item>
+      <title>Pine Marten</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/pine-marten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/animals/pine-marten/</guid>
+      <description>Summary of the Pine Marten project</description>
+    </item>
+    
+  </channel>
+</rss>
