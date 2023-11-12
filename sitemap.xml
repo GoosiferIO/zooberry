@@ -2,16 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.zooberry.org/exp_req/all-versions/</loc>
-    <lastmod>2023-11-12T02:08:11-08:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/author/</loc>
-    <lastmod>2023-11-12T02:08:11-08:00</lastmod>
+    <lastmod>2023-11-12T02:24:47-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/exp_req/ea/</loc>
+    <lastmod>2023-11-12T02:24:47-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/title/elephant-bird-variants/</loc>
+    <lastmod>2023-11-12T02:24:47-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/variants/elephant-bird-variants/</loc>
+    <lastmod>2023-11-12T02:24:47-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/exp_req/</loc>
-    <lastmod>2023-11-12T02:08:11-08:00</lastmod>
+    <lastmod>2023-11-12T02:24:47-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/game/</loc>
+    <lastmod>2023-11-12T02:24:47-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/</loc>
+    <lastmod>2023-11-12T02:24:47-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/orig_rel_at/</loc>
+    <lastmod>2023-11-12T02:24:47-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/author/shentirag/</loc>
+    <lastmod>2023-11-12T02:24:47-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/title/</loc>
+    <lastmod>2023-11-12T02:24:47-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/variants/</loc>
+    <lastmod>2023-11-12T02:24:47-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/game/zoo-tycoon-2/</loc>
+    <lastmod>2023-11-12T02:24:47-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/</loc>
+    <lastmod>2023-11-12T02:24:47-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/orig_rel_at/zoomania/</loc>
+    <lastmod>2023-11-12T02:24:47-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/exp_req/all-versions/</loc>
     <lastmod>2023-11-12T02:08:11-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/ibex-reskin/</loc>
@@ -23,25 +56,7 @@
     <loc>https://www.zooberry.org/author/koala-komander/</loc>
     <lastmod>2023-11-12T02:08:11-08:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/</loc>
-    <lastmod>2023-11-12T02:08:11-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/orig_rel_at/</loc>
-    <lastmod>2023-11-12T02:08:11-08:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/reskins/</loc>
-    <lastmod>2023-11-12T02:08:11-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/title/</loc>
-    <lastmod>2023-11-12T02:08:11-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/game/zoo-tycoon-2/</loc>
-    <lastmod>2023-11-12T02:08:11-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/</loc>
-    <lastmod>2023-11-12T02:08:11-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/orig_rel_at/zoomania/</loc>
     <lastmod>2023-11-12T02:08:11-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/</loc>
@@ -69,9 +84,6 @@
     <lastmod>2023-11-12T02:07:19-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/variants/markhor-variants-al44-ii/</loc>
-    <lastmod>2023-11-12T02:07:19-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/variants/</loc>
     <lastmod>2023-11-12T02:07:19-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/game/zoo-tycoon/</loc>
@@ -224,9 +236,6 @@
     <loc>https://www.zooberry.org/mods/zt1/</loc>
     <lastmod>2023-10-31T19:32:19-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/exp_req/ea/</loc>
-    <lastmod>2023-10-30T20:39:01-07:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/author/goblinshark/</loc>
     <lastmod>2023-10-30T20:39:01-07:00</lastmod>
   </url><url>
@@ -336,9 +345,6 @@
     <lastmod>2023-09-28T00:12:05-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/variants/auroch-variants-shen/</loc>
-    <lastmod>2023-09-28T00:12:05-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/author/shentirag/</loc>
     <lastmod>2023-09-28T00:12:05-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/white-cave-lion-variants/</loc>
