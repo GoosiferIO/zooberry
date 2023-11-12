@@ -2,19 +2,121 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.zooberry.org/exp_req/all-versions/</loc>
-    <lastmod>2023-11-10T03:29:25-08:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/author/</loc>
-    <lastmod>2023-11-10T03:29:25-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/exp_req/</loc>
-    <lastmod>2023-11-10T03:29:25-08:00</lastmod>
+    <lastmod>2023-11-12T02:08:11-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/game/</loc>
-    <lastmod>2023-11-10T03:29:25-08:00</lastmod>
+    <lastmod>2023-11-12T02:08:11-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/title/ibex-reskin/</loc>
+    <lastmod>2023-11-12T02:08:11-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/reskins/ibex-reskin/</loc>
+    <lastmod>2023-11-12T02:08:11-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/author/jack/</loc>
+    <lastmod>2023-11-12T02:08:11-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/</loc>
+    <lastmod>2023-11-12T02:08:11-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/orig_rel_at/</loc>
+    <lastmod>2023-11-12T02:08:11-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/reskins/</loc>
+    <lastmod>2023-11-12T02:08:11-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/title/</loc>
+    <lastmod>2023-11-12T02:08:11-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/game/zoo-tycoon/</loc>
+    <lastmod>2023-11-12T02:08:11-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/</loc>
+    <lastmod>2023-11-12T02:08:11-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/orig_rel_at/zooberry/</loc>
+    <lastmod>2023-11-12T02:08:11-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/</loc>
+    <lastmod>2023-11-12T02:07:38-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/title/wahoo/</loc>
+    <lastmod>2023-11-12T02:07:38-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/wahoo/</loc>
+    <lastmod>2023-11-12T02:07:38-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/title/markhor-variants-al44-ii/</loc>
+    <lastmod>2023-11-12T02:07:19-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/variants/markhor-variants-al44-ii/</loc>
+    <lastmod>2023-11-12T02:07:19-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/variants/</loc>
+    <lastmod>2023-11-12T02:07:19-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/title/gorilla-variant/</loc>
+    <lastmod>2023-11-12T02:06:48-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/variants/gorilla-variant/</loc>
+    <lastmod>2023-11-12T02:06:48-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/title/spotted-giant-warthog-variant/</loc>
+    <lastmod>2023-11-12T02:06:18-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/variants/spotted-giant-warthog-variant/</loc>
+    <lastmod>2023-11-12T02:06:18-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/title/scimitar-horned-oryx-variants/</loc>
+    <lastmod>2023-11-12T02:05:55-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/variants/scimitar-horned-oryx-variants/</loc>
+    <lastmod>2023-11-12T02:05:55-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/title/protarch-variants/</loc>
+    <lastmod>2023-11-12T02:05:32-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/variants/protarch-variants/</loc>
+    <lastmod>2023-11-12T02:05:32-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/title/camel-variants-kt/</loc>
+    <lastmod>2023-11-12T02:05:12-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/variants/camel-variants-kt/</loc>
+    <lastmod>2023-11-12T02:05:12-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/title/ibex-variant/</loc>
+    <lastmod>2023-11-12T02:04:42-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/variants/ibex-variant/</loc>
+    <lastmod>2023-11-12T02:04:42-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/exp_req/es/</loc>
+    <lastmod>2023-11-12T02:04:07-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/exp_req/</loc>
+    <lastmod>2023-11-12T02:04:07-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/author/koala-komander/</loc>
+    <lastmod>2023-11-12T02:04:07-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/author/radar/</loc>
+    <lastmod>2023-11-12T02:04:07-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/title/red-wolf/</loc>
+    <lastmod>2023-11-12T02:04:07-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/red-wolf/</loc>
+    <lastmod>2023-11-12T02:04:07-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/game/zoo-tycoon-2/</loc>
+    <lastmod>2023-11-12T02:04:07-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/orig_rel_at/zoomania/</loc>
+    <lastmod>2023-11-12T02:04:07-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/exp_req/all-versions/</loc>
     <lastmod>2023-11-10T03:29:25-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/orig_rel_at/northern-skies/</loc>
@@ -23,13 +125,7 @@
     <loc>https://www.zooberry.org/mods/zt2/objects/</loc>
     <lastmod>2023-11-10T03:29:25-08:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/orig_rel_at/</loc>
-    <lastmod>2023-11-10T03:29:25-08:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/author/rhino-designs/</loc>
-    <lastmod>2023-11-10T03:29:25-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/title/</loc>
     <lastmod>2023-11-10T03:29:25-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/white-salt-fence/</loc>
@@ -37,15 +133,6 @@
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/white-salt-fence/</loc>
     <lastmod>2023-11-10T03:29:25-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/game/zoo-tycoon-2/</loc>
-    <lastmod>2023-11-10T03:29:25-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/</loc>
-    <lastmod>2023-11-10T03:29:25-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/animals/</loc>
-    <lastmod>2023-11-10T03:15:31-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/barbary-lion/</loc>
     <lastmod>2023-11-10T03:15:31-08:00</lastmod>
@@ -128,25 +215,16 @@
     <loc>https://www.zooberry.org/mods/zt1/</loc>
     <lastmod>2023-10-31T19:32:19-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/orig_rel_at/zooberry/</loc>
-    <lastmod>2023-10-31T19:32:19-07:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/exp_req/ea/</loc>
     <lastmod>2023-10-30T20:39:01-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/author/goblinshark/</loc>
     <lastmod>2023-10-30T20:39:01-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/variants/</loc>
-    <lastmod>2023-10-30T20:39:01-07:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/title/velociraptor-variants-ii/</loc>
     <lastmod>2023-10-30T20:39:01-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/variants/velociraptor-variants-gs/</loc>
-    <lastmod>2023-10-30T20:39:01-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/orig_rel_at/zoomania/</loc>
     <lastmod>2023-10-30T20:39:01-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/bengal-tiger-variants/</loc>
@@ -166,9 +244,6 @@
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/variants/camel-variant-al44/</loc>
     <lastmod>2023-10-30T20:34:38-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/exp_req/es/</loc>
-    <lastmod>2023-10-30T20:32:43-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/fennec-fox-variants/</loc>
     <lastmod>2023-10-30T20:32:43-07:00</lastmod>
@@ -202,9 +277,6 @@
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/variants/zoomania-mascot-variant-rr/</loc>
     <lastmod>2023-10-30T20:25:05-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/author/koala-komander/</loc>
-    <lastmod>2023-10-30T20:21:34-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/zoomaniac-variant/</loc>
     <lastmod>2023-10-30T20:21:34-07:00</lastmod>
@@ -332,9 +404,6 @@
     <loc>https://www.zooberry.org/exp_req/not-applicable/</loc>
     <lastmod>2023-08-15T02:49:24-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/game/zoo-tycoon/</loc>
-    <lastmod>2023-08-15T02:49:24-07:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/title/atlantean-fountain/</loc>
     <lastmod>2023-08-14T17:20:20-07:00</lastmod>
   </url><url>
@@ -363,9 +432,6 @@
     <lastmod>2023-08-05T17:58:53-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/reskins/black-rhino-reskin/</loc>
-    <lastmod>2023-08-05T17:58:53-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/reskins/</loc>
     <lastmod>2023-08-05T17:58:53-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/reticulated-giraffe-reskin/</loc>
@@ -1198,8 +1264,6 @@
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/brown-pelican/</loc>
   </url><url>
-    <loc>https://www.zooberry.org/author/budgelover101/</loc>
-  </url><url>
     <loc>https://www.zooberry.org/title/cactus-donation-box/</loc>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/cactus-donation-box/</loc>
@@ -1339,8 +1403,6 @@
     <loc>https://www.zooberry.org/title/platyhystrix/</loc>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/platyhystrix/</loc>
-  </url><url>
-    <loc>https://www.zooberry.org/author/radar/</loc>
   </url><url>
     <loc>https://www.zooberry.org/title/reskins/</loc>
   </url><url>
