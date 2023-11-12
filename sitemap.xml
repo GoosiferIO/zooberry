@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.zooberry.org/exp_req/all-versions/</loc>
+    <lastmod>2023-11-12T02:08:11-08:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/author/</loc>
+    <lastmod>2023-11-12T02:08:11-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/exp_req/</loc>
     <lastmod>2023-11-12T02:08:11-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/game/</loc>
@@ -14,7 +20,7 @@
     <loc>https://www.zooberry.org/mods/zt2/reskins/ibex-reskin/</loc>
     <lastmod>2023-11-12T02:08:11-08:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/author/jack/</loc>
+    <loc>https://www.zooberry.org/author/koala-komander/</loc>
     <lastmod>2023-11-12T02:08:11-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/</loc>
@@ -29,19 +35,16 @@
     <loc>https://www.zooberry.org/title/</loc>
     <lastmod>2023-11-12T02:08:11-08:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/game/zoo-tycoon/</loc>
+    <loc>https://www.zooberry.org/game/zoo-tycoon-2/</loc>
     <lastmod>2023-11-12T02:08:11-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/</loc>
     <lastmod>2023-11-12T02:08:11-08:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/orig_rel_at/zooberry/</loc>
+    <loc>https://www.zooberry.org/orig_rel_at/zoomania/</loc>
     <lastmod>2023-11-12T02:08:11-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/</loc>
-    <lastmod>2023-11-12T02:07:38-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/exp_req/</loc>
     <lastmod>2023-11-12T02:07:38-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/exp_req/mm2/</loc>
@@ -53,11 +56,14 @@
     <loc>https://www.zooberry.org/mods/zt2/animals/wahoo/</loc>
     <lastmod>2023-11-12T02:07:38-08:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/game/zoo-tycoon-2/</loc>
-    <lastmod>2023-11-12T02:07:38-08:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/author/zooasaurus/</loc>
     <lastmod>2023-11-12T02:07:38-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/orig_rel_at/zooberry/</loc>
+    <lastmod>2023-11-12T02:07:38-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/author/jack/</loc>
+    <lastmod>2023-11-12T02:07:19-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/markhor-variants-al44-ii/</loc>
     <lastmod>2023-11-12T02:07:19-08:00</lastmod>
@@ -66,6 +72,9 @@
     <lastmod>2023-11-12T02:07:19-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/variants/</loc>
+    <lastmod>2023-11-12T02:07:19-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/game/zoo-tycoon/</loc>
     <lastmod>2023-11-12T02:07:19-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/gorilla-variant/</loc>
@@ -107,9 +116,6 @@
     <loc>https://www.zooberry.org/exp_req/es/</loc>
     <lastmod>2023-11-12T02:04:07-08:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/author/koala-komander/</loc>
-    <lastmod>2023-11-12T02:04:07-08:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/author/radar/</loc>
     <lastmod>2023-11-12T02:04:07-08:00</lastmod>
   </url><url>
@@ -118,12 +124,6 @@
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/red-wolf/</loc>
     <lastmod>2023-11-12T02:04:07-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/orig_rel_at/zoomania/</loc>
-    <lastmod>2023-11-12T02:04:07-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/exp_req/all-versions/</loc>
-    <lastmod>2023-11-10T03:29:25-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/orig_rel_at/northern-skies/</loc>
     <lastmod>2023-11-10T03:29:25-08:00</lastmod>
