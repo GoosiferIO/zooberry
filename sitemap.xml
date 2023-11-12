@@ -170,13 +170,10 @@
     <loc>https://www.zooberry.org/mods/zt2/objects/rhino-statue/</loc>
     <lastmod>2023-11-09T00:17:21-08:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/packs/</loc>
-    <lastmod>2023-11-08T23:48:12-08:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/title/restroom-sign-pack/</loc>
     <lastmod>2023-11-08T23:48:12-08:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/packs/restroom-sign-pack/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/objects/restroom-sign-pack/</loc>
     <lastmod>2023-11-08T23:48:12-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/exp_req/see-below/</loc>
@@ -195,6 +192,9 @@
     <lastmod>2023-11-06T02:33:26-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/author/hendrix/</loc>
+    <lastmod>2023-11-06T02:33:26-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/packs/</loc>
     <lastmod>2023-11-06T02:33:26-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/exp_req/es-aa-mm2/</loc>
@@ -620,25 +620,25 @@
     <loc>https://www.zooberry.org/title/small-gemstone-pack/</loc>
     <lastmod>2023-08-05T02:28:28-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/packs/small-gemstone-pack/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/objects/small-gemstone-pack/</loc>
     <lastmod>2023-08-05T02:28:28-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/shens-path-pack/</loc>
     <lastmod>2023-08-05T02:15:27-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/packs/shens-path-pack/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/objects/shens-path-pack/</loc>
     <lastmod>2023-08-05T02:15:27-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/shens-fences-pack/</loc>
     <lastmod>2023-08-03T06:34:32-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/packs/fences-pack/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/objects/fences-pack/</loc>
     <lastmod>2023-08-03T06:34:32-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/shark-pack-2/</loc>
     <lastmod>2023-08-03T06:26:19-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/packs/shark-pack-2/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/animals/shark-pack-2/</loc>
     <lastmod>2023-08-03T06:26:19-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/author/k_mac/</loc>
@@ -647,25 +647,25 @@
     <loc>https://www.zooberry.org/title/shark-pack-1/</loc>
     <lastmod>2023-08-03T06:21:00-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/packs/shark-pack-1/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/animals/shark-pack-1/</loc>
     <lastmod>2023-08-03T06:21:00-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/sandstone-theme/</loc>
     <lastmod>2023-08-03T06:18:09-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/packs/sandstone-theme/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/objects/sandstone-theme/</loc>
     <lastmod>2023-08-03T06:18:09-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/reskin-pack-1/</loc>
     <lastmod>2023-08-03T06:05:39-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/packs/reskin-pack-1/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/reskins/reskin-pack-1/</loc>
     <lastmod>2023-08-03T06:05:39-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/aboriginal-australian-pack/</loc>
     <lastmod>2023-08-03T05:51:46-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/packs/aboriginal-australian-pack/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/objects/aboriginal-australian-pack/</loc>
     <lastmod>2023-08-03T05:51:46-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/author/sheltiefan/</loc>
@@ -686,13 +686,13 @@
     <loc>https://www.zooberry.org/title/african-safari-pack/</loc>
     <lastmod>2023-07-24T18:31:26-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/packs/african-safari-pack/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/animals/african-safari-pack/</loc>
     <lastmod>2023-07-24T18:31:26-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/megafauna-pack/</loc>
     <lastmod>2023-07-24T18:26:34-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/packs/megafauna-pack/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/animals/megafauna-pack/</loc>
     <lastmod>2023-07-24T18:26:34-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/author/gorgonopsid-master/</loc>
@@ -722,7 +722,7 @@
     <loc>https://www.zooberry.org/title/elements-pack/</loc>
     <lastmod>2023-07-24T18:05:07-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/packs/elements-pack/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/objects/elements-pack/</loc>
     <lastmod>2023-07-24T18:05:07-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/author/penguinman/</loc>
@@ -734,19 +734,22 @@
     <loc>https://www.zooberry.org/title/ea-foliage-expansion-pack/</loc>
     <lastmod>2023-07-24T17:59:17-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/packs/ea-foliage-expansion-pack/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/foliage/ea-foliage-expansion-pack/</loc>
+    <lastmod>2023-07-24T17:59:17-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/foliage/</loc>
     <lastmod>2023-07-24T17:59:17-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/coastal-theme-pack/</loc>
     <lastmod>2023-07-24T17:51:11-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/packs/coastal-theme-pack/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/objects/coastal-theme-pack/</loc>
     <lastmod>2023-07-24T17:51:11-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/arabia-pack/</loc>
     <lastmod>2023-07-24T17:43:25-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/packs/arabia-pack/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/animals/arabia-pack/</loc>
     <lastmod>2023-07-24T17:43:25-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/author/plants/</loc>
@@ -953,7 +956,7 @@
     <loc>https://www.zooberry.org/title/african-civet-and-giant-eland/</loc>
     <lastmod>2023-07-22T09:11:31-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/packs/african-civet-and-giant-eland/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/animals/african-civet-and-giant-eland/</loc>
     <lastmod>2023-07-22T09:11:31-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/exp_req/zt2-ea-aa/</loc>
@@ -995,9 +998,6 @@
     <loc>https://www.zooberry.org/mods/zt2/objects/grizzly-bear-statue/</loc>
     <lastmod>2023-07-22T08:48:38-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/foliage/</loc>
-    <lastmod>2023-07-22T08:43:42-07:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/title/giant-bamboo/</loc>
     <lastmod>2023-07-22T08:43:42-07:00</lastmod>
   </url><url>
@@ -1019,7 +1019,7 @@
     <loc>https://www.zooberry.org/title/colored-path-pack/</loc>
     <lastmod>2023-07-22T08:28:33-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/packs/colored-path-pack/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/objects/colored-path-pack/</loc>
     <lastmod>2023-07-22T08:28:33-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/author/tni/</loc>
@@ -1028,7 +1028,7 @@
     <loc>https://www.zooberry.org/title/binoculars-pack/</loc>
     <lastmod>2023-07-22T08:20:40-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/packs/binoculars-pack/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/objects/binoculars-pack/</loc>
     <lastmod>2023-07-22T08:20:40-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/aa-photo-stand/</loc>
@@ -1076,7 +1076,7 @@
     <loc>https://www.zooberry.org/title/mini-trashcan-pack/</loc>
     <lastmod>2023-07-21T21:36:57-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/packs/mini-trashcan-pack/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/objects/mini-trashcan-pack/</loc>
     <lastmod>2023-07-21T21:36:57-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/mahogany-bench/</loc>
@@ -1261,7 +1261,7 @@
   </url><url>
     <loc>https://www.zooberry.org/title/biome-shelter-pack/</loc>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/packs/biome-shelter-pack/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/objects/biome-shelter-pack/</loc>
   </url><url>
     <loc>https://www.zooberry.org/title/brown-pelican/</loc>
   </url><url>
@@ -1295,7 +1295,7 @@
   </url><url>
     <loc>https://www.zooberry.org/title/european-pack-i/</loc>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/packs/european-pack-i/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/animals/european-pack-i/</loc>
   </url><url>
     <loc>https://www.zooberry.org/title/fanaloka/</loc>
   </url><url>

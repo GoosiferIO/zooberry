@@ -71,7 +71,7 @@
     "body": "A rhino statue made by Rhino Designs.\nLanguage(s):\nEnglish Bugs/Considerations:\nNo lang or ui file (no zoopedia). "
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/packs/restroom-sign-pack/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/restroom-sign-pack/",
     "title": "Restroom Sign Pack",
     "body": "These are signs to go on fences to symbolise it being a restroom door. No these don\u0026rsquo;t really work however for show and tells they are very handy. Thanks to Z-studio for the models.\nRequires:\nAt least one expansion installed Z-Studio\u0026rsquo;s Museum Building Pack Language(s):\nEnglish Known Bugs/Considerations:\nUses Family Restroom Zoopedia in error. Only scenery does not work like real restroom. At perfect height to go right over Sophie\u0026rsquo;s Scenery Pack 3 fence doors. "
     },
@@ -346,42 +346,42 @@
     "body": "A volcano with a snowy peak.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/packs/small-gemstone-pack/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/small-gemstone-pack/",
     "title": "Small Gemstone Pack",
     "body": "Includes:\nSmall Tourmaline Deposit Small Topaz Deposit Small Sapphire Deposit Small Ruby Deposit Small Quartz Deposit Small Jade Deposit Small Amethyst Deposit Small Amber Deposit "
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/packs/shens-path-pack/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/shens-path-pack/",
     "title": "Shen's Path Pack",
     "body": "Includes:\nYellow brick path Wicker path Red brick path Rain rock path Marble path Leafy path Gravel path Crazy path Cracked mud path Cobble path Atlantis path Aratile path "
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/packs/fences-pack/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/fences-pack/",
     "title": "Shen's Fences Pack",
     "body": "Includes:\nStone Wetlands Fence The Stone Wetlands Fence is a brown stone wall covered in moss to go alongside wetland or rainforest exhibits. Trellis Fence The Trellis Fence, a structure that plants love to grow over. Low Stone Wetlands Fence The Stone Wetlands Fence is a brown stone wall covered in moss to go alongside wetland or rainforest exhibits. Jungle Rope Fence The Jungle Rope Fence, a rope path to go alongside rainforest guest areas. Boreal Forest Wooden Fence Boreal Forest Wooden Window Fence Low Boreal Forest Wooden Fence The Boreal Forest Wooden Fence, a log cabin style fence to make your boreal forest areas seem more homey. Comes in high, windowed and low versions. Alpine Forest Wooden Fence Alpine Forest Wooden Window Fence Low Alpine Forest Wooden Fence The Alpine Forest Wooden Fence, a timber-frame themed fence reminicient of the early modern Alps of Europe. Comes in high, windowed and low versions. "
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/packs/shark-pack-2/",
+    "href": "https://www.zooberry.org/mods/zt2/animals/shark-pack-2/",
     "title": "Shark Pack 2",
     "body": "Includes:\nAnimals:\nSilvertip Shark Sand Tiger Shark Megamouth Shark Lemon Shark Basking Shark Scenery:\nRemora Koi Foliage:\nDeep Sea Anemone Gifts:\nSilvertip Shark Backpack Sand Tiger Shark Backpack Megamouth Shark Backpack Lemon Shark Backpack Basking Shark Backpack "
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/packs/shark-pack-1/",
+    "href": "https://www.zooberry.org/mods/zt2/animals/shark-pack-1/",
     "title": "Shark Pack 1",
-    "body": "Includes:\nAnimals Great Hammerhead Shark Megalodon Shark Shortfin Mako Shark Leopard Shark\nGifts Leopard Shark Backpack Megalodon Backpack Shortfin Mako Shark Backpack Great Hammerhead Shark Backpack\n"
+    "body": "Includes:\nAnimals\nGreat Hammerhead Shark Megalodon Shark Shortfin Mako Shark Leopard Shark Gifts\nLeopard Shark Backpack Megalodon Backpack Shortfin Mako Shark Backpack Great Hammerhead Shark Backpack "
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/packs/sandstone-theme/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/sandstone-theme/",
     "title": "Sandstone Theme",
     "body": "The Sandstone Theme Pack contains items made of softly coloured sandstone, often overgrown with ivy. Perfectly suited to desert, scrubland or coastal exhibits!\nIncludes:\nSandstone Lamp Round Sandstone Fountain Sandstone Bench Low Sandstone Fence Sandstone Path Sandstone Fence "
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/packs/reskin-pack-1/",
+    "href": "https://www.zooberry.org/mods/zt2/reskins/reskin-pack-1/",
     "title": "Reskin Pack 1",
     "body": "Koala Komander\u0026rsquo;s reskin pack includes reskins for the following animals:\nGrizzly Bear American Beaver Dromedary Camel Nile Crocodile African Elephant Giraffe Hippopotamus Ibex Jaguar Ring-tailed Lemur Snow Leopard Moose Okapi Giant Panda Black Rhinoceros Bengal Tiger Common Zebra "
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/packs/aboriginal-australian-pack/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/aboriginal-australian-pack/",
     "title": "Aboriginal Australian Pack",
     "body": "Includes a high and low fence, an arch, a path, and a kangaroo statue.\nAlso includes a trashcan that must be unlocked.\nTo install, place in your main ZT2 folder.\nWith help from ShenTirag and badisbadis101\n"
     },
@@ -396,12 +396,12 @@
     "body": "Update log for ZooBerry on July 24, 2023.\nTable of Contents Updated to ZooBerry Beta v0.2.2 Changelog: General ZooBerry developments: New Additions Zoo Tycoon 1 Objects Packs Zoo Tycoon 2 Packs Updated to ZooBerry Beta v0.2.2 Changelog: Can now click on an author\u0026rsquo;s name and get a full list of their mods in the ZooBerry database. Can now also get a full list of authors whose files are hosted on ZooBerry along with a list of each of their mods: https://zoo.goosifer.io/author/ Note that this path will eventually change No other way to get there - there will be a button for it soon. More sorting options also coming. Readability improved on some buttons Updated button clarity (i.e. renamed a button from \u0026lsquo;Download\u0026rsquo; to \u0026lsquo;Details\u0026rsquo; because that\u0026rsquo;s what it actually did.) (Thanks for the feedback, @Gymnasiast!) Feel free to track upcoming features on the ZooBerry Trello: https://trello.com/b/X9FjAPnO/zooberry\nGeneral ZooBerry developments: A dedicated domain has been purchased. ZooBerry.org will be its new home soon :) Discussed it with the EMU team and we decided we will be integrating a forum into ZooBerry. Similar to the design centre from long ago, it will be project-centric (and also meant as a platform to support and discuss our team projects: EMU, ZooBerry, \u0026lt;unannounced-project-1\u0026gt;, \u0026lt;unannounced-project-2\u0026gt;.) ;) New Additions 34 additional Northern Skies and ZooMania files have been backed up to ZooBerry on 2024-07-24. Check out what\u0026rsquo;s \u0026rsquo;new\u0026rsquo; below.\nZoo Tycoon 1 Objects AOE2 Viking Ship by RDingFT American Alligator in the Water Statue by RDingFT Diplodocus Statue by RDingFT Emperor Chinese Magnificent Palace by RDingFT Gardens of Time Mini London Clock Tower by RDingFT Guanlong Statue by RDingFT Insect House With Ant and the Hercules Beetle by RDingFT Kaprosuchus Statue by RDingFT Packs Anaconda and Turtle in the Water Statues by RDingFT AOE2 Gold Ore and Rock Ore by RDingFT AOE2 Houses by RDingFT AOE2 New World Pile Walls by RDingFT AOE2 Remains of the Vessels by RDingFT AOE2 World Wonders by RDingFT Brown Bear, Black and White Lion Statues by RDingFT Emperor Chinese Scenery Items by RDingFT Emperor Heavenly Compound Luxury Apt by RDingFT Emperor Watercourse by RDingFT WLP1 Foliage Pack Part 1 by RDingFT WLP1 Foliage Pack Part 2 by RDingFT WLP1 Foliage Pack Part 3 by RDingFT WLP1 Foliage Pack Part 4 by RDingFT WLP1 Foliage Pack Part 5 by RDingFT WLP1 Foliage Pack Part 6 by RDingFT WLP1 Scenery by RDingFT Wolves and Panthera Hunting Statues by RDingFT Zoo Tycoon 2 Tested the following files. If I picked up a general bug, I documented in the file description. Please let me know if I missed any.\nPacks African Safari Pack by Koala Komander Arabia Pack by Kangorilaphant and Plants Coastal Theme Pack by ShenTirag EA Foliage Expansion Pack by ShenTirag Elements Pack by Penguinman and Budgielover101 Europe Pack by Kangorilaphant and Gorgonopsid master Mediterranean Pack by Kangorilaphant and Gorgonopsid master Megafauna Pack by Zooasaurus "
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/packs/african-safari-pack/",
+    "href": "https://www.zooberry.org/mods/zt2/animals/african-safari-pack/",
     "title": "African Safari Pack",
-    "body": "Note 07-24-2023: Compatibility might be inaccurate, and it\u0026rsquo;s also possible it works fine on other versions. Give it a try! - Goosifer\nBlack-Backed Jackal Zoopedia entries by Burnt_Gecko.\nIncluded:\nAnimals\nBlack-Backed Jackal Spotted Hyena West African Dwarf Crocodile Banded Mongoose Gifts\nBlack-Backed Jackal Toy Spotted Hyena Toy West African Dwarf Crocodile Hat "
+    "body": "Black-Backed Jackal Zoopedia entries by Burnt_Gecko.\nIncluded:\nAnimals\nBlack-Backed Jackal Spotted Hyena West African Dwarf Crocodile Banded Mongoose Gifts\nBlack-Backed Jackal Toy Spotted Hyena Toy West African Dwarf Crocodile Hat "
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/packs/megafauna-pack/",
+    "href": "https://www.zooberry.org/mods/zt2/animals/megafauna-pack/",
     "title": "Megafauna Pack",
     "body": "Note 07-24-2023: The compatibility is an estimate and may not be accurate. The original instructions that came with this file are long gone. Feel free to give it a spin and see if it works on your version of the game. :) - Goosifer\nIncludes the following:\nInside of Titanus.z2f:\nTitanus (animal) Phorusrhacos Nest Titanus Gift Inside of Indricotherium.z2f:\nIndricothere (animal) Indricothere Gift Inside of Argentavius.z2f\nArgentavis ambient Inside of Andrewsarchus.z2f\nAndrewsarchus (animal) Andrewsarchus gift **Known issues (07-24-2023): **\nThere is a bug in the zoopedia that prevents the Indricothere from showing up as a zoopedia entry or as a purchasable animal. I noticed many named entries in the xml files do not match up which could be causing the problem. Same deal with the Andrewsarchus. Titanus seems to work fine though. Unsure about Argentavius. Compatibility determination could be innacurate; original post with instructions is long gone. - Goosifer\n"
     },
@@ -416,22 +416,22 @@
     "body": "A Pack containing four European animals and Plants.\nZt2 + ES and AA requiered.\nThe Pacck Contains:\nEuropean Bison Western Capercaillie Red Deer Wild Boar Aswell as an English Oak, Toadstool, Norway Spruce and European Beech.\nTo Install place the z2f file in c:\\Program Files\\Microsoft Games\\Zoo Tycoon 2\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/packs/elements-pack/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/elements-pack/",
     "title": "Elements Pack",
     "body": "Note 07-24-2023: The compatability above may be incaccurate; the original instructions for this file are long gone. Feel free to give it a spin and see if it works in your version! - Goosifer\nThis is a scenery pack from the creative minds of Penguinman and Budgielover101. Bring a fantastical element to your zoo decorations.\nIncluded in this pack:\nAir Orb Blood Fountain Dark Arch Light Arch Earch Bench Electricity Binoculars Fire Fountain Flora Box (donation box) Death Lamp Metal Path Poison Pool Shadow "
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/packs/ea-foliage-expansion-pack/",
+    "href": "https://www.zooberry.org/mods/zt2/foliage/ea-foliage-expansion-pack/",
     "title": "EA Foliage Expansion Pack",
     "body": "Included in this foliage pack are the following plants:\nSacred Lotus Rooibos Norway Spruce Kaki Persimmon Honeybush European Beech Corn Poppy Coontie Common Bluebell Butterfly Bush "
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/packs/coastal-theme-pack/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/coastal-theme-pack/",
     "title": "Coastal Theme Pack",
     "body": "Note 07-24-2023: Compatability is an estimate and may not be accurate. The original instructions for this file are lost. Feel free to try it if you don\u0026rsquo;t have AA. - Goosifer\nThis pack includes:\nCoastal Fence Coastal Viewing Canopy Bamboo Reed Path Low Coastal Fence Coastal Theme Boardwalk Path Canvas Bench "
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/packs/arabia-pack/",
+    "href": "https://www.zooberry.org/mods/zt2/animals/arabia-pack/",
     "title": "Arabia Pack",
     "body": "A Pack containing four Arabian animals and Plants.\nZt2 + ES and AA requiered.\nThe Pack Contains:\nLammergeier Syrian Brown Bear Arabian Oryx Persian Leopard. The Foliage is the Syrian Juniper, Weeping Pear, Ghaf Tree and Jasmine Flower.\nDownload the pack\nTo Install place the z2f file in c:\\Program Files\\Microsoft Games\\Zoo Tycoon 2\n"
     },
@@ -581,7 +581,7 @@
     "body": "The Nile Monitor is a large, fast, and agile lizard from the rainforest outskirts and grasslands of Africa. As such, it likes rainforest foliage and rainforest terrain, but also likes a good amount of grass in its exhibit.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/packs/african-civet-and-giant-eland/",
+    "href": "https://www.zooberry.org/mods/zt2/animals/african-civet-and-giant-eland/",
     "title": "African Civet and Giant Eland",
     "body": "Included: 2 Animals, Civet has new model, both have non-photosourced textures. Civet has 3 variants. Extract zip file to C:\\\\Program Files\\\\Microsoft Games\\\\Zoo Tycoon 2 to install.\nCompatibility: ZT2 EA and AA\nA Civet from the tropics of Africa, Biome is Tropical Rainforest and Savannah. Giant Eland is one of the largest antelope in the world, lives in the Savannahs of East Africa.\n"
     },
@@ -631,12 +631,12 @@
     "body": "This plant floats on the water.\nSee Also: Duckweed, Square\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/packs/colored-path-pack/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/colored-path-pack/",
     "title": "Colored Path Pack",
     "body": "This pack contains 14 wonderful colors of path to add a delightful touch to your zoo.\nThe debut production by T\u0026rsquo;ni!\nUnzip this file into your Zoo Tycoon Downloads Folder. Usually:\nC:\\Documents and Settings\\All Users\\Application Data\\Microsoft Games\\Zoo Tycoon 2\\downloads\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/packs/binoculars-pack/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/binoculars-pack/",
     "title": "Binoculars Pack",
     "body": "This pack contains four binoculars. One for each of the following themes:\nEndangered Species Theme Tundra Theme Jungle Theme Safari Theme "
     },
@@ -671,7 +671,7 @@
     "body": "A dish with the green meat inside.\nSee Also: Mystery Meat Trough and Mystery Meat Carcass\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/packs/mini-trashcan-pack/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/mini-trashcan-pack/",
     "title": "Mini Trashcan Pack",
     "body": "In this pack, you will find a Royal Trascan, Marble Trashcan, and a Wooden Trashcan.\n"
     },
@@ -796,7 +796,7 @@
     "body": "The Atlantic Sailfish is uber amazing: It\u0026rsquo;s also AWESOME and POINTY! (quote from ShenTirag)\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/packs/biome-shelter-pack/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/biome-shelter-pack/",
     "title": "Biome Shelter Pack",
     "body": "Enjoy this trio of shelters made by ShenTirag!\n"
     },
@@ -831,7 +831,7 @@
     "body": "I would recommend having at least AA. An extinct version of the giant panda, about half its size. Five stars. My first project.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/packs/european-pack-i/",
+    "href": "https://www.zooberry.org/mods/zt2/animals/european-pack-i/",
     "title": "European Pack I",
     "body": "The first part of our little project, contains the European Mouflon, the Highland Cow and the Shire Horse! Each animal has a variety of variants!\n"
     },
