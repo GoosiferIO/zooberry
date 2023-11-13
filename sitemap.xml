@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.zooberry.org/author/</loc>
-    <lastmod>2023-11-12T02:24:47-08:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/exp_req/ea/</loc>
     <lastmod>2023-11-12T02:24:47-08:00</lastmod>
   </url><url>
@@ -1172,7 +1169,7 @@
     <loc>https://www.zooberry.org/zt2-install-guide/</loc>
     <lastmod>2023-07-19T00:29:29-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/author/</loc>
+    <loc>https://www.zooberry.org/mods/authors/</loc>
     <lastmod>2023-07-04T00:51:18-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/contact/</loc>
