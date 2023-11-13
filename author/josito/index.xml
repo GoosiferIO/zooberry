@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Josito on ZooBerry</title>
+    <link>https://www.zooberry.org/author/josito/</link>
+    <description>Recent content in Josito on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Nov 2023 00:24:22 -0800</lastBuildDate><atom:link href="https://www.zooberry.org/author/josito/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Torre del Oro</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/la-torre-de-oro/</link>
+      <pubDate>Mon, 13 Nov 2023 00:24:22 -0800</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/objects/la-torre-de-oro/</guid>
+      <description>Imported by Josito, Model and skin from Luna.</description>
+    </item>
+    
+  </channel>
+</rss>
