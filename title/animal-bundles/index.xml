@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animal Bundles on ZooBerry</title>
+    <link>https://www.zooberry.org/title/animal-bundles/</link>
+    <description>Recent content in Animal Bundles on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.zooberry.org/title/animal-bundles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animal Bundles</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/</link>
+      <pubDate>Thu, 03 Aug 2023 06:26:19 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/</guid>
+      <description>Animal bundles include more than one animal and they can be a mix of categories.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Buildings on ZooBerry</title>
+    <link>https://www.zooberry.org/title/buildings/</link>
+    <description>Recent content in Buildings on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.zooberry.org/title/buildings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buildings</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/buildings/</link>
+      <pubDate>Mon, 13 Nov 2023 21:50:43 -0800</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/objects/buildings/</guid>
+      <description>Functional buildings such as food stands, carts, restaurants, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fantasy on ZooBerry</title>
+    <link>https://www.zooberry.org/title/fantasy/</link>
+    <description>Recent content in Fantasy on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.zooberry.org/title/fantasy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fantasy</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/fantasy/</link>
+      <pubDate>Sun, 12 Nov 2023 23:04:46 -0800</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/animals/fantasy/</guid>
+      <description>Adopt new animals to share with your guests at home!</description>
+    </item>
+    
+  </channel>
+</rss>

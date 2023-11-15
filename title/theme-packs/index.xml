@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theme Packs on ZooBerry</title>
+    <link>https://www.zooberry.org/title/theme-packs/</link>
+    <description>Recent content in Theme Packs on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.zooberry.org/title/theme-packs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Theme Packs</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/</link>
+      <pubDate>Sun, 12 Nov 2023 21:33:47 -0800</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/</guid>
+      <description>Bundles of objects all curated or designed after a specific theme.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Extinct on ZooBerry</title>
+    <link>https://www.zooberry.org/title/extinct/</link>
+    <description>Recent content in Extinct on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.zooberry.org/title/extinct/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extinct</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/extinct/</link>
+      <pubDate>Fri, 10 Nov 2023 03:15:31 -0800</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/</guid>
+      <description>Prehistoric, ice age, recently-extinct all go here.</description>
+    </item>
+    
+  </channel>
+</rss>

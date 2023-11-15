@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scenery on ZooBerry</title>
+    <link>https://www.zooberry.org/title/scenery/</link>
+    <description>Recent content in Scenery on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.zooberry.org/title/scenery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scenery</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/scenery/</link>
+      <pubDate>Mon, 13 Nov 2023 00:44:58 -0800</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/objects/scenery/</guid>
+      <description>Misc objects that are designed to just sit there and look pretty such as statues, tour scenery, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

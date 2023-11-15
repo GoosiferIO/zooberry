@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fountains on ZooBerry</title>
+    <link>https://www.zooberry.org/title/fountains/</link>
+    <description>Recent content in Fountains on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.zooberry.org/title/fountains/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fountains</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/fountains/</link>
+      <pubDate>Sat, 05 Aug 2023 14:35:37 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/objects/fountains/</guid>
+      <description>Spruce up your vistas with these water features.</description>
+    </item>
+    
+  </channel>
+</rss>
