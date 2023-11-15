@@ -1,6 +1,11 @@
 {
     "results": [
     {
+    "href": "https://www.zooberry.org/mods/zt2/objects/zootilities/presently-seated-bench/",
+    "title": "Presently-Seated Bench",
+    "body": "==== From the Zoopedia This bench is a great place for your guests to eat candy canes or sip hot cocoa in your zoo. They also are great for any other occasion where guests need a place to sit. Created by Arundell/DTF95 and meshed by Artifex (Catc and Penguinman).\n==== Context Years ago, probably around the year 2009, we ran a contest through an event we called ZooLive. I believe the idea was that if a user guessed our secret project correctly they get to collaborate on a project with Artifex, something simple. This was the result.\n==== Credits Textured and designed by DTF95, model by Goosifer (then Catc), XML configuration and Nif tweaks by Penguinman.\nFeel free to make your own derivative projects with the model and XML configuration. You\u0026rsquo;d just need a new texture since we do not know DTF95\u0026rsquo;s wishes about his texture.\n"
+    },
+    {
     "href": "https://www.zooberry.org/mods/zt2/objects/buildings/churro-stand/",
     "title": "Churro Stand",
     "body": "===== Churro Stand by Goosifer and Penguinman A churro stand made by Goosifer (back when he used to go by Catc!) and Penguinman in 2009. Finally releasing in 2023! It includes a churro stand for every one of the base game theme stand models including:\nSafari Extinct Jungle Tundra Egyptian Default Endangered Churros are a fun Mexican pastry with lots of sugar!\n==== Credits Churro models and textures are made by Goosifer. XML configuration and Nif model tweaks (so the models play nice with guest interactions) were done by Penguinman. Tools: Blender, Photoshop, Nifskope. ===== INSTALLATION To install, drop the containing .z2f file in the following directory:\nC:\\Program Files (x86)\\Microsoft Games\\Zoo Tycoon 2\n==== License The base stand models that came with the game are proprietary and owned by Microsoft.\nThe churro model assets that sit ontop of every stand are original works made by Eric \u0026ldquo;Goosifer\u0026rdquo; Galvan. I release those assets, including textures and 3D models, under CC BY-NC-SA 4.0. Feel free to make derivative works!\nFor more information, please visit: http://creativecommons.org/licenses/by-nc-sa/4.0/\n"
