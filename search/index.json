@@ -96,7 +96,7 @@
     "body": "A wolf made by Radar and koala komander. Also includes a lighter variant.\nLanguage(s):\nEnglish "
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/objects/fences/white-salt-fence/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/arches-canopies-and-fences/white-salt-fence/",
     "title": "White Salt Fence",
     "body": "Includes:\nHigh Fence Low Fence Glass Fence Languages:\nEnglish "
     },
@@ -346,7 +346,7 @@
     "body": "Contains three different files for different guest limits and a readme file. \u0026mdash;- Compatibility: ZT2 + All Expansions \u0026mdash;- Short Description: Have you ever gotten tired of only a certain amount of guests in your zoo? Here is the resource to change that.\nInstructions: Copy the desired Z2F file into the folder where Zoo Tycoon 2 is installed.\nComes in 3 different \u0026lsquo;strengths\u0026rsquo; - the number indicates the new guest limit. Unlike the default guest limit, this limit is not affected by zoo fame.\nDeveloper notes (warning: contains math):\nThe MaxGuestsBase and MaxGuestsPerStar values in the guestMgr.xml control the guest limit. MaxGuestsBase is the guest limit for a half-star zoo; MaxGuestsPerStar is the increase to the guest limit for each star (half stars count half) in addition to that half star. In other words:\nL = b + p(s - .5)\nwhere L = guest limit, b = MaxGuestsBase, p = MaxGuestsPerStar, s = number of stars of fame in the zoo.\nThe default settings are MaxGuestsBase = 30 and MaxGuestsPerStar = 20, yielding a limit of 120 guests for a five-star zoo.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/objects/arches-canopies/alpine-viewing-area/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/arches-canopies-and-fences/alpine-viewing-area/",
     "title": "Alpine Viewing Area",
     "body": "The Alpine Viewing Area was designed by Zooasaurus for the 2008 Coliseum Tournament in 2008.\n"
     },
@@ -356,7 +356,7 @@
     "body": "Designed by Otter Lord for the ZooMania Coliseum Tournament in 2008.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/objects/fountains/markhor-fountain/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/scenery/markhor-fountain/",
     "title": "Markhor Fountain",
     "body": "The markhor fountain was designed by King Hoopla for the ZooMania Coliseum Tournament in 2008.\n"
     },
@@ -366,17 +366,17 @@
     "body": "The Forgotten Spire was designed by Catc for the 2008 Coliseum Tournament.\nThe 3D model was created and textured by Catc and is released under Creative Commons: Attribution-NonCommercial-ShareAlike 4.0 International\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/objects/arches-canopies/ibex-arch/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/arches-canopies-and-fences/ibex-arch/",
     "title": "Ibex Arch",
     "body": "Ibex arch designed by badisbadis101 for the ZooMania Coliseum tournament in 2008.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/objects/arches-canopies/atlantis-viewing-area/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/arches-canopies-and-fences/atlantis-viewing-area/",
     "title": "Atlantis Viewing Area",
     "body": "An Atlantis-themed viewing canopy designed by Otter Lord for the Coliseum Tournament at ZooMania in 2008.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/objects/fountains/enlarged-desert-fountain/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/scenery/enlarged-desert-fountain/",
     "title": "Enlarged Desert Fountain",
     "body": "This fountain is a larger version of the one found in AA.\n"
     },
@@ -396,7 +396,7 @@
     "body": "Includes:\nYellow brick path Wicker path Red brick path Rain rock path Marble path Leafy path Gravel path Crazy path Cracked mud path Cobble path Atlantis path Aratile path "
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/objects/fences/fences-pack/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/arches-canopies-and-fences/fences-pack/",
     "title": "Shen's Fences Pack",
     "body": "Includes:\nStone Wetlands Fence The Stone Wetlands Fence is a brown stone wall covered in moss to go alongside wetland or rainforest exhibits. Trellis Fence The Trellis Fence, a structure that plants love to grow over. Low Stone Wetlands Fence The Stone Wetlands Fence is a brown stone wall covered in moss to go alongside wetland or rainforest exhibits. Jungle Rope Fence The Jungle Rope Fence, a rope path to go alongside rainforest guest areas. Boreal Forest Wooden Fence Boreal Forest Wooden Window Fence Low Boreal Forest Wooden Fence The Boreal Forest Wooden Fence, a log cabin style fence to make your boreal forest areas seem more homey. Comes in high, windowed and low versions. Alpine Forest Wooden Fence Alpine Forest Wooden Window Fence Low Alpine Forest Wooden Fence The Alpine Forest Wooden Fence, a timber-frame themed fence reminicient of the early modern Alps of Europe. Comes in high, windowed and low versions. "
     },
@@ -626,17 +626,17 @@
     "body": "Included: 2 Animals, Civet has new model, both have non-photosourced textures. Civet has 3 variants. Extract zip file to C:\\\\Program Files\\\\Microsoft Games\\\\Zoo Tycoon 2 to install.\nCompatibility: ZT2 EA and AA\nA Civet from the tropics of Africa, Biome is Tropical Rainforest and Savannah. Giant Eland is one of the largest antelope in the world, lives in the Savannahs of East Africa.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/objects/fountains/water-springs-fountain/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/scenery/water-springs-fountain/",
     "title": "Water Springs Fountain",
     "body": "A beautiful fountain.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/objects/animal-food/mystery-meat-carcass/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/animal-enrichment-food-shelters/mystery-meat-carcass/",
     "title": "Mystery Meat Carcass",
     "body": "A carcass with a mysterious green meat inside.\nSee Also: Mystery Meat Dish and Mystery Meat Trough\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/objects/animal-food/meat-in-a-wooden-trough/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/animal-enrichment-food-shelters/meat-in-a-wooden-trough/",
     "title": "Meat in a Wooden Trough",
     "body": "A wooden trough with red meat in it.\n"
     },
@@ -646,7 +646,7 @@
     "body": "A jungle-themed trashcan with a croc head on it because why not.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/objects/animal-food/insect-dish/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/animal-enrichment-food-shelters/insect-dish/",
     "title": "Insect Dish",
     "body": "This is a dish containing insects to be eaten from by insectivores.\n"
     },
@@ -691,7 +691,7 @@
     "body": "This path was designed for the ZooMania 100 Member Celebration Party.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/objects/fountains/waterfall-fountain/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/scenery/waterfall-fountain/",
     "title": "Waterfall Fountain",
     "body": "Winning Creation Collosseum entry vs Animallover44\u0026rsquo;s Lighthouse. A soothing waterfall perfect for wetlands or tropical rainforest areas in your zoos. Requirements: MM recommended, might be compatible with AA.\n"
     },
@@ -701,12 +701,12 @@
     "body": "We made this trashcan a while ago. We hope that you all enjoy it.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/objects/animal-food/mystery-meat-trough/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/animal-enrichment-food-shelters/mystery-meat-trough/",
     "title": "Mystery Meat Trough",
     "body": "A trough with green meat in it.\nSee Also: Mystery Meat Dish and Mystery Meat Carcass.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/objects/animal-food/mystery-meat-dish/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/animal-enrichment-food-shelters/mystery-meat-dish/",
     "title": "Mystery Meat Dish",
     "body": "A dish with the green meat inside.\nSee Also: Mystery Meat Trough and Mystery Meat Carcass\n"
     },
@@ -726,7 +726,7 @@
     "body": "The Lighthouse was made from the Lighthouse Gazebo. It had different coloring and makes a great scenery object for your Marine Themed Zoo. What better piece for the middle of your Sea Lion exhibit? Requirements: ZT2:\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/objects/fountains/large-safari-fountain/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/scenery/large-safari-fountain/",
     "title": "Large Safari Fountain",
     "body": "This is a large version of the savannah themed fountain.\n"
     },
@@ -836,7 +836,7 @@
     "body": "The Atlantic Sailfish is uber amazing: It\u0026rsquo;s also AWESOME and POINTY! (quote from ShenTirag)\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/objects/animal-shelters/biome-shelter-pack/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/animal-enrichment-food-shelters/biome-shelter-pack/",
     "title": "Biome Shelter Pack",
     "body": "Enjoy this trio of shelters made by ShenTirag!\n"
     },
@@ -901,7 +901,7 @@
     "body": "Use the gingerbread wall to spice up your holiday zoos and to create fun areas in your zoos.\nAuthors: Genki - graphics, Fern - ztd creation, rotations and configuring.\nRequires (just one):\nFern-Tek dll (ZooTek Phoenix): Download here LangZA03.dll (Zoo Admin): Download here "
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/objects/fences/glass-fence/",
+    "href": "https://www.zooberry.org/mods/zt2/objects/arches-canopies-and-fences/glass-fence/",
     "title": "Glass Fence",
     "body": "This is the an all glass fence created by Gibbon-Fanatic with help from Penguinman. Enjoy!\n"
     },
