@@ -41,12 +41,12 @@
     "body": "Original post from Slice:\n\u0026ldquo;Models and textures are imported from Oblivion and Wildlife Park 3.\nSince most of them are high poly models, avoid to place to many or to fast, it may slow down or crush the game.\u0026rdquo;\nIncludes\nScenery:\nMermaid Statue Bridge Hot Air Balloon Rocks:\nImported rock Plants:\nSakura Tree Morning Glory Mandrake Ginseng Bugs\nNo zoopedia or hover tooltip on a couple items. Languages:\nEnglish "
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/elephant-bird-variants/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/elephant-bird-variants/",
     "title": "Elephant Bird Variants",
     "body": "Four elephant bird variants made by ShenTirag!\nShenTirag\u0026rsquo;s license to other modders as of Nov 08, 2023:\nI am open to other creators modifying or updating the content as I no longer maintain it, on the provision that credit is given and that the derivative works are free to access, along the same lines as the Creative Commons-Attribution-NonCommercial licence https://creativecommons.org/licenses/by-nc/4.0/ but I am not sure if this can actually be used as the mods themselves are derived from copyrighted work!\nBasically go nuts if you can find the files, I have lost them all over time with several hard drive crashes and life challenges. Bit of a shame really but it's nice to hear people are still keen to get my files.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/reskins/ibex-reskin/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/reskins/ibex-reskin/",
     "title": "Ibex Reskin",
     "body": "An ibex reskin made by Koala Komander! Modifies both male and female ibex textures.\n"
     },
@@ -56,37 +56,37 @@
     "body": "Note: this is an ambient, not an adoptable animal. This means it will spawn in the environment at random intervals.\nFrom Zooasaurus\u0026rsquo; original post:\n\u0026ldquo;The Wahoo is a game fish, found in the open see, and is related to the Marlin and Mackerel. I whipped this up in my spare time a while ago, it only appears in groups of two. Requires MM2.\u0026rdquo;\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/markhor-variants-al44-ii/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/markhor-variants-al44-ii/",
     "title": "Markhor Variants II",
     "body": "Two markhor variants made by Animalover44. Only adds variant textures for males.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/gorilla-variant/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/gorilla-variant/",
     "title": "Mountain Gorilla Variant",
     "body": "A lighter variant skin for the Mountain Gorilla made by Animalover44.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/spotted-giant-warthog-variant/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/spotted-giant-warthog-variant/",
     "title": "Spotted Giant Warthog Variants",
     "body": "A spotted variant for the Giant Warthog made by Koala Komander! Modifies both male and female textures.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/scimitar-horned-oryx-variants/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/scimitar-horned-oryx-variants/",
     "title": "Scimitar Horned Oryx Variants",
     "body": "From Ktrenal\u0026rsquo;s original post:\n\u0026ldquo;There\u0026rsquo;s already one variant for this species, this download just adds two more. Two new variants to add variety to your herd of Scimitar Horned Oryxes.\u0026rdquo;\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/protarchaeopteryx-variants/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/protarchaeopteryx-variants/",
     "title": "Protarchaeopteryx Variants",
     "body": "A bundle of beautiful protarchaeopteryx variants made by ShenTirag! Includes 6 unique variants: 3 for male protarchs and 3 for female.\nShenTirag\u0026rsquo;s license to other modders as of Nov 08, 2023:\nI am open to other creators modifying or updating the content as I no longer maintain it, on the provision that credit is given and that the derivative works are free to access, along the same lines as the Creative Commons-Attribution-NonCommercial licence https://creativecommons.org/licenses/by-nc/4.0/ but I am not sure if this can actually be used as the mods themselves are derived from copyrighted work!\nBasically go nuts if you can find the files, I have lost them all over time with several hard drive crashes and life challenges. Bit of a shame really but it's nice to hear people are still keen to get my files.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/camel-variants-kt/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/camel-variants-kt/",
     "title": "Camel Variants II",
     "body": "This bundle includes three Dromedary Camel variant skins made by Ktrenal.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/ibex-variant/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/ibex-variant/",
     "title": "Ibex Variant",
     "body": "An ibex variant made by Animalover44. Only adds a variant for the female textures.\n"
     },
@@ -131,92 +131,92 @@
     "body": "A balloon animal stand with custom vendor animations made by Goosifer. Fits in with the in-game carnival theme.\nCredits:\nArt assets, design, and animations: Goosifer Tools used: Blender, Photoshop, GIMP, Tenacity, ZooT 1.1\nConfiguration: Jay\nInstallation\nTo install, drop the containing .ztd file in the following directory:\nC:\\Program Files (x86)\\Microsoft Games\\Zoo Tycoon\\dlupdate\nThis mod also requires the latest versions of LANG\u0026ndash;ZTCDD.dll and LANG\u0026ndash;ZKL.dll to be installed. Please visit the following links for directions and downloads to those files:\nhttp://www.lunamanar.com/zklounge/viewtopic.php?f=8\u0026amp;t=816 http://www.ztcdd.org/DG/index.php?topic=3734.0 Feel free to use the art assets in your own mods. As always I release my assets under CC BY-NC-SA 4.0.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/velociraptor-variants-gs/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/velociraptor-variants-gs/",
     "title": "Velociraptor Variants II",
     "body": "Two velociraptor variants made by GoblinShark, a different variant for each sex.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/bengal-tiger-variants-kt/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/bengal-tiger-variants-kt/",
     "title": "Bengal Tiger Variants",
     "body": "Includes the following four Bengal Tiger variants made by Ktrenal:\nSnow Maltese Gold Dark "
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/camel-variant-al44/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/camel-variant-al44/",
     "title": "Dromedary Camel Variant",
     "body": "A dromedary camel variant made by Animalover44.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/fennec-fox-variants-kt/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/fennec-fox-variants-kt/",
     "title": "Fennec Fox Variants",
     "body": "Included are three fennec fox variants made by Ktrenal.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/gemsbok-variant-al44/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/gemsbok-variant-al44/",
     "title": "Gemsbok Variant",
     "body": "A gemsbok variant made by Animalover44.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/white-wolverine-variant-catc/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/white-wolverine-variant-catc/",
     "title": "White Wolverine Variant",
     "body": "A white wolverine variant skin made by Catc.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/zoomania-mascot-variant-rr/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/zoomania-mascot-variant-rr/",
     "title": "Zoomania Mascot Variant",
     "body": "A hyena variant made in honor of Zoomania\u0026rsquo;s mascot made by Rhino Rangler!\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/zoomaniac-variant-kk/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/zoomaniac-variant-kk/",
     "title": "Zoomaniac Variant",
     "body": "A silly hyena reskin made by Koala Komander in honor of ZooMania\u0026rsquo;s mascot.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/velociraptor-variants-kt/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/velociraptor-variants-kt/",
     "title": "Velociraptor Variants",
     "body": "Original message by Ktrenal:\nTwo download files rather than one for dial-up user friendliness. The game already includes one variant for each gender - these downloads add three more. A variety of variants for your Velociraptors (try saying that five times quickly!)\nCompatibility: ZT2 + ES + EA\nNote by Goosifer (2023-09-28): The female variants are missing and sadly were not backed up. Please let us know if you have a copy!\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/striped-hyena-variants-kt/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/striped-hyena-variants-kt/",
     "title": "Striped Hyena Variants",
     "body": "Two variants for ZooMania\u0026rsquo;s mascot, the Striped Hyena!\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/bejewled-lion-variants/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/bejewled-lion-variants/",
     "title": "Bejeweled Lion Variants",
     "body": "Bejeweled African lion variants by Tiger Rex. Includes 1 unique female and 1 unique male variant.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/tapir-variants-al44/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/tapir-variants-al44/",
     "title": "Baird's Tapir Variants",
     "body": "Baird\u0026rsquo;s Tapir variants made by Animalover44. Includes 3 new variants that apply to both male and female tapirs.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/markhor-variants-al44/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/markhor-variants-al44/",
     "title": "Markhor Variants",
     "body": "Markhor variants made by Animalover44. Includes 1 male and 1 female variant.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/auroch-variants-shen/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/auroch-variants-shen/",
     "title": "Auroch Variants",
     "body": "Auroch variants made by ShenTirag.\nIncludes 3 male and 3 female variants.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/white-cave-lion-variants-kk/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/white-cave-lion-variants-kk/",
     "title": "White Cave Lion Variants",
     "body": "White cave lion variants made by Koala Komander. Includes one male and one female variant.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/ankylosaurus-vars-brachiosaur/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/ankylosaurus-vars-brachiosaur/",
     "title": "Ankylosaurus Variants",
     "body": "Variants made for the ZooMania Colosseum Variant Challenge by Brachiosaur.\nIncludes 2 female variants and 2 male variants, all different colors.\nNote by Goosifer (2023-09-25): Removed all unnecessary files that this mod didn\u0026rsquo;t need such as sound files, models, etc.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/albino-green-sea-turtle-vars-animalover44/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-green-sea-turtle-vars-animalover44/",
     "title": "Albino Green Sea Turtle Variant",
     "body": "Included is one variant for the green sea turtle.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/african-spurred-tort-vars-ktrenal/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/african-spurred-tort-vars-ktrenal/",
     "title": "African Spurred Tortoise Variants",
     "body": "A pack of six African spurred tortoise variants by Ktrenal.\nIncluded are 3 female and 3 male variants.\n"
     },
@@ -226,12 +226,12 @@
     "body": "Gymnasiast created a 233x233 map which amounts to a larger size than the base Zoo Tycoon 1 game allows. The base game has a maximum map size of 150x150.\nFrom Gymnasiast:\nThe map size is saved using a 32-bit integer, which has a theoretical maximum of about 2.1 billion (or 4.2 billion in certain circumstances). In practice though, testing with different map sizes has shown that 233×233 is the maximum that ZT1 will load. Anything bigger and it will freeze while attempting to load.\nBut then, having a 233×233 map is still quite an improvement from 150×150, is it not?\nTo install, unzip the file and drop the .zoo within inside of this directory: C:\\Program Files\\Microsoft Games\\Zoo Tycoon\\Saved Games\nYou can find Gymnasiast and his other work on Github: https://github.com/gymnasiast\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/aavp-p2/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/aavp-p2/",
     "title": "African Adventure Variant Pack P2",
     "body": "Part of the African Adventure Variant Pack made by Koala Komander.\nAnimal variants included:\nWildebeest African Spurred Tortoise Pygmy Hippopotamus Gelada "
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/variants/aavp-p1/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/variants/aavp-p1/",
     "title": "African Adventure Variant Pack P1",
     "body": "Part 1 of Koala Komander\u0026rsquo;s African Adventure Variant Pack.\nIncluded variants for the following animals:\nBongo Caracal Striped Hyena Ratel "
     },
@@ -256,72 +256,72 @@
     "body": "No, stop, don\u0026rsquo;t leave. Your guests want this hotdog-shaped hotdog stand. Install it. Because, you know, the game is really lacking in those.\nSpecial thanks to Jay and Fern for all of the hand-holding during the development of this mod as I fired off a billion questions. They effectively did the all of the configuration; I just followed directions.\nLicense All art assets used to create this mod are original works made by Goosifer. I release all of my assets, including any sprites, PSD files, 3D models, image textures under CC BY-NC-SA 4.0. This means you are welcome to use them for your own mods.\nFor more information, please visit: http://creativecommons.org/licenses/by-nc-sa/4.0/\nAlternative Version For the \u0026lsquo;contest mode\u0026rsquo; version of this mod, please download from the \u0026lsquo;alternative\u0026rsquo; button below. The \u0026lsquo;alternative\u0026rsquo; version makes your guests absolutely fall-over-heels with the stand and will increase your zoo rating immensely. The original version of this mod gives no extra perks in case you\u0026rsquo;re someone who prefers to play with standard vanilla settings.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/reskins/black-rhino-reskin/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/reskins/black-rhino-reskin/",
     "title": "Black Rhino Reskin",
     "body": "Download this amazing Black Rhino reskin by Koala Komander!\nIf you would like to download this reskin as part of a bundled pack with other animal reskins, please see Koala Komander\u0026rsquo;s Reskin Pack 1\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/reskins/reticulated-giraffe-reskin/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/reskins/reticulated-giraffe-reskin/",
     "title": "Reticulated Giraffe Reskin",
     "body": "Download this amazing Reticulated Giraffe reskin by Koala Komander!\nIf you would like to download this reskin as part of a bundled pack with other animal reskins, please see Koala Komander\u0026rsquo;s Reskin Pack 1\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/reskins/nile-crocodile-reskin/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/reskins/nile-crocodile-reskin/",
     "title": "Nile Crocodile Reskin",
     "body": "Download this amazing Nile Crocodile reskin by Koala Komander!\nIf you would like to download this reskin as part of a bundled pack with other animal reskins, please see Koala Komander\u0026rsquo;s Reskin Pack 1\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/reskins/mountain-gorilla-reskin/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/reskins/mountain-gorilla-reskin/",
     "title": "Mountain Gorilla Reskin",
     "body": "A mountain gorilla reskin by Angilas44. Should work on all expansions.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/reskins/lion-reskins/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/reskins/lion-reskins/",
     "title": "Lion Reskins",
     "body": "This reskin pack replaces the female, male, and baby cub textures with new ones created by Koala Komander.\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/reskins/beaver-reskin/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/reskins/beaver-reskin/",
     "title": "American Beaver Reskin",
     "body": "Download this amazing American Beaver reskin by Koala Komander!\nIf you would like to download this reskin as part of a bundled pack with other animal reskins, please see Koala Komander\u0026rsquo;s Reskin Pack 1\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/reskins/camel-reskin/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/reskins/camel-reskin/",
     "title": "Dromedary Camel Reskin",
     "body": "Download this amazing Dromedary Camel reskin by Koala Komander!\nIf you would like to download this reskin as part of a bundled pack with other animal reskins, please see Koala Komander\u0026rsquo;s Reskin Pack 1\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/reskins/giant-panda-reskin/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/reskins/giant-panda-reskin/",
     "title": "Giant Panda Reskin",
     "body": "Download this amazing Giant Panda reskin by Koala Komander!\nIf you would like to download this reskin as part of a bundled pack with other animal reskins, please see Koala Komander\u0026rsquo;s Reskin Pack 1\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/reskins/grizzly-bear-reskin/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/reskins/grizzly-bear-reskin/",
     "title": "Grizzly Bear Reskin",
     "body": "Download this amazing Grizzly Bear reskin by Koala Komander!\nIf you would like to download this reskin as part of a bundled pack with other animal reskins, please see Koala Komander\u0026rsquo;s Reskin Pack 1\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/reskins/hippo-reskin/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/reskins/hippo-reskin/",
     "title": "Hippo Reskin",
     "body": "Download this amazing Hippo reskin by Koala Komander!\nIf you would like to download this reskin as part of a bundled pack with other animal reskins, please see Koala Komander\u0026rsquo;s Reskin Pack 1\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/reskins/jaguar-reskin/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/reskins/jaguar-reskin/",
     "title": "Jaguar Reskin",
     "body": "Download this amazing Jaguar reskin by Koala Komander!\nIf you would like to download this reskin as part of a bundled pack with other animal reskins, please see Koala Komander\u0026rsquo;s Reskin Pack 1\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/reskins/moose-reskin/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/reskins/moose-reskin/",
     "title": "Moose Reskin",
     "body": "Download this amazing Moose reskin by Koala Komander!\nIf you would like to download this reskin as part of a bundled pack with other animal reskins, please see Koala Komander\u0026rsquo;s Reskin Pack 1\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/reskins/lemur-reskin/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/reskins/lemur-reskin/",
     "title": "Ring-tailed Lemur Reskin",
     "body": "Download this amazing Ring-tailed Lemur reskin by Koala Komander!\nIf you would like to download this reskin as part of a bundled pack with other animal reskins, please see Koala Komander\u0026rsquo;s Reskin Pack 1\n"
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/reskins/african-elephant-reskin/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/reskins/african-elephant-reskin/",
     "title": "African Elephant Reskin",
     "body": "Download this amazing African Elephant reskin by Koala Komander!\nIf you would like to download this reskin as part of a bundled pack with other animal reskins, please see Koala Komander\u0026rsquo;s Reskin Pack 1\n"
     },
@@ -416,7 +416,7 @@
     "body": "The Sandstone Theme Pack contains items made of softly coloured sandstone, often overgrown with ivy. Perfectly suited to desert, scrubland or coastal exhibits!\nIncludes:\nSandstone Lamp Round Sandstone Fountain Sandstone Bench Low Sandstone Fence Sandstone Path Sandstone Fence "
     },
     {
-    "href": "https://www.zooberry.org/mods/zt2/texture-mods/animals/reskins/reskin-pack-1/",
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/reskins/reskin-pack-1/",
     "title": "Reskin Pack 1",
     "body": "Koala Komander\u0026rsquo;s reskin pack includes reskins for the following animals:\nGrizzly Bear American Beaver Dromedary Camel Nile Crocodile African Elephant Giraffe Hippopotamus Ibex Jaguar Ring-tailed Lemur Snow Leopard Moose Okapi Giant Panda Black Rhinoceros Bengal Tiger Common Zebra "
     },
