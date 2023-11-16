@@ -1,6 +1,11 @@
 {
     "results": [
     {
+    "href": "https://www.zooberry.org/mods/zt2/animals/living/indian-hyena/",
+    "title": "Indian Hyena",
+    "body": "The Indian hyena is a specific population of striped hyena, Hyaena hyaena, from the Indian subcontinent. It would go well in Indian grassland themed areas of your zoos alongside the ratel. An estimated 1,000-3,000 hyenas live in India today.\nThis download has a few known issues:\nThis animal lacks an icon, so a white square shows up in place of one. When you zoom out all the way, adults\u0026rsquo; skins turn white. Young will turn white when you are around halfway zoomed out. This subsides when you zoom back in. Although not a bug, it only has lang files for French. Otherwise this download is completely functional. Nothing is too obtrusive and its gameplay is without any problems.\n"
+    },
+    {
     "href": "https://www.zooberry.org/mods/zt2/objects/zootilities/presently-seated-bench/",
     "title": "Presently-Seated Bench",
     "body": "==== From the Zoopedia This bench is a great place for your guests to eat candy canes or sip hot cocoa in your zoo. They also are great for any other occasion where guests need a place to sit. Created by Arundell/DTF95 and meshed by Artifex (Catc and Penguinman).\n==== Context Years ago, probably around the year 2009, we ran a contest through an event we called ZooLive. I believe the idea was that if a user guessed our secret project correctly they get to collaborate on a project with Artifex, something simple. This was the result.\n==== Credits Textured and designed by DTF95, model by Goosifer (then Catc), XML configuration and Nif tweaks by Penguinman.\nFeel free to make your own derivative projects with the model and XML configuration. You\u0026rsquo;d just need a new texture since we do not know DTF95\u0026rsquo;s wishes about his texture.\n"
@@ -328,7 +333,7 @@
     {
     "href": "https://www.zooberry.org/mods/zt2/texture-mods/reskins/african-elephant-reskin/",
     "title": "African Elephant Reskin",
-    "body": "Download this amazing African Elephant reskin by Koala Komander!\nIf you would like to download this reskin as part of a bundled pack with other animal reskins, please see Koala Komander\u0026rsquo;s Reskin Pack 1\n"
+    "body": "Download this amazing African Elephant reskin by Koala Komander!\n==== Download it as part of a pack If you would like to download this reskin as part of a bundled pack with other animal reskins, please see Koala Komander\u0026rsquo;s Reskin Pack 1\n"
     },
     {
     "href": "https://www.zooberry.org/mods/zt2/hacks/pink-elephant-disorder-fix/",
