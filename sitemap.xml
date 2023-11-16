@@ -56,21 +56,6 @@
     <loc>https://www.zooberry.org/author/zt-abc/</loc>
     <lastmod>2023-11-15T20:41:59-08:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/title/expansive-packs/</loc>
-    <lastmod>2023-11-15T20:41:36-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/expansive-packs/</loc>
-    <lastmod>2023-11-15T20:41:36-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/author/jack/</loc>
-    <lastmod>2023-11-15T20:41:36-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/game/zoo-tycoon/</loc>
-    <lastmod>2023-11-15T20:41:36-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/orig_rel_at/zooberry/</loc>
-    <lastmod>2023-11-15T20:41:36-08:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/title/africas-spitters-&#43;-mini-snake-pack/</loc>
     <lastmod>2023-11-15T19:10:13-08:00</lastmod>
   </url><url>
@@ -126,6 +111,9 @@
     <lastmod>2023-11-14T21:55:18-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/zootilities/presently-seated-bench/</loc>
+    <lastmod>2023-11-14T21:55:18-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/orig_rel_at/zooberry/</loc>
     <lastmod>2023-11-14T21:55:18-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/zootilities/</loc>
@@ -558,6 +546,9 @@
     <lastmod>2023-08-15T02:49:24-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/exp_req/not-applicable/</loc>
+    <lastmod>2023-08-15T02:49:24-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/game/zoo-tycoon/</loc>
     <lastmod>2023-08-15T02:49:24-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/title/atlantean-fountain/</loc>
@@ -1463,6 +1454,8 @@
     <loc>https://www.zooberry.org/title/european-pack-i/</loc>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/animal-bundles/european-pack-i/</loc>
+  </url><url>
+    <loc>https://www.zooberry.org/title/expansive-packs/</loc>
   </url><url>
     <loc>https://www.zooberry.org/title/extinct/</loc>
   </url><url>
