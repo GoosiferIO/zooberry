@@ -85,7 +85,7 @@
       <pubDate>Sat, 05 Aug 2023 03:12:07 -0700</pubDate>
       
       <guid>https://www.zooberry.org/mods/zt2/objects/scenery/enlarged-desert-fountain/</guid>
-      <description>Summary of the Enlarged Desert Fountain project</description>
+      <description>This fountain is a larger version of the one found in AA.</description>
     </item>
     
     <item>
@@ -95,6 +95,24 @@
       
       <guid>https://www.zooberry.org/mods/zt2/objects/scenery/snow-volcano/</guid>
       <description>A volcano with a snowy peak.</description>
+    </item>
+    
+    <item>
+      <title>Large Kelp Forest</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/foliage/large-kelp-forest/</link>
+      <pubDate>Sat, 22 Jul 2023 08:43:42 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/objects/foliage/large-kelp-forest/</guid>
+      <description>This is a large version of the kelp forest available in MM2.</description>
+    </item>
+    
+    <item>
+      <title>Cactus Donation Box</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/cactus-donation-box/</link>
+      <pubDate>Sat, 22 Jul 2023 08:20:40 -0700</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/cactus-donation-box/</guid>
+      <description>A donation box with a cactus in it.</description>
     </item>
     
     <item>
@@ -113,6 +131,24 @@
       
       <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/south-american-trashcan/</guid>
       <description>We made this trashcan a while ago. We hope that you all enjoy it.</description>
+    </item>
+    
+    <item>
+      <title>Fringe Eared Oryx</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/fringe-eared-oryx/</link>
+      <pubDate>Fri, 21 Jul 2023 23:04:46 -0800</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/fringe-eared-oryx/</guid>
+      <description>The Fringe-Eared Oryx is a scrub dwelling antelope. It is a subspecies of gemsbok native to southern Africa.</description>
+    </item>
+    
+    <item>
+      <title>Goral</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/goral/</link>
+      <pubDate>Fri, 21 Jul 2023 23:04:46 -0800</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/goral/</guid>
+      <description>The Goral is an Asian Antelope</description>
     </item>
     
     <item>
@@ -152,18 +188,9 @@
     </item>
     
     <item>
-      <title>American Flamingo</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/american-flamingo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/american-flamingo/</guid>
-      <description>The American flamingo lives in the Coastal Biome.</description>
-    </item>
-    
-    <item>
       <title>Asian Small Clawed Otter</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/asian-small-clawed-otter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
       
       <guid>https://www.zooberry.org/mods/zt2/animals/living/asian-small-clawed-otter/</guid>
       <description>Summary of the Asian Small Clawed Otter project</description>
@@ -172,55 +199,28 @@
     <item>
       <title>Atlantic Sailfish</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/atlantic-sailfish/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
       
       <guid>https://www.zooberry.org/mods/zt2/animals/living/atlantic-sailfish/</guid>
       <description>The Atlantic Sailfish is uber amazing: It&amp;rsquo;s also AWESOME and POINTY! (quote from ShenTirag)</description>
     </item>
     
     <item>
-      <title>Cactus Donation Box</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/cactus-donation-box/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/cactus-donation-box/</guid>
-      <description>A donation box with a cactus in it.</description>
-    </item>
-    
-    <item>
-      <title>Fringe Eared Oryx</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/fringe-eared-oryx/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/fringe-eared-oryx/</guid>
-      <description>The Fringe-Eared Oryx is a scrub dwelling antelope. It is a subspecies of gemsbok native to southern Africa.</description>
-    </item>
-    
-    <item>
-      <title>Goral</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/goral/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/goral/</guid>
-      <description>The Goral is an Asian Antelope</description>
-    </item>
-    
-    <item>
-      <title>Large Kelp Forest</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/foliage/large-kelp-forest/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.zooberry.org/mods/zt2/objects/foliage/large-kelp-forest/</guid>
-      <description>This is a large version of the kelp forest available in MM2.</description>
-    </item>
-    
-    <item>
       <title>Mexican Wolf</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/mexican-wolf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
       
       <guid>https://www.zooberry.org/mods/zt2/animals/living/mexican-wolf/</guid>
       <description>The Mexican Wolf is a sub-species of the Gray Wolf.</description>
+    </item>
+    
+    <item>
+      <title>American Flamingo</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/american-flamingo/</link>
+      <pubDate>Tue, 18 Jul 2023 23:04:46 -0800</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/american-flamingo/</guid>
+      <description>The American flamingo lives in the Coastal Biome.</description>
     </item>
     
   </channel>
