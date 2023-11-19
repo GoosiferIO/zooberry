@@ -1,1 +1,65 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Extinct on ZooBerry</title><link>https://www.zooberry.org/mods/zt2/animals/extinct/</link><description>Recent content in Extinct on ZooBerry</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 18 Nov 2023 04:22:30 -0800</lastBuildDate><atom:link href="https://www.zooberry.org/mods/zt2/animals/extinct/index.xml" rel="self" type="application/rss+xml"/><item><title>The Lost World Velociraptor</title><link>https://www.zooberry.org/mods/zt2/animals/extinct/the-lost-world-velociraptor/</link><pubDate>Sat, 18 Nov 2023 04:22:30 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/extinct/the-lost-world-velociraptor/</guid><description>The vicious film raptor as it appeared in 1997&amp;rsquo;s The Lost World.</description></item><item><title>Barbary Lion</title><link>https://www.zooberry.org/mods/zt2/animals/extinct/barbary-lion/</link><pubDate>Fri, 10 Nov 2023 03:15:31 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/extinct/barbary-lion/</guid><description>Featuring juvenile stages!</description></item><item><title>Dwarf Panda</title><link>https://www.zooberry.org/mods/zt2/animals/extinct/dwarf-panda/</link><pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/extinct/dwarf-panda/</guid><description>An extinct version of the giant panda, about half its size.</description></item><item><title>Dire Wolf</title><link>https://www.zooberry.org/mods/zt2/animals/extinct/dire-wolf/</link><pubDate>Tue, 18 Jul 2023 23:04:46 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/extinct/dire-wolf/</guid><description>Summary of the Nile Monitor project</description></item><item><title>Platyhystrix</title><link>https://www.zooberry.org/mods/zt2/animals/extinct/platyhystrix/</link><pubDate>Tue, 18 Jul 2023 23:04:46 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/extinct/platyhystrix/</guid><description>Platyhystrix, a little-known sailbacked amphibian from the permian, is now adoptable for your zoos!</description></item><item><title>Sarcosuchus</title><link>https://www.zooberry.org/mods/zt2/animals/extinct/sarcosuchus/</link><pubDate>Tue, 18 Jul 2023 23:04:46 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/extinct/sarcosuchus/</guid><description>Sarcosuchus was a giant crocodilian.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Extinct on ZooBerry</title>
+    <link>https://www.zooberry.org/mods/zt2/animals/extinct/</link>
+    <description>Recent content in Extinct on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Nov 2023 04:22:30 -0800</lastBuildDate><atom:link href="https://www.zooberry.org/mods/zt2/animals/extinct/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Lost World Velociraptor</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/extinct/the-lost-world-velociraptor/</link>
+      <pubDate>Sat, 18 Nov 2023 04:22:30 -0800</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/the-lost-world-velociraptor/</guid>
+      <description>The vicious film raptor as it appeared in 1997&amp;rsquo;s The Lost World.</description>
+    </item>
+    
+    <item>
+      <title>Barbary Lion</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/extinct/barbary-lion/</link>
+      <pubDate>Fri, 10 Nov 2023 03:15:31 -0800</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/barbary-lion/</guid>
+      <description>Featuring juvenile stages!</description>
+    </item>
+    
+    <item>
+      <title>Dwarf Panda</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/extinct/dwarf-panda/</link>
+      <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/dwarf-panda/</guid>
+      <description>An extinct version of the giant panda, about half its size.</description>
+    </item>
+    
+    <item>
+      <title>Dire Wolf</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/extinct/dire-wolf/</link>
+      <pubDate>Tue, 18 Jul 2023 23:04:46 -0800</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/dire-wolf/</guid>
+      <description>Summary of the Nile Monitor project</description>
+    </item>
+    
+    <item>
+      <title>Platyhystrix</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/extinct/platyhystrix/</link>
+      <pubDate>Tue, 18 Jul 2023 23:04:46 -0800</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/platyhystrix/</guid>
+      <description>Platyhystrix, a little-known sailbacked amphibian from the permian, is now adoptable for your zoos!</description>
+    </item>
+    
+    <item>
+      <title>Sarcosuchus</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/extinct/sarcosuchus/</link>
+      <pubDate>Tue, 18 Jul 2023 23:04:46 -0800</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/sarcosuchus/</guid>
+      <description>Sarcosuchus was a giant crocodilian.</description>
+    </item>
+    
+  </channel>
+</rss>
