@@ -1,14 +1,49 @@
 {
     "results": [
     {
+    "href": "https://www.zooberry.org/mods/zt2/animals/living/exmoor-pony/",
+    "title": "Exmoor Pony",
+    "body": "=== From the ZooPedia \u0026ldquo;The Exmoor Pony is a hardy, sturdy breed of semi-feral pony, one of many of the mountain and moorland ponies of the British Isles. They are native to Exmoor, a large area of moorland in the counties of Devon and Cornwall. They are more genetically pure than their relatives, the Dartmoor pony, and are therefore more similar in their physical appearances. Their hardy nature means that they will eat poor quality grazing and by grazing over a wide area, spread biodiversity in their region. They are often kept on common land, which is unfenced, and branded to show ownership.\u0026rdquo;\n- Content courtesy of Wikipedia.\n=== Includes Exmoor Pony Exmoor Pony Gift === Other Requirements Requires the Moorland Biome to be installed. Note (11-19-2023): Will be added to ZooBerry soon with a link in this description. "
+    },
+    {
+    "href": "https://www.zooberry.org/mods/zt2/animals/living/red-fox/",
+    "title": "Red Fox",
+    "body": "The most widespread carnivore in the world is ready for your zoos! This version is smaller as it does not include the brand new sound files.\n"
+    },
+    {
+    "href": "https://www.zooberry.org/mods/zt2/animals/living/european-badger/",
+    "title": "European Badger",
+    "body": "=== From the Zoopedia \u0026ldquo;The general hue of its fur is grey above and black on the under parts with a distinctive black and white striped face and white-tipped ears. European badgers are around 70 cm long with a tail of about 20 cm and weigh 10 kg on average, but weights can vary enormously. Badgers do not hibernate, although in areas with cold winter climates they may become torpid for two or so days at a time having put on fat in the autumn to help them get through the winter months. In parts of Russia, badgers have been reported to weigh up to 42 kg in the autumn.\nSource: http://en.wikipedia.org/wiki/European_badger\n=== Other Credits European Badger skinned and coded by ShenTirag, with the model created by SilesianTomcat.\n"
+    },
+    {
     "href": "https://www.zooberry.org/mods/zt2/animals/animal-bundles/dicynodont-pack/",
     "title": "Dicynodont Pack",
     "body": "A pack of four dicynodonts, which are a group of therapsids the Permian and Triassic. A fifth animal- Sinokannemeyeria- is currently missing. Please contact AubreyKitsune or Goosifer if you manage to find it!\n=== Included in the Download Animals:\nKannemeyeria Prosictodon Robertia Uralokannemeyeria ==== Credits Bunyupy for the base model. ==== Known issues This pack is buggy as it has several detected issues. Robertia and Uralokannemeyeria are the least affected in a gameplay sense and are generally functional. Kannemeyeria and Prosictodon\u0026rsquo;s issues are more impactful, so be mindful if you decide to use them.\nThis download\u0026rsquo;s known issues are:\nAll four animals lack an icon, so a white square shows up in place of one. Kannemeyeria, Prosictodon, and Robertia are white before placement, but their skins appear as expected afterwards. Kannemeyeria and Uralokannemeyeria lack Zoopedia articles. Kannemeyeria and Prosictodon have no map location in-game. There is a strange quirk with the coding where Kannemeyeria is coded as \u0026ldquo;Pachyrhinosaurus,\u0026rdquo; Robertia is coded as \u0026ldquo;Nutria,\u0026rdquo; and Uralokannemeyeria is coded as \u0026ldquo;Centrosaurus.\u0026rdquo; This means that they will conflict with animals with the same codename. Although Prosictodon has both a Zoopedia article and a correct codename, it\u0026rsquo;s listed as a \u0026ldquo;European Beaver\u0026rdquo; in said article. Even though they will mate, Kannemeyeria and Prosictodon have bugged reproduction. They will \u0026ldquo;build a nest\u0026rdquo; and \u0026ldquo;give birth\u0026rdquo; respectively without any nests, eggs, or offspring appearing. Instead, the mother\u0026rsquo;s pregnancy status is removed without effect. This issue won\u0026rsquo;t appear naturally in gameplay due to the reproduction issue, but young Kannemeyeria forced through Thom\u0026rsquo;s cheat codes will have a young Triceratops model with a mismatched skin. Kannemeyeria were bad about fulfilling their needs during testing, particularly Privacy, and were prone to rampaging because of it. The Dino Capture Team was of no help so manual tranquilization may be required. "
     },
     {
+    "href": "https://www.zooberry.org/mods/zt2/animals/animal-bundles/hexaprotodon-pack/",
+    "title": "Hexaprotodon Pack",
+    "body": "Three extinct hippopotamids from the genus Hexaprotodon. The name Hexaprotodon was often applied to the pygmy hippopotamus before its reclassification into the genus Choeropsis. The genus has been historically applied to numerous fossil hippopotamus species spanning Asia, Africa and Europe.\n=== Included in the Pack ===\nAnimals:\nHexaprotodon Bruneti Hexaprotodon Simplex Hexaprotodon Sivalensis ==== Known issues ====\nAll three animals lack a Zoopedia article. Otherwise this download is completely functional and its gameplay is without any problems. "
+    },
+    {
     "href": "https://www.zooberry.org/mods/zt2/texture-mods/reskins/purple-hippos-reskins/",
     "title": "Purple Hippo's Reskins",
     "body": "Four animal reskins by Purple Hippo, bundled together. They have separate .z2f files so you can choose which ones you want. Previously only available directly from the ZT2 Download Library and uploaded at the author\u0026rsquo;s request.\n==== Included in the Pack ====\nAnimal Reskins:\nAfrican Elephant Hippopotamus Kemono Friends Aurochs Pygmy Hippopotamus "
+    },
+    {
+    "href": "https://www.zooberry.org/mods/zt2/animals/animal-bundles/rainbow-hippos/",
+    "title": "Rainbow Hippos",
+    "body": "An adorable pygmy hippo for every color of the rainbow! Maybe you like cute things or maybe you want some pride in your zoo, but either way, show your guests something they\u0026rsquo;ve never seen anywhere else.\n=== Included in the Pack ===\nAnimals:\nRed Hippo Orange Hippo Yellow Hippo Green Hippo Blue Hippo Navy Blue Hippo Purple Hippo ==== Known issues ====\nAll seven animals lack a Zoopedia article. Otherwise this download is completely functional and its gameplay is without any problems. "
+    },
+    {
+    "href": "https://www.zooberry.org/mods/zt2/animals/animal-bundles/rainbow-hippos-part-2-not-rainbow-hippos/",
+    "title": "Rainbow Hippos Part 2: NOT Rainbow Hippos",
+    "body": "What comes after the colors of the rainbow? The colors of the not rainbow apparently. These pygmy hippo recolors are just as cute as the rainbow hippos, and they\u0026rsquo;re just as unique.\n=== Included in the Pack ===\nAnimals:\nBlack Hippo Gray Hippo White Hippo Pink Hippo Fuschia Hippo Brown Hippo ==== Known issues ====\nAll six animals lack a Zoopedia article. Otherwise this download is completely functional and its gameplay is without any problems. "
+    },
+    {
+    "href": "https://www.zooberry.org/mods/zt2/animals/fictional/zzzanimal/",
+    "title": "zzzanimal",
+    "body": "ZG8gbm90IGRvd25sb2FkIHRoaXMu\nKeep some in mind with this download:\nIt has no Zoopedia. But why would it? It has no map location in-game. Because it is everywhere. It is so (blank) that it looks odd interacting with objects. It can\u0026rsquo;t rest in shelters that are too close to the zoo walls, or it will (blank) and crash the game. Such impenetrable boundaries are not enough to stop it. "
     },
     {
     "href": "https://www.zooberry.org/mods/zt2/objects/zootilities/animal-crossing-signs/",
