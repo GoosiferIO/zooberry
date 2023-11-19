@@ -796,6 +796,11 @@
     "body": "A trough with green meat in it.\nSee Also: Mystery Meat Dish and Mystery Meat Carcass.\n"
     },
     {
+    "href": "https://www.zooberry.org/mods/zt2/animals/animal-bundles/dicynodont-pack/",
+    "title": "Dicynodont Pack",
+    "body": "A pack of four dicynodonts, which are a group of therapsids the Permian and Triassic. A fifth animal- Sinokannemeyeria- is currently missing. Please contact AubreyKitsune or Goosifer if you manage to find it!\n=== Included in the Download Animals:\nKannemeyeria Prosictodon Robertia Uralokannemeyeria ==== Credits Bunyupy for the base model. ==== Known issues This pack is buggy as it has several detected issues. Robertia and Uralokannemeyeria are the least affected in a gameplay sense and are generally functional. Kannemeyeria and Prosictodon\u0026rsquo;s issues are more impactful, so be mindful if you decide to use them.\nThis download\u0026rsquo;s known issues are:\nAll four animals lack an icon, so a white square shows up in place of one. Kannemeyeria, Prosictodon, and Robertia are white before placement, but their skins appear as expected afterwards. Kannemeyeria and Uralokannemeyeria lack Zoopedia articles. Kannemeyeria and Prosictodon have no map location in-game. There is a strange quirk with the coding where Kannemeyeria is coded as \u0026ldquo;Pachyrhinosaurus,\u0026rdquo; Robertia is coded as \u0026ldquo;Nutria,\u0026rdquo; and Uralokannemeyeria is coded as \u0026ldquo;Centrosaurus.\u0026rdquo; This means that they will conflict with animals with the same codename. Although Prosictodon has both a Zoopedia article and a correct codename, it\u0026rsquo;s listed as a \u0026ldquo;European Beaver\u0026rdquo; in said article. Even though they will mate, Kannemeyeria and Prosictodon have bugged reproduction. They will \u0026ldquo;build a nest\u0026rdquo; and \u0026ldquo;give birth\u0026rdquo; respectively without any nests, eggs, or offspring appearing. Instead, the mother\u0026rsquo;s pregnancy status is removed without effect. This issue won\u0026rsquo;t appear naturally in gameplay due to the reproduction issue, but young Kannemeyeria forced through Thom\u0026rsquo;s cheat codes will have a young Triceratops model with a mismatched skin. Kannemeyeria were bad about fulfilling their needs during testing, particularly Privacy, and were prone to rampaging because of it. The Dino Capture Team was of no help so manual tranquilization may be required. "
+    },
+    {
     "href": "https://www.zooberry.org/mods/zt2/animals/living/fringe-eared-oryx/",
     "title": "Fringe Eared Oryx",
     "body": "The Fringe-Eared Oryx is a scrub dwelling antelope. It is a subspecies of gemsbok native to southern Africa.\n"
@@ -804,6 +809,11 @@
     "href": "https://www.zooberry.org/mods/zt2/animals/living/goral/",
     "title": "Goral",
     "body": "The Goral is an Asian Antelope\n"
+    },
+    {
+    "href": "https://www.zooberry.org/mods/zt2/texture-mods/reskins/purple-hippos-reskins/",
+    "title": "Purple Hippo's Reskins",
+    "body": "Four animal reskins by Purple Hippo, bundled together. They have separate .z2f files so you can choose which ones you want. Previously only available directly from the ZT2 Download Library and uploaded at the author\u0026rsquo;s request.\n==== Included in the Pack ====\nAnimal Reskins:\nAfrican Elephant Hippopotamus Kemono Friends Aurochs Pygmy Hippopotamus "
     },
     {
     "href": "https://www.zooberry.org/mods/zt2/objects/animal-enrichment-food-shelters/mystery-meat-dish/",
