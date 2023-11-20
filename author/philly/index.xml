@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>philly on ZooBerry</title>
+    <link>https://www.zooberry.org/author/philly/</link>
+    <description>Recent content in philly on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Nov 2023 13:10:12 -0800</lastBuildDate><atom:link href="https://www.zooberry.org/author/philly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Charming Cretaceous</title>
+      <link>https://www.zooberry.org/expansions-required/charming-cretaceous/</link>
+      <pubDate>Mon, 20 Nov 2023 13:10:12 -0800</pubDate>
+      
+      <guid>https://www.zooberry.org/expansions-required/charming-cretaceous/</guid>
+      <description>A pack containing 15 Cretaceous era, JPOG styled dinosaurs.</description>
+    </item>
+    
+  </channel>
+</rss>
