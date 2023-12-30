@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wolf Loving Bear Lover on ZooBerry</title><link>https://www.zooberry.org/author/wolf-loving-bear-lover/</link><description>Recent content in Wolf Loving Bear Lover on ZooBerry</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 24 Nov 2023 04:01:47 -0800</lastBuildDate><atom:link href="https://www.zooberry.org/author/wolf-loving-bear-lover/index.xml" rel="self" type="application/rss+xml"/><item><title>Black Lion</title><link>https://www.zooberry.org/mods/zt2/animals/fictional/black-lion/</link><pubDate>Fri, 24 Nov 2023 04:01:47 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/fictional/black-lion/</guid><description>The black lion is only known to exist in the realm of fiction, folklore, and photoshop hoaxes.</description></item><item><title>Black Bear</title><link>https://www.zooberry.org/mods/zt2/animals/living/black-bear/</link><pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/black-bear/</guid><description>The North American black bear is the best known and most widespread of the North American bears.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wolf Loving Bear Lover on ZooBerry</title>
+    <link>https://www.zooberry.org/author/wolf-loving-bear-lover/</link>
+    <description>Recent content in Wolf Loving Bear Lover on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Nov 2023 04:01:47 -0800</lastBuildDate><atom:link href="https://www.zooberry.org/author/wolf-loving-bear-lover/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Black Lion</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/fictional/black-lion/</link>
+      <pubDate>Fri, 24 Nov 2023 04:01:47 -0800</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/black-lion/</guid>
+      <description>The black lion is only known to exist in the realm of fiction, folklore, and photoshop hoaxes.</description>
+    </item>
+    
+    <item>
+      <title>Black Bear</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/black-bear/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/black-bear/</guid>
+      <description>The North American black bear is the best known and most widespread of the North American bears.</description>
+    </item>
+    
+  </channel>
+</rss>

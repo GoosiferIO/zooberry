@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mods on ZooBerry</title><link>https://www.zooberry.org/mods/</link><description>Recent content in Mods on ZooBerry</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 24 Nov 2023 04:01:47 -0800</lastBuildDate><atom:link href="https://www.zooberry.org/mods/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mods on ZooBerry</title>
+    <link>https://www.zooberry.org/mods/</link>
+    <description>Recent content in Mods on ZooBerry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Dec 2023 00:33:45 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/mods/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
