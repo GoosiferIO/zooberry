@@ -10,3 +10,4 @@ images/
 /**/*.dll
 
 hugo.toml
+*.lock
