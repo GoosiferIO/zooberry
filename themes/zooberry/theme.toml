@@ -1,0 +1,16 @@
+name = 'ZooBerry'
+license = 'MIT'
+licenselink = 'https://github.com/GoosiferIO/zooberry/LICENSE'
+description = 'A mod-hosting theme.'
+
+# The home page of the theme, where the source can be found
+homepage = 'https://github.com/GoosiferIO/zooberry'
+
+# Taxonomy terms
+tags = ['blog', 'company']
+features = ['some', 'awesome', 'features']
+
+# If the theme has a single author
+[author]
+  name = 'Eric Galvan'
+  homepage = 'https://github.com/GoosiferIO'
