@@ -3,3 +3,14 @@
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
 {{ partialCached "head/css.html" . }}
 {{ partialCached "head/js.html" . }}
+
+
+<!-- css stylesheets minify -->
+{{ $navigationStyle := resources.Get "css/navigation.css" }}
+{{ $containerStyle := resources.Get "css/container.css" }}
+{{ $sidebar_lStyle := resources.Get "css/sidebar_l.css" }}
+{{ $style := slice $navigationStyle $containerStyle $sidebar_lStyle | resources.Concat "css/styles.css" }}
+
+{{ $style := $style | resources.Minify | resources.Fingerprint }}
+
+<link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}" media="screen">
