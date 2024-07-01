@@ -8,9 +8,10 @@
     {{ partial "header.html" . }}
   </header>
   <section>
-    {{ block "sidebar_l" . }}{{ end }}
+    {{ partial "sidebar_l.html" . }}
   </section>
   <main>
+    <h1>{{ site.Title }}</h1>
     {{ block "main" . }}{{ end }}
   </main>
   <footer>
