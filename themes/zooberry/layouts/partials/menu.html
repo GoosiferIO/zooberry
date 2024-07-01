@@ -18,11 +18,30 @@ Renders a menu for the given menu ID.
           <img src="http://localhost:1313/logo.png" alt="logo" />
         </a>
       </li>
-      {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
+      <li class="dropdown">
+        <a href="#" class="dropbtn">Services</a>
+        <div class="dropdown-content">
+            <a href="#">Web Design</a>
+            <a href="#">SEO</a>
+            <a href="#">Marketing</a>
+        </div>
+      </li>
+      {{ $currentPage := . }}
+      {{ range . }}
+      <li class="dropdown {{ .Params.class }}">
+          <a class="dropbtn" href="{{ .URL | relURL }}">{{ .Name }}</a>
+          <div class="dropdown-content">
+            <a href="#">Web Design</a>
+            <a href="#">SEO</a>
+            <a href="#">Marketing</a>
+        </div>
+
+      </li>
+      {{ end }}
       <li class="nav-right">
-        <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Us on Ko-fi', '#317dc2', 'U7U6UXNXD');kofiwidget2.draw();</script>       </li>
+        <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Us on Ko-fi', '#317dc2', 'U7U6UXNXD');kofiwidget2.draw();</script>       
+      </li>
     </ul>
-  </nav>
 {{- end }}
 
 {{- define "partials/inline/menu/walk.html" }}
@@ -56,3 +75,4 @@ Renders a menu for the given menu ID.
     </li>
   {{- end }}
 {{- end }}
+</nav>

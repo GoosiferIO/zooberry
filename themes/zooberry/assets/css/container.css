@@ -1,6 +1,15 @@
+
+/* .space-grotesk-<uniquifier> {
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+} */
+
+
 body {
-  color: #222;
-  font-family: 'Roboto', sans-serif;
+  color: #e0e1dd;
+  font-family: "DM Sans", "Space Grotesk", 'Roboto', sans-serif;
   line-height: 1.5;
   margin: 0;
   background: #223049;
@@ -23,4 +32,16 @@ a {
 
 a:hover {
   color: #b85454;
+}
+
+main {
+  margin: 4rem 0 0 250px;
+  padding: 2rem;
+}
+
+.content {
+  /* have all blocks inside fit side-by-side */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
