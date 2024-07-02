@@ -73,6 +73,9 @@ nav {
   border: none;
   cursor: pointer;
   outline: none;
+  opacity: 1;
+  z-index: 1;
+
 }
 
 .dropdown-content {
@@ -93,10 +96,6 @@ nav {
   border-radius: 0 0 0.5rem 0.5rem;
 }
 
-.dropdown-content li {
-  background-color: #fff;
-}
-
 .dropdown-content a {
   padding: 1rem;
   margin-bottom: 0.5rem;
@@ -107,7 +106,7 @@ nav {
 }
 
 .dropdown-content a:hover {
-  background: #1b263b;
+  background: #09141f;
   border-radius: 5px;
   text-shadow: none;
 }

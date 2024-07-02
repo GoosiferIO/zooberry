@@ -10,7 +10,7 @@
   --space-grotesk: "Space Grotesk", sans-serif;
   --dm-sans: "DM Sans", sans-serif;
 
-  /* Colors */
+  /* Colors Swatches */
   --primary-bg: #223049;
   --secondary-bg: #1b263b;
   --shade-bg: #0d1b2a;
@@ -18,6 +18,18 @@
   --secondary-border: #324363;
   --font-color: #e0e1dd;
   --link-color: #fff;
+
+  /* Categorical Colors */
+  --animals: #276d8b;
+  --assets: #a8437e;
+  --biomes: #774949;
+  --hacks: #523792;
+  --maps: #889229;
+  --objects: #2e803c;
+  --packs: #744a23;
+  --remakes: #b85454;
+  --texture-mods: #86334f;
+  --tools-utilities: #7e5b33;
 }
 
 
