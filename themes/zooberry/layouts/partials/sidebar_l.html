@@ -7,7 +7,7 @@
             <ul class="side-ul">
             {{ $currentPage := . }}
             {{ range . }}
-                <li class="side-li-{{ .Name | urlize }}">
+                <li class="side-li side-li-{{ .Name | urlize }}">
                     <a href="{{ .PageRef }}">{{ .Name }}</a>
                 </li>
             {{ end }}
@@ -19,7 +19,19 @@
             <ul class="side-ul">
             {{ $currentPage := . }}
             {{ range . }}
-                <li class="side-li-{{ .Name | urlize }}">
+                <li class="side-li side-li-{{ .Name | urlize }}">
+                    <a href="{{ .PageRef }}">{{ .Name }}</a>
+                </li>
+            {{ end }}
+            </ul>
+    {{- end }}
+    <h3>Filters</h3>
+
+    {{- with index site.Menus "filters" }}
+            <ul class="side-ul">
+            {{ $currentPage := . }}
+            {{ range . }}
+                <li>
                     <a href="{{ .PageRef }}">{{ .Name }}</a>
                 </li>
             {{ end }}
