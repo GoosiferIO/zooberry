@@ -20,7 +20,23 @@ Renders a menu for the given menu ID.
       </li>
       {{ $currentPage := . }}
       {{ range . }}
-      <div class="dropdown">
+        {{ if .HasChildren }}
+          <div class="dropdown">
+            <li class="{{ .Params.class }}">
+              <a class="dropbtn" href="{{ .URL | relURL }}">{{ .Name }}</a>
+              <div class="dropdown-content">
+                {{ range .Children }}
+                  <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+                {{ end }}
+              </div>
+            </li>
+          </div>
+        {{ else }}
+          <li>
+            <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+          </li>
+        {{ end }}
+      <!-- <div class="dropdown">
         <li class="{{ .Params.class }}">
           <a class="dropbtn" href="{{ .URL | relURL }}">{{ .Name }}</a>
           <div class="dropdown-content">
@@ -29,7 +45,7 @@ Renders a menu for the given menu ID.
             <a href="#">Marketing</a>
           </div>
         </li>
-      </div>
+      </div> -->
       {{ end }}
       <li class="nav-right">
         <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Us on Ko-fi', '#317dc2', 'U7U6UXNXD');kofiwidget2.draw();</script>       

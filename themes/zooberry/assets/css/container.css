@@ -6,32 +6,43 @@
   font-style: normal;
 } */
 
+:root {
+  --space-grotesk: "Space Grotesk", sans-serif;
+  --dm-sans: "DM Sans", sans-serif;
+
+  /* Colors */
+  --primary-bg: #223049;
+  --secondary-bg: #1b263b;
+  --shade-bg: #0d1b2a;
+  --accent-bg: #b85454;
+  --secondary-border: #324363;
+  --font-color: #e0e1dd;
+  --link-color: #fff;
+}
+
 
 body {
-  color: #e0e1dd;
+  color: var(--font-color);
   font-family: "DM Sans", "Space Grotesk", 'Roboto', sans-serif;
   line-height: 1.5;
   margin: 0;
-  background: #223049;
-}
-
-header {
-  border-bottom: 1px solid #222;
-  margin-bottom: 1rem;
+  background: var(--primary-bg);
 }
 
 footer {
   border-top: 1px solid #222;
   margin-top: 1rem;
+  margin: 4rem 0 0 300px;
+  padding: 1rem;
 }
 
 a {
-  color: #fff;
+  color: var(--link-color);
   text-decoration: none;
 }
 
 a:hover {
-  color: #b85454;
+  color: var(--accent-bg);
 }
 
 main {
