@@ -6,7 +6,7 @@ images/
 /**/*.jpeg
 /**/*.webp
 /**/*.z2f
-/**/*.z2d
+/**/*.ztd
 /**/*.dll
 
 hugo.toml

@@ -7,13 +7,15 @@
   <header>
     {{ partial "header.html" . }}
   </header>
-  <section>
-    {{ partial "sidebar_l.html" . }}
-  </section>
-  <main>
-    <h1>{{ site.Title }}</h1>
-    {{ block "main" . }}{{ end }}
-  </main>
+  <div class="content">
+    <section>
+      {{ partial "sidebar_l.html" . }}
+    </section>
+    <main>
+      <h1>{{ site.Title }}</h1>
+      {{ block "main" . }}{{ end }}
+    </main>
+  </div>
   <footer>
     {{ partial "footer.html" . }}
   </footer>
