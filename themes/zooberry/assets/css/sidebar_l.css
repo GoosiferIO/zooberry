@@ -1,6 +1,6 @@
 .sidebar {
     position: fixed;
-    padding-top:4rem;
+    padding-top: 5rem;
     top: 0;
     left: 0;
     bottom: 0;
@@ -20,3 +20,75 @@
     margin-right: 3rem;
 }
 
+.sidebar h3 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--font-color);
+    padding: 0.5rem 0 0.5rem 2rem;
+    margin: 1rem;
+    background-color: var(--shade-bg);
+    border-radius: 0.5rem;
+}
+
+.sidebar ul {
+    list-style: none; /* Remove default list style */
+    padding: 0 0 0 2rem;
+}
+
+.sidebar li {
+    position: relative;
+    line-height: 1.8rem;
+    padding-left: 1.2em; /* Adjust based on the size of your bullet */
+}
+
+
+
+.sidebar li::before {
+    content: '•'; /* Use a bullet character or any custom symbol */
+    font-size: 2.5rem; /* Increase the size of the bullet point */
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    color: black; /* Set bullet color */
+}
+
+li.side-li-animals::before {
+    color: var(--animals);
+}
+
+li.side-li-assets::before {
+    color: var(--assets);
+}
+
+li.side-li-biomes::before {
+    color: var(--biomes);
+}
+
+li.side-li-hacks::before {
+    color: var(--hacks);
+}
+
+li.side-li-maps::before {
+    color: var(--maps);
+}
+
+li.side-li-objects::before {
+    color: var(--objects);
+}
+
+li.side-li-packs::before, li.side-li-expansive-packs::before {
+    color: var(--packs);
+}
+
+li.side-li-remakes::before {
+    color: var(--remakes);
+}
+
+li.side-li-texture-mods::before {
+    color: var(--texture-mods);
+}
+
+li.side-li-tools-and-utilities::before {
+    color: var(--tools-utilities);
+}

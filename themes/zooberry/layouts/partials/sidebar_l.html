@@ -1,145 +1,28 @@
 <div class="sidebar">
     <h3>Zoo Tycoon 1</h3>
-    <ul>
-        {{- define "partials/inline/menu/walk.html" }}
-            {{- $page := .page }}
-            {{- range .menuEntries }}
-                {{- $attrs := dict "href" .URL }}
-                {{- if $page.IsMenuCurrent .Menu . }}
-                    {{- $attrs = merge $attrs (dict "class" "active" "aria-current" "page") }}
-                {{- else if $page.HasMenuCurrent .Menu .}}
-                    {{- $attrs = merge $attrs (dict "class" "ancestor" "aria-current" "true") }}
-                {{- end }}
-                {{- $name := .Name }}
-                {{- with .Identifier }}
-                    {{- with T . }}
-                        {{- $name = . }}
-                    {{- end }}
-                {{- end }}
-                <li>
-                    <a
-                        {{- range $k, $v := $attrs }}
-                            {{- with $v }}
-                                {{- printf " %s=%q" $k $v | safeHTMLAttr }}
-                            {{- end }}
-                        {{- end -}}
-                    >{{ $name }}</a>
-                    {{- with .Children }}
-                        <ul>
-                            {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
-                        </ul>
-                    {{- end }}
+    {{- $page := .page }}
+    {{- $menuID := .menuID }}
+    
+    {{- with index site.Menus "zt1" }}
+            <ul class="side-ul">
+            {{ $currentPage := . }}
+            {{ range . }}
+                <li class="side-li-{{ .Name | urlize }}">
+                    <a href="{{ .PageRef }}">{{ .Name }}</a>
                 </li>
-            {{- end }}
-        {{- end }}
-        <!-- fill with menu items -->
-        <ul>
-            <li>
-                <a href="http://localhost:1313/zooberry/zoos">Zoos</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/animals">Animals</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/objects">Objects</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/scenarios">Scenarios</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/cheats">Cheats</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/downloads">Downloads</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/links">Links</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/zoos">Zoos</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/animals">Animals</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/objects">Objects</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/scenarios">Scenarios</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/cheats">Cheats</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/downloads">Downloads</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/links">Links</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/zoos">Zoos</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/animals">Animals</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/objects">Objects</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/scenarios">Scenarios</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/cheats">Cheats</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/downloads">Downloads</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/links">Links</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/zoos">Zoos</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/animals">Animals</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/objects">Objects</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/scenarios">Scenarios</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/cheats">Cheats</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/downloads">Downloads</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/links">Links</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/zoos">Zoos</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/animals">Animals</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/objects">Objects</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/scenarios">Scenarios</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/cheats">Cheats</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/downloads">Downloads</a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/zooberry/links">Links</a>
-            </li>
+            {{ end }}
+            </ul>
+    {{- end }}
+    <h3>Zoo Tycoon 2</h3>
 
-        </ul>
-    </ul>   
+    {{- with index site.Menus "zt2" }}
+            <ul class="side-ul">
+            {{ $currentPage := . }}
+            {{ range . }}
+                <li class="side-li-{{ .Name | urlize }}">
+                    <a href="{{ .PageRef }}">{{ .Name }}</a>
+                </li>
+            {{ end }}
+            </ul>
+    {{- end }}
 </div>
