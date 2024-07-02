@@ -60,6 +60,9 @@ a:hover {
 main {
   margin: 4rem 0 0 250px;
   padding: 2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 .content {
@@ -67,4 +70,11 @@ main {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+}
+
+.body-content {
+  margin-right: 2rem;
+  float:right;
+  max-width: 1500px;
+  width: 70%;
 }

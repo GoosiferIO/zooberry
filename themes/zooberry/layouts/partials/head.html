@@ -9,7 +9,8 @@
 {{ $navigationStyle := resources.Get "css/navigation.css" }}
 {{ $containerStyle := resources.Get "css/container.css" }}
 {{ $sidebar_lStyle := resources.Get "css/sidebar_l.css" }}
-{{ $style := slice $navigationStyle $containerStyle $sidebar_lStyle | resources.Concat "css/styles.css" }}
+{{ $sidebar_rStyle := resources.Get "css/sidebar_r.css" }}
+{{ $style := slice $navigationStyle $containerStyle $sidebar_lStyle $sidebar_rStyle | resources.Concat "css/styles.css" }}
 
 {{ $style := $style | resources.Minify | resources.Fingerprint }}
 
