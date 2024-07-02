@@ -9,7 +9,7 @@
   </header>
   <div class="content">
     <section>
-      {{ partial "sidebar_l.html" . }}
+      {{ partial "sidebar_l.html" (dict "menuID" "zt1" "page" .) }}
     </section>
     <main>
       <h1>{{ site.Title }}</h1>
