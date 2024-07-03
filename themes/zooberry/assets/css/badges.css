@@ -1,0 +1,18 @@
+.badge-default {
+    background-color: var(--shade-bg);
+    color: #333;
+    padding: 0.2rem 0.5rem;
+    border-radius: 0.3rem;
+    font-size: 0.8rem;
+    border: 1px solid var(--secondary-border);
+}
+
+.badge-animals {
+    background-color: var(--animals);
+    color: var(--font-color);
+    padding: 0.2rem 0.5rem;
+    border-radius: 0.3rem;
+    font-size: 0.8rem;
+    border: 1px solid var(--secondary-border);
+}
+
