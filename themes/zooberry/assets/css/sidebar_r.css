@@ -1,12 +1,15 @@
 .sidebar_r {
     width: 30%;
-    float: right;
     display: block;
     background: var(--primary-bg);
     border-radius: 5px;
     border: 1px solid var(--secondary-border);
     padding: 0 0.5rem;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    min-width: 400px;
+    position: -webkit-sticky; /* For Safari */
+    position: sticky;
+    align-self: flex-start;
 }
 
 .sidebar_r-inner {
