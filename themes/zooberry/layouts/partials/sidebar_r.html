@@ -1,0 +1,41 @@
+<div class="sidebar_r">
+    <div class="sidebar_r-inner">
+        <span class="sidebar_r-title">Latest Mods</span>
+        {{- with index site.Menus "zt1" }}
+            <ul class="side-ul">
+                {{ $currentPage := . }}
+                {{ range . }}
+                    <li class="side-li-{{ .Name | urlize }}">
+                        <a href="{{ .PageRef }}">{{ .Name }}</a>
+                    </li>
+                {{ end }}
+            </ul>
+        {{- end }}
+    </div>
+    <div class="sidebar_r-inner">
+        <span class="sidebar_r-title">Knowledgebase</span>
+        {{- with index site.Menus "mpknowledgebase" }}
+        <ul class="side-ul">
+            {{ $currentPage := . }}
+            {{ range . }}
+                <li class="side-li-{{ .Name | urlize }}">
+                    <a href="{{ .PageRef }}">{{ .Name }}</a>
+                </li>
+            {{ end }}
+        </ul>
+        {{- end }}
+    </div>
+    <div class="sidebar_r-inner">
+        <span class="sidebar_r-title">Related Projects</span>
+        {{- with index site.Menus "mprelatedprojects" }}
+        <ul class="side-ul">
+            {{ $currentPage := . }}
+            {{ range . }}
+                <li class="side-li-{{ .Name | urlize }}">
+                    <a href="{{ .PageRef }}">{{ .Name }}</a>
+                </li>
+            {{ end }}
+        </ul>
+        {{- end }}
+    </div>
+</div>

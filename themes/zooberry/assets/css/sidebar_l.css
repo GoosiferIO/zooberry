@@ -31,26 +31,29 @@
 }
 
 .sidebar ul {
-    list-style: none; /* Remove default list style */
-    padding: 0 0 0 2rem;
+    list-style: none; 
+    padding: 0 2rem 0 2rem;
 }
 
 .sidebar li {
     position: relative;
     line-height: 1.8rem;
-    padding-left: 1.2em; /* Adjust based on the size of your bullet */
+    padding-left: 1.2em; 
+    border-radius: 0.5rem;
 }
 
+.sidebar li:hover {
+    background-color: var(--primary-bg);
+}
 
-
-.sidebar li::before {
-    content: '•'; /* Use a bullet character or any custom symbol */
-    font-size: 2.5rem; /* Increase the size of the bullet point */
+li.side-li::before {
+    content: '•'; 
+    font-size: 2.5rem; 
     position: absolute;
     left: 0;
     top: 50%;
     transform: translateY(-50%);
-    color: black; /* Set bullet color */
+    color: black;
 }
 
 li.side-li-animals::before {

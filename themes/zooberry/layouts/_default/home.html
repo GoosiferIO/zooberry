@@ -1,7 +1,13 @@
 {{ define "main" }}
+<div class="body-content">
   {{ .Content }}
+    {{ .Content }}
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
     {{ .Summary }}
   {{ end }}
+  </div>
+  {{ partial "sidebar_r.html" . }}
 {{ end }}
+
+
