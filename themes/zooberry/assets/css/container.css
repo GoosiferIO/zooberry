@@ -79,8 +79,49 @@ main {
   width: 70%;
 }
 
+.box-frontpage {
+  border-radius: 5px;
+  border: 1px solid var(--secondary-border);
+  padding: 1rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background: url(/bear.webp) no-repeat top -2rem right -6rem / 50%;
+}
+
+.box-frontpage p {
+  width: 70%;
+}
+
+.button-dft {
+  background: var(--accent-bg);
+  color: var(--font-color);
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  text-align: center;
+  display: inline-block;
+  margin: 1rem 0;
+  box-shadow:rgba(0, 0, 0, 0.1) -5px 5px 0;
+}
+
+.button-dft:hover {
+  background: #a54b4b;
+  color: var(--font-color);
+}
+
+.button-dft:active {
+  background: #a54b4b;
+  box-shadow: rgba(0, 0, 0, 1) -1px 1px 2px;
+  color: var(--font-color);
+  transform: translateY(2px);
+  text-shadow: #fa8e00 0 0 13px; 
+}
+
+.margin-rt {
+  margin-right: 1rem;
+}
+
 code {
-  color: var(--accent-bg);
+  color: var(--font-color);
+  background: var(--secondary-bg);
   padding: 0.2rem 0.4rem;
   border-radius: 0.3rem;
   font-family: 'Courier New', Courier, monospace;

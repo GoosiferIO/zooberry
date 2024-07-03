@@ -1,11 +1,29 @@
 {{ define "main" }}
 <div class="body-content">
-  {{ .Content }}
+  <div class="box-frontpage">
+      {{ .Content }}
+      <a href="#" class="button-dft margin-rt">Learn More About ZooBerry</a>
+      <a href="#" class="button-dft margin-rt">Contribute to ZooBerry</a>
+      <a href="#" class="button-dft margin-rt">Browse Mods</a>
+
+  </div>
+
+  <h1>Latest Mods</h1>
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
     {{ .Summary }}
   {{ end }}
-  </div>
+  <h1>Latest Blog Posts</h1>
+  {{ range site.RegularPages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ .Summary }}
+  {{ end }}
+  <h1>Latest Knowledgebase Articles</h1>
+  {{ range site.RegularPages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ .Summary }}
+  {{ end }}
+</div>
   {{ partial "sidebar_r.html" . }}
 {{ end }}
 
