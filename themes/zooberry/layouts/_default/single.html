@@ -12,11 +12,14 @@
     {{/*  breadcrumbs  */}}
     {{ partial "breadcrumbs.html" . }}
     <h1>{{.Title}}</h1>
-    <p class="post-meta">By 
+    <div class="post-meta">By 
       {{ range .Params.author }}
           <a href="/author/">{{ . }}</a>
       {{ end }}
-    </p>
+
+      <div class="button-dft margin-rt flt-rt">Download</div> 
+
+    </div>
     {{ partial "galleria.html" . }}
     <div class="box-frontpage">
         {{ .Content }}

@@ -4,12 +4,12 @@
     {{ range $images }}
         {{ if not (strings.Contains .Name "_thumb.jpg") }}
             {{ $imageURL := path.Join $.Site.Params.cdnfs $.RelPermalink "" (. | relURL) }}
-            <a href="{{print "https://"}}{{ $imageURL }}"><img src="{{print "https://"}}{{ $imageURL }}" alt="{{ $.Params.summary }}" /></a>
+            <a href="{{ $imageURL }}"><img src="{{ $imageURL }}" data-title="{{ $.Params.Title }}" data-description="{{ $.Params.summary }}"></a>
         {{ end }}
     {{ end }}
     <script>
         (function() {
-            Galleria.loadTheme('{{ .Site.BaseURL }}js/scripts.js');
+            Galleria.loadTheme('{{ .Site.BaseURL }}js/galleria.twelve.js');
             Galleria.run('.galleria');
         }());
     </script>

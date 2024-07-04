@@ -5,8 +5,6 @@
  * Licensed under the MIT License.
  */
 
-import 'galleria/galleria.twelve.css'
-
 ( function( window, factory ) {
     if ( typeof define == 'function' && define.amd ) {
         define( ['./', 'jquery' ], function( Galleria, jQuery ) {
