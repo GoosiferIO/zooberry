@@ -28,6 +28,7 @@
   /* Table Colors */
   --tbody-bg: var(--shade-bg);
   --thead-bg: var(--shade-bg);
+  --thead-bg-alt: #cbd9b6;
 
   /* Buttons */
   --kofi: #29abe2;
@@ -70,6 +71,7 @@
   /* Table Colors */
   --tbody-bg: #bace9c;
   --thead-bg: #bace9c;
+  --thead-bg-alt: #cbd9b6;
 
   /* Images */
   --logo: url('/logo-lt.png') no-repeat !important;
@@ -106,6 +108,7 @@ main {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  width: 100%;
 }
 
 .content {
@@ -113,11 +116,12 @@ main {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  max-width: 2000px;
+  margin: 0 auto;
 }
 
 .body-content {
   margin-right: 2rem;
-  float:right;
   max-width: 1500px;
   width: 70%;
 }

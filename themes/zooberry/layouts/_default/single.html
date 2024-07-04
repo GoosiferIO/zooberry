@@ -17,16 +17,56 @@
           <a href="/author/">{{ . }}</a>
       {{ end }}
 
-      <div class="button-dft margin-rt flt-rt">Download</div> 
+      <a class="button-dft margin-rt flt-rt" href="#">Download</a> 
 
     </div>
-    {{ partial "galleria.html" . }}
-    <div class="box-frontpage">
-        {{ .Content }}
-        <a href="#" class="button-dft margin-rt">Learn More About ZooBerry</a>
-        <a href="#" class="button-dft margin-rt">How to Contribute</a>
-        <a href="#" class="button-dft margin-rt">Browse Mods</a>
-  
+    <div class="post-content">
+      {{ partial "galleria.html" . }}
+
+      <div class="mod-meta">
+        <table>
+          <tr>
+            <td>Game</td>
+            <td>{{ .Params.game }}</td>
+          </tr>
+          <tr class="tr-alt">
+            <td>Required Expansions</td>
+            <td>{{ partial "class-reqexp.html" . }}</td>
+          </td>
+          <tr>
+            <td>File Size</td>
+            <td>{{ .Params.file_size }}</td>
+          </tr>
+          <tr class="tr-alt">
+            <td>Original Release</td>
+            <td>{{ .Params.orig_rel_date }}</td>
+          </tr>
+          <tr>
+            <td>Archive Date</td>
+            <td>{{ .Params.Date | time.Format "2006-01-02" }}</td>
+          </tr>
+          <tr class="tr-alt">
+            <td>Original Platform</td>
+            <td>{{ .Params.orig_rel_at }}</td>
+          </tr>
+          <tr>
+            <td>Author Allows Derivative Works?</td>
+            <td>{{ .Params.license }}</td>
+          </tr>
+          <tr class="tr-alt">
+            <td>Languages</td>
+            <td>{{ partial "class-languages.html" . }}</td>
+          </tr>
+          <tr>
+            <td colspan="2">Description</td>
+          </tr>
+          <tr class="tr-alt">
+            <td colspan="2" class="td-desc">{{ .Content }}</td>
+          </tr>
+
+        </table>
+        {{/*  table example:  */}}
+      </div>
     </div>
   
     <h1>Latest Mods</h1>

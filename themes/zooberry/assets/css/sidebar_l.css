@@ -27,7 +27,7 @@
     padding: 0.5rem 0 0.5rem 2rem;
     margin: 1rem;
     background-color: var(--thead-bg);
-    border-radius: 0.5rem;
+    border-radius: 5px;
 }
 
 .sidebar ul {

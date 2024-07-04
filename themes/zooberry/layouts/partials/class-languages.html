@@ -1,0 +1,22 @@
+{{ if .Params.languages }}
+{{ range .Params.languages }}
+<span class="mod-lang">
+        <!-- List of languages -->
+         {{ if eq . "English" }}
+                <img src="https://cdn.goosifer.io/zb/images/lang/en.png" style="width: unset; vertical-align: middle;" width="20" height="20" alt="English" title="English" /> 
+        {{ else if eq . "French" }}
+                <img src="https://cdn.goosifer.io/zb/images/lang/fr.png" style="width: unset; vertical-align: middle;" width="20" height="20" alt="French" title="French" />
+        {{ else if eq . "German" }}
+                <img src="https://cdn.goosifer.io/zb/images/lang/de.png" style="width: unset; vertical-align: middle;" width="20" height="20" alt="German" title="German" />
+        {{ else if eq . "Spanish" }}
+                <img src="https://cdn.goosifer.io/zb/images/lang/es.png" style="width: unset; vertical-align: middle;" width="20" height="20" alt="Spanish" title="Spanish" />
+        {{ else if eq . "Japanese" }}
+                <img src="https://cdn.goosifer.io/zb/images/lang/ja.png" style="width: unset; vertical-align: middle;" width="20" height="20" alt="Japanese" title="Japanese" />
+        {{ else if eq . "Dutch" }}
+                <img src="https://cdn.goosifer.io/zb/images/lang/nl.png" style="width: unset; vertical-align: middle;" width="20" height="20" alt="Dutch" title="Dutch" /> 
+        {{ end}}
+</span>
+{{ end }}
+{{ else }}
+Not Applicable
+{{ end }}
