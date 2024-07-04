@@ -10,6 +10,7 @@
     position: -webkit-sticky; /* For Safari */
     position: sticky;
     align-self: flex-start;
+    top: 6rem;
 }
 
 .sidebar_r-inner {

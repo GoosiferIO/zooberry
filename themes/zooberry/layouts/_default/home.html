@@ -13,15 +13,7 @@
     <a href="mods" class="button-dft margin-rt">More from Latest</a>
     <a href="mods" class="button-dft margin-rt">Browse All Mods</a>
   <h1>Latest Blog Posts</h1>
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
-  {{ end }}
   <h1>Latest Knowledgebase Articles</h1>
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
-  {{ end }}
 </div>
   {{ partial "sidebar_r.html" . }}
 {{ end }}
