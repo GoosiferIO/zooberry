@@ -1,0 +1,55 @@
+---
+title: "Atlantean Fountain Asset Pack"
+has_author: true
+author: 
+- Goosifer
+game: Zoo Tycoon 1
+exp_req: 
+file_size: 12.58 MB
+file_date: 2023-08-15
+orig_rel_date: 2023-08-15
+date: 2023-08-15T02:49:24-07:00
+orig_rel_at: 
+- ZooBerry
+draft: false
+license: CC BY-NC-SA 4.0
+alt_text: 
+languages:
+summary: "This bundle includes all assets used in the creation of the Zoo Tycoon 1 Atlantean Fountain mod by Goosifer."
+
+---
+
+# Atlantean Fountain Assets by Goosifer
+
+This bundle includes all assets used in the creation of the Zoo Tycoon 1 Atlantean Fountain mod by Goosifer. You are welcome to use these assets in your own Zoo Tycoon or non-Zoo Tycoon-related projects. Please see the terms below.
+
+The bundle includes:
+
+- Sprites and frames for all views and animations
+- The PSD file used to process the frames.
+- The 3D model as a .blend file
+
+To download the Atlantean Fountain mod itself, visit this link: https://www.zooberry.org/mods/zt1/objects/atlantean-fountain/
+
+For a link to the original progress thread: https://forums.zooberry.org/t/atlantean-fountain-by-goosifer/
+
+# License
+
+All art assets used to create this mod are original works made by Goosifer. I release all of my assets, including any sprites, PSD files, 3D models, image textures under CC BY-NC-SA 4.0. This means you are welcome to use them for your own mods.
+
+For a human-readable summary of the CC BY-NC-SE 4.0:
+
+You are free to
+
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- NonCommercial — You may not use the material for commercial purposes.
+- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+For more information, please visit: http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Legal code: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode

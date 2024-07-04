@@ -11,12 +11,8 @@ nav {
     flex-direction: row;
     justify-content: space-between;
     z-index: 1001;
-    opacity: 0.9;
     backdrop-filter: blur(5px);
     -webkit-backdrop-filter: blur(5px);
-  }
-
-  nav:hover {
   }
 
   nav a {
@@ -26,6 +22,7 @@ nav {
     display: inline-block;
     padding: 0 1rem;
     line-height: 4rem;
+    transition: all 0.3s ease 0s;
   }
 
   nav a:hover {
@@ -47,6 +44,7 @@ nav {
     margin: 0;
     padding: 0;
     position: relative;
+    transition: all 0.3s ease 0s;
   }
 
 .nav-right {
@@ -54,12 +52,17 @@ nav {
     padding-right: 5rem;
 }
 
-.nav-logo {
-    background: url('logo.png') no-repeat;
-  }
+.nav-logo a {
+    display: inline-block;
+    width: 110px;
+    height: 41px;
+    background: var(--logo) center center;
+    line-height: 100%;
+    padding-bottom: 1rem;
+}
 
-.nav-logo img {
-    padding-top: 1rem;
+.nav-logo a:hover {
+    background-color: #d1c18c;
 }
 
 
@@ -81,18 +84,18 @@ nav {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #0d1b2a;
+  background-color: var(--shade-bg);
   min-width: 200px; /* Custom width */
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  box-shadow: -4px 2px 0 0 rgba(0,0,0,0.2);
   z-index: 1;
   top: 100%; /* Position below the parent */
   left: 0;
   padding: 1rem; /* Add padding for better styling */
   margin-top: 1.35rem;
-  border-top: 2px solid #0d1b2a;
-  border-right: 2px solid #b85454;
-  border-bottom: 2px solid #b85454;
-  border-left: 2px solid #b85454;
+  border-top: 2px solid var(--shade-bg);
+  border-right: 2px solid var(--accent-bg);
+  border-bottom: 2px solid var(--accent-bg);
+  border-left: 2px solid var(--accent-bg);
   border-radius: 0 0 0.5rem 0.5rem;
 }
 
@@ -106,7 +109,7 @@ nav {
 }
 
 .dropdown-content a:hover {
-  background: #09141f;
+  background: var(--accent-bg);
   border-radius: 5px;
   text-shadow: none;
 }
