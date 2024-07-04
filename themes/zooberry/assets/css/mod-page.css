@@ -1,0 +1,42 @@
+.post-content {
+    padding: 1rem;
+    background: var(--primary-bg);
+    border: 1px solid var(--secondary-border);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+}
+
+.post-content table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.mod-meta {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-top: 1px solid var(--secondary-border);
+    border-radius: 3px;
+    font-size: 14px;
+    line-height: 1.5;
+    display: block;
+}
+
+.mod-meta tr {
+    text-align: left;
+}
+
+.mod-meta td {
+    padding: 0.4rem;
+}
+
+.tr-alt {
+    background: var(--thead-bg-alt);
+}
+
+.td-desc {
+    border: var(--secondary-border);
+    border-radius: 5px;
+}
