@@ -1,10 +1,38 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+  {{/*  <h1>{{ .Title }}</h1>
 
   {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
   {{ $dateHuman := .Date | time.Format ":date_long" }}
   <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
 
   {{ .Content }}
-  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}  */}}
+
+  <div class="body-content">
+    {{/*  breadcrumbs  */}}
+    {{ partial "breadcrumbs.html" . }}
+    <h1>{{.Title}}</h1>
+    <p class="post-meta">By 
+      {{ range .Params.author }}
+          <a href="/author/">{{ . }}</a>
+      {{ end }}
+    </p>
+    {{ partial "galleria.html" . }}
+    <div class="box-frontpage">
+        {{ .Content }}
+        <a href="#" class="button-dft margin-rt">Learn More About ZooBerry</a>
+        <a href="#" class="button-dft margin-rt">How to Contribute</a>
+        <a href="#" class="button-dft margin-rt">Browse Mods</a>
+  
+    </div>
+  
+    <h1>Latest Mods</h1>
+      {{ partial "range-mods.html" . }}
+      <a href="mods" class="button-dft margin-rt">More from Latest</a>
+      <a href="mods" class="button-dft margin-rt">Browse All Mods</a>
+    <h1>Latest Blog Posts</h1>
+    <h1>Latest Knowledgebase Articles</h1>
+  </div>
+    {{ partial "sidebar_r.html" . }}
+  
 {{ end }}

@@ -49,7 +49,7 @@ Renders a menu for the given menu ID.
       {{ end }}
       <li class="nav-right">
         <button class="theme-switch" id="toggle"></button>
-        <script type='text/javascript' src='theme-switch.js'></script>
+        <script type='text/javascript' src='{{ "theme-switch.js" | relURL }}'></script>
         <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Us on Ko-fi', 'var(--kofi)', 'U7U6UXNXD');kofiwidget2.draw();</script>       
       </li>
     </ul>
