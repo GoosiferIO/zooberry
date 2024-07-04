@@ -1,23 +1,25 @@
 .box-card-list {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     margin: 0;
     padding: 0;
     list-style: none;
-    /* gap: 1rem; */
+    gap: 1rem;
 }
 
 .box-card-mods {
     background-color: var(--primary-bg);
-    border: 1px solid var(--secondary-border);
-    /* border-radius: 3px; */
-    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
-    transition: all 0.3s ease 0s;
+    outline: 1px solid var(--secondary-border);
+    border-radius: 3px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s, transform 2s;
+    /* outline-offset: -1px; */
 }
 
 .box-card-mods:hover {
-    border: 1px solid var(--accent-bg);
+    outline: 1px solid var(--accent-bg);
     filter: brightness(1.1);
+    transform: translateY(-1px);
 }
 
 .box-card-mods h2 {
@@ -57,4 +59,18 @@
 
 .box-card-date {
     font-size: 0.8rem;
+}
+
+
+@media screen and (max-width: 2078px) {
+    .box-card-list {
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    }
+    
+}
+
+@media screen and (max-width: 1664px) {
+    .box-card-list {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }
 }

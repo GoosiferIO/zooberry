@@ -16,8 +16,21 @@
   --shade-bg: #0d1b2a;
   --accent-bg: #b85454;
   --secondary-border: #324363;
+
+  --body-pattern: repeating-linear-gradient( 45deg, #273651, #27344b 1px, var(--primary-bg) 1px, var(--primary-bg) 25px );
+
+  /* Font Colors */
   --font-color: #e0e1dd;
   --link-color: #fff;
+  --link-hover-color: #ad7335;
+  --contrast-font: #e0e1dd;
+
+  /* Table Colors */
+  --tbody-bg: var(--shade-bg);
+  --thead-bg: var(--shade-bg);
+
+  /* Buttons */
+  --kofi: #29abe2;
 
   /* Categorical Colors */
   --animals: #276d8b;
@@ -30,6 +43,36 @@
   --remakes: #b85454;
   --texture-mods: #86334f;
   --tools-utilities: #7e5b33;
+
+  /* Images */
+  --logo: url('/logo.png') no-repeat !important;
+}
+
+.light {
+  /* Colors Swatches */
+  --primary-bg: #d9e6c7;
+  --secondary-bg: #d4e8b7;
+  --shade-bg: #f5eaca;
+  --accent-bg: #9fc000;
+  --secondary-border: #ccc;
+
+  --body-pattern: repeating-linear-gradient( 45deg, var(--shade-bg), var(--shade-bg) 1px, var(--primary-bg) 1px, var(--primary-bg) 25px );
+
+  /* Font Colors */
+  --font-color: #6f5e5e;
+  --link-color: #615252;
+  --link-hover-color: #ad7335;
+  --contrast-font: var(--primary-bg);
+
+  /* Buttons */
+  --kofi: var(--link-color);
+
+  /* Table Colors */
+  --tbody-bg: #bace9c;
+  --thead-bg: #bace9c;
+
+  /* Images */
+  --logo: url('/logo-lt.png') no-repeat !important;
 }
 
 
@@ -38,7 +81,7 @@ body {
   font-family: "DM Sans", "Space Grotesk", 'Roboto', sans-serif;
   line-height: 1.5;
   margin: 0;
-  background: var(--primary-bg);
+  background: var(--body-pattern);
 }
 
 footer {
@@ -54,7 +97,7 @@ a {
 }
 
 a:hover {
-  color: var(--accent-bg);
+  color: var(--link-hover-color);
 }
 
 main {
@@ -100,6 +143,7 @@ main {
   display: inline-block;
   margin: 1rem 0;
   box-shadow:rgba(0, 0, 0, 0.1) -5px 5px 0;
+  transition: all 0.3s ease 0s;
 }
 
 .button-dft:hover {
@@ -121,7 +165,7 @@ main {
 
 code {
   color: var(--font-color);
-  background: var(--secondary-bg);
+  background: var(--thead-bg);
   padding: 0.2rem 0.4rem;
   border-radius: 0.3rem;
   font-family: 'Courier New', Courier, monospace;
