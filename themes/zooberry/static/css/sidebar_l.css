@@ -1,0 +1,97 @@
+.sidebar {
+    position: fixed;
+    padding-top: 5rem;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 1000;
+    display: block;
+    width: 250px;
+    background: var(--secondary-bg);
+    scrollbar-color: #324363 #1b263b;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    border-right: 1px solid var(--secondary-border);
+    transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    margin-right: 3rem;
+}
+
+.sidebar h3 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--font-color);
+    padding: 0.5rem 0 0.5rem 2rem;
+    margin: 1rem;
+    background-color: var(--thead-bg);
+    border-radius: 0.5rem;
+}
+
+.sidebar ul {
+    list-style: none; 
+    padding: 0 2rem 0 2rem;
+}
+
+.sidebar li {
+    position: relative;
+    line-height: 1.8rem;
+    padding-left: 1.2em; 
+    border-radius: 0.5rem;
+}
+
+.sidebar li:hover {
+    background-color: var(--primary-bg);
+}
+
+li.side-li::before {
+    content: '•'; 
+    font-size: 2.5rem; 
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    color: black;
+}
+
+li.side-li-animals::before {
+    color: var(--animals);
+}
+
+li.side-li-assets::before {
+    color: var(--assets);
+}
+
+li.side-li-biomes::before {
+    color: var(--biomes);
+}
+
+li.side-li-hacks::before {
+    color: var(--hacks);
+}
+
+li.side-li-maps::before {
+    color: var(--maps);
+}
+
+li.side-li-objects::before {
+    color: var(--objects);
+}
+
+li.side-li-packs::before, li.side-li-expansive-packs::before {
+    color: var(--packs);
+}
+
+li.side-li-remakes::before {
+    color: var(--remakes);
+}
+
+li.side-li-texture-mods::before {
+    color: var(--texture-mods);
+}
+
+li.side-li-tools-and-utilities::before {
+    color: var(--tools-utilities);
+}
