@@ -6,13 +6,8 @@
 
 
 <!-- css stylesheets minify -->
-{{ $navigationStyle := resources.Get "css/navigation.css" }}
-{{ $containerStyle := resources.Get "css/container.css" }}
-{{ $sidebar_lStyle := resources.Get "css/sidebar_l.css" }}
-{{ $sidebar_rStyle := resources.Get "css/sidebar_r.css" }}
-{{ $style := slice $navigationStyle $containerStyle $sidebar_lStyle $sidebar_rStyle | resources.Concat "css/styles.css" }}
-
-{{ $style := $style | resources.Minify | resources.Fingerprint }}
+{{ $allStyles := resources.Match "css/*.css" }}
+{{ $style := $allStyles | resources.Concat "css/styles.css"  }}
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

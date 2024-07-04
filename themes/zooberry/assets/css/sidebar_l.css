@@ -26,7 +26,7 @@
     color: var(--font-color);
     padding: 0.5rem 0 0.5rem 2rem;
     margin: 1rem;
-    background-color: var(--shade-bg);
+    background-color: var(--thead-bg);
     border-radius: 0.5rem;
 }
 

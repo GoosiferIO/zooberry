@@ -14,8 +14,8 @@ Renders a menu for the given menu ID.
   <nav>
     <ul>
       <li class="nav-logo">
-        <a href="http://localhost:1313/">
-          <img src="http://localhost:1313/logo.png" alt="logo" />
+        <a href="/" title="ZooBerry">
+          
         </a>
       </li>
       {{ $currentPage := . }}
@@ -48,7 +48,9 @@ Renders a menu for the given menu ID.
       </div> -->
       {{ end }}
       <li class="nav-right">
-        <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Us on Ko-fi', '#317dc2', 'U7U6UXNXD');kofiwidget2.draw();</script>       
+        <button class="theme-switch" id="toggle"></button>
+        <script type='text/javascript' src='theme-switch.js'></script>
+        <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Us on Ko-fi', 'var(--kofi)', 'U7U6UXNXD');kofiwidget2.draw();</script>       
       </li>
     </ul>
 {{- end }}

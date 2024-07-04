@@ -10,6 +10,7 @@
     position: -webkit-sticky; /* For Safari */
     position: sticky;
     align-self: flex-start;
+    top: 6rem;
 }
 
 .sidebar_r-inner {
@@ -23,7 +24,7 @@
 .sidebar_r-title {
     width: calc(100% - 2rem);
     display: inline-block;
-    background: var(--shade-bg);
+    background: var(--thead-bg);
     padding: 0.5rem 1rem;
     border-radius: 5px 5px 0 0;
 }
