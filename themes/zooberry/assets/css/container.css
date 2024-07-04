@@ -134,6 +134,8 @@ main {
   width: 70%;
 }
 
+/* Buttons */
+
 .button-dft {
   background: var(--accent-bg);
   color: var(--font-color);
@@ -161,6 +163,10 @@ main {
 
 .margin-rt {
   margin-right: 1rem;
+}
+
+.flt-rt {
+  float: right;
 }
 
 code {
