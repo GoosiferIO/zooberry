@@ -191,7 +191,7 @@ blockquote {
 }
 
 pre {
-  background: var(--secondary-bg) !important;
+  background: var(--thead-bg) !important;
   color: var(--accent-bg);
   padding: 1rem;
   border-radius: 0.5rem;
