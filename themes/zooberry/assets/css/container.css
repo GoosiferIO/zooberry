@@ -28,7 +28,7 @@
   /* Table Colors */
   --tbody-bg: var(--shade-bg);
   --thead-bg: var(--shade-bg);
-  --thead-bg-alt: #cbd9b6;
+  --thead-bg-alt: var(--secondary-bg);
 
   /* Buttons */
   --kofi: #29abe2;
@@ -103,12 +103,13 @@ a:hover {
 }
 
 main {
-  margin: 4rem 0 0 250px;
   padding: 2rem;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  /* margin-left: 250px; */
+  margin: 0 auto;
   width: 100%;
+  max-width: 1700px;
 }
 
 .content {
@@ -116,13 +117,11 @@ main {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  max-width: 2000px;
-  margin: 0 auto;
+  margin: 4rem 0;
 }
 
 .body-content {
   margin-right: 2rem;
-  max-width: 1500px;
   width: 70%;
 }
 
