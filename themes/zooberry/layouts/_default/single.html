@@ -12,11 +12,11 @@
     {{/*  breadcrumbs  */}}
     {{ partial "breadcrumbs.html" . }}
     <h1>{{.Title}}</h1>
-    <div class="post-meta">By 
+    <div class="post-meta"><span>By 
       {{ range .Params.author }}
           <a href="/author/">{{ . }}</a>
       {{ end }}
-
+    </span>
       <a class="button-dft margin-rt flt-rt" href="#">Download</a> 
 
     </div>
@@ -24,39 +24,39 @@
       {{ partial "galleria.html" . }}
         <table class="mod-meta">
           <tr>
-            <td>Game</td>
+            <td class="td-cat">Game</td>
             <td>{{ .Params.game }}</td>
           </tr>
           <tr class="tr-alt">
-            <td>Required Expansions</td>
+            <td class="td-cat">Required Expansions</td>
             <td>{{ partial "class-reqexp.html" . }}</td>
           </td>
           <tr>
-            <td>File Size</td>
+            <td class="td-cat">File Size</td>
             <td>{{ .Params.file_size }}</td>
           </tr>
           <tr class="tr-alt">
-            <td>Original Release</td>
+            <td class="td-cat">Original Release</td>
             <td>{{ .Params.orig_rel_date }}</td>
           </tr>
           <tr>
-            <td>Archive Date</td>
+            <td class="td-cat">Archive Date</td>
             <td>{{ .Params.Date | time.Format "2006-01-02" }}</td>
           </tr>
           <tr class="tr-alt">
-            <td>Original Platform</td>
+            <td class="td-cat">Original Platform</td>
             <td>{{ .Params.orig_rel_at }}</td>
           </tr>
           <tr>
-            <td>Author Allows Derivative Works?</td>
+            <td class="td-cat">Author Allows Derivative Works?</td>
             <td>{{ .Params.license }}</td>
           </tr>
           <tr class="tr-alt">
-            <td>Languages</td>
+            <td class="td-cat">Languages</td>
             <td>{{ partial "class-languages.html" . }}</td>
           </tr>
           <tr>
-            <td colspan="2">Description</td>
+            <td colspan="2" class="td-cat">Description</td>
           </tr>
           <tr>
             <td colspan="2" class="td-desc">

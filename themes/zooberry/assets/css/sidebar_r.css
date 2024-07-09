@@ -11,6 +11,7 @@
     position: sticky;
     align-self: flex-start;
     top: 6rem;
+    float: right;
 }
 
 .sidebar_r-inner {
@@ -27,4 +28,14 @@
     background: var(--thead-bg);
     padding: 0.5rem 1rem;
     border-radius: 5px 5px 0 0;
+}
+
+@media screen and (max-width: 1100px) {
+    .sidebar {
+        display: none;
+    }
+    
+    main {
+        margin-left: 0;
+    }
 }

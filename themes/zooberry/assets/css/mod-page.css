@@ -37,3 +37,18 @@ table.mod-meta .tr-alt {
     border-radius: 5px;
     padding: 2rem; 
 }
+
+.td-cat {
+    font-weight: bold;
+}
+
+.post-meta {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.post-meta span {
+    margin: auto 0;
+    font-weight: bold;
+}
