@@ -33,9 +33,9 @@
         defaults: {
             transition: 'pulse',
             transitionSpeed: 500,
-            imageCrop: true,
-            thumbCrop: true,
-            carousel: false,
+            imageCrop: false,
+            thumbCrop: false,
+            carousel: true,
 
             // theme specific defaults:
             _locale: {
