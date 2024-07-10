@@ -365,3 +365,12 @@ div.galleria-s1, div.galleria-s2, div.galleria-s3, div.galleria-s4 {
 div.galleria-theme-twelve div.galleria-counter {
     background: none;
 }
+
+div.galleria-theme-twelve div.galleria-bar {
+    border: none;
+    background: var(--thead-bg-alt);
+}
+
+div.galleria-theme-twelve div.galleria-stage {
+    background: var(--thead-bg-alt);
+}

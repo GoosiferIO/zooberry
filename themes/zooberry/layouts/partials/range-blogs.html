@@ -1,0 +1,36 @@
+
+
+<ul class="box-card-list">
+    {{ range (where .Site.RegularPages "Section" "blog") | first 8 }}
+    <li class="box-card-mods">
+        <div class="box-card-mods-content">
+            <p>
+                {{ if eq .Params.game "Zoo Tycoon 1" }}
+                    <a href="mods/zt1">{{ .Params.game }}</a>
+                {{ else if eq .Params.game "Zoo Tycoon 2" }}
+                    <a href="mods/zt2">{{ .Params.game }}</a>
+                {{ else }}
+                    {{ .Params.game }}
+                {{ end }}
+            </p>
+            <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+            <p>By 
+                {{ $authors := .Params.author }}
+
+                {{ $len := len $authors }}
+                {{ if eq $len 1 }}
+                    {{ index $authors 0 }}
+                {{ else if eq $len 2 }}
+                    {{ index $authors 0 }} and {{ index $authors 1 }}
+                {{ else }}
+                    {{ index $authors 0 }}, {{ index $authors 1 }}, and {{ add $len -2 }} more
+                {{ end }}
+            </p>
+            <span class="box-card-bottom">
+                <span class="badge-animals">Animals</span>
+                <span class="box-card-date">{{ .Date.Format "2 Jan 2006" }}</span>
+            </span>
+        </div>
+    </li>
+    {{ end }}
+</ul>

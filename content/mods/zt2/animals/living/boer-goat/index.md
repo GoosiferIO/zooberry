@@ -19,6 +19,12 @@ languages:
 - English
 ---
 
+> My goat is a Boer Goat, a breed of goat that is raised for meat production. They are a popular breed in the United States and are known for their fast growth rate and high fertility. They are also known for their white bodies and red heads. I hope you enjoy this animal in your zoo!
+
+To install, unzip and drop the .z2f file into your `Zoo Tycoon 2` folder:
+
+- `C:/Program Files (x86)/Microsoft Games/Zoo Tycoon 2`
+
 === 
 Other Credits
 ===
