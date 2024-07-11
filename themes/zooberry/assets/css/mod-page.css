@@ -52,3 +52,33 @@ table.mod-meta .tr-alt {
     margin: auto 0;
     font-weight: bold;
 }
+
+/* Button Tabs */
+
+.mod-tab-bar {
+    text-align: center;
+    border-bottom: 1px solid var(--secondary-border);
+}
+
+.mod-tab-bar button {
+    background-color: var(--primary-bg);
+    border: none;
+    border-bottom: 2px solid var(--primary-bg);
+    color: var(--link-color);
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px 5px 0 0;
+    font-size: 1rem;
+    transition: all 0.3s ease 0s;
+}
+
+.mod-tab-bar button:hover {
+    border-bottom: 2px solid var(--accent-bg);
+    color: var(--accent-text);
+}
+
+.mod-tab-bar .tab-active button {
+    border-bottom: 2px solid var(--accent-bg);
+    color: var(--accent-text);
+    font-weight: bold;
+}
