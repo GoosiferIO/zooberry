@@ -33,6 +33,10 @@
     margin: 0;
 }
 
+.box-card-summary {
+    border-top: 1px solid var(--secondary-border);
+}
+
 .box-card-mods-img {
     display: block;
     width: 100%;

@@ -1,0 +1,20 @@
+{{/*  get all zip files in folder and list  */}}
+
+{{ $files := .Resources.Match "/*.zip" }}
+{{ if gt (len $files) 0 }}
+        {{ range $files }}
+        <div class="box-card-mods">
+            <div class="box-card-mods-content">        
+            <p>File</p>
+            <p><a href="{{ .RelPermalink }}">{{ .Name }}</a></p>
+            <p>Size: </p> 
+            <div class="box-card-summary">
+                <p>Insert summary</p>
+            </div>
+        </div>
+    </div>
+    
+        {{ end }}
+{{ else }}
+    <p>No files found</p>
+{{ end }}
