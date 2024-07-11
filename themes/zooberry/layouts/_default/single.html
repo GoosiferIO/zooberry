@@ -21,18 +21,23 @@
     </div>
     <div class="post-content">
       {{ partial "galleria.html" . }}
-      <table>
-          <tr>
-            <td colspan="2" class="td-cat">Description</td>
-          </tr>
-          <tr>
-            <td colspan="2" class="td-desc">
-                {{ .Content }}
-            </td>
-          </tr>
-
-        </table>
-        {{/*  table example:  */}}
+      <div class="mod-tab-bar">
+        <button class="mod-tab-btn" onclick="openTab('tab-description')">Description</button>
+        <button class="mod-tab-btn" onclick="openTab('tab-files')">Files</button>
+        <button class="mod-tab-btn" onclick="openTab('tab-dependencies')">Dependencies</button>
+      </div> 
+      <div id="tab-description" class="tab tab-active">
+        <h2>Description</h2>
+        {{ .Content }}
+      </div>
+      <div id="tab-files" class="tab" style="display: none;">
+        <h2>Files</h2>
+        {{/*  {{ partial "range-files.html" . }}  */}}
+      </div>
+      <div id="tab-dependencies" class="tab" style="display: none;">
+        <h2>Dependencies</h2>
+        {{/*  {{ partial "range-dependencies.html" . }}  */}}
+      </div>
     </div>
   
     <h1>Latest Mods</h1>
@@ -43,5 +48,16 @@
     <h1>Latest Knowledgebase Articles</h1>
   </div>
     {{ partial "sidebar_r.html" . }}
-  
+    <script>
+      function openTab(item) {
+        var i;
+        var x = document.getElementsByClassName("tab");
+        for (i = 0; i < x.length; i++) {
+          x[i].style.display = "none";
+          x[i].classList.remove("tab-active");
+        }
+        document.getElementById(item).style.display = "block";
+        document.getElementById(item).classList.add("tab-active");
+      }
+    </script>
 {{ end }}
