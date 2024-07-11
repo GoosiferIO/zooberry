@@ -7,8 +7,11 @@
       <a href="#" class="button-dft margin-rt">Browse Mods</a>
 
   </div>
-
-  <h1>Latest Mods</h1>
+  <h1>New Releases</h1>
+  <p>These mods are new and published directly to ZooBerry.</p>
+  {{ partial "range-zooberry-mods.html" . }}
+  <h1>Latest Archived</h1>
+  <p>Older mods part of the greater ZooBerry archive project.</p>
     {{ partial "range-mods.html" . }}
     <a href="mods" class="button-dft margin-rt">More from Latest</a>
     <a href="mods" class="button-dft margin-rt">Browse All Mods</a>
