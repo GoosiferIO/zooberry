@@ -1,5 +1,5 @@
 <ul class="box-card-list">
-    {{ range where (where .Site.RegularPages "Section" "mods") "Params.orig_rel_at" "intersect" (slice "ZooBerry") | first 4 }}
+    {{ range where (where .Site.RegularPages "Section" "mods") "Params.orig_rel_at" "intersect" (slice "ZooBerry") | first 8 }}
     <li class="box-card-mods">
         <div class="box-card-mods-img">
             {{/*  get first image from images folder in this bundle */}}
@@ -20,7 +20,7 @@
                 {{ else if eq .Params.game "Zoo Tycoon 2" }}
                     <a href="mods/zt2">{{ .Params.game }}</a>
                 {{ else }}
-                    {{ .Params.game }}
+                    Assets
                 {{ end }}
             </p>
             <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>

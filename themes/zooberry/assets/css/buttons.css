@@ -1,0 +1,31 @@
+/* Buttons */
+
+.button-dft {
+    background: var(--accent-bg);
+    color: var(--font-color);
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    box-shadow:rgba(0, 0, 0, 0.1) -5px 5px 0;
+    transition: all 0.3s ease 0s;
+    margin: 1rem 0;
+  }
+  
+  .button-dft:hover {
+    background: #a54b4b;
+    color: var(--font-color);
+  }
+  
+  .button-dft:active {
+    background: #a54b4b;
+    box-shadow: rgba(0, 0, 0, 1) -1px 1px 2px;
+    color: var(--font-color);
+    transform: translateY(2px);
+    text-shadow: #fa8e00 0 0 13px; 
+  }  
+
+  /* Mod Page */
+
+div.sidebar_r-inner a.button-dft {
+    display: block;
+    margin: 0.5rem auto;
+}
