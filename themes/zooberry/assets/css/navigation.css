@@ -1,4 +1,4 @@
-nav {
+.nav-menu {
     height: 4rem;
     background-color: var(--shade-bg);
     position: fixed;
@@ -15,7 +15,7 @@ nav {
     -webkit-backdrop-filter: blur(5px);
   }
 
-  nav a {
+  .nav-menu a {
     color: var(--link-color);
     font-weight: bold;
     font-size: 1rem;
@@ -25,12 +25,12 @@ nav {
     transition: all 0.3s ease 0s;
   }
 
-  nav a:hover {
+  .nav-menu a:hover {
     color: var(--accent-bg);
     text-shadow: var(--accent-bg) 0 0 25px;
   }
 
-  nav ul {
+  .nav-menu ul {
     margin: 0;
     padding: 0;
     height: 100%;
@@ -39,7 +39,7 @@ nav {
     align-items: center;
   }
 
-  nav li {
+  .nav-menu li {
     display: inline;
     margin: 0;
     padding: 0;
@@ -47,12 +47,12 @@ nav {
     transition: all 0.3s ease 0s;
   }
 
-.nav-right {
+.nav-menu .nav-right {
     margin-left: auto;
     padding-right: 5rem;
 }
 
-.nav-logo a {
+.nav-menu .nav-logo a {
     display: inline-block;
     width: 110px;
     height: 41px;
@@ -61,7 +61,7 @@ nav {
     padding-bottom: 1rem;
 }
 
-.nav-logo a:hover {
+.nav-menu .nav-logo a:hover {
     background-color: #d1c18c;
 }
 
