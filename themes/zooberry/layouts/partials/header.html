@@ -1,1 +1,16 @@
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+{{ if .Params.blog }}
+  <nav class="blog-nav">
+    <ul>
+      <li>
+        <a href="/blog">Blog</a>
+      </li>
+      <li>
+        <a href="/blog/tags">Tags</a>
+      </li>
+      <li>
+        <a href="/blog/categories">Categories</a>
+      </li>
+    </ul>
+  </nav> 
+{{ end }}
