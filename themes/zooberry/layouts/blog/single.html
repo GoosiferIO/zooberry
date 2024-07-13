@@ -1,0 +1,33 @@
+{{ define "main" }}
+  {{/*  <h1>{{ .Title }}</h1>
+
+  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+  {{ $dateHuman := .Date | time.Format ":date_long" }}
+  <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+
+  {{ .Content }}
+  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}  */}}
+
+  <div class="body-content">
+    {{/*  breadcrumbs  */}}
+    {{ partial "breadcrumbs.html" . }}
+
+    <div class="post-content" id="TableOfContents">
+        <h1>{{.Title}}</h1>
+        <div class="post-subheader">
+          <span><i class="material-icons icon">person</i> 
+                <a class="badge-default" href="/author/">{{ .Params.author }}</a>
+            <i class="material-icons icon">calendar_month</i> {{ .Date.Format "2 Jan 2006" }}
+          </span>
+        </div>
+    
+      {{ .Content }}
+      <div class="sidebar_r">
+        <div class="sidebar_r-inner">
+            {{ .TableOfContents }}
+        </div>
+    </div>
+
+    </div>
+  </div>
+{{ end }}

@@ -1,0 +1,43 @@
+.post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6 {
+    font-weight: 700;
+    color: var(--font-color);
+    margin: 0;
+    padding: 0.5rem 0;
+    line-height: 1;
+}
+  
+.post-content h1 {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--animals);
+}
+
+.post-content h2 {
+    font-size: 1.6rem;
+}
+
+.post-content h3 {
+    font-size: 1.4rem;
+}
+
+.post-content h4 {
+    font-size: 1.2rem;
+}
+
+.post-content h5 {
+    font-size: 1rem;
+}
+
+.post-content h6 {
+    font-size: 0.8rem;
+}
+  
+/* .post-content p {
+margin: 0.5rem 0;
+    padding-left: 2rem;
+}
+
+.post-content ul {
+    margin: 0.5rem 0;
+    padding-left: 2rem;
+} */
