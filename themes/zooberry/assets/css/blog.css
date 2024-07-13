@@ -41,3 +41,45 @@ margin: 0.5rem 0;
     margin: 0.5rem 0;
     padding-left: 2rem;
 } */
+
+/* Blog Nav */
+
+.blog-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 11rem;
+    background-color: var(--accent-bg);
+    margin-top: 4rem;
+    width: 100%;
+}
+
+.blog-nav a {
+    display: inline-block;
+    transition: all 0.2s ease 0s;
+    padding: 0.25rem 1rem;
+}
+
+.blog-nav a:hover {
+    color: var(--font-color);
+    background-color: var(--shade-bg);
+    border-radius: 5px;
+}
+
+.blog-nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.blog-nav ul li {
+    padding: 0.25rem 0;
+    text-align: center;
+}
+
+.rm-top {
+    margin: 0 !important;
+}

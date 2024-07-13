@@ -7,7 +7,11 @@
   <header>
     {{ partial "header.html" . }}
   </header>
-  <div class="content">
+  {{ if .Params.blog }}
+    <div class="content rm-top">
+  {{ else }}
+    <div class="content">
+  {{ end }}
     {{ if .Params.navigation }}
       <section>
         {{ partial "sidebar_l.html" (dict "menuID" "zt1" "page" .) }}
