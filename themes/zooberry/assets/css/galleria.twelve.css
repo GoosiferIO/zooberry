@@ -368,9 +368,9 @@ div.galleria-theme-twelve div.galleria-counter {
 
 div.galleria-theme-twelve div.galleria-bar {
     border: none;
-    background: var(--thead-bg-alt);
+    background: var(--thead-bg);
 }
 
 div.galleria-theme-twelve div.galleria-stage {
-    background: var(--thead-bg-alt);
+    background: var(--secondary-bg);
 }

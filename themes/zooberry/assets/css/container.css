@@ -28,7 +28,7 @@
   /* Table Colors */
   --tbody-bg: var(--shade-bg);
   --thead-bg: var(--shade-bg);
-  --thead-bg-alt: var(--secondary-bg);
+  --thead-bg-alt: var(--primary-bg);
 
   /* Buttons */
   --kofi: #29abe2;
@@ -44,6 +44,9 @@
   --remakes: #b85454;
   --texture-mods: #86334f;
   --tools-utilities: #7e5b33;
+
+  /* Misc Badges */
+  --alert: var(--accent-bg);
 
   /* Images */
   --logo: url('/logo.png') no-repeat !important;
@@ -67,6 +70,9 @@
 
   /* Buttons */
   --kofi: var(--link-color);
+
+  /* Misc Badges */
+  --alert: var(--accent-bg);
 
   /* Table Colors */
   --tbody-bg: #bace9c;
@@ -137,39 +143,17 @@ main {
   width: 70%;
 }
 
-/* Buttons */
-
-.button-dft {
-  background: var(--accent-bg);
-  color: var(--font-color);
-  padding: 0.5rem 1rem;
-  border-radius: 0.5rem;
-  text-align: center;
-  display: inline-block;
-  margin: 1rem 0;
-  box-shadow:rgba(0, 0, 0, 0.1) -5px 5px 0;
-  transition: all 0.3s ease 0s;
-}
-
-.button-dft:hover {
-  background: #a54b4b;
-  color: var(--font-color);
-}
-
-.button-dft:active {
-  background: #a54b4b;
-  box-shadow: rgba(0, 0, 0, 1) -1px 1px 2px;
-  color: var(--font-color);
-  transform: translateY(2px);
-  text-shadow: #fa8e00 0 0 13px; 
-}
-
 .margin-rt {
   margin-right: 1rem;
 }
 
 .flt-rt {
   float: right;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
 }
 
 code {
@@ -199,4 +183,15 @@ pre {
 
 pre code {
   background-color: inherit; /* Ensure the code block inherits the pre background */
+}
+
+.cat-blurb  {
+  background: var(--secondary-bg);  
+  border-left: 5px solid var(--accent-bg);
+  border-right: 1px solid var(--secondary-border);
+  border-top: 1px solid var(--secondary-border);
+  border-bottom: 1px solid var(--secondary-border);
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  margin: -0.5rem 0 1rem 0;
 }

@@ -12,52 +12,60 @@
     {{/*  breadcrumbs  */}}
     {{ partial "breadcrumbs.html" . }}
     <h1>{{.Title}}</h1>
-    <div class="post-meta"><span>By 
-      {{ range .Params.author }}
-          <a href="/author/">{{ . }}</a>
-      {{ end }}
-    </span>
-
+    <div class="post-subheader cat-blurb">
+      <span><i class="material-icons icon">person</i> 
+        {{ range .Params.author }}
+            <a class="badge-default" href="/author/">{{ . }}</a>
+        {{ end }}
+      </span>
+      <span>
+        <i class="material-icons icon">download</i> 10
+        <i class="material-icons icon icon-second">calendar_month</i> {{ .Date.Format "2 Jan 2006" }}
+      </span>
     </div>
+
+    {{ $files := .Resources.Match "/*.zip" }}
+    {{ $fileCount := len $files }}
+
     <div class="post-content">
       {{ partial "galleria.html" . }}
       <div class="mod-tab-bar">
-        <button class="mod-tab-btn" onclick="openTab('tab-description')">Description</button>
-        <button class="mod-tab-btn" onclick="openTab('tab-files')">Files</button>
-        <button class="mod-tab-btn" onclick="openTab('tab-dependencies')">Dependencies</button>
+        <button class="mod-tab-btn tab-description tab-active" onclick="openTab('tab-description')">Description</button>
+        <button class="mod-tab-btn tab-files" onclick="openTab('tab-files')">Files
+          {{ if gt $fileCount 0 }}
+            <span class="badge-alert">{{ $fileCount }}</span>
+          {{ end }}
+        </button>
+        <button class="mod-tab-btn tab-dependencies" onclick="openTab('tab-dependencies')">Dependencies
+          <span class="badge-alert">0</span>
+        </button>
       </div> 
-      <div id="tab-description" class="tab tab-active">
+      <div class="tab tab-description">
         <h2>Description</h2>
         {{ .Content }}
       </div>
-      <div id="tab-files" class="tab" style="display: none;">
+      <div class="tab tab-files" style="display: none;">
         <h2>Files</h2>
         {{ partial "range-files.html" . }}
       </div>
-      <div id="tab-dependencies" class="tab" style="display: none;">
+      <div class="tab tab-dependencies" style="display: none;">
         <h2>Dependencies</h2>
         {{/*  {{ partial "range-dependencies.html" . }}  */}}
       </div>
     </div>
-  
-    <h1>Latest Mods</h1>
-      {{ partial "range-mods.html" . }}
-      <a href="mods" class="button-dft margin-rt">More from Latest</a>
-      <a href="mods" class="button-dft margin-rt">Browse All Mods</a>
-    <h1>Latest Blog Posts</h1>
-    <h1>Latest Knowledgebase Articles</h1>
   </div>
-    {{ partial "sidebar_r.html" . }}
+    {{ partial "sidebar_r-mods.html" . }}
     <script>
       function openTab(item) {
         var i;
-        var x = document.getElementsByClassName("tab");
-        for (i = 0; i < x.length; i++) {
-          x[i].style.display = "none";
-          x[i].classList.remove("tab-active");
+        var pages = document.getElementsByClassName("tab");
+        var tabs = document.getElementsByClassName("mod-tab-btn");
+        for (i = 0; i < pages.length; i++) {
+          pages[i].style.display = "none";
+          tabs[i].classList.remove("tab-active");
         }
-        document.getElementById(item).style.display = "block";
-        document.getElementById(item).classList.add("tab-active");
+        document.getElementsByClassName(item)[1].style.display = "block";
+        document.getElementsByClassName(item)[0].classList.add("tab-active");
       }
     </script>
 {{ end }}

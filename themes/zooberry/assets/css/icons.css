@@ -1,0 +1,10 @@
+.icon {
+    color: var(--link-color);
+    vertical-align: middle;
+    transform: scale(0.8);
+}
+
+.icon-second {
+    border-left: 1px solid var(--secondary-border);
+    padding-left: 0.5rem;
+}
