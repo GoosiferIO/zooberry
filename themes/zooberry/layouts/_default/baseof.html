@@ -1,28 +1,26 @@
 <!DOCTYPE html>
 <html lang="{{ or site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
-<head>
-  {{ partial "head.html" . }}
-</head>
-<body>
-  <header>
-    {{ partial "header.html" . }}
-  </header>
-  {{ if .Params.blog }}
-    <div class="content rm-top">
-  {{ else }}
-    <div class="content">
-  {{ end }}
-    {{ if .Params.navigation }}
-      <section>
-        {{ partial "sidebar_l.html" (dict "menuID" "zt1" "page" .) }}
-      </section>
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body>
+    {{ if .Params.blog }}
+      <div class="content rm-top">
+    {{ else }}
+      <div class="content">
     {{ end }}
-    <main>
-      {{ block "main" . }}{{ end }}
-    </main>
-  </div>
-  <footer>
-    {{ partial "footer.html" . }}
-  </footer>
-</body>
+        {{ if .Params.navigation }}
+          {{ partial "sidebar_l.html" (dict "menuID" "zt1" "page" .) }}
+        {{ end }}
+        <main>
+          <header>
+            {{ partial "header.html" . }}
+          </header>
+            {{ block "main" . }}{{ end }}
+        </main>
+      </div>
+    {{/*  <footer>
+      {{ partial "footer.html" . }}
+    </footer>  */}}
+  </body>
 </html>

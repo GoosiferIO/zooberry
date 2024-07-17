@@ -109,21 +109,23 @@ a:hover {
 }
 
 main {
-  padding: 2rem;
   display: flex;
   flex-direction: row;
-  /* margin-left: 250px; */
   margin: 0 auto;
   width: 100%;
-  max-width: 1500px;
+  padding: 6rem 2rem;
 }
+
+/* main (backup) {
+  margin-left: 250px;
+  padding: 2rem;
+  max-width: 1500px;
+} */
 
 .content {
   /* have all blocks inside fit side-by-side */
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
-  margin: 4rem 0;
 }
 
 .body-content {
