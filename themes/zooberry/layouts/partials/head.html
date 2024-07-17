@@ -7,7 +7,7 @@
 <!-- css stylesheets minify -->
 {{ $allStyles := resources.Match "css/*.css" }}
 {{ $style := $allStyles | resources.Concat "css/styles.css"  | fingerprint }}
-{{ $galleria := resources.Get "/css/galleria.twelve.css" }}
+{{ $galleria := resources.Get "/css/galleria.twelve.css" | fingerprint  }}
 
 {{ $allScripts := resources.Match "js/*.js" }}
 {{ $script := $allScripts | resources.Concat "js/scripts.js"  | fingerprint }}
