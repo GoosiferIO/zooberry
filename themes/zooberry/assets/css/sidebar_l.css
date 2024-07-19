@@ -18,9 +18,6 @@
     -ms-transition: all 0.3s;
 }
 
-
-
-
 .sidebar ul {
     list-style: none; 
     padding: 0 1rem;
@@ -42,7 +39,7 @@
 }
 
 .sidebar li:hover {
-    background-color: #afbd9c;
+    background-color: var(--sidebar-hover);
 }
 
 li.side-li::before {
@@ -98,7 +95,7 @@ li.side-li-tools-and-utilities::before {
 .sidebar .icon {
     border-radius: 5px;
     padding: 0.5rem;
-    background-color: #c4cfb4;
+    background-color: var(--sidebar-icons);
 }
 
 li.side-kofi {

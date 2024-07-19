@@ -54,8 +54,16 @@
             <a class="dropbtn" href="/submit"><li class="side-li"><i class="material-icons icon">cloud_upload</i> Submit a File</li></a>
             {{/*  Contact  */}}
             <a class="dropbtn" href="/contact"><li class="side-li"><i class="material-icons icon">email</i> Contact</li></a>
+            {{/* Knowledgebase */}}
+            <a class="dropbtn" href="/knowledgebase"><li class="side-li"><i class="material-icons icon">book</i> Knowledgebase</li></a>
+            {{/*  Search  */}}
+            <a class="dropbtn" href="/search"><li class="side-li"><i class="material-icons icon">search</i> Search</li></a>
+            
             <li class="nav-right">
-        <button class="theme-switch" id="toggle"></button>
+        <label class="switch">
+            <input type="checkbox" id="theme-switcher">
+            <div class="slider round"></div>
+        </label>
         <script type='text/javascript' src='{{ "theme-switch.js" | relURL }}'></script>
       </li>
     </ul>
