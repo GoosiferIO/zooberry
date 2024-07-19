@@ -1,10 +1,12 @@
 <div class="sidebar">
-    <h3>Zoo Tycoon 1</h3>
+    <a href="/" title="ZooBerry" class="nav-logo"></a>
+    {{/*  <h3>Zoo Tycoon 1</h3>
     {{- $page := .page }}
     {{- $menuID := .menuID }}
-    
+          
     {{- with index site.Menus "zt1" }}
             <ul class="side-ul">
+            
             {{ $currentPage := . }}
             {{ range . }}
                 <li class="side-li side-li-{{ .Name | urlize }}">
@@ -36,5 +38,28 @@
                 </li>
             {{ end }}
             </ul>
-    {{- end }}
+    {{- end }}  */}}
+
+    <ul class="side-ul">
+            <li class="side-kofi"><script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Us on Ko-fi', 'var(--kofi)', 'U7U6UXNXD');kofiwidget2.draw();</script></li>
+            {{/*  Home  */}}
+            <a class="dropbtn" href="/"><li class="side-li"><i class="material-icons icon">home</i> Home</li></a>
+            {{/*  Mods  */}}
+            <a class="dropbtn" href="/mods"><li class="side-li"><i class="material-icons icon">extension</i> Mods</li></a>
+            {{/*  FAQ  */}}
+            <a class="dropbtn" href="/zt1"><li class="side-li"><i class="material-icons icon">info</i> FAQ</li></a>
+            {{/*  Community  */}}
+            <a class="dropbtn" href="/zt2"><li class="side-li"><i class="material-icons icon">people</i> Community</li></a>
+            {{/*  Submit a File  */}}
+            <a class="dropbtn" href="/submit"><li class="side-li"><i class="material-icons icon">cloud_upload</i> Submit a File</li></a>
+            {{/*  Contact  */}}
+            <a class="dropbtn" href="/contact"><li class="side-li"><i class="material-icons icon">email</i> Contact</li></a>
+            <li class="nav-right">
+        <button class="theme-switch" id="toggle"></button>
+        <script type='text/javascript' src='{{ "theme-switch.js" | relURL }}'></script>
+      </li>
+    </ul>
+
+
+
 </div>

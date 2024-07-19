@@ -49,16 +49,16 @@
     padding-right: 5rem;
 }
 
-.nav-menu .nav-logo a {
-    display: inline-block;
+.nav-logo {
+    display: block;
     width: 110px;
     height: 41px;
     background: var(--logo) center 5px;
-    line-height: 100%;
     padding-bottom: 1rem;
+    margin: 0 auto;
 }
 
-.nav-menu .nav-logo a:hover {
+.nav-logo:hover {
     background-color: #d1c18c;
 }
 
@@ -69,7 +69,7 @@
 
 /* Dropdown Styles */
 .dropdown .dropbtn {
-  background-color: var(--shade-bg);
+  /* background-color: var(--shade-bg); */
   border: none;
   cursor: pointer;
   outline: none;
