@@ -21,9 +21,9 @@ languages:
 - German
 ---
 
-===
+
 Credits
-===
+
 
 - Model and Coding by Hendrix
 - Textures by Unicorn

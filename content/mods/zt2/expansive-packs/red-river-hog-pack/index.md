@@ -24,9 +24,9 @@ title: Red River Hog Pack
 ---
 *Potamochoerus porcus* are social animals. While adults of both sexes have been known to be solitary, most live in small groups of up to eleven individuals. Large aggregations of over 100 animals have been recorded. The typical group contains three to six individuals. in most cases, one dominant, adult male boar is present in these small family groups. Red river hogs mark their paths by scraping tree trunks with their canines (tusks) as well as using foot glands, neck glands, and preorbital glands.
 
-====
+=
 Included in the Pack
-====
+=
 
 **Animals:**
 - Red River Hog (Animal)
@@ -35,8 +35,8 @@ Included in the Pack
 - African Mangosteen (Tree)
 - Disa Orchids (Plant)
 
-====
+=
 Context
-====
+=
 
 Unlike most other downloads by Penguinman, this one was created solely by himself. It has no known issues and the hog includes a gift for guests to purchase.

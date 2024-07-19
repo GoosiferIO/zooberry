@@ -26,9 +26,9 @@ title: Boreal Forest Pack
 ---
 This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago. Many members helped out. Please note that due to how old these packs are, not everything is up to the same standard that Penguinman would have later used. Modeling, for instance, was not discovered until after these packs were made. However, Penguinman did feel that many of the plants, objects and animals would be useful and that's why he reuploaded them onto Penguin's Peak. Hope you enjoy!
 
-====
+=
 Included in the Pack
-====
+=
 
 **Animals:**
 - Black-Tailed Deer
@@ -63,24 +63,24 @@ Included in the Pack
 - Boreal Jeep
 - Boreal Pole
 
-====
+=
 Context
-====
+=
 
 Like many other downloads of its time, this was a collaboration that Penguinman created with other users. Each animal includes a gift for guests to purchase.
 
-====
+=
 Known issues
-====
+=
 
 - The male black-tailed deer shows up as a blank white skin when dirty. This isn’t obtrusive as long as you keep your animals clean.
 - Potentially as a side effect of using a different rig than the males, the female white-tailed and black-tailed deer don't properly fulfill their social and stimulation needs. They don't get unhappy over this though, so it only affects how often they mate and your ability to release them to the wild.
 - The icon of the fences' gates is a white square, but you would only see it if you go out of your way to select it.
 - The Sitka spruce's icon is a white square in its Zoopedia article only.
 
-====
+=
 Other downloads in the 'Biome Packs' set
-====
+=
 
 - [Alpine Pack](<https://www.zooberry.org/mods/zt2/expansive-packs/alpine-pack/>)
 - Boreal Forest Pack

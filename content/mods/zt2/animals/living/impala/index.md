@@ -24,8 +24,8 @@ languages:
 
 The Impala is a small antelope that lives in the savannahs of Africa.
 
-===
+
 Issues
-===
+
 
 - When it poops, a savannah bush appears.

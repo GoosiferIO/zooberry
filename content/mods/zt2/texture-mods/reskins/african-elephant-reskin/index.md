@@ -21,8 +21,8 @@ summary: "Download this amazing African Elephant reskin by Koala Komander"
 
 Download this amazing African Elephant reskin by Koala Komander!
 
-====
+=
 Download it as part of a pack
-====
+=
 
 If you would like to download this reskin as part of a bundled pack with other animal reskins, please see Koala Komander's [Reskin Pack 1](https://www.zooberry.org/mods/zt2/texture-mods/reskins/reskin-pack-1/)

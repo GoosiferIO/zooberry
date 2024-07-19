@@ -22,16 +22,16 @@ languages:
 
 Zebra Duiker made by Longisquama.
 
-===
+
 From the Zoopedia
-===
+
 
 Zebra Duikers have gold or red-brown coats with distinctive zebra-like stripes, dark markings on their upper legs and russet faces. They grow to 90 centimetres in length, 45 centimetres in height and weigh up to 20 kilogrammes. Their prong-like horns are 4.5 centimetres long in males and only 2.25 centimetres long in females.
 
 To unlock the Zebra Duiker in challenge or campaign games, you must earn a 3 and a half star zoo fame rating for your zoo.
 
-===
+
 Other Credits
-===
+
 
 - Otter Lord: Duiker model

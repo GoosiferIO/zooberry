@@ -23,15 +23,15 @@ languages:
 - English
 ---
 
-===
+
 Instructions
-===
+
 
 This is technically a pack with two sets of variants for the reindeer in the ARTIODACTYLA expansion made by ZT ABC. Once you've downloaded and unzipped, install Part A if you want the set with red horns, or Part B if you want the set with normal horns. To get Part B, you'll need to download the alt file below.
 
-===
+
 Requirements
-===
+
 
 This is a variant for the reindeer in the ARTIODACTYLA expansion made by ZT ABC.
 

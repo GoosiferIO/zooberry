@@ -19,16 +19,14 @@ summary: A set of banners with locations featured in Artifex's Arabian Nights us
 title: Island Excursions Location Banners
 ---
 
-===
-Description
-===
+
 
 "A set of 13 location signs that introduce the regions of the world visited in the Island Excursions user made expansion by Artifex. The locations are, Caribbean, Channel Islands, Coastal Oceans, Cozumel, Hawaii, Indonesia, Madagascar, New Guinea, New Zealand, Philippines, Reef Oceans, Sri Lanka and Vancouver Island"
 \- ShenTirag
 
-===
+
 Other Credits
-===
+
 
 "The model was made by Mysty at Caldera Unlimited and released as a resource for other designers to use. Coded and skinned by ShenTirag."
 \-ShenTirag

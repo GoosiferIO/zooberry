@@ -21,16 +21,14 @@ summary: This small pack contains signs containing warnings and instructions to 
 title: Warning Signs
 ---
 
-===
-Description
-===
+
 
 "This small pack contains signs containing warnings and instructions to abide when visiting the zoo.  It includes No Entry and Staff Only, signs reminding guests to not tap the glass or feed the animals, prohibiting flash photography, reminding guests to wash their hands and other useful signs for zoos and safari parks."
 \- ShenTirag
 
-===
+
 Other Credits
-===
+
 
 "The model was made by Mysty at Caldera Unlimited and released as a resource for other designers to use. Coded and skinned by ShenTirag."
 \-ShenTirag

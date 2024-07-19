@@ -22,13 +22,13 @@ summary: "Three extinct hippopotamids from the genus Hexaprotodon."
 ---
 Three extinct hippopotamids from the genus *Hexaprotodon*. The name *Hexaprotodon* was often applied to the pygmy hippopotamus before its reclassification into the genus *Choeropsis*. The genus has been historically applied to numerous fossil hippopotamus species spanning Asia, Africa and Europe.
 
-=== Included in the Pack ===
+ Included in the Pack 
 
 **Animals:**
 - Hexaprotodon Bruneti
 - Hexaprotodon Simplex
 - Hexaprotodon Sivalensis
 
-==== Known issues ====
+= Known issues =
 
 - All three animals lack a Zoopedia article. Otherwise this download is completely functional and its gameplay is without any problems.

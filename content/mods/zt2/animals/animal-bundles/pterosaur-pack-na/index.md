@@ -20,17 +20,17 @@ languages:
 - English
 ---
 
-===
+
 Contents
-===
+
 
 - Quetzalcoatlus
 - Pteranodon
 - Nyctosaurus
 
-===
+
 Issues
-===
+
 
 - The quezalcoatlus may not show up in the menu
 - The quetzalcoatlus cannot be placed near the entrance (This is a note from the original readme)

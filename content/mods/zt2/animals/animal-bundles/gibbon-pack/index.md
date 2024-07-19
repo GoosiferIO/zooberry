@@ -23,25 +23,25 @@ title: Gibbon Pack
 ---
 A pack of three different gibbons to bring some variety to your zoos' primate sections.
 
-====
+=
 Included in the Pack
-====
+=
 
 **Animals:**
 - Hollock Gibbon
 - Silvery Gibbon
 - White-Handed Gibbon
 
-====
+=
 Context
-====
+=
 
 On the original download page, attention was called towards the fact that the hollock gibbon lives in Temperate Forest.
 
 Like many other downloads of its time, this was a collaboration that Penguinman created with another user. Each animal includes a gift for guests to purchase.
 
-====
+=
 Known issues
-====
+=
 
 - At least one animal, the female white-handed gibbon, shows up as a blank white skin when dirty. This isn’t obtrusive as long as you keep your animals clean and gameplay is without any problems.

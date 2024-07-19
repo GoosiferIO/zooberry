@@ -32,8 +32,8 @@ The primary version of this download was made to accompany the user-made [Montan
 
 Like many other downloads of its time, this was a collaboration that Penguinman created with other users. It has no known issues and includes a gift for guests to purchase.
 
-====
+=
 Alternative Version
-====
+=
 
 The 'alternative' version of this file places the dwarf cassowary in the base game Tropical Rainforest biome, rather than Montane Forest. This means that unlike the main file it does not require any other downloads. Use this version if you don't want to add additional biomes to your game.

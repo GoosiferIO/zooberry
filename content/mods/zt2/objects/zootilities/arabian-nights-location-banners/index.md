@@ -19,18 +19,16 @@ summary: A set of banners with locations featured in Artifex's Arabian Nights us
 title: Arabian Nights Location Banners
 ---
 
-===
-Description
-===
+
 
 "A set of 6 location signs that introduce the regions of the world visited in the Arabian Nights user made expansion by Artifex. The locations are Arabia, Baluchistan, Caspian Sea, India, Middle East and North Africa."
 \-ShenTirag
 
 This pack does not require Arabian Nights.
 
-===
+
 Includes
-===
+
 
 Includes banners for the following locations:
 
@@ -41,9 +39,9 @@ Includes banners for the following locations:
 - Middle East
 - Baluchistan
 
-===
+
 Other Credits
-===
+
 
 "The model was made by Mysty at Caldera Unlimited and released as a resource for other designers to use. Coded and skinned by ShenTirag."
 \-ShenTirag

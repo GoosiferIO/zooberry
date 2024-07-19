@@ -23,9 +23,9 @@ title: South America Pack
 ---
 This pack contains six animals from South America and is downloaded in one file.
 
-====
+=
 Included in the Pack
-====
+=
 
 **Animals:**
 - Mountain Tapir
@@ -35,17 +35,17 @@ Included in the Pack
 - Grison
 - Brocket Deer
 
-====
+=
 Context
-====
+=
 
 Like many other downloads of its time, this was a collaboration that Penguinman created with another user. Each animal includes a gift for guests to purchase.
 
 Penguinman also created another set of expansive minipacks under the title of 'South America Pack' at Penguika, although those packs are unrelated to this one and not to be confused with it.
 
-====
+=
 Known issues
-====
+=
 
 - The kit fox's skin is black before placement in the preview window. The skin appears as expected within the actual game world however and gameplay is unaffected.
 - The Orinoco crocodile's eggs took exceptionally long to hatch during testing. Although they did eventually hatch, it was well after the hatch timer had turned red.

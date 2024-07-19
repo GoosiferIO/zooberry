@@ -23,9 +23,9 @@ The dorcas gazelle is highly adapted to the desert. They can go their entire liv
 
 *Adonis dentata* can be found in North Africa, Sinai, Palestine, Arabia, extending to Cyprus, Turkey and Iran.
 
-====
+=
 Included in the Pack
-====
+=
 
 **Animals:**
 - Dorcas Gazelle
@@ -33,8 +33,8 @@ Included in the Pack
 **Foliage:**
 - Adonis Dentata
 
-====
+=
 Context
-====
+=
 
 This download was originally listed as a singular animal by itself at ZT2DC. Its entry here on ZooBerry has been renamed and recategorized to accurately depict its contents. It has no known issues.

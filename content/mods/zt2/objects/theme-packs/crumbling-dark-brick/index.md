@@ -20,23 +20,23 @@ summary: Dark crumbling bricks are a perfect path for Halloween themed areas of 
 title: Crumbling Dark Brick Pack
 ---
 
-===
+
 From the Zoopedia
-===
+
 
 "Dark crumbling bricks are a perfect path for Halloween themed areas of your zoos. Original skin by genkicoll for ZT1, converted to ZT2 by ShenTirag."
 - ShenTirag
 
-===
+
 Includes
-===
+
 
 - Crumbling Dark Brick Elevated Path
 - Crumbling Dark Brick Path
 - Tall Dark Brick Fence and Gate
 - Low Dark Brick Fence and Gate
 
-===
+
 Other Credits
-===
+
 - Genkicoll for the original textures

@@ -19,21 +19,20 @@ languages:
 summary: "Adds the striking and unique looking Hamadryas baboon for adoption."
 ---
 
-=== 
-Description
-===
+ 
+
 
 Adds the striking and unique looking Hamadryas baboon for adoption. They are a social and fun species to have in your zoo, just remember to keep their numbers in check! Should be compatible with most versions of the game, although their preferred foliage, the Doum palm, was included with the North African theme pack, as well as Complete Collection, so you need either one of these for that to work properly.
 
-===
+
 Credits
-===
+
 - Original model and textures by KING Art.
 - Zoo Tycoon 2 for the rig, animations and sounds.
 - Serpyderpy for importing, rigging and editing the model, editing the textures, creating the animal, icons and plaques."
 
-===
+
 Compatibility
-===
+
 
 Requires the official North African Theme Pack by Blue Fang or the Complete Collection.

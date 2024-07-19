@@ -20,9 +20,9 @@ languages:
 - English
 ---
 
-===
+
 Contents
-===
+
 
 - Giant Salamander
 - Pulmonoscorpius
@@ -30,23 +30,23 @@ Contents
 - Crassygyrinus
 - Arthropleura
 
-===
+
 Requirements
-===
+
 
 - Spider Crab by Harlequinz Eg0
 
-===
+
 Issues
-===
+
 
 - Zoopedia might not work on some
 - Crassygyrinus is white before placement
 - Pulmonoscorpius' biome is supposed to be Wetlands, but it says Alpine
 - The original instructions say to remove "Arthropleura" before install. It was a demo at release, but it is included in the download. It doesn't seem to cause any issues on its own, but you can see an animated preview in the gallery above (final image). It seems it was a very early version of the animal.
 
-===
+
 Other Credits
-===
+
 
 - Harlequinz Eg0 - Original animations

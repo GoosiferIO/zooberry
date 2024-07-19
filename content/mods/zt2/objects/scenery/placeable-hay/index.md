@@ -21,8 +21,8 @@ languages:
 
 Placeable hay made by The CRG Problem. Note that this is just scenery and not a food item, toy, nor enrichment item.
 
-===
+
 Observed Issues
-===
+
 
 - The preview on the purchase menu has no icon, but it should be distinct as it spells out "hay" in the thumbnail.

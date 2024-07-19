@@ -21,8 +21,8 @@ languages:
 - English
 ---
 
-===
+
 From the Zoopedia
-===
+
 
 Sword Ferns are evergreen ferns native to western North America, where they are one of the most abundant ferns occurring along the Pacific coast from southeast Alaska south to southern California, and also inland east to southeastern British Columbia, northern Idaho and western Montana, with isolated populations in interior northern British Columbia, the Black Hills in South Dakota, and on Guadalupe Island off Baja California.

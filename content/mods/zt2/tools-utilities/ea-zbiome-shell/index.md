@@ -21,14 +21,14 @@ languages:
 
 Extinct Animals zBiome Shell with support for ambients in user-made biomes.
 
-===
+
 Note by ZooBerry
-===
+
 
 It is unclear what this utility is doing that the original zBiome Shell does not do. The original zBiome Shell is a utility that allows users to create new biomes for Zoo Tycoon 2. The original file post does not provide a description, but the assumption here is that this version provides support for Extinct Animals biomes that perhaps the original did not. Your mileage may vary.
 
-===
+
 Requirements
-===
+
 
 - [Biome Shell](https://www.zooberry.org/mods/zt2/tools-utilities/biome-shell/)

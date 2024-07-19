@@ -26,9 +26,9 @@ languages:
 
 The SZE Carnivore House is a building kit that allows players to create a variety of structures for their zoo exhibits, mainly focused on carnivorous animals. The walls in this pack have slit windows and a few decorative items that all work together.
 
-=== 
+ 
 Contents
-===
+
 
 - Walls
 - Windows
@@ -41,15 +41,15 @@ Contents
 - Cliff facades
 - Platforms
 
-===
+
 Pre-Requisites
-===
+
 
 - Requires installation of the SZE Basic Pack also found on Zooberry.
 
-=== 
+ 
 Original Instructions by the Author 
-===
+
 
 **Installation**
 
@@ -72,9 +72,9 @@ All downloads are packed in a zip archive. In the zip archive you will find the 
 - Patches and hacks from other designers could override these features, a realistic gameplay can't be guaranteed when those are used.
 - Patches from the SZE-assortiment can be recognised by the SZE-number.
 
-===
+
 Other Credits
-===
+
 
 SZE (Snowleo's Zoo Equipment) was a design team that consisted of the following members. For all mods with the SZE label it is unclear whose attribution is for what part of the mod, but all consistently credit Snowleo.
 

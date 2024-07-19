@@ -22,9 +22,9 @@ summary: "A coastal theme pack by ShenTirag."
 
 ---
 
-====
+=
 Includes
-====
+=
 
 - Coastal Fence
 - Coastal Viewing Canopy

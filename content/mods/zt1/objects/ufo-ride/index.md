@@ -18,26 +18,28 @@ alt_text:
 summary: "A gravitron for ZT1!"
 languages:
 - English
+dependencies:
+- title: LANG--ZTCDD.dll
+  url: http://www.ztcdd.org/DG/index.php?topic=3734.0
+  description: 
 ---
 
-====
-Description
-====
+==
  
 
 A gravitron ride styled after a fun UFO theme! Fits in with the in-game carnival theme.
 
-====
+=
 Credits
-====
+=
 
 - Graphics, design, animations made by Goosifer.
 - Configuration by Goosifer with lots of help from Jay and Fern.
 - Tools: Blender 3.6, Photoshop, GIMP, ZooT.
 
-====
+=
 Installation
-====
+=
  
 To install, drop the containing .ztd file in the following directory:
 

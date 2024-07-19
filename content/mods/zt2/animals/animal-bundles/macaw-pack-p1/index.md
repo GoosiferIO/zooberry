@@ -21,9 +21,9 @@ languages:
 - English
 ---
 
-===
+
 Contents
-===
+
 
 - Red-Fronted Macaw
 - Military Macaw
@@ -34,8 +34,8 @@ Contents
 - Blue-Headed Macaw
 - Blue and Gold Macaw
 
-===
+
 Other Credits
-===
+
 
 - Hendrix - model

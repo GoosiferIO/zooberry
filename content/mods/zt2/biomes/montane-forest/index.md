@@ -24,9 +24,9 @@ title: Montane Forest
 ---
 Montane forests are a type of tropical moist forest that exist at higher elevations. In some regions this can cause the formation of a cloud forest, but in most a standard montane forest setting occurs. These forests often have many epiphytes which are plants that can grow without roots because it can get moisture and nutrients from the air.
 
-====
+=
 Included in the Pack
-====
+=
 
 **Biomes:**
 - Montane Forest
@@ -37,21 +37,21 @@ Included in the Pack
 - Medium Montane Forest Rock
 - Small Montane Forest Rock
 
-====
+=
 Dependencies
-====
+=
 
 This download will require an updated biome system such as the Biome Shell, Lego's Updated Biome System (available standalone or in the Cretaceous Calamity Holiday Teaser), or Summjoke's Creator's Panel. These sorts of files can be found in the [Tools and Utilities](<https://www.zooberry.org/mods/zt2/tools-utilities/>) section.
 
-====
+=
 Context
-====
+=
 
 Like many other downloads of its time, this was a collaboration that Penguinman created with another user. It has no known issues.
 
-====
+=
 Related Downloads
-====
+=
 
 **Hack:**
 This will move the spectacled bear, mountain gorilla, and puya plant to the Montane Forest biome.

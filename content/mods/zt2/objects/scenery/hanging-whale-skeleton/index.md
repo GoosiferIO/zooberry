@@ -23,20 +23,20 @@ languages:
 
 This download adds a decorative hanging whale skeleton to your Zoo Tycoon 2 game. Must be placed underneath an elevated path.
 
-===
+
 Contents
-===
+
 
 - Hanging Whale Skeleton (decorative)
 
-===
+
 Known Issues
-===
+
 
 - If you place two or more skeletons next to each other, the vertices seize up, and the model distorts. You should be fine so long as you don't place them side by side.
 
-===
+
 Other Credits
-===
+
 
 - DreamCatcher - model

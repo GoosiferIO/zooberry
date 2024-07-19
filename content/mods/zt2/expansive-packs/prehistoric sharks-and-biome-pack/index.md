@@ -22,9 +22,9 @@ languages:
 
 A pack with two animals and a new biome.
 
-===
+
 Contents
-===
+
 
 # Animals
 

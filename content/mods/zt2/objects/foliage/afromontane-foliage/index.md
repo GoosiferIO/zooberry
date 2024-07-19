@@ -26,9 +26,9 @@ A set of trees from African mountains made to accompany the user-made [Montane F
 
 Like many other downloads of its time, this was a collaboration that Penguinman created with another user. It has no known issues.
 
-====
+=
 Included in the Pack
-====
+=
 
 **Foliage:**
 - African Cherry

@@ -21,14 +21,14 @@ languages:
 - Dutch
 ---
 
-===
+
 From the Wikipedia
-===
+
 
 The Patas Monkey (Erythrocebus patas) is a ground-dwelling monkey distributed over semi-arid areas of West Africa, and into East Africa. It is the only species classified in the genus Erythrocebus. Recent phylogenetic evidence indicates that it is the closest relative of the Vervet Monkey (Cercopithecus aethiops), suggesting nomenclatural revision.
 
-===
+
 Issues
-===
+
 
 - Preview icon is from the Gelada female

@@ -23,9 +23,9 @@ title: Tree Elevated Path Pack
 ---
 This pack contains 9 elevated paths, each made to resemble a tree from a different biome.
 
-====
+=
 Included in the Pack
-====
+=
 
 **Elevated Paths:**
 - Aspen: Grassland
@@ -38,8 +38,8 @@ Included in the Pack
 - Umbrella Thorn Acacia: Savannah
 - Weeping Myall: Scrub
 
-====
+=
 Context
-====
+=
 
 Unlike most other downloads by Penguinman, this one was created solely by himself. It has no known issues.

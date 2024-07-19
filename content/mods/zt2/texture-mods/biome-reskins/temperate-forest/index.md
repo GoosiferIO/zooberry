@@ -20,12 +20,12 @@ languages:
 - English
 ---
 
-=== Contents ===
+ Contents 
 
 - Ultra-realistic temperate forest biome reskin for Zoo Tycoon 2
 - Includes new textures for temperate rocks and birch tree
 
-=== Other Credits ===
+ Other Credits 
 
 - Blue Fang
 - Tigress

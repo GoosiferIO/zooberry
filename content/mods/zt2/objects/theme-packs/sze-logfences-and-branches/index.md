@@ -23,9 +23,9 @@ languages:
 
 A mini-pack of log fences and branches for Zoo Tycoon 2.
 
-===
+
 Contents
-===
+
 
 **Scenery**
 - Hatari Branches

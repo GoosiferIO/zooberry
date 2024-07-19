@@ -20,7 +20,7 @@ languages:
 - German
 ---
 
-=== From the Readme ===
+ From the Readme 
 
 (Slightly edited for clarity by Zooberry but otherwise unchanged.)
 

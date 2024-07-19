@@ -22,9 +22,9 @@ title: Albino Pack
 ---
 A pack of eight albino variants, one each for eight different animals, made by Zooasaurus and bundled together in one .zip file.
 
-====
+=
 Included in the Pack
-====
+=
 
 **Animal Variants:**
 - Albino Emperor Penguin

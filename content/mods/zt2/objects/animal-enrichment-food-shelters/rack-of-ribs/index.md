@@ -19,8 +19,8 @@ summary: "A rack of ribs food enrichment item for Zoo Tycoon 2."
 languages:
 - English
 ---
-=== 
+ 
 Disclaimer
-===
+
 
 - Animals will not eat this item. It is available under this category because the mod is coded as a food item, and will be placed in the food enrichment category in-game.

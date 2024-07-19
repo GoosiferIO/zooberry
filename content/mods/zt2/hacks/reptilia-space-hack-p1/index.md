@@ -21,9 +21,9 @@ languages:
 
 Reduces the space requirements for some reptiles in ZT ABC's REPTILIA user-made expansion.
 
-===
+
 Hack Covers the Following Animals
-===
+
 
 - Hermann's Tortoise
 - Ring-Necked Spitting Cobra

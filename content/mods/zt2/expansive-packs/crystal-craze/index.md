@@ -21,9 +21,9 @@ languages:
 ---
 
 
-===
+
 Contents
-===
+
 
 **Biomes**
 - Crystal Biome
@@ -39,14 +39,14 @@ Contents
 **Utilities**
 - Crystal Craze Filter
 
-===
+
 Requirements
-===
+
 
 - [zBiome Shell](https://www.zooberry.org/mods/zt2/tools-utilities/biome-shell/) - Required for the Crystal Biome to function properly.
 
-===
+
 Issues
-===
+
 
 - No zoopedia entries for the animals.

@@ -21,9 +21,9 @@ title: Fire Pack
 ---
 From the hidden island of Drom emerges mythical beasts of fire. This pack contains three of these beasts: the Phoenix, Red Dragon, and Nightmare. It also has the fire palm which all three enjoy.
 
-====
+=
 Included in the Pack
-====
+=
 
 **Animals:**
 - Nightmare
@@ -33,17 +33,17 @@ Included in the Pack
 **Foliage:**
 - Fire Palm
 
-====
+=
 Context
-====
+=
 
 Drom is an original location created for this pack. It's a mythical island that is located south of Scandinavia, and is often not included in maps due to its deadly nature. No person who has visited this island has come back.
 
 Unlike most other downloads by Penguinman, this one was created solely by himself. Each animal includes a gift for guests to purchase.
 
-====
+=
 Known issues
-====
+=
 
 - The visuals of the fire palm turn into a white plane if you're far enough away from it.
 - Even though they will mate, the nightmare has bugged reproduction. They will “give birth” without any offspring appearing. Instead, the mother’s pregnancy status is removed without effect.

@@ -23,8 +23,8 @@ languages:
 
 A Congo Buffalo made by Tom.
 
-=== 
+ 
 Credits
-===
+
 
 - Slice: helped fix some minor bugs

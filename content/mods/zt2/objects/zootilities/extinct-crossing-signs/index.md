@@ -20,16 +20,14 @@ summary: A set of nine extinct animal crossing signs that warn visitors on foot 
 title: Extinct Animal Crossing Signs
 ---
 
-===
-Description
-===
+
 
 "A set of nine extinct animal crossing signs that warn visitors on foot or in jeep transports that various extinct animals from around the world may cross their path."
 \-ShenTirag
 
-===
+
 Includes
-===
+
 
 Includes the following crossing signs:
 
@@ -43,9 +41,9 @@ Includes the following crossing signs:
 - Mammoth Crossing
 - Ornithomimosaurs Crossing
 
-===
+
 Other Credits
-===
+
 
 "The model was made by Mysty at Caldera Unlimited and released as a resource for other designers to use. Coded and skinned by ShenTirag."
 \-ShenTirag

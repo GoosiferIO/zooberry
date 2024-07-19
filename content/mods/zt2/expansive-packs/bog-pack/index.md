@@ -24,17 +24,17 @@ languages:
 
 A Bog Pack made by Hendrix with new animals, objects, and a new biome.
 
-===
+
 Pre-Requisites
-===
+
 
 Because this mod creates a new biome, you will need the following mod to use it:
 
 - [Penguinman's Biome Shell](https://www.zooberry.org/mods/zt2/tools-utilities/biome-shell/)
 
-===
+
 Contents
-===
+
 
 # Animals
 
@@ -73,9 +73,9 @@ Contents
 
 - Bog
 
-===
+
 Observed Issues
-===
+
 
 - Large Bog Pine does not have an icon and does not show when placed.
 - 

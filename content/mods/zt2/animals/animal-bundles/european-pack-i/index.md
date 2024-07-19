@@ -27,18 +27,18 @@ title: European Pack I
 ---
 "The first part of our little project, contains the European Mouflon, the Highland Cow and the Shire Horse! Each animal has a variety of variants!"
 
-====
+=
 Included in the Pack
-====
+=
 
 **Animals:**
 - European Mouflon
 - Highland Cow
 - Shire Horse
 
-====
+=
 Related Downloads
-====
+=
 
 **Highland Cow Moorland Hack:**
 Moves the highland cow to the user-made [Moorland](<https://www.zooberry.org/mods/zt2/biomes/moorland/>) biome. It will require the biome in order to work properly.

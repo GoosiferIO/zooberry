@@ -24,15 +24,15 @@ languages:
 
 A blank tropical coast map for Zoo Tycoon 2, created by Super Utah Thief.
 
-===
+
 Note by Zooberry About Maps 
-===
+
 
 This mod was uploaded for archival purposes. The original post included references to other mods that were used in the making of this zoo. However, your mileage may vary with the links provided below. They are provided as a courtesy to get you started on your search for the mods mentioned in the original post and may not be the exact versions that were used in the original zoo.
 
-===
+
 Mods this Map Uses
-===
+
 
 Some links below are external.
 

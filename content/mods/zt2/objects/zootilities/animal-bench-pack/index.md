@@ -22,7 +22,7 @@ A pack containing many benches which you can select from.
 
 This download has no known issues.
 
-=== Included in the Pack ===
+ Included in the Pack 
 
 **Scenery:**
 - Elephant Bench

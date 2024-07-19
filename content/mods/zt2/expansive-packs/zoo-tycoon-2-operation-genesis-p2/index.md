@@ -25,9 +25,9 @@ This is the second part of the Zoo Tycoon 2 Operation Genesis project. You can d
 
 [Zoo Tycooon 2: Operation Genesis - Part 1](https://www.zooberry.org/mods/zt2/expansive-packs/zoo-tycoon-2-operation-genesis-p1/).
 
-===
+
 Included in Part 2
-===
+
 
 Animals:
 - Acrocanthosaurus
@@ -59,17 +59,17 @@ Enrichment Items:
 - Live cow
 - Live goat
 
-===
+
 Installation
-===
+
 
 Place `zzzzzz_zt2_operation_genesis_part_b_v1.0".z2f` in the following path: 
 
 `C\Program Files\Microsoft Games\Zoo Tycoon 2`
 
-===
+
 OPTIONAL
-===
+
 
 The folder named `zzzzzz_zt2_og_sounds.z2f` contains new sounds for your game as well as a new main menu theme. Place this folder in the following path:
 
@@ -83,15 +83,15 @@ The file named `splashimage.bmp` is a replacement for Zoo Tycoon 2's old splash 
 
 `C\Program Files\Microsoft Games\Zoo Tycoon 2`
 
-===
+
 Credits
-===
+
 
 Models and original content by: Blue Tongue Games, Hendrix
 Assistance from: Uzag, Letalivenator, Okeanos Savior, dudemeister130, Thom, and Dragranzer
 
-===
+
 Known Issues
-===
+
 
 The animals do not have sick or dirty skins. Some of the animals may have odd animations or light distortion but that is due to the low number of vertices in the model and the bones they are using.
