@@ -21,17 +21,26 @@
 // });
 
 <script>
-document.getElementById('toggle').addEventListener('click', function() {
-    const currentTheme = document.documentElement.getAttribute('data-theme');
-    const newTheme = (currentTheme === 'light') ? 'light' : 'dark';
+document.addEventListener('DOMContentLoaded', function() {
+  const themeSwitcher = document.getElementById('theme-switcher');
 
-    document.documentElement.setAttribute('data-theme', newTheme);
-    localStorage.setItem('theme', newTheme);
-});
+  // Load saved theme preference
+  const savedTheme = localStorage.getItem('theme');
+  if (savedTheme === 'light') {
+    document.body.classList.add('light');
+    themeSwitcher.checked = true;
+  }
 
-// On page load, set the theme based on user's preference
-window.addEventListener('DOMContentLoaded', (event) => {
-    const savedTheme = localStorage.getItem('theme') || 'dark';
-    document.documentElement.setAttribute('data-theme', savedTheme);
+  // Detect OS preference if no saved preference
+  else if (window.matchMedia("(prefers-color-scheme: light)").matches) {
+    document.body.classList.add('light');
+    themeSwitcher.checked = true;
+  }
+
+  // Handle toggle switch
+  themeSwitcher.addEventListener('change', function() {
+    document.body.classList.toggle('light');
+    localStorage.setItem('theme', this.checked ? 'light' : 'dark');
+  });
 });
 </script>
