@@ -1,4 +1,8 @@
+{{ $files := .Resources.Match "/*.zip" }}
+{{ $fileCount := len $files }}
+
 <div class="sidebar_r">
+
     <div class="sidebar_r-inner">
         <span class="sidebar_r-title">Knowledgebase</span>
         {{- with index site.Menus "mpknowledgebase" }}
@@ -13,7 +17,11 @@
         {{- end }}
     </div>
     <div class="sidebar_r-inner">
-        <a class="button-dft" href="#">
+      {{ if gt $fileCount 1 }}
+        <a class="button-dft" href="#tab-files">
+      {{ else if eq $fileCount 1 }}
+        <a class="button-dft" href="{{ index $files 0 }}">
+      {{ end }}
             <i class="material-icons icon">download</i>
             Download
         </a> 
