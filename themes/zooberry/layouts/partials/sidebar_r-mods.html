@@ -18,7 +18,7 @@
     </div>
     <div class="sidebar_r-inner">
       {{ if gt $fileCount 1 }}
-        <a class="button-dft" href="#tab-files">
+        <a class="button-dft" href="#tab-file-anchor" onclick="openTab('tab-files')">
       {{ else if eq $fileCount 1 }}
         <a class="button-dft" href="{{ index $files 0 }}">
       {{ end }}
