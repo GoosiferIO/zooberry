@@ -107,3 +107,10 @@ table.mod-meta .tr-alt {
 .box-card-tab {
     margin: 0.5rem 0;
 }
+
+.isExternal {
+    padding: 0.2rem;
+    font-style: italic;
+    background-color: var(--secondary-bg);
+    border-radius: 10px;
+}

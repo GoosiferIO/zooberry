@@ -26,6 +26,7 @@
 
     {{ $files := .Resources.Match "/*.zip" }}
     {{ $fileCount := len $files }}
+    {{ $dependencyCount := len .Params.dependencies }}
 
     <div class="post-content">
       {{ partial "galleria.html" . }}
@@ -37,7 +38,7 @@
           {{ end }}
         </button>
         <button class="mod-tab-btn tab-dependencies" onclick="openTab('tab-dependencies')">Dependencies
-          <span class="badge-alert">0</span>
+          <span class="badge-alert">{{ $dependencyCount }}</span>
         </button>
       </div> 
       <div class="tab tab-description">
@@ -50,7 +51,7 @@
       </div>
       <div class="tab tab-dependencies" style="display: none;">
         <h2>Dependencies</h2>
-        {{/*  {{ partial "range-dependencies.html" . }}  */}}
+        {{ partial "range-dependencies.html" . }}
       </div>
     </div>
   </div>

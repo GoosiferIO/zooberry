@@ -1,0 +1,23 @@
+{{/*  get all dependencies  */}}
+
+{{/*  get length of dependencies  */}}
+{{ $dependencyCount := len .Params.dependencies }}
+
+{{ if gt $dependencyCount 0 }}
+    {{ range .Params.dependencies }}
+        <div class="box-card-mods box-card-tab">
+            <h2>{{ .title }}</h2>
+            <div class="box-card-mods-content clearfix">        
+                <a class="button-dft margin-top" href="{{ .url }}"><i class="material-icons icon">download</i> Download</a>
+                {{ if .external }}
+                    <p class="isExternal"><i class="material-icons icon">open_in_new</i> External Link </p>
+                {{ end }}
+                <div class="box-card-summary">
+                    <p>{{ .description }}</p>
+                </div>
+            </div>
+        </div>
+    {{ end }}
+{{ else }}
+    <p>No dependencies found</p>
+{{ end }}
