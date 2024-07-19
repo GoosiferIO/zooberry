@@ -1,16 +1,1 @@
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
-{{ if .Params.blog }}
-  <nav class="blog-nav">
-    <ul>
-      <li>
-        <a href="/blog">Home</a>
-      </li>
-      <li>
-        <a href="/blog/tags">Monthly Summaries</a>
-      </li>
-      <li>
-        <a href="/blog/categories">ZooBerry Updates</a>
-      </li>
-    </ul>
-  </nav> 
-{{ end }}
