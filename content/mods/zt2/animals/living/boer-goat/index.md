@@ -25,8 +25,8 @@ To install, unzip and drop the .z2f file into your `Zoo Tycoon 2` folder:
 
 - `C:/Program Files (x86)/Microsoft Games/Zoo Tycoon 2`
 
-=== 
+ 
 Other Credits
-===
+
 
 - Original model by Aurora Designs

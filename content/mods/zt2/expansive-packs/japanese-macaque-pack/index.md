@@ -21,9 +21,9 @@ title: Japanese Macaque Pack
 ---
 Japanese macaques range through the forested mountains and highlands of Japan. They occupy the northernmost regions of any nonhuman primate and are subject to large seasonal variation in climate, as is typical of northern latitudes. In the central and northern parts of Japan, temperatures can range from -15 C in the winter to 23 C in the summer. These large swings in temperature may explain why Japanese macaques have different home ranges in different seasons.
 
-====
+=
 Included in the Pack
-====
+=
 
 **Animals:**
 - Japanese Macaque
@@ -45,8 +45,8 @@ Included in the Pack
 **Scenery:**
 - Japanese Macaque Sign
 
-====
+=
 Context
-====
+=
 
 Unlike most other downloads by Penguinman, this one was created solely by himself. It has no known issues and the macaque includes a gift for guests to purchase.

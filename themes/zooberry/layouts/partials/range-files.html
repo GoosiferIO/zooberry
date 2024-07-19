@@ -2,22 +2,34 @@
 
 {{ $files := .Resources.Match "/*.zip" }}
 {{ $fileCount := len $files }}
-{{ if gt $fileCount 0 }}
-    {{ range $files }}
-    <div class="box-card-mods">
-        <h2>{{ .Name }}</h2>
+{{ if gt $fileCount 1 }}
+    {{ range .Params.mod_list }}
+    <div class="box-card-mods box-card-tab">
+        <h2>{{ .title }}</h2>
         <div class="box-card-mods-content clearfix">        
-            <p><strong>File</strong>: {{ .Name }}</p>
+            <p><strong>File</strong>: {{ .name }}</p>
             <p><strong>Size</strong>: 28 kb</p>
-            <p><strong>Uploaded</strong>: 2 Jan 2006</p>
+            <p><strong>Uploaded</strong>: {{ .uploaded }}</p>
             <a class="button-dft margin-top" href="{{ .RelPermalink }}"><i class="material-icons icon">download</i> Download</a>
             <div class="box-card-summary">
-                <p>Insert summary</p>
+                <p>{{ .description }}</p>
             </div>
         </div>
     </div>
     
-        {{ end }}
+{{ end }}
+{{ else if eq $fileCount 1 }}
+    <div class="box-card-mods box-card-tab">
+        <h2>Download</h2>
+        <div class="box-card-mods-content clearfix">        
+            <p><strong>File</strong>: {{ index $files 0 }}</p>
+            <p><strong>Size</strong>: {{  .Params.file_size }}
+            <p><strong>Uploaded</strong>: {{ .Date.Format "2 Jan 2006" }}</p>
+            <a class="button-dft margin-top" href="{{ index $files 0 }}"><i class="material-icons icon">download</i> Download</a>
+        </div>
+    </div>
+
+
 {{ else }}
     <p>No files found</p>
 {{ end }}

@@ -21,8 +21,8 @@ languages:
 
 A stony fence made by Feral Designs in 2012.
 
-===
+
 Known Bugs
-===
+
 
 Gates are invisible. No UI or Language file included.

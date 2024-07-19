@@ -23,9 +23,9 @@ summary: "A pack containing several cobras from Africa, perfect for your reptile
 
 Africa's Spitter's is a pack containing seven cobras from Africa, perfect for your reptile houses. There is also an additional mystery cobra from another continent. The original description stated that the snakes don't lay eggs, however from testing this is confirmed to not be the case. Each animal lays eggs & hatches just fine and the pack seems to be bug-free.
 
-====
+=
 Included in the Pack
-====
+=
 
 **Animals:**
 
@@ -42,8 +42,8 @@ Included in the Pack
 
 - Selection decal for Sneke_bite's animals (see the last image)
 
-====
+=
 Other Credits
-====
+=
 
 - Hendrix for the nif model.

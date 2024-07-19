@@ -26,21 +26,21 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Load saved theme preference
   const savedTheme = localStorage.getItem('theme');
-  if (savedTheme === 'light') {
-    document.body.classList.add('light');
+  if (savedTheme === 'dark') {
+    document.body.classList.add('dark');
     themeSwitcher.checked = true;
   }
 
   // Detect OS preference if no saved preference
-  else if (window.matchMedia("(prefers-color-scheme: light)").matches) {
-    document.body.classList.add('light');
+  else if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+    document.body.classList.add('dark');
     themeSwitcher.checked = true;
   }
 
   // Handle toggle switch
   themeSwitcher.addEventListener('change', function() {
-    document.body.classList.toggle('light');
-    localStorage.setItem('theme', this.checked ? 'light' : 'dark');
+    document.body.classList.toggle('dark');
+    localStorage.setItem('theme', this.checked ? 'dark' : 'light');
   });
 });
 </script>

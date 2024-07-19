@@ -24,7 +24,7 @@ languages:
 summary: "Two pterosaurs by Andrew12 and PrimevalRaptor, and a remake of the Quetzalcoatlus by Hendrix."
 ---
 
-=== From the Zoopedia ===
+ From the Zoopedia 
 
 **Ornithocheirus**
 
@@ -34,13 +34,13 @@ Ornithocheirus was a pterodactyloid pterosaur known from the Late Cretaceous of 
 
 Quetzalcoatlus was a pterodactyloid pterosaur known from the Late Cretaceous of North America (Maastrichtian stage, about 68 to 65.5 million years ago), and one of the largest known flying animals of all time. It was a member of the Azhdarchidae, a family of advanced toothless pterosaurs with unusually long, stiffened necks. Its name comes from the Mesoamerican feathered serpent god Quetzalcoatlusalcoatl.
 
-=== Included in the Pack ===
+ Included in the Pack 
 
 **Animals:**
 - Ornithocheirus
 - Quetzalcoatlus
 
-==== Known issues ====
+= Known issues =
 
 **Minor**
 
@@ -48,6 +48,6 @@ Quetzalcoatlus was a pterodactyloid pterosaur known from the Late Cretaceous of 
 - All preview models lack a texture and display larger than the thumbnail can fit.
 - Some models have blank texture while holding but display fine after placement.
 
-=== Other Credits ===
+ Other Credits 
 
 - **Hendrix** for 3D models.

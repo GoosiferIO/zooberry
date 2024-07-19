@@ -21,15 +21,15 @@ languages:
 - German
 ---
 
-===
+
 Contents
-===
+
 
 - Yellow-collared Lovebird
 - Black-winged Lovebird
 
-===
+
 Other Credits
-===
+
 
 - Slice - *role not specified*

@@ -20,9 +20,9 @@ languages:
 - Dutch
 ---
 
-===
+
 Issues
-===
+
 
 - The behaviour could be a little odd because of the Meerkat animations.
 

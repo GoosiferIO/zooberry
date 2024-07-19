@@ -22,8 +22,8 @@ languages:
 
 A massai fence made by Thom in 2014.
 
-===
+
 Known Bugs
-===
+
 
 It doesn't have it's own unique staff gate and there is a bit of space between the fences if you place them diagonal.

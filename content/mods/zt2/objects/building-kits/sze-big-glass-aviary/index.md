@@ -24,15 +24,15 @@ languages:
 
 A building kit that lets you build a glass Aviary.
 
-===
+
 Note by Zooberry About Building Kits
-===
+
 
 Bulding kits aren't a feature supported by Zoo Tycoon 2 by default. They are a type of mod that provides a collection of objects that can be used to build a specific structure. Contents of a building kit can include fences, scenery, paths, and other objects that are used to create the structure and may not be available under one tab.
 
-===
+
 Contents
-===
+
 
 **Scenery Tab**
 - Stairs
@@ -54,15 +54,15 @@ Contents
 **Buildings**
 - Roof 200
 
-===
+
 Video Tutorial
-===
+
 
 Snowleo has created a video tutorial that teaches how to use this building kit. You can watch it [on Youtube](https://www.youtube.com/watch?v=Mkx2cHpgIsY). It is in German, but the visuals should be helpful.
 
-===
+
 Instructions
-===
+
 
 Snowleo's instructions roughly translated from German:
 

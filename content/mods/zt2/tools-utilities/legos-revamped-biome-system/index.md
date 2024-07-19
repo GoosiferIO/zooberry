@@ -27,14 +27,14 @@ For years, even the most experienced Zoo Tycoon 2 designers believed it impossib
 
 If you have the Cretaceous Calamity Holiday Teaser pack, you do need to install this mod. This 'biome shell' is already included as part of that pack.
 
-====
+=
 Instructions
-====
+=
 
 The main file is a .zip that contains two .z2f files. The main file 'ZZZZZ-Lego-New-BiomeSys-default.z2f' is compatible with the biomes from base game Zoo Tycoon 2. The other file 'ZZZZZ-Lego-New-BiomeSys-marine' adds compatibility for Marine Mania's four extra biomes. If you have Marine Mania or Ultimate Collection, make sure to use **both files**! Otherwise not all of the vanilla biomes will show up properly.
 
-====
+=
 Alternative Version
-====
+=
 
 The 'alternative' version of this file is a patch for users of Snowleo's CombiPatch or BasicPatch. It should only be used if you also have (one of) those mods. It is also an additional file to be installed in addition to the main .z2f(s), rather than in place of it(/them).

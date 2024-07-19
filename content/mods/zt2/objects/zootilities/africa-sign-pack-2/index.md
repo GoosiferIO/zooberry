@@ -21,7 +21,7 @@ languages:
 
 A set of information signs for the Africa theme. These will be found purchasable from the Scenery tab in-game.
 
-=== Contents ===
+ Contents 
 
 - Thomson's Gazelle Sign
 - Retriculated Giraffe Sign
@@ -29,10 +29,10 @@ A set of information signs for the Africa theme. These will be found purchasable
 - Ellipsen Waterbuck Sign
 - Ankole-Watusi Sign
 
-=== Known Issues ===
+ Known Issues 
 
 - Menu icons in the purchase menu are blank.
 
-=== Other Credits ===
+ Other Credits 
 
 - Credit to -Jimmyzhoopz- for the sign models.

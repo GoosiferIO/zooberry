@@ -21,7 +21,7 @@ languages:
 summary: "Six pterosaurs by Andrew12."
 ---
 
-=== Included in the Pack ===
+ Included in the Pack 
 
 **Animals:**
 
@@ -32,11 +32,11 @@ summary: "Six pterosaurs by Andrew12."
 - Pteranodon
 - Pterodaustro
 
-=== Other Requirements ===
+ Other Requirements 
 
 - [High Flying Birds Hack by Harlequinz Eg0](https://www.tapatalk.com/groups/gaia1/high-flying-birds-t790.html) (*Hosted at Gaia*)
 
-==== Known issues ====
+= Known issues =
 
 Important:
 
@@ -47,7 +47,7 @@ Minor:
 - All preview models lack a texture and display larger than the thumbnail can fit.
 - Some models have blank texture while holding but display fine after placement.
 
-=== Other Credits ===
+ Other Credits 
 
 - **Hendrix** for 3D models.
 - UT2 for textures.

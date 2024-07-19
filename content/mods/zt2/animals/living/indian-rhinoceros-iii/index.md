@@ -22,10 +22,10 @@ languages:
 - Dutch
 ---
 
-=== From the Zoopedia ===
+ From the Zoopedia 
 
 The Indian Rhinoceros (Rhinoceros unicornis), also called Greater one-horned rhinoceros, can be found in parts of north-eastern India and in protected areas in the Terai of Nepal.
 
-=== Credits ===
+ Credits 
 
 Created by **DutchDesigns** and **Gerben**. No other attributions were found.

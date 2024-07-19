@@ -22,15 +22,15 @@ languages:
 
 A small rodent that lives in the prairies of North America.
 
-===
+
 Other Credits
-===
+
 
 - Hendrix - Original model and coding
 
-===
+
 Issues
-===
+
 
 - Preview menu icon is visibly-contrasted with the other icons.
 - When approaching the animal to clean it in zookeeper mode, the selection marker that normally shows below a dirty animal is visibly bugged and might show purple in error. Appears fine after cleaning the animal.

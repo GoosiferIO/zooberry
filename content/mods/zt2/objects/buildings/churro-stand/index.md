@@ -21,9 +21,9 @@ summary: "Churros are a fun Mexican pastry with lots of sugar!"
 
 ---
 
-=====
+==
 Churro Stand by Goosifer and Penguinman
-===
+
 
 A churro stand made by Goosifer (back when he used to go by Catc!) and Penguinman in 2009. Finally releasing in 2023! It includes a churro stand for every one of the base game theme stand models including:
 
@@ -37,25 +37,25 @@ A churro stand made by Goosifer (back when he used to go by Catc!) and Penguinma
 
 Churros are a fun Mexican pastry with lots of sugar!
 
-====
+=
 Credits
-====
+=
 
 - Churro models and textures are made by Goosifer.
 - XML configuration and Nif model tweaks (so the models play nice with guest interactions) were done by Penguinman.
 - Tools: Blender, Photoshop, Nifskope.
 
-=====
+==
 INSTALLATION
-=====
+==
 
 To install, drop the containing .z2f file in the following directory:
 
 C:\Program Files (x86)\Microsoft Games\Zoo Tycoon 2
 
-====
+=
 License
-====
+=
 
 The base stand models that came with the game are proprietary and owned by Microsoft.
 

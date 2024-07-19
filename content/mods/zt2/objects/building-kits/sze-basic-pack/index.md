@@ -26,9 +26,9 @@ languages:
 
 Basic Pack by SZE was a an assortment of resource files that serve as a basis for SZE's other mods. On its own, it also offers two elevated paths in neutral colors (as pictured above) which function as rooftops for the other building kits offered by SZE.
 
-=== 
+ 
 Original Instructions by the Author 
-===
+
 
 **Installation**
 
@@ -51,9 +51,9 @@ All downloads are packed in a zip archive. In the zip archive you will find the 
 - Patches and hacks from other designers could override these features, a realistic gameplay can't be guaranteed when those are used.
 - Patches from the SZE-assortiment can be recognised by the SZE-number.
 
-===
+
 Other Credits
-===
+
 
 SZE (Snowleo's Zoo Equipment) was a design team that consisted of the following members. For all mods with the SZE label it is unclear whose attribution is for what part of the mod, but all consistently credit Snowleo.
 

@@ -103,3 +103,7 @@ table.mod-meta .tr-alt {
     color: var(--accent-text) !important;
     font-weight: bold !important;
 }
+
+.box-card-tab {
+    margin: 0.5rem 0;
+}

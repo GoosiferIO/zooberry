@@ -21,29 +21,29 @@ languages:
 summary: "Use cheat codes to make fences invisible!"
 
 ---
-===
+
 Invisible Fences Easter Egg
-===
+
 
 This mod adds a new "easter egg" cheat to the game. Rename a guest to "Mrs. Invis" to make all stick pole fences invisible. Rename a guest to "Mr. Show" to make all stick pole fences visible.
 
-===
+
 Features
-===
+
 
 - Fences are indestructible while invisible. They also top off on health and strength every few months to prevent decay.
 - Turn invisible fences back on after placement to make changes.
 - Other traits while invisible: height of 5 units, not jumpable, not climbable.
  
-===
+
 Considerations
-===
+
 
 A minor bug exists where if you replace another fence with an invisible fence, then both will turn invisible. Renaming a guest to Mr. Show will only make the stick pole fence visible, not the other one. You can run the bulldozer along the path you remember to delete it. A fix will be patched in a future version.
 
-===
+
 Installation
-===
+
 
 1. Requires EMU v1.1.0 to work. EMU download here: https://github.com/openztcc/EMU/releases/latest
 

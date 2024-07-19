@@ -24,15 +24,15 @@ languages:
 
 Temperate Bridges is a map for Zoo Tycoon 2 created by ceej12.
 
-===
+
 Note by Zooberry About Maps 
-===
+
 
 This mod was uploaded for archival purposes. The original post included references to other mods that were used in the making of this zoo. However, your mileage may vary with the links provided below. They are provided as a courtesy to get you started on your search for the mods mentioned in the original post and may not be the exact versions that were used in the original zoo.
 
-===
+
 List of Mods Used in the Original Zoo
-===
+
 
 Most links below are external.
 

@@ -22,16 +22,14 @@ summary: A second set of natural wooden scenery to soften the curves of a harsh 
 title: Natural Scenery Pack 2
 ---
 
-===
-Description
-===
+
 
 "A second set of natural wooden scenery to soften the curves of a harsh city zoo.  Featuring a mahogany wooden donation box, binocular set, viewing canopy and map, alongside a set of ivy covered arches including large sizes to cover wide paths.  Additionally, several fallen logs are contained to give a realistic feel to a forest exhibit." 
 \- ShenTirag
 
-===
+
 Includes
-===
+
 
 # Scenery
 - Large Wooden Dark Ivy Arch

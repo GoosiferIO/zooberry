@@ -22,22 +22,22 @@ summary: "Download the Presently Seated Bench, a festive holiday bench"
 
 ---
 
-====
+=
 From the Zoopedia
-====
+=
 
 This bench is  a great place for your guests to eat candy canes or sip hot cocoa in your zoo. They also are great for any other occasion where guests need a place to sit.
 Created by Arundell/DTF95 and meshed by Artifex (Catc and Penguinman).
 
-====
+=
 Context
-====
+=
 
 Years ago, probably around the year 2009, we ran a contest through an event we called ZooLive. I believe the idea was that if a user guessed our secret project correctly they get to collaborate on a project with Artifex, something simple. This was the result.
 
-====
+=
 Credits
-====
+=
 
 Textured and designed by DTF95, model by Goosifer (then Catc), XML configuration and Nif tweaks by Penguinman.
 

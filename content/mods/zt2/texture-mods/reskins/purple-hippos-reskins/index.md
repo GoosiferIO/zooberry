@@ -21,7 +21,7 @@ summary: "Four animal reskins by Purple Hippo, bundled together."
 ---
 Four animal reskins by Purple Hippo, bundled together. They have separate .z2f files so you can choose which ones you want. Previously only available directly from the ZT2 Download Library and uploaded at the author's request.
 
-==== Included in the Pack ====
+= Included in the Pack =
 
 **Animal Reskins:**
 - African Elephant

@@ -22,7 +22,7 @@ summary: "An adorable pygmy hippo for every color of the rainbow!"
 ---
 An adorable pygmy hippo for every color of the rainbow! Maybe you like cute things or maybe you want some pride in your zoo, but either way, show your guests something they've never seen anywhere else.
 
-=== Included in the Pack ===
+ Included in the Pack 
 
 **Animals:**
 - Red Hippo
@@ -33,6 +33,6 @@ An adorable pygmy hippo for every color of the rainbow! Maybe you like cute thin
 - Navy Blue Hippo
 - Purple Hippo
 
-==== Known issues ====
+= Known issues =
 
 - All seven animals lack a Zoopedia article. Otherwise this download is completely functional and its gameplay is without any problems.

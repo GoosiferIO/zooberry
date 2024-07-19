@@ -20,9 +20,9 @@ languages:
 - Spanish
 ---
 
-===
+
 Contents
-===
+
 
 **Animals**
 

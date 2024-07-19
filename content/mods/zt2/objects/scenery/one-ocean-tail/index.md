@@ -21,15 +21,15 @@ languages:
 - English
 ---
 
-===
+
 From the Zoopedia
-===
+
 
 A show backdrop for your killer whale shows!
 
-===
+
 Observed Issues
-===
+
 
 - Pictured above in the gallery, the preview model in the selection menu thumbnail is of exceeding size. There is still space on the left of the screen to see where to place the model and all is fine after it's on the map.
 - No zoopedia.

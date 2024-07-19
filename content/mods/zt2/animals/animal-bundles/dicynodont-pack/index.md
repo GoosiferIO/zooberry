@@ -22,9 +22,9 @@ summary: "A pack of four dicynodonts, which are a group of therapsids the Permia
 ---
 A pack of four dicynodonts, which are a group of therapsids the Permian and Triassic. A fifth animal- Sinokannemeyeria- is currently missing. Please contact AubreyKitsune or Goosifer if you manage to find it!
 
-===
+
 Included in the Download
-===
+
 
 **Animals:**
 - Kannemeyeria
@@ -32,15 +32,15 @@ Included in the Download
 - Robertia
 - Uralokannemeyeria
 
-====
+=
 Credits
-====
+=
 
 - Bunyupy for the base model.
 
-====
+=
 Known issues
-====
+=
 
 This pack is buggy as it has several detected issues. Robertia and Uralokannemeyeria are the least affected in a gameplay sense and are generally functional. Kannemeyeria and Prosictodon's issues are more impactful, so be mindful if you decide to use them.
 

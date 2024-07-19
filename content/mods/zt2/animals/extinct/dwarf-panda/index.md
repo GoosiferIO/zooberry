@@ -22,8 +22,8 @@ summary: "An extinct version of the giant panda, about half its size."
 
 ---
 
-=== 
+ 
 Original description by adam1990
-===
+
 
 I would recommend having at least AA. An extinct version of the giant panda, about half its size. Five stars. My first project.

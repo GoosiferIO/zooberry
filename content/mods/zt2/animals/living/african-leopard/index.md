@@ -22,15 +22,15 @@ languages:
 
 African Leopard made by Mayer and Ludozoo.
 
-===
+
 Credits
-===
+
 
 - Model and skin by Mayer
 - Model by Ludozoo
 
-===
+
 Known Issues
-===
+
 
 - No whiskers...sorry.

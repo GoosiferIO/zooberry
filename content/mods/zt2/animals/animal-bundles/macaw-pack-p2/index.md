@@ -21,9 +21,9 @@ languages:
 - English
 ---
 
-===
+
 Contents
-===
+
 
 - Martinique Macaw
 - Lesser Antillean Macaw
@@ -34,8 +34,8 @@ Contents
 - Fronted-Chestnut Macaw
 - Onécouli Macaw (Extinct) (aka Guadeloupe Macaw)
 
-===
+
 Other Credits
-===
+
 
 - Hendrix - model

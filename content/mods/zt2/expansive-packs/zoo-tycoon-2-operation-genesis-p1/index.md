@@ -27,9 +27,9 @@ A pack containing various buildings, scenery and foliage imported from JPOG.
 Part 1 of 2.
 [Download Zoo Tycoon 2: Operation Genesis - Part 2](/mods/zt2/expansive-packs/zoo-tycoon-2-operation-genesis-p2/)
 
-===
+
 Included
-===
+
 
 **Buildings**
 
@@ -88,9 +88,9 @@ Included
 
 - Jurassic Park Path
 
-===
+
 Known issues
-===
+
 
 - Some of the 3D preview icons are way too big and spill out from the box.
 - The information boards and feeders do not show up under the filter for this pack. They seem to show up under a seperate filter which is missing some strings, but it can still be selected.

@@ -19,7 +19,7 @@ languages:
 - English
 ---
 
-=== Included in the Nocturnal Pack ===
+ Included in the Nocturnal Pack 
 
 - Nocturnal Bench
 - Starry Path

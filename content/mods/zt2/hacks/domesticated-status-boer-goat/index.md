@@ -24,9 +24,9 @@ languages:
 
 This mod gives [Slice's Boer Goat](https://www.zooberry.org/mods/zt2/animals/living/boer-goat/) a "domesticated" status by making it compatible with the [Domesticated Status](https://www.zooberry.org/mods/zt2/tools-utilities/domesticated-status/) utility.
 
-===
+
 Requirements
-===
+
 
 - [Domesticated Status](https://www.zooberry.org/mods/zt2/tools-utilities/domesticated-status/)
 - [Boer Goat](https://www.zooberry.org/mods/zt2/animals/living/boer-goat/)

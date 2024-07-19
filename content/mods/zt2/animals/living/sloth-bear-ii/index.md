@@ -20,15 +20,15 @@ languages:
 - Dutch
 ---
 
-===
+
 Issues
-===
+
 
 - The female icon is a white square.
 - The preview 3D model lacks a texture and shows as black.
 
-===
+
 Other Credits
-===
+
 
 Based on the the Zoopedia in this mod's files, at the very least it seems the coding is based on [Koala Komander and Penguinman's Sloth Bear](https://www.zooberry.org/mods/zt2/animals/living/sloth-bear/) from 2007, but otherwise the model and textures are different.

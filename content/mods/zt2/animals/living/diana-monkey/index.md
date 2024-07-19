@@ -22,8 +22,8 @@ languages:
 - Dutch
 ---
 
-===
+
 From the Zoopedia
-===
+
 
 The Diana Monkey (Cercopithecus diana) is an Old World monkey found in West Africa, from Sierra Leone to Cote d'Ivoire. The Diana Monkey ranges from 40 to 55 cm in length with out its tail, and weight from 7-8 kg. Individual Diana Monkeys may live for up to 20 years.

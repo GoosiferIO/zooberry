@@ -21,6 +21,6 @@ languages:
 - German
 ---
 
-=== From the Zoopedia ===
+ From the Zoopedia 
 
 The Emperor Tamarin (Saguinus imperator) is a tamarin allegedly named for its resemblance to the German emperor Wilhelm II. It lives in the southwest Amazon Basin, in east Peru, north Bolivia and in the west Brazilian states of Acre and Amazonas.

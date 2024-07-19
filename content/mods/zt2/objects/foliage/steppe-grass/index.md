@@ -19,15 +19,15 @@ summary: "This green Tall Steppe Grass is Tall Steppe, and your animals love to 
 languages:
 - English
 ---
-===
+
 From the Zoopedia
-===
+
 
 This green Tall Steppe Grass is Tall Steppe, and your animals love to hide in it. Place it all over your zoo for decoration!
 
-===
+
 Other Credits
-===
+
 
 - Blue Fang
 - Oblivion

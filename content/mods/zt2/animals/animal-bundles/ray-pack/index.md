@@ -23,9 +23,9 @@ languages:
 
 A collection of stingrays for your marine parks. Tiger Claw Designs' debut project.
 
-===
+
 Contents
-===
+
 
 - Blue Spotted Ray
 - Devil Ray
@@ -34,17 +34,17 @@ Contents
 - Undulate Ray
 - Chucho Ray
 
-===
+
 Issues
-===
+
 
 - Only two working menu icons
 - Devil Ray is called "Devil Fish" in-game
 - Selection box has visual issues
 
-===
+
 Other Credits
-===
+
 
 - zerosvalmont
 - Aurora Designs

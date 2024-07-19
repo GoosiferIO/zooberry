@@ -31,9 +31,9 @@ summary: "An expansive user-made expansion pack made by the ZT ABC Team!"
 
 An expansive user-made expansion pack made by the ZT ABC Team!
 
-====
+=
 Includes
-====
+=
 
 **Animals**
 
@@ -103,14 +103,14 @@ Fences:
 Elevated Paths:
 - Aviary Roofs
 
-====
+=
 Other Credits
-====
+=
 
 - Ground birds lay eggs in the ground nest (made by Milchman!)
 
-====
+=
 Bugs
-====
+=
 
 - None known. Let us know if you find any to list!

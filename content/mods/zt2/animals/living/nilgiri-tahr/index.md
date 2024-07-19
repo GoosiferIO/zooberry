@@ -18,8 +18,8 @@ languages:
 - English
 ---
 
-===
+
 Other Credits
-===
+
 
 - Model based on Simba's Radical Remake Ibex

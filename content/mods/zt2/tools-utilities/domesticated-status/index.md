@@ -22,8 +22,8 @@ languages:
 
 Adds support for a "domesticated" status to animals in Zoo Tycoon 2. This mod on its own does not change any animals' status, but it is required for other mods that do. Mainly used by Ulquiorra's mods.
 
-===
+
 Known Issues
-===
+
 
 - No name next to preview icon in the animal's general information panel.

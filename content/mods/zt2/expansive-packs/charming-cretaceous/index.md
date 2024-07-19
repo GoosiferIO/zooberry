@@ -26,9 +26,9 @@ summary: "A pack containing 15 Cretaceous era, JPOG styled dinosaurs."
 
 A pack containing 15 Cretaceous era, JPOG styled dinosaurs. 
 
-===
+
 This Pack Includes:
-===
+
 
 - Alectrosaurus
 - Centrosaurus
@@ -64,9 +64,9 @@ There's also reskins of the dinosaurs included in BioHazard's Operation Genesis 
 
 This download will function without the aforementioned pack, but you won't see these reskins in game without both mods present in your game folder. In order to get the reskins to show over the other skins, please add a few z's at the beginning of the Charming Cretaceous z2f's file name in order for the reskins to take priority.
 
-===
+
 Known issues:
-===
+
 
 - All dinosaurs are white until placed.
 - Several dinosaurs are missing zoopedias and some locations without a default corresponding icon are white.

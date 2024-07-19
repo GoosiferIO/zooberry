@@ -37,9 +37,9 @@ AVES Space Hack P1 reduces the space requirements for several animals in the AVE
 - Takehe
 - Channel-billed Toucan
 
-===
+
 Requirements
-===
+
 
 For this hack to work, you need to have the following user-made expansion installed:
 

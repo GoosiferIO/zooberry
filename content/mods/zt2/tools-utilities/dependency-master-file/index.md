@@ -30,9 +30,9 @@ Please note that this file does not cover all posible requirements. For example,
 
 However, this file should still alleviate the need for **most** dependencies. It's best to test to make sure.
 
-=== 
+ 
 Included in the Pack 
-===
+
 
 **Animation Sets:**
 - JPOG Acrocanthosaurus (Harlequinz eg0)

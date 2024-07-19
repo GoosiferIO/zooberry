@@ -22,9 +22,9 @@ languages:
 
 Reskin of the Albertosaurus from the ZT2: Operation Genesis user-made expansion pack.
 
-===
+
 Other Requirements
-===
+
 
 Must have **Zoo Tycoon 2: Operation Genesis** installed to use this reskin.
 - [Download Zoo Tycoon 2: Operation Genesis Part 1](/mods/zt2/expansive-packs/zoo-tycoon-2-operation-genesis-p1/)
