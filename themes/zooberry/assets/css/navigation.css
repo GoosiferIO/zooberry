@@ -56,10 +56,12 @@
     background: var(--logo) center 5px;
     padding-bottom: 1rem;
     margin: 0 auto;
+    padding: 0.5rem 2rem;
+    border-radius: 5px;
 }
 
 .nav-logo:hover {
-    background-color: #d1c18c;
+    background-color: var(--sidebar-hover);
 }
 
 
