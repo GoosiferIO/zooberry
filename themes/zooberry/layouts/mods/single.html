@@ -26,13 +26,17 @@
 
     {{ $files := .Resources.Match "/*.zip" }}
     {{ $fileCount := len $files }}
-    {{ $dependencyCount := len .Params.dependencies }}
+    {{/*  if dependencies exists  */}}
+    {{ $dependencyCount := 0 }}
+    {{ if .Params.dependencies }}
+      {{ $dependencyCount = len .Params.dependencies }}
+    {{ end }}
 
     <div class="post-content">
       {{ partial "galleria.html" . }}
       <div class="mod-tab-bar">
         <button class="mod-tab-btn tab-description tab-active" onclick="openTab('tab-description')">Description</button>
-        <button class="mod-tab-btn tab-files" onclick="openTab('tab-files')">Files
+        <button class="mod-tab-btn tab-files" onclick="openTab('tab-files')" id="tab-file-anchor">Files
           {{ if gt $fileCount 0 }}
             <span class="badge-alert">{{ $fileCount }}</span>
           {{ end }}

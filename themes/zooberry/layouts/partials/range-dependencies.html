@@ -1,7 +1,10 @@
 {{/*  get all dependencies  */}}
 
 {{/*  get length of dependencies  */}}
-{{ $dependencyCount := len .Params.dependencies }}
+{{ $dependencyCount := 0 }}
+{{ if .Params.dependencies }}
+  {{ $dependencyCount = len .Params.dependencies }}
+{{ end }}
 
 {{ if gt $dependencyCount 0 }}
     {{ range .Params.dependencies }}
