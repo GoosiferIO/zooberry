@@ -13,11 +13,6 @@ Renders a menu for the given menu ID.
 {{- with index site.Menus $menuID }}
   <nav class="nav-menu">
     <ul>
-      <li class="nav-logo">
-        <a href="/" title="ZooBerry">
-          
-        </a>
-      </li>
       {{ $currentPage := . }}
       {{ range . }}
         {{ if .HasChildren }}

@@ -5,12 +5,12 @@
     top: 0;
     z-index: 2000;
     height: 100vh;
-    width: 250px;
-    background: var(--secondary-bg);
+    width: 310px;
+    background: var(--primary-bg);
     scrollbar-color: #324363 #1b263b;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     overflow-y: auto;
-    border-right: 1px solid var(--secondary-border);
+    border-right: 2px solid var(--accent-bg);
     transition: all 0.3s;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
@@ -18,34 +18,35 @@
     -ms-transition: all 0.3s;
 }
 
-.sidebar h3 {
-    font-size: 1.1rem;
-    font-weight: 700;
-    color: var(--font-color);
-    padding: 0.5rem 0 0.5rem 2rem;
-    margin: 1rem;
-    background-color: var(--thead-bg);
-    border-radius: 5px;
-}
+
+
 
 .sidebar ul {
     list-style: none; 
-    padding: 0 2rem 0 2rem;
+    padding: 0 1rem;
 }
 
 .sidebar li {
     position: relative;
     line-height: 1.8rem;
-    padding-left: 1.2em; 
-    border-radius: 0.5rem;
+    padding: 0.1rem 0.5rem; 
+    border-radius: 5px;
+    margin-bottom: 0.5rem;
+}
+
+.sidebar li a {
+    display: block;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    width: 100%;
 }
 
 .sidebar li:hover {
-    background-color: var(--primary-bg);
+    background-color: #afbd9c;
 }
 
 li.side-li::before {
-    content: '•'; 
+    /* content: '•';  */
     font-size: 2.5rem; 
     position: absolute;
     left: 0;
@@ -92,4 +93,17 @@ li.side-li-texture-mods::before {
 
 li.side-li-tools-and-utilities::before {
     color: var(--tools-utilities);
+}
+
+.sidebar .icon {
+    border-radius: 5px;
+    padding: 0.5rem;
+    background-color: #c4cfb4;
+}
+
+li.side-kofi {
+    /* vertical center */
+    display: flex;
+    align-items: center;
+    padding: 0.5rem 0 0.5rem 0.5rem;
 }
