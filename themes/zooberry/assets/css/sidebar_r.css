@@ -6,11 +6,11 @@
     border: 1px solid var(--secondary-border);
     padding: 0 0.5rem;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    min-width: 400px;
+    max-width: 400px;
     position: -webkit-sticky; /* For Safari */
     position: sticky;
     align-self: flex-start;
-    top: 6rem;
+    top: 2rem;
     float: right;
 }
 

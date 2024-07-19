@@ -16,6 +16,7 @@
   --shade-bg: #0d1b2a;
   --accent-bg: #b85454;
   --secondary-border: #324363;
+  --sidebar-bg: var(--shade-bg);
 
   --body-pattern: repeating-linear-gradient( 45deg, #273651, #27344b 1px, var(--primary-bg) 1px, var(--primary-bg) 25px );
 
@@ -59,6 +60,7 @@
   --shade-bg: #f5eaca;
   --accent-bg: #9fc000;
   --secondary-border: #ccc;
+  --sidebar-bg: var(--primary-bg);
 
   --body-pattern: repeating-linear-gradient( 45deg, var(--shade-bg), var(--shade-bg) 1px, var(--primary-bg) 1px, var(--primary-bg) 25px );
 
@@ -113,7 +115,8 @@ main {
   flex-direction: row;
   margin: 0 auto;
   width: 100%;
-  padding: 6rem 2rem;
+  max-width: 1500px;
+  padding: 2rem;
 }
 
 /* main (backup) {

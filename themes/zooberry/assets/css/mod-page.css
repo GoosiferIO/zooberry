@@ -16,6 +16,17 @@
     margin-bottom: 1rem;
 }
 
+.post-initial {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.post-details {
+    padding: 0 1rem;
+    width: 40%;
+}
+
 .post-subheader span {
     padding-top: 0.5rem;
 }
