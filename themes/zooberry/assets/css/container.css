@@ -33,6 +33,8 @@
 
   /* Buttons */
   --kofi: #29abe2;
+  --sidebar-hover: #212b3b;
+  --sidebar-icons: #323944;
 
   /* Categorical Colors */
   --animals: #276d8b;
@@ -53,7 +55,7 @@
   --logo: url('/logo.png') no-repeat !important;
 }
 
-.light {
+.light  {
   /* Colors Swatches */
   --primary-bg: #d9e6c7;
   --secondary-bg: #d4e8b7;
@@ -72,6 +74,8 @@
 
   /* Buttons */
   --kofi: var(--link-color);
+  --sidebar-hover: #afbd9c;
+  --sidebar-icons: #c4cfb4;
 
   /* Misc Badges */
   --alert: var(--accent-bg);
@@ -115,7 +119,7 @@ main {
   flex-direction: row;
   margin: 0 auto;
   width: 100%;
-  max-width: 1500px;
+  max-width: 1280px;
   padding: 2rem;
 }
 
@@ -199,4 +203,59 @@ pre code {
   padding: 0.5rem 1rem;
   border-radius: 5px;
   margin: -0.5rem 0 1rem 0;
+}
+
+.switch {
+  position: fixed;
+  display: inline-block;
+  width: 40px;
+  height: 22px;
+  bottom: 1rem;
+}
+
+.switch input { 
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.switch input:checked + .slider {
+  background-color: var(--accent-bg);
+}
+
+.switch input:checked + .slider:before {
+  transform: translateX(16px);
+  background-color: transparent;
+  border-radius: 50%;
+  border-top-color: transparent;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  box-shadow: inset -5px -3px 0 var(--sidebar-hover);
+}
+
+.switch .slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--primary-bg);
+  transition: 0.4s;
+  border-radius: 34px;
+  box-shadow: 0 0 0.25em rgba(0, 0, 0, 0.1), 0.2px 0.2em 24px 0 rgba(1, 29, 77, 0.15);
+}
+
+.switch .slider:before {
+  position: absolute;
+  content: "";
+  height: 15px;
+  width: 15px;
+  left: 4px;
+  bottom: 4px;
+  background-color: var(--accent-bg);
+  transition: 0.4s;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 15px;
 }
