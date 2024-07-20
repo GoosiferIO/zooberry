@@ -18,18 +18,25 @@ li.page-item {
   display: inline;
 }
 
-li.disabled {
-    display: inline;
-}
-
 li.page-item a {
   display: inline-block;
-  padding: 0.2rem 0.5rem;
+  padding: 0.05rem 0.5rem;
   text-decoration: none;
   color: var(--font-color);
   background-color: var(--shade-bg);
-  border-radius: 4px;
-  margin-right: 5px;
+  border-radius: 5px;
+  margin-right: 0.25rem;
+}
+
+li.disabled a {
+    pointer-events: none;
+    cursor: default;
+    background-color: #182737;
+    color: #9d9d9d;
+}
+
+li.active a {
+    background-color: var(--accent-bg);
 }
 
 li.page-item a:hover {

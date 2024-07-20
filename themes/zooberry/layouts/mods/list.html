@@ -3,11 +3,12 @@
     <h1>{{ .Title }}</h1>
     <p class="cat-blurb">These mods are new and published directly to ZooBerry.</p>
     {{/*  {{ .Content }}  */}}
+    {{ $mods := where .Site.RegularPages "Section" "mods" }}
+    {{ $sortedMods := sort $mods "Title" "asc" }}
+    {{ $paginator := .Paginate $sortedMods }}
+    {{ template "_internal/pagination.html" . }}
+
     <div class="box-card-list">
-        {{ $mods := where .Site.RegularPages "Section" "mods" }}
-        {{ $sortedMods := sort $mods "Title" "asc" }}
-        {{ $paginator := .Paginate $sortedMods }}
-        {{ template "_internal/pagination.html" . }}
         {{ range $paginator.Pages }}
         <li class="box-card-mods">
             <div class="box-card-mods-img">
