@@ -11,7 +11,8 @@ gallery:
 - zt2_animals.jpg
 alt_text: "Zt1 screenshot"
 summary: "Adopt new animals to share with your guests at home!"
-
+cascade:
+    tags: ["zoo tycoon 2", "animals" ]
 ---
 
 Adopt new animals to share with your guests at home!
