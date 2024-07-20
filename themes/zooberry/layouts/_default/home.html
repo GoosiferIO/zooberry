@@ -13,8 +13,10 @@
   <h1>Latest Archived</h1>
   <p class="cat-blurb">All of the latest mods part of the greater ZooBerry archive project.</p>
     {{ partial "range-mods.html" . }}
-    <a href="mods" class="button-dft margin-rt">More from Latest</a>
-    <a href="mods" class="button-dft margin-rt">Browse All Mods</a>
+    <div class="post-buttons">
+      <a href="mods" class="button-dft margin-rt">More from Latest</a>
+      <a href="mods" class="button-dft margin-rt">Browse All Mods</a>
+    </div>
   <h1>Latest Blog Posts</h1>
     {{ partial "range-blogs.html" . }}
     <a href="blog" class="button-dft margin-rt">More from Latest</a>

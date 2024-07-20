@@ -15,7 +15,7 @@
             </a>
         </div>
         <div class="box-card-mods-content">
-            <p>
+                <p>
                 {{ if eq .Params.game "Zoo Tycoon 1" }}
                     <a href="mods/zt1">{{ .Params.game }}</a>
                 {{ else if eq .Params.game "Zoo Tycoon 2" }}
@@ -23,9 +23,9 @@
                 {{ else }}
                     {{ .Params.game }}
                 {{ end }}
-            </p>
+                </p>
             <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-            <p>By 
+            <p><i class="material-icons icon">person</i>  
                 {{ $authors := .Params.author }}
 
                 {{ $len := len $authors }}
