@@ -4,7 +4,11 @@
     <p class="cat-blurb">These mods are new and published directly to ZooBerry.</p>
     {{/*  {{ .Content }}  */}}
     <div class="box-card-list">
-        {{ range (where .Site.RegularPages "Section" "mods") }}
+        {{ $mods := where .Site.RegularPages "Section" "mods" }}
+        {{ $sortedMods := sort $mods "Title" "asc" }}
+        {{ $paginator := .Paginate $sortedMods }}
+        {{ template "_internal/pagination.html" . }}
+        {{ range $paginator.Pages }}
         <li class="box-card-mods">
             <div class="box-card-mods-img">
                 {{/*  get first image from images folder in this bundle */}}
@@ -49,6 +53,8 @@
         </li>
             {{ end }}
       </div>
+      {{ template "_internal/pagination.html" . }}
+
   </div>
   {{ partial "sidebar_r.html" . }}
 
