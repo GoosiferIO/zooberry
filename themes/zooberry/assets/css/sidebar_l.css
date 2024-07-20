@@ -40,11 +40,9 @@
 
 .sidebar li:hover {
     background-color: var(--sidebar-hover);
-}
-
-.sidebar li:active {
-    transform: scale(0.96);
-    transition: all 0.3s ease;
+    .icon {
+        animation: swing ease-in-out 0.5s 1 alternate;
+    }
 }
 
 li.side-li::before {
@@ -97,6 +95,32 @@ li.side-li-tools-and-utilities::before {
     color: var(--tools-utilities);
 }
 
+@keyframes swing {
+    0%,
+    30%,
+    50%,
+    70%,
+    100% {
+      transform: rotate(0deg);
+    }
+  
+    10% {
+      transform: rotate(10deg);
+    }
+  
+    40% {
+      transform: rotate(-10deg);
+    }
+  
+    60% {
+      transform: rotate(5deg);
+    }
+  
+    80% {
+      transform: rotate(-5deg);
+    }
+  }
+
 .sidebar .icon {
     border-radius: 5px;
     padding: 0.5rem;
@@ -108,4 +132,15 @@ li.side-kofi {
     display: flex;
     align-items: center;
     padding: 0.5rem 0 0.5rem 0.5rem;
+}
+
+.submenu {
+    overflow: hidden;
+    height: 0;
+    transition: height 0.3s ease;
+}
+
+.submenu-open {
+    height: auto;
+    transition: height 0.3s ease;
 }

@@ -40,7 +40,7 @@
             </ul>
     {{- end }}  */}}
 
-    <ul class="side-ul">
+    <ul class="side-ul main-menu">
         <li class="side-kofi"><script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Us on Ko-fi', 'var(--kofi)', 'U7U6UXNXD');kofiwidget2.draw();</script></li>
         {{- with index site.Menus "main" }}
             {{ range . }}
@@ -69,5 +69,50 @@
         <input type="checkbox" id="theme-switcher">
         <div class="slider round"></div>
     </label>
-    <script type='text/javascript' src='{{ "theme-switch.js" | relURL }}'></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const themeSwitcher = document.getElementById('theme-switcher');
+          
+            // Load saved theme preference
+            const savedTheme = localStorage.getItem('theme');
+            if (savedTheme === 'dark') {
+              document.body.classList.add('dark');
+              themeSwitcher.checked = true;
+            }
+          
+            // Detect OS preference if no saved preference
+            else if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+              document.body.classList.add('dark');
+              themeSwitcher.checked = true;
+            }
+          
+            // Handle toggle switch
+            themeSwitcher.addEventListener('change', function() {
+              document.body.classList.toggle('dark');
+              localStorage.setItem('theme', this.checked ? 'dark' : 'light');
+            });
+          });
+    </script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const menuLinks = document.querySelectorAll('.dropbtn');
+        
+            menuLinks.forEach(link => {
+                link.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    const submenu = this.nextElementSibling;
+        
+                    // Close all other submenus
+                    document.querySelectorAll('.submenu').forEach(sub => {
+                        if (sub !== submenu) {
+                            sub.classList.remove('submenu-open');
+                        }
+                    });
+        
+                    // Toggle the clicked submenu
+                    submenu.classList.toggle('submenu-open');
+                });
+            });
+        });
+    </script>
 </div>
