@@ -44,7 +44,16 @@
         <li class="side-kofi"><script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Us on Ko-fi', 'var(--kofi)', 'U7U6UXNXD');kofiwidget2.draw();</script></li>
         {{- with index site.Menus "main" }}
             {{ range . }}
-                <a class="dropbtn" href="{{ .PageRef }}"><li class="side-li"><i class="material-icons icon">{{ .Params.icon }}</i> {{ .Name }}</li></a>
+                <li class="side-li">
+                    <a class="dropbtn" href="{{ .PageRef }}"><i class="material-icons icon">{{ .Params.icon }}</i> {{ .Name }}</a>
+                    {{ if .HasChildren }}
+                        <ul class="submenu">
+                            {{ range .Children }}
+                                <li><a href="{{ .PageRef }}">{{ .Name }}</a></li>
+                            {{ end }}
+                        </ul>
+                    {{- end }}    
+                </li>
             {{ end }}
         {{- end }}
     </ul>
