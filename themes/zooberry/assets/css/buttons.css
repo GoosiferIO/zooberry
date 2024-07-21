@@ -8,6 +8,7 @@
     box-shadow:rgba(0, 0, 0, 0.1) 0 5px 0;
     transition: all 0.3s ease 0s;
     margin: 1rem 0;
+    width: max-content;
   }
   
   .button-dft:hover {
