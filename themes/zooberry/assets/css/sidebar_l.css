@@ -20,16 +20,8 @@
 
 .sidebar ul {
     list-style: none; 
-    padding: 0 1rem;
-}
-
-.sidebar br {
-    border: 1px solid var(--accent-bg);
-    height: 1px;
-    background-color: #1b263b;
     width: 100%;
-    margin: 0;
-    padding: 0;
+    margin-left: -2rem;
 }
 
 .sidebar li {
@@ -42,12 +34,10 @@
 .sidebar li a, .side-ul li a {
     display: block;
     width: 100%;
-    padding: 0.5rem 0 0.5rem 0.5rem;
+    padding: 0.5rem 1rem;
 }
 
 .sidebar li:hover {
-    background-color: var(--sidebar-hover);
-    border-radius: 10px;
     .icon {
         animation: swing ease-in-out 0.5s 1 alternate;
     }
@@ -148,16 +138,35 @@ li.side-kofi {
     padding: 0.5rem 0 0.5rem 0.5rem;
 }
 
-.submenu {
-    overflow: hidden;
-    height: 0;
-    transition: height 0.3s ease;
+.filter-menu {
+    background-color: var(--sidebar-hover);
+    margin-top: 1rem;
 }
 
-.submenu ul {
+ul.filter-menu {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    /* inner box shadow */
+    box-shadow: 
+    inset 0 -5px 5px -5px rgba(0, 0, 0, 0.3), /* Top shadow */
+    inset 0 5px 5px -5px rgba(0, 0, 0, 0.3);  /* Bottom shadow */
+}
+
+.submenu {
+    overflow: hidden;
+    background: var(--sidebar-hover);
+    height: 0;
+    transition: height 0.3s ease;
+    width: 100%;
+    box-shadow: 
+    inset 0 -5px 5px -5px rgba(0, 0, 0, 0.3), /* Top shadow */
+    inset 0 5px 5px -5px rgba(0, 0, 0, 0.3);  /* Bottom shadow */
+
+}
+
+div.submenu ul {
     padding-left: 0;
     margin: 0;
-
 }
 
 .submenu li {

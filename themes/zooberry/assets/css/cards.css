@@ -10,7 +10,7 @@
 .box-card-mods {
     background-color: var(--primary-bg);
     outline: 1px solid var(--secondary-border);
-    border-radius: 5px;
+    border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     transition: all 0.3s ease 0s, transform 2s;
     display: flex;
@@ -45,10 +45,10 @@
     display: block;
     width: 100%;
     height: auto;
-    border-radius: 5px 5px 0 0;
 }
 
 .box-card-mods-img img {
+    border-radius: 10px 10px 0 0;
     width: 100%;
 }
 

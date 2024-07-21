@@ -2,7 +2,7 @@
     background-color: var(--shade-bg);
     color: var(--link-color);
     padding: 0.2rem 0.5rem;
-    border-radius: 0.3rem;
+    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
 }
@@ -11,7 +11,7 @@
     background-color: var(--animals);
     color: var(--contrast-font);
     padding: 0.2rem 0.5rem;
-    border-radius: 0.3rem;
+    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
 }
