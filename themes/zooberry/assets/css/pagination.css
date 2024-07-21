@@ -41,4 +41,5 @@ li.active a {
 
 li.page-item a:hover {
   background-color: var(--accent-bg);
+  transition: background-color 0.5s ease;
 }
