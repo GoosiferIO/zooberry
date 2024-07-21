@@ -12,12 +12,14 @@
         {{ if .Params.navigation }}
           {{ partial "sidebar_l.html" (dict "menuID" "main" "page" .) }}
         {{ end }}
-        <main>
-          <header>
-            {{ partial "header.html" . }}
-          </header>
-            {{ block "main" . }}{{ end }}
-        </main>
+        <div class="main-wrapper">
+          <main>
+            <header>
+              {{ partial "header.html" . }}
+            </header>
+              {{ block "main" . }}{{ end }}
+          </main>
+        </div>
       </div>
     {{/*  <footer>
       {{ partial "footer.html" . }}
