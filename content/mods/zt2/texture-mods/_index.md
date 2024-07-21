@@ -12,7 +12,7 @@ gallery:
 alt_text: "Texture mods"
 summary: "Mods that simply modify in-game textures in any capacity."
 cascade:
-    tags: ["zoo tycoon 2", "texture-mods" ]
+    tags: ["all", "zoo tycoon 2", "texture-mods" ]
 
 ---
 

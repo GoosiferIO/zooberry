@@ -11,7 +11,7 @@ gallery:
 alt_text: "Tools and Utilities"
 summary: "Files or tools that extend game functionality, add features to the player's benefit, or expand modding capabilities."
 cascade:
-    tags: ["zoo tycoon 2", "tools-utilities" ]
+    tags: ["all", "zoo tycoon 2", "tools-utilities" ]
 
 ---
 

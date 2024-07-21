@@ -9,7 +9,7 @@ draft: false
 alt_text: "ZT2 Remakes"
 summary: "Remakes involve re-creating an existing animal or object in the game with a new model and texture."
 cascade:
-    tags: ["zoo tycoon 2", "remakes" ]
+    tags: ["all", "zoo tycoon 2", "remakes" ]
 
 ---
 

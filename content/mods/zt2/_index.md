@@ -14,6 +14,7 @@ alt_text: "Zt1 screenshot"
 summary: "Mods for the Zoo Tycoon sequel released in 2004."
 cascade:
     tags: 
+    - "all"
     - "zoo tycoon 2"
 
 ---
