@@ -11,6 +11,8 @@ gallery:
 - packs_thumb.jpg
 alt_text: "Zt2 Objects"
 summary: "These mods feel like unofficial expansion packs and mini DLC with mods from mixed categories."
+cascade:
+    tags: ["zoo tycoon 2", "packs" ]
 
 ---
 

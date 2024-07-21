@@ -11,6 +11,8 @@ gallery:
 - objects.jpg
 alt_text: "Zt2 Objects"
 summary: "Any inanimate objects including buildings, fences, paths, animal enrichment items, etc."
+cascade:
+    tags: ["zoo tycoon 2", "objects" ]
 
 ---
 

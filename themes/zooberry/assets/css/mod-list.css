@@ -1,0 +1,30 @@
+.filter-bar {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    background-color: var(--secondary-bg);
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+.filter-bar h2 {
+    margin: 0;
+}
+
+.filter-bar-content {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(200px, 1fr));
+    gap: 0.5rem;
+    width: 100%;
+}
+
+.filter-group {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.filter-group ul {
+    list-style: none;
+    padding: 0;
+}

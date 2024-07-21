@@ -11,6 +11,8 @@ gallery:
 - maps.jpg
 alt_text: "Zt2 Maps"
 summary: "Experience new zoos created from other master zoo-builders."
+cascade:
+    tags: ["zoo tycoon 2", "maps" ]
 
 ---
 
