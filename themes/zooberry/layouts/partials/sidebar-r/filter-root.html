@@ -1,0 +1,22 @@
+{{ $files := .Resources.Match "/*.zip" }}
+{{ $fileCount := len $files }}
+
+<div class="sidebar_r">
+    <div class="sidebar_r-inner">
+        <span class="sidebar_r-title">Quicklinks</span>
+        {{- with index site.Menus "mpknowledgebase" }}
+        <ul class="side-ul">
+            {{ $currentPage := . }}
+            {{ range . }}
+                <li class="side-li-{{ .Name | urlize }}">
+                    <a href="{{ .PageRef }}">{{ .Name }}</a>
+                </li>
+            {{ end }}
+        </ul>
+        {{- end }}
+    </div>
+    <div class="sidebar_r-inner">
+        <span class="sidebar_r-title">Tags</span>
+        {{ partial "range-badges.html" . }}
+    </div>
+</div>

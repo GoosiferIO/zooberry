@@ -1,0 +1,20 @@
+{{ $mods := where .Site.RegularPages "Section" "mods" }}
+
+{{ $allTags := slice }}
+{{ range $mods }}
+    {{ $allTags = $allTags | append .Params.tags }}
+{{ end }}
+
+{{ $uniqueTags := slice }}
+{{ range $allTags }}
+    {{ if not (in $uniqueTags .) }}
+        {{ $uniqueTags = $uniqueTags | append . }}
+    {{ end }}
+{{ end }}
+
+{{ $sortedTags := sort $uniqueTags }}
+<div class="filter-tags">
+    {{ range $sortedTags }}
+        <a href="{{ . | urlize }}" class="badge-default badge-{{ . }}">{{ . }}</a>
+    {{ end }}
+</div>

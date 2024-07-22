@@ -5,6 +5,7 @@
     border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
+    width: max-content;
 }
 
 .badge-animals {
@@ -81,6 +82,15 @@
 
 .badge-remakes {
     background-color: var(--remakes);
+    color: var(--contrast-font);
+    padding: 0.2rem 0.5rem;
+    border-radius: 10px;
+    font-size: 0.8rem;
+    border: 1px solid var(--secondary-border);
+}
+
+.badge-biomes {
+    background-color: var(--biomes);
     color: var(--contrast-font);
     padding: 0.2rem 0.5rem;
     border-radius: 10px;
