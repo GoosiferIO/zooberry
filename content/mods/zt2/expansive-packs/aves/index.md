@@ -26,7 +26,7 @@ languages:
 - German
 - Dutch
 summary: "An expansive user-made expansion pack made by the ZT ABC Team!"
-
+tags: ["animals", "foliage", "enrichment", "animal-food", "shelters", "building-kits", "uxp", "trees", "land-foliage"]
 ---
 
 An expansive user-made expansion pack made by the ZT ABC Team!

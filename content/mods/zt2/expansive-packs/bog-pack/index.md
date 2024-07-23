@@ -20,6 +20,7 @@ summary: "A Bog Pack made by Hendrix with new animals, objects, and a new biome.
 languages:
 - English
 - German
+tags: ["animals", "foliage", "trees", "land-foliage", "biomes, "shelters", "rocks", "enrichment"]
 ---
 
 A Bog Pack made by Hendrix with new animals, objects, and a new biome.
