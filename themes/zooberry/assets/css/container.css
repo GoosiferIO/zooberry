@@ -44,6 +44,7 @@
   --maps: #889229;
   --objects: #2e803c;
   --packs: #744a23;
+  --expansive-packs: #a8437e;
   --remakes: #b85454;
   --texture-mods: #86334f;
   --tools-utilities: #7e5b33;
@@ -202,7 +203,7 @@ pre code {
   border-top: 1px solid var(--secondary-border);
   border-bottom: 1px solid var(--secondary-border);
   padding: 0.5rem 1rem;
-  border-radius: 5px;
+  border-radius: 10px;
   margin: -0.5rem 0 1rem 0;
 }
 
@@ -210,4 +211,26 @@ pre code {
   width: 100%;
   border-left: 1px solid var(--secondary-border);
   border-radius: 20% 0 0 0;
+}
+
+.inner-nav  {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background: var(--accent-bg);
+  border-bottom: 1px solid var(--secondary-border);
+  width: 100%;
+
+  ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 1rem auto;
+    max-width:1420px;
+  }
+
+  ul a {
+    padding: 0.5rem 1rem;
+  }
 }

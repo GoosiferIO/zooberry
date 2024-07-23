@@ -17,4 +17,7 @@
     {{ range $sortedTags }}
         <a href="{{ . | urlize }}" class="badge-default badge-{{ . }}">{{ . }}</a>
     {{ end }}
+    {{ range .Data.Terms.Alphabetical }}
+        {{ .Title }} 
+    {{ end }}
 </div>

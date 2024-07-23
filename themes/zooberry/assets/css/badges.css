@@ -35,6 +35,15 @@
     border: 1px solid var(--secondary-border);
 }
 
+.badge-expansive-packs {
+    background-color: var(--expansive-packs);
+    color: var(--contrast-font);
+    padding: 0.2rem 0.5rem;
+    border-radius: 10px;
+    font-size: 0.8rem;
+    border: 1px solid var(--secondary-border);
+}
+
 .badge-packs {
     background-color: var(--packs);
     color: var(--contrast-font);

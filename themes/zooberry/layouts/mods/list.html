@@ -4,6 +4,26 @@
     <p class="cat-blurb">{{ .Content }}</p>
     {{/*  {{ .Content }}  */}}
     {{/*  get the current page  */}}
+    <div class="filter-bar-content">
+        <div class="mod-tab-bar">
+            <button class="mod-tab-btn tab-description tab-active" onclick="openTab('tab-description')">Animals</button>
+            <button class="mod-tab-btn tab-dependencies" onclick="openTab('tab-dependencies')">Packs</button>
+            <button class="mod-tab-btn tab-dependencies" onclick="openTab('tab-dependencies')">Objects</button>
+            <button class="mod-tab-btn tab-dependencies" onclick="openTab('tab-dependencies')">Texture Mods</button>
+            <button class="mod-tab-btn tab-dependencies" onclick="openTab('tab-dependencies')">Misc</button>
+        </div> 
+        <div class="tab tab-description">
+            {{ .Content }}
+        </div>
+        <div class="tab tab-files" style="display: none;">
+            {{ partial "range-files.html" . }}
+        </div>
+        <div class="tab tab-dependencies" style="display: none;">
+        {{ partial "range-dependencies.html" . }}
+        </div>
+    </div>  
+
+
     {{ $currentPage := . }}
     {{ $tag := index $currentPage.Params.tags 0 }}
     {{ if eq (len $currentPage.Params.tags) 2 }}
@@ -13,10 +33,6 @@
     {{ else }}
         {{ $tag = "all" }}
         {{/*  print all tags  */}}
-        {{ range $key, $value := $currentPage.Params.tags }}
-            {{ $tag = $value }}
-            {{ $tag }}
-        {{ end }}
     {{ end }}
     {{ partial "range-mods-list.html" (dict "tag" $tag "context" . ) }}
     {{ partial "sidebar-r/filter-root.html" . }}
