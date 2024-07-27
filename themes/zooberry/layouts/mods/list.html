@@ -6,20 +6,26 @@
     {{/*  get the current page  */}}
     <div class="filter-bar-content">
         <div class="mod-tab-bar">
-            <button class="mod-tab-btn tab-description tab-active" onclick="openTab('tab-description')">Animals</button>
-            <button class="mod-tab-btn tab-dependencies" onclick="openTab('tab-dependencies')">Packs</button>
-            <button class="mod-tab-btn tab-dependencies" onclick="openTab('tab-dependencies')">Objects</button>
-            <button class="mod-tab-btn tab-dependencies" onclick="openTab('tab-dependencies')">Texture Mods</button>
-            <button class="mod-tab-btn tab-dependencies" onclick="openTab('tab-dependencies')">Misc</button>
+            <button class="mod-tab-btn tab-animals tab-active" onclick="openTab('tab-animals')">Animals</button>
+            <button class="mod-tab-btn tab-packs" onclick="openTab('tab-packs')">Packs</button>
+            <button class="mod-tab-btn tab-objects" onclick="openTab('tab-objects')">Objects</button>
+            <button class="mod-tab-btn tab-texture-mods" onclick="openTab('tab-texture-mods')">Texture Mods</button>
+            <button class="mod-tab-btn tab-misc" onclick="openTab('tab-misc')">Misc</button>
         </div> 
-        <div class="tab tab-description">
+        <div class="tab tab-animals">
             {{ .Content }}
         </div>
-        <div class="tab tab-files" style="display: none;">
+        <div class="tab tab-packs" style="display: none;">
             {{ partial "range-files.html" . }}
         </div>
-        <div class="tab tab-dependencies" style="display: none;">
-        {{ partial "range-dependencies.html" . }}
+        <div class="tab tab-objects" style="display: none;">
+            {{ partial "range-dependencies.html" . }}
+        </div>
+        <div class="tab tab-texture-mods" style="display: none;">
+            {{ partial "range-dependencies.html" . }}
+        </div>
+        <div class="tab tab-misc" style="display: none;">
+            {{ partial "range-dependencies.html" . }}
         </div>
     </div>  
 
@@ -36,5 +42,20 @@
     {{ end }}
     {{ partial "range-mods-list.html" (dict "tag" $tag "context" . ) }}
     {{ partial "sidebar-r/filter-root.html" . }}
+
+    <script>
+      function openTab(item) {
+        var i;
+        var pages = document.getElementsByClassName("tab");
+        var tabs = document.getElementsByClassName("mod-tab-btn");
+        for (i = 0; i < pages.length; i++) {
+          pages[i].style.display = "none";
+          tabs[i].classList.remove("tab-active");
+        }
+        document.getElementsByClassName(item)[1].style.display = "block";
+        document.getElementsByClassName(item)[0].classList.add("tab-active");
+      }
+    </script>
+
 
 {{ end }}
