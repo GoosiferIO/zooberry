@@ -6,26 +6,40 @@
     {{/*  get the current page  */}}
     <div class="filter-bar-content">
         <div class="mod-tab-bar">
-            <button class="mod-tab-btn tab-animals tab-active" onclick="openTab('tab-animals')">Animals</button>
+            <button class="mod-tab-btn tab-all tab-active" onclick="openTab('tab-all')">All</button>
+            <button class="mod-tab-btn tab-animals" onclick="openTab('tab-animals')">Animals</button>
             <button class="mod-tab-btn tab-packs" onclick="openTab('tab-packs')">Packs</button>
             <button class="mod-tab-btn tab-objects" onclick="openTab('tab-objects')">Objects</button>
             <button class="mod-tab-btn tab-texture-mods" onclick="openTab('tab-texture-mods')">Texture Mods</button>
             <button class="mod-tab-btn tab-misc" onclick="openTab('tab-misc')">Misc</button>
         </div> 
+
+        {{ .Scratch.Set "game" "zt2" }}
+        {{ .Scratch.Set "category" "animals" }}
+
+        <div class="tab tab-all">
+            {{ .Scratch.Set "category" "all" }}
+            {{ partial "range-badges" . }}
+        </div>
         <div class="tab tab-animals">
-            {{ .Content }}
+            {{ .Scratch.Set "category" "animals" }}
+            {{ partial "range-badges" . }}
         </div>
         <div class="tab tab-packs" style="display: none;">
-            {{ partial "range-files.html" . }}
+            {{ .Scratch.Set "category" "packs" }}
+            {{ partial "range-badges" . }}
         </div>
         <div class="tab tab-objects" style="display: none;">
-            {{ partial "range-dependencies.html" . }}
+            {{ .Scratch.Set "category" "objects" }}
+            {{ partial "range-badges" . }}
         </div>
         <div class="tab tab-texture-mods" style="display: none;">
-            {{ partial "range-dependencies.html" . }}
+            {{ .Scratch.Set "category" "texture-mods" }}
+            {{ partial "range-badges" . }}
         </div>
         <div class="tab tab-misc" style="display: none;">
-            {{ partial "range-dependencies.html" . }}
+            {{ .Scratch.Set "category" "misc" }}
+            {{ partial "range-badges" . }}
         </div>
     </div>  
 

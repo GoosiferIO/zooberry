@@ -1,4 +1,52 @@
+    
 {{ $mods := where .Site.RegularPages "Section" "mods" }}
+
+{{ $game := .Scratch.Get "game" }}
+{{ $category := .Scratch.Get "category" }}
+
+
+{{/*  all
+animal-food
+animal-reskins
+animal-shelters
+animals
+arches
+assets
+biomes
+building-kits
+buildings
+dinosaurs
+elevated-paths
+enrichment
+extinct
+fences
+foliage
+ground-paths
+hacks
+land-foliage
+maps
+objects
+packs
+remakes
+rocks
+scenery
+shelters
+signs
+texture-mods
+tools-utilities
+transportation
+trees
+uxp
+zoo tycoon 1
+zoo tycoon 2
+zt1  */}}
+
+
+{{ $animalTags := slice "animals" "dinosaurs" "extinct" }}
+{{ $packTags := slice "uxp" "animal-bundles" "theme-packs" "building-kits" }}
+{{ $objectTags := slice "arches" "animal-food" "building-kits" "theme-packs" "enrichment" "objects" "buildings" "fences" "scenery" "shelters" "signs" "rocks" "trees" "foliage" "land-foliage" "ground-paths" "elevated-paths" }}
+{{ $textureTags := slice "texture-mods" "animal-reskins" "misc-reskins" }}
+{{ $miscTags := slice "biomes" "maps" "hacks" "tools-utilities" "remakes" "transportation" }}
 
 {{ $allTags := slice }}
 {{ range $mods }}
@@ -14,10 +62,37 @@
 
 {{ $sortedTags := sort $uniqueTags }}
 <div class="filter-tags">
-    {{ range $sortedTags }}
+    {{/*  {{ range $sortedTags }}
         <a href="{{ . | urlize }}" class="badge-default badge-{{ . }}">{{ . }}</a>
     {{ end }}
     {{ range .Data.Terms.Alphabetical }}
         {{ .Title }} 
+    {{ end }}  */}}
+
+    {{ range $sortedTags }}
+        {{ if eq $category "animals" }}
+            {{ if in $animalTags . }}
+                <a href="{{ . | urlize }}" class="badge-default badge-{{ . }}">{{ . }}</a>
+            {{ end }}
+        {{ else if eq $category "packs" }}
+            {{ if in $packTags . }}
+                <a href="{{ . | urlize }}" class="badge-default badge-{{ . }}">{{ . }}</a>
+            {{ end }}
+        {{ else if eq $category "objects" }}
+            {{ if in $objectTags . }}
+                <a href="{{ . | urlize }}" class="badge-default badge-{{ . }}">{{ . }}</a>
+            {{ end }}
+        {{ else if eq $category "texture-mods" }}
+            {{ if in $textureTags . }}
+                <a href="{{ . | urlize }}" class="badge-default badge-{{ . }}">{{ . }}</a>
+            {{ end }}
+        {{ else if eq $category "misc" }}
+            {{ if in $miscTags . }}
+                <a href="{{ . | urlize }}" class="badge-default badge-{{ . }}">{{ . }}</a>
+            {{ end }}
+        {{ else if eq $category "all" }}
+            <a href="{{ . | urlize }}" class="badge-default badge-{{ . }}">{{ . }}</a>
+        {{ end }}
+
     {{ end }}
 </div>
