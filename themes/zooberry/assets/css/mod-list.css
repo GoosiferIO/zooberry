@@ -20,6 +20,11 @@
     padding: 2rem;
     border-radius: 20px;
     border: 1px solid var(--secondary-border);
+    min-height: 250px;
+}
+
+.filter-bar-content div.tab {
+    padding: 2rem;
 }
 
 .filter-group {
@@ -29,5 +34,4 @@
 
 .filter-group ul {
     list-style: none;
-    padding: 0;
 }

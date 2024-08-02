@@ -86,12 +86,21 @@ zt1  */}}
             {{ if in $textureTags . }}
                 <a href="{{ . | urlize }}" class="badge-default badge-{{ . }}">{{ . }}</a>
             {{ end }}
-        {{ else if eq $category "misc" }}
-            {{ if in $miscTags . }}
-                <a href="{{ . | urlize }}" class="badge-default badge-{{ . }}">{{ . }}</a>
-            {{ end }}
         {{ else if eq $category "all" }}
             <a href="{{ . | urlize }}" class="badge-default badge-{{ . }}">{{ . }}</a>
+        {{ else }}
+            {{/*  if in miscTags or not in any other tags  */}}
+            {{ if not (in $animalTags .) }}
+                {{ if not (in $packTags .) }}
+                    {{ if not (in $objectTags .) }}
+                        {{ if not (in $textureTags .) }}
+                            {{ if in $miscTags . }}
+                                <a href="{{ . | urlize }}" class="badge-default badge-{{ . }}">{{ . }}</a>
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
         {{ end }}
 
     {{ end }}
