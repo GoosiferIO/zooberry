@@ -97,6 +97,7 @@ table.mod-meta .tr-alt {
     border-radius: 5px 5px 0 0;
     font-size: 1rem;
     transition: all 0.3s ease 0s;
+    box-sizing: border-box;
 }
 
 .mod-tab-bar button:hover {
@@ -107,7 +108,6 @@ table.mod-meta .tr-alt {
 .tab-active {
     border-bottom: 2px solid var(--accent-bg) !important;
     color: var(--accent-text) !important;
-    font-weight: bold !important;
 }
 
 .box-card-tab {

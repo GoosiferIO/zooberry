@@ -17,29 +17,31 @@
         {{ .Scratch.Set "game" "zt2" }}
         {{ .Scratch.Set "category" "animals" }}
 
-        <div class="tab tab-all">
-            {{ .Scratch.Set "category" "all" }}
-            {{ partial "range-badges" . }}
-        </div>
-        <div class="tab tab-animals">
-            {{ .Scratch.Set "category" "animals" }}
-            {{ partial "range-badges" . }}
-        </div>
-        <div class="tab tab-packs" style="display: none;">
-            {{ .Scratch.Set "category" "packs" }}
-            {{ partial "range-badges" . }}
-        </div>
-        <div class="tab tab-objects" style="display: none;">
-            {{ .Scratch.Set "category" "objects" }}
-            {{ partial "range-badges" . }}
-        </div>
-        <div class="tab tab-texture-mods" style="display: none;">
-            {{ .Scratch.Set "category" "texture-mods" }}
-            {{ partial "range-badges" . }}
-        </div>
-        <div class="tab tab-misc" style="display: none;">
-            {{ .Scratch.Set "category" "misc" }}
-            {{ partial "range-badges" . }}
+        <div class="mod-badges">
+            <div class="tab tab-all">
+                {{ .Scratch.Set "category" "all" }}
+                {{ partial "range-badges" . }}
+            </div>
+            <div class="tab tab-animals" style="display: none;">
+                {{ .Scratch.Set "category" "animals" }}
+                {{ partial "range-badges" . }}
+            </div>
+            <div class="tab tab-packs" style="display: none;">
+                {{ .Scratch.Set "category" "packs" }}
+                {{ partial "range-badges" . }}
+            </div>
+            <div class="tab tab-objects" style="display: none;">
+                {{ .Scratch.Set "category" "objects" }}
+                {{ partial "range-badges" . }}
+            </div>
+            <div class="tab tab-texture-mods" style="display: none;">
+                {{ .Scratch.Set "category" "texture-mods" }}
+                {{ partial "range-badges" . }}
+            </div>
+            <div class="tab tab-misc" style="display: none;">
+                {{ .Scratch.Set "category" "misc" }}
+                {{ partial "range-badges" . }}
+            </div>
         </div>
     </div>  
 
