@@ -16,6 +16,7 @@ license: Unknown
 alt_text: 
 summary: "A blank tropical rainforest zoo map for Zoo Tycoon 2, created by NicolasZoo."
 languages:
+tags: [ "all", "maps", "zt2" ]
 ---
 
 A blank tropical rainforest zoo map for Zoo Tycoon 2, created by NicolasZoo. No mods are required to use this map.

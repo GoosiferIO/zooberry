@@ -1,12 +1,18 @@
     
 {{ $game := .Scratch.Get "game" }}
+{{ $category := .Scratch.Get "category" }}
+
+{{$category}}
 {{/*  return pages with specific tag  */}}
 {{ $mods :=  where .Site.RegularPages "Type" "mods" }}
-{{ $mods = where .Site.Pages "Params.tags" "intersect" (slice "zoo tycoon 2" ) }}
+{{/*  {{ $mods = where $mods "Params.game" $game }}
+{{ $mods = where $mods "Params.layout" $category }}
+{{ $mods = where $mods "Params.major" $game }}  */}}
 
+{{ .Params.layout }}
+{{ $mods }}
 
 {{/*  get category  */}}
-{{ $category := .Scratch.Get "category" }}
 
 {{/*  all
 animal-food
@@ -47,14 +53,18 @@ zt1  */}}
 
 {{/*  get all tags inside all subdirectories  */}}
 
-{{ $uniqueTags := slice "all" }}
+{{ $uniqueTags := slice }}
 
 {{/* Collect all pages in the site */}}
-{{ range .Site.RegularPages }}
+{{ range $mods }}
     {{ with .Params.tags }}
-        {{ range . }}
-            {{ if not (in $uniqueTags .) }}
-                {{ $uniqueTags = $uniqueTags | append . }}
+        {{ if in . $category }}
+            {{ if in . $game }}
+                {{ range . }}
+                    {{ if not (in $uniqueTags .) }}
+                        {{ $uniqueTags = $uniqueTags | append . }}
+                    {{ end }}
+                {{ end }}
             {{ end }}
         {{ end }}
     {{ end }}

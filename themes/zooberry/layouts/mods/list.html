@@ -29,7 +29,7 @@
     {{ partial "range-mods-list.html" . }}
     
     {{/*  Generate the sidebar filters */}}
-    {{ .Scratch.Set "category" "all" }}
+    {{ .Scratch.Set "category" .Params.layout }}
     {{ .Scratch.Set "game" .Params.major }}
     {{ partial "sidebar-r/filter-root.html" . }}
 
