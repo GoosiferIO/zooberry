@@ -6,22 +6,22 @@
     {{/*  get the current page  */}}
     <div class="filter-bar-content">
         <a class="filter-bar-button filter-bar-active" href="/mods"><i class="material-icons">all_inclusive</i>All</a>
-        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/animals"><i class="material-icons">pets</i>Animals</a>
-        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/biomes"><i class="material-icons">terrain</i>Biomes</a>
-        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/expansive-packs"><i class="material-icons">inventory</i>Packs</a>
-        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/maps"><i class="material-icons">map</i>Maps</a>
-        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/hacks"><i class="material-icons">code</i>Hacks</a>
-        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/objects"><i class="material-icons">business</i>Objects</a>
-        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/remakes"><i class="material-icons">swap_horiz</i>Remakes</a>
-        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/texture-mods"><i class="material-icons">texture</i>Texture Mods</a>
-        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/tools-utilities"><i class="material-icons">build</i>Tools & Utilities</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.major }}/animals"><i class="material-icons">pets</i>Animals</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.major }}/biomes"><i class="material-icons">terrain</i>Biomes</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.major }}/expansive-packs"><i class="material-icons">inventory</i>Packs</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.major }}/maps"><i class="material-icons">map</i>Maps</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.major }}/hacks"><i class="material-icons">code</i>Hacks</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.major }}/objects"><i class="material-icons">business</i>Objects</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.major }}/remakes"><i class="material-icons">swap_horiz</i>Remakes</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.major }}/texture-mods"><i class="material-icons">texture</i>Texture Mods</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.major }}/tools-utilities"><i class="material-icons">build</i>Tools & Utilities</a>
     </div>  
 
     {{ .Scratch.Set "filter" .Params.layout }}
     {{ partial "range-mods-list.html" . }}
     
     {{ .Scratch.Set "category" "all" }}
-    {{ .Scratch.Set "game" "zt2" }}
+    {{ .Scratch.Set "game" .Params.major }}
     {{ partial "sidebar-r/filter-root.html" . }}
 
 

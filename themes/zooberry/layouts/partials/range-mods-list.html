@@ -1,6 +1,19 @@
 {{ $filter := .Scratch.Get "filter" }}
+{{ $currentGame := .Params.major }}
 {{ $mods := where .Site.RegularPages "Section" "mods" }}
-{{ $filteredMods := where $mods "Params.tags" "intersect" (slice $filter) }}
+{{/*  tags" "intersect" (slice $filter) }}  */}}
+{{/*  return only mods that have field currently set in Params.game */}}
+{{ $filteredMods := slice }}
+{{ range $mods }}
+    {{ if eq .Params.major $currentGame }}
+        {{ if in .Params.tags $filter }}
+            {{ $filteredMods = $filteredMods | append . }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+{{/*  sort mods by title  */}}
+
 {{ $sortedMods := sort $filteredMods "Title" "asc" }}
 {{ $paginator := .Paginate $sortedMods }}
 {{ template "_internal/pagination.html" (dict "paginator" $paginator "page" .) }}
