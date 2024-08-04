@@ -1,62 +1,31 @@
 <div class="sidebar">
+    {{/*  ZooBerry logo  */}}
     <a href="/" title="ZooBerry" class="nav-logo"></a>
-    {{/*  <h3>Zoo Tycoon 1</h3>
-    {{- $page := .page }}
-    {{- $menuID := .menuID }}
-          
-    {{- with index site.Menus "zt1" }}
-            <ul class="side-ul">
-            
-            {{ $currentPage := . }}
-            {{ range . }}
-                <li class="side-li side-li-{{ .Name | urlize }}">
-                    <a href="{{ .PageRef }}">{{ .Name }}</a>
-                </li>
-            {{ end }}
-            </ul>
-    {{- end }}
-    <h3>Zoo Tycoon 2</h3>
 
-    {{- with index site.Menus "zt2" }}
-            <ul class="side-ul">
-            {{ $currentPage := . }}
-            {{ range . }}
-                <li class="side-li side-li-{{ .Name | urlize }}">
-                    <a href="{{ .PageRef }}">{{ .Name }}</a>
-                </li>
-            {{ end }}
-            </ul>
-    {{- end }}
-    <h3>Filters</h3>
-
-    {{- with index site.Menus "filters" }}
-            <ul class="side-ul">
-            {{ $currentPage := . }}
-            {{ range . }}
-                <li>
-                    <a href="{{ .PageRef }}">{{ .Name }}</a>
-                </li>
-            {{ end }}
-            </ul>
-    {{- end }}  */}}
-
+    {{/*  Main menu  */}}
     <ul class="side-ul main-menu">
         <li class="side-kofi"><script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Us on Ko-fi', 'var(--kofi)', 'U7U6UXNXD');kofiwidget2.draw();</script></li>
+        
+        {{/*  Grabs main menu from hugo.toml  */}}
         {{- with index site.Menus "main" }}
             {{ range . }}
                 <li class="side-li">
-                    <a class="dropbtn" href="{{ .PageRef }}"><i class="material-icons icon">{{ .Params.icon }}</i> {{ .Name }}</a>
                     {{ if .HasChildren }}
+                    <a class="dropbtn" href="{{ .PageRef }}"><i class="material-icons icon">{{ .Params.icon }}</i>{{ .Name }}<i class="material-icons icon">expand_more</i></a>
                         <ul class="submenu">
                             {{ range .Children }}
                                 <li><a href="{{ .PageRef }}">{{ .Name }}</a></li>
                             {{ end }}
                         </ul>
+                    {{ else }}
+                        <a href="{{ .PageRef }}"><i class="material-icons icon">{{ .Params.icon }}</i> {{ .Name }}</a>
                     {{- end }}    
                 </li>
             {{ end }}
         {{- end }}
     </ul>
+
+    {{/* Menu that goes below the main. Simple filtering options. */}}
     <ul class="side-ul filter-menu">
         <li class="side-li"><a class="dropbtn" href="/mods/zt1"><i class="material-icons icon">arrow_forward</i> Latest Mods</a></li>
         <li class="side-li"><a class="dropbtn" href="/mods/zt2"><i class="material-icons icon">groups</i> Author List</a></li>
@@ -64,11 +33,13 @@
         <li class="side-li"><a class="dropbtn" href="/mods/zt2"><i class="material-icons icon">design_services</i> Design Teams</a></li>
     </ul>
 
-
+    {{/*  Theme switcher  */}}
     <label class="switch">
         <input type="checkbox" id="theme-switcher">
         <div class="slider round"></div>
     </label>
+
+    {{/*  Theme switch script  */}}
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             const themeSwitcher = document.getElementById('theme-switcher');
@@ -93,26 +64,40 @@
             });
           });
     </script>
+
+    {{/*  Sliding door navigation script  */}}
     <script>
         document.addEventListener('DOMContentLoaded', function () {
             const menuLinks = document.querySelectorAll('.dropbtn');
         
             menuLinks.forEach(link => {
                 link.addEventListener('click', function (e) {
-                    e.preventDefault();
                     const submenu = this.nextElementSibling;
         
-                    // Close all other submenus
-                    document.querySelectorAll('.submenu').forEach(sub => {
-                        if (sub !== submenu) {
-                            sub.classList.remove('submenu-open');
-                        }
-                    });
+                    // Check if the submenu exists
+                    if (submenu && submenu.classList.contains('submenu')) {
+                        e.preventDefault();
         
-                    // Toggle the clicked submenu
-                    submenu.classList.toggle('submenu-open');
+                        // Close all other submenus
+                        document.querySelectorAll('.submenu').forEach(sub => {
+                            if (sub !== submenu) {
+                                sub.classList.remove('submenu-open');
+                                sub.style.maxHeight = null;
+                            }
+                        });
+        
+                        // Toggle the clicked submenu
+                        submenu.classList.toggle('submenu-open');
+                        if (submenu.classList.contains('submenu-open')) {
+                            submenu.style.maxHeight = submenu.scrollHeight + 'px';
+                        } else {
+                            submenu.style.maxHeight = null;
+                        }
+                    }
+                    // If there's no submenu, the link will function normally
                 });
             });
         });
+        
     </script>
 </div>
