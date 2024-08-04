@@ -13,7 +13,9 @@
           {{ partial "sidebar_l.html" (dict "menuID" "main" "page" .) }}
         {{ end }}
         <div class="main-wrapper">
+          {{ if .Params.submenu }}
             {{ partial "inner-nav.html" . }}
+          {{ end }}
           <main>
             <header>
               {{ partial "header.html" . }}

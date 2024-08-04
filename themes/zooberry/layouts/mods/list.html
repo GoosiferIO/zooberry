@@ -1,9 +1,10 @@
 {{ define "main" }}
   <div class="body-content">
+    {{/*  Title and blurb  */}}
     <h1>{{ .Title }}</h1>
     <div class="cat-blurb">{{ .Content }}</div>
-    {{/*  {{ .Content }}  */}}
-    {{/*  get the current page  */}}
+
+    {{/*  Generate category buttons  */}}
     {{ if .Params.categories}}
         <div class="filter-bar-content">
             {{ if len .Params.tags | eq 2 }}
@@ -20,22 +21,14 @@
                     <a class="filter-bar-button" href="/mods/{{ $game }}/{{ .slug }}"><i class="material-icons">{{ .icon }}</i>{{ .name }}</a>
                 {{ end }}
             {{ end }}
-            {{/*  <a class="filter-bar-button filter-bar-active" href="/mods"><i class="material-icons">all_inclusive</i>All</a>
-            <a class="filter-bar-button" href="/mods/{{ .Params.major }}/animals"><i class="material-icons">pets</i>Animals</a>
-            <a class="filter-bar-button" href="/mods/{{ .Params.major }}/biomes"><i class="material-icons">terrain</i>Biomes</a>
-            <a class="filter-bar-button" href="/mods/{{ .Params.major }}/expansive-packs"><i class="material-icons">inventory</i>Packs</a>
-            <a class="filter-bar-button" href="/mods/{{ .Params.major }}/maps"><i class="material-icons">map</i>Maps</a>
-            <a class="filter-bar-button" href="/mods/{{ .Params.major }}/hacks"><i class="material-icons">code</i>Hacks</a>
-            <a class="filter-bar-button" href="/mods/{{ .Params.major }}/objects"><i class="material-icons">business</i>Objects</a>
-            <a class="filter-bar-button" href="/mods/{{ .Params.major }}/remakes"><i class="material-icons">swap_horiz</i>Remakes</a>
-            <a class="filter-bar-button" href="/mods/{{ .Params.major }}/texture-mods"><i class="material-icons">texture</i>Texture Mods</a>
-            <a class="filter-bar-button" href="/mods/{{ .Params.major }}/tools-utilities"><i class="material-icons">build</i>Tools & Utilities</a>  */}}
         </div>  
     {{ end }}
 
+    {{/*  Generate the list of mods as cards */}}
     {{ .Scratch.Set "filter" .Params.layout }}
     {{ partial "range-mods-list.html" . }}
     
+    {{/*  Generate the sidebar filters */}}
     {{ .Scratch.Set "category" "all" }}
     {{ .Scratch.Set "game" .Params.major }}
     {{ partial "sidebar-r/filter-root.html" . }}

@@ -1,0 +1,22 @@
+.inner-nav  {
+    display: flex;
+    flex-direction: row;
+    background: var(--accent-bg);
+    border-bottom: 1px solid var(--secondary-border);
+    width: 100%;
+    margin: 0 auto;
+  
+    ul {
+      list-style: none;
+      display: flex;
+      flex-direction: row;
+      width: 100%;
+      margin: 1rem auto;
+      max-width:1280px;
+      padding: 0;
+    }
+  
+    ul a {
+      padding-right: 2rem;
+    }
+  }

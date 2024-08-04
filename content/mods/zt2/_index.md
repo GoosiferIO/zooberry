@@ -1,5 +1,6 @@
 ---
-title: "Your Page Title"
+title: "Zoo Tycoon 2"
+layout: zt2
 cascade:
   major: "zt2"
   tags: ["all", "zt2"]
