@@ -9,7 +9,11 @@
         {{ if in .Params.tags $filter }}
             {{ $filteredMods = $filteredMods | append . }}
         {{ end }}
-    {{ end }}
+    {{ else if eq $filter "assets" }}
+        {{ if in .Params.tags "assets" }}
+            {{ $filteredMods = $filteredMods | append . }}
+        {{ end }}
+    {{ end}}
 {{ end }}
 
 {{/*  sort mods by title  */}}

@@ -5,6 +5,7 @@ description: "A list of art assets"
 thumbnail: assets.jpg
 summary: "Art assets anyone can use for their own mod projects."
 cascade:
+    layout: assets
     tags: 
     - "assets"
 ---

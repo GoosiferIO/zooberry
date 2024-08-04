@@ -21,6 +21,7 @@
     padding: 2rem;
     border-radius: 20px;
     border: 1px solid var(--secondary-border);
+    margin-top: 2rem;
 }
 
 .filter-bar-content button {
