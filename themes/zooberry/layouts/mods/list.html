@@ -5,16 +5,16 @@
     {{/*  {{ .Content }}  */}}
     {{/*  get the current page  */}}
     <div class="filter-bar-content">
-        <a class="filter-bar-button" href="/mods">All</a>
-        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/animals">Animals</a>
-        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/biomes">Biomes</a>
-        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/expansive-packs">Packs</a>
-        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/maps">Maps</a>
-        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/hacks">Hacks</a>
-        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/objects">Objects</a>
-        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/remakes">Remakes</a>
-        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/texture-mods">Texture Mods</a>
-        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/tools-utilities">Tools & Utilities</a>
+        <a class="filter-bar-button filter-bar-active" href="/mods"><i class="material-icons">all_inclusive</i>All</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/animals"><i class="material-icons">pets</i>Animals</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/biomes"><i class="material-icons">terrain</i>Biomes</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/expansive-packs"><i class="material-icons">inventory</i>Packs</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/maps"><i class="material-icons">map</i>Maps</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/hacks"><i class="material-icons">code</i>Hacks</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/objects"><i class="material-icons">business</i>Objects</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/remakes"><i class="material-icons">swap_horiz</i>Remakes</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/texture-mods"><i class="material-icons">texture</i>Texture Mods</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/tools-utilities"><i class="material-icons">build</i>Tools & Utilities</a>
     </div>  
 
     {{ .Scratch.Set "filter" .Params.layout }}
