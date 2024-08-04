@@ -23,16 +23,9 @@
     width: 100%;
     margin-left: -2rem;
     transition: transform 0.3s ease-in-out;
-    transform: translateX(0);
 }
 
-.sidebar-close {
-    transform: translateX(-100%);
-}
-
-.submenu-open {
-    height: auto;
-    transition: height 0.3s ease;
+.sidebar-open {
 }
 
 .sidebar li {
@@ -49,9 +42,23 @@
 }
 
 .sidebar li:hover {
-    .icon {
+    .pre-anim {
         animation: swing ease-in-out 0.5s 1 alternate;
     }
+}
+
+.pre-anim {
+    padding-right: 1rem;
+}
+
+.arrow {
+    position: absolute;
+    right: 1rem;
+    top: 50%;
+    transform: translateY(-50%) scale(0.7); /* Initial transform */
+    font-size: 1.5rem;
+    color: var(--link-color);
+    transform-origin: center;
 }
 
 .sidebar li a:hover {
