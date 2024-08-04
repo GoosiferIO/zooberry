@@ -1,6 +1,29 @@
+{{ $filter := .Scratch.Get "filter" }}
+{{ $currentGame := .Params.major }}
+{{ $mods := where .Site.RegularPages "Section" "mods" }}
+{{/*  tags" "intersect" (slice $filter) }}  */}}
+{{/*  return only mods that have field currently set in Params.game */}}
+{{ $filteredMods := slice }}
+{{ range $mods }}
+    {{ if eq .Params.major $currentGame }}
+        {{ if in .Params.tags $filter }}
+            {{ $filteredMods = $filteredMods | append . }}
+        {{ end }}
+    {{ else if eq $filter "assets" }}
+        {{ if in .Params.tags "assets" }}
+            {{ $filteredMods = $filteredMods | append . }}
+        {{ end }}
+    {{ end}}
+{{ end }}
 
-<ul class="box-card-list">
-    {{ range (where .Site.RegularPages "Section" "mods") | first 8 }}
+{{/*  sort mods by title  */}}
+
+{{ $sortedMods := sort $filteredMods "Title" "asc" }}
+{{ $paginator := .Paginate $sortedMods }}
+{{ template "_internal/pagination.html" (dict "paginator" $paginator "page" .) }}
+
+<div class="box-card-list">
+    {{ range $paginator.Pages }}
     <li class="box-card-mods">
         <div class="box-card-mods-img">
             {{/*  get first image from images folder in this bundle */}}
@@ -25,8 +48,7 @@
                 {{ end }}
                 </p>
             <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-            <p>by 
-                {{ $authors := .Params.author }}
+            <p>by {{ $authors := .Params.author }}
 
                 {{ $len := len $authors }}
                 {{ if eq $len 1 }}
@@ -38,10 +60,12 @@
                 {{ end }}
             </p>
             <span class="box-card-bottom">
-                <span class="badge-animals">Animals</span>
+                {{ partial "class-badges.html" . }}
                 <span class="box-card-date">{{ .Date.Format "2 Jan 2006" }}</span>
             </span>
         </div>
     </li>
-    {{ end }}
-</ul>
+        {{ end }}
+  </div>
+  {{ template "_internal/pagination.html" (dict "paginator" $paginator "page" .) }}
+</div>

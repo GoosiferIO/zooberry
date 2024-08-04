@@ -11,7 +11,7 @@ gallery:
 - ambients_thumb.jpg
 alt_text: "Ambient animals"
 summary: "These are not adoptable but do appear in the environment at random intervals to add ambiance!"
-
+tags: [ "all", "zt2", "animals", "ambients" ]
 ---
 
 These are not adoptable but do appear in the environment at random intervals to add ambiance!

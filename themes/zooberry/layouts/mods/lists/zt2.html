@@ -1,0 +1,31 @@
+{{ define "main" }}
+  <div class="body-content">
+    asdfasd
+
+    <p class="cat-blurb">{{ .Content }}</p>
+    {{/*  {{ .Content }}  */}}
+    {{/*  get the current page  */}}
+    <div class="filter-bar-content">
+        <a class="filter-bar-button" href="/mods">All</a>
+        <a class="filter-bar-button" href="/mods/objects">Animals</a>
+        <a class="filter-bar-button" href="/mods/packs">Biomes</a>
+        <a class="filter-bar-button" href="/mods/texture-mods">Expansive Packs</a>
+        <a class="filter-bar-button" href="/mods/texture-mods">Maps</a>
+        <a class="filter-bar-button" href="/mods/texture-mods">Hacks</a>
+        <a class="filter-bar-button" href="/mods/texture-mods">Objects</a>  
+        <a class="filter-bar-button" href="/mods/texture-mods">Remakes</a>
+        <a class="filter-bar-button" href="/mods/texture-mods">Texture Mods</a> 
+        <a class="filter-bar-button" href="/mods/texture-mods">Tools & Utilities</a>
+    </div>  
+
+    {{ $filter := .Scratch.Get "filter" }}
+    {{ .Scratch.Set "filter" $filter }}
+    {{ partial "range-mods-list.html" . }}
+    
+    {{ .Scratch.Set "category" "all" }}
+    {{ .Scratch.Set "game" "zt2" }}
+    {{ partial "sidebar-r/filter-root.html" . }}
+
+
+
+{{ end }}

@@ -20,7 +20,7 @@ alt_text:
 languages:
 - English
 summary: "A Pack containing four Arabian animals and Plants."
-
+tags: ["animals", "foliage", "trees", "land-foliage"]
 ---
 
 A Pack containing four Arabian animals and Plants.

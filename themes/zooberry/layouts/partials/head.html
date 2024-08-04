@@ -12,6 +12,8 @@
 {{ $allScripts := resources.Match "js/*.js" }}
 {{ $script := $allScripts | resources.Concat "js/scripts.js"  | fingerprint }}
 
+<script src="{{ .Site.BaseURL }}js/galleria.js"></script>
+<script src="{{ .Site.BaseURL }}js/galleria.twelve.js"></script>
 <script src="{{ $script.Permalink }}"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

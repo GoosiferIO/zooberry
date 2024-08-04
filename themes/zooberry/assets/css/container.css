@@ -44,6 +44,7 @@
   --maps: #889229;
   --objects: #2e803c;
   --packs: #744a23;
+  --expansive-packs: #a8437e;
   --remakes: #b85454;
   --texture-mods: #86334f;
   --tools-utilities: #7e5b33;
@@ -112,6 +113,7 @@ a {
 
 a:hover {
   color: var(--link-hover-color);
+  transition: color 0.5s ease 0s;
 }
 
 main {
@@ -201,61 +203,12 @@ pre code {
   border-top: 1px solid var(--secondary-border);
   border-bottom: 1px solid var(--secondary-border);
   padding: 0.5rem 1rem;
-  border-radius: 5px;
+  border-radius: 10px;
   margin: -0.5rem 0 1rem 0;
 }
 
-.switch {
-  position: fixed;
-  display: inline-block;
-  width: 40px;
-  height: 22px;
-  bottom: 1rem;
-}
-
-.switch input { 
-  opacity: 0;
-  width: 0;
-  height: 0;
-}
-
-.switch input:checked + .slider {
-  background-color: var(--accent-bg);
-}
-
-.switch input:checked + .slider:before {
-  transform: translateX(16px);
-  background-color: transparent;
-  border-radius: 50%;
-  border-top-color: transparent;
-  border-left-color: transparent;
-  border-right-color: transparent;
-  box-shadow: inset -5px -3px 0 var(--sidebar-hover);
-}
-
-.switch .slider {
-  position: absolute;
-  cursor: pointer;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: var(--primary-bg);
-  transition: 0.4s;
-  border-radius: 34px;
-  box-shadow: 0 0 0.25em rgba(0, 0, 0, 0.1), 0.2px 0.2em 24px 0 rgba(1, 29, 77, 0.15);
-}
-
-.switch .slider:before {
-  position: absolute;
-  content: "";
-  height: 15px;
-  width: 15px;
-  left: 4px;
-  bottom: 4px;
-  background-color: var(--accent-bg);
-  transition: 0.4s;
-  border-radius: 50%;
-  text-align: center;
-  line-height: 15px;
+.main-wrapper {
+  width: 100%;
+  border-left: 1px solid var(--secondary-border);
+  border-radius: 20% 0 0 0;
 }

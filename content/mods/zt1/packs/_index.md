@@ -1,10 +1,11 @@
 ---
 title: "Packs"
 draft: false
-has_author: false
-description: "A list of projects"
-thumbnail: zt1/zt1_objects.jpg
+layout: packs
 summary: "Bundled packs of mods with similar themes."
+cascade:
+    game: "zt1"
+    tags: ["all", "zt1", "packs" ]
 ---
 
 Bundled packs of mods with similar themes.

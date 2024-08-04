@@ -1,0 +1,38 @@
+{{ define "main" }}
+  <div class="body-content">
+    {{/*  Title and blurb  */}}
+    <h1>{{ .Title }}</h1>
+    <div class="cat-blurb">{{ .Content }}</div>
+
+    {{/*  Generate category buttons  */}}
+    {{ if .Params.categories}}
+        <div class="filter-bar-content">
+            {{ if len .Params.tags | eq 2 }}
+                <a class="filter-bar-button filter-bar-active" href="/mods/{{.Params.major}}"><i class="material-icons">all_inclusive</i>All</a>
+            {{ else }}
+                <a class="filter-bar-button" href="/mods/{{.Params.major}}"><i class="material-icons">all_inclusive</i>All</a>
+            {{ end }}
+            {{ $game := .Params.major }}
+            {{ $layout := .Params.layout }}
+            {{ range .Params.categories }}
+                {{ if eq .slug $layout }}
+                    <a class="filter-bar-button filter-bar-active" href="/mods/{{ $game }}/{{ .slug }}"><i class="material-icons">{{ .icon }}</i>{{ .name }}</a>
+                {{ else }}
+                    <a class="filter-bar-button" href="/mods/{{ $game }}/{{ .slug }}"><i class="material-icons">{{ .icon }}</i>{{ .name }}</a>
+                {{ end }}
+            {{ end }}
+        </div>  
+    {{ end }}
+
+    {{/*  Generate the list of mods as cards */}}
+    {{ .Scratch.Set "filter" .Params.layout }}
+    {{ partial "range-mods-list.html" . }}
+    
+    {{/*  Generate the sidebar filters */}}
+    {{ .Scratch.Set "category" .Params.layout }}
+    {{ .Scratch.Set "game" .Params.major }}
+    {{ partial "sidebar-r/filter-root.html" . }}
+
+
+
+{{ end }}

@@ -21,7 +21,7 @@ alt_text:
 languages:
 - English
 summary: "A pack containing 15 Cretaceous era, JPOG styled dinosaurs."
-
+tags: ["animals", "dinosaurs", "extinct", "animal-reskins"]
 ---
 
 A pack containing 15 Cretaceous era, JPOG styled dinosaurs. 

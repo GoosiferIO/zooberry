@@ -1,0 +1,80 @@
+    
+{{ $game := .Scratch.Get "game" }}
+{{ $category := .Scratch.Get "category" }}
+
+{{$category}}
+{{/*  return pages with specific tag  */}}
+{{ $mods :=  where .Site.RegularPages "Type" "mods" }}
+{{/*  {{ $mods = where $mods "Params.game" $game }}
+{{ $mods = where $mods "Params.layout" $category }}
+{{ $mods = where $mods "Params.major" $game }}  */}}
+
+{{ .Params.layout }}
+{{ $mods }}
+
+{{/*  get category  */}}
+
+{{/*  all
+animal-food
+animal-reskins
+animal-shelters
+animals
+arches
+assets
+biomes
+building-kits
+buildings
+dinosaurs
+elevated-paths
+enrichment
+extinct
+fences
+foliage
+ground-paths
+hacks
+land-foliage
+maps
+objects
+packs
+remakes
+rocks
+scenery
+shelters
+signs
+texture-mods
+tools-utilities
+transportation
+trees
+uxp
+zoo tycoon 1
+zoo tycoon 2
+zt1  */}}
+
+
+{{/*  get all tags inside all subdirectories  */}}
+
+{{ $uniqueTags := slice }}
+
+{{/* Collect all pages in the site */}}
+{{ range $mods }}
+    {{ with .Params.tags }}
+        {{ if in . $category }}
+            {{ if in . $game }}
+                {{ range . }}
+                    {{ if not (in $uniqueTags .) }}
+                        {{ $uniqueTags = $uniqueTags | append . }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+{{/* Sort tags alphabetically */}}
+{{ $uniqueTags = sort $uniqueTags }}
+
+<div class="filter-tags">
+    {{ range $uniqueTags }}
+        <a href="/mods/{{ . }}" class="badge-default">{{ . }}</a>
+    {{ end }}
+</div>

@@ -1,0 +1,9 @@
+<nav class="container inner-nav">
+    <ul class="inner-nav-ul">
+        {{ range .Params.submenu }}
+            <li class="inner-nav-li">
+                <a href="{{ .url }}" class="inner-nav-a">{{ .name }}</a>
+            </li>
+        {{ end }}
+    </ul>
+</nav>

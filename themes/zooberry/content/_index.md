@@ -5,6 +5,7 @@ draft: false
 cascade:
     navigation: true
     blog: false
+    galleria: true
 ---
 
 # Welcome to ZooBerry

@@ -1,0 +1,25 @@
+{{ define "main" }}
+  <div class="body-content">
+    <h1>{{ .Title }}</h1>
+    <p class="cat-blurb">{{ .Content }}</p>
+    {{/*  {{ .Content }}  */}}
+    {{/*  get the current page  */}}
+    <div class="filter-bar-content">
+    </div>  
+
+
+    {{ $currentPage := . }}
+    {{ $tag := index $currentPage.Params.tags 0 }}
+    {{ if eq (len $currentPage.Params.tags) 2 }}
+        {{ $tag = index $currentPage.Params.tags 1 }}
+    {{ else if eq (len $currentPage.Params.tags) 3 }}
+        {{ $tag = index $currentPage.Params.tags 2 }}
+    {{ else }}
+        {{ $tag = "all" }}
+        {{/*  print all tags  */}}
+    {{ end }}
+    {{ partial "range-mods-list.html" (dict "tag" $tag "context" . ) }}
+    {{ partial "sidebar-r/filter-root.html" . }}
+
+
+{{ end }}

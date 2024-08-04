@@ -2,5 +2,5 @@
 {{/*  placehold for now  */}}
 
 <div class="breadcrumbs">
-    <a href="/">Home</a> &gt; <a href="/mods">Mods</a> &gt; <a href="/mods/1">Mod 1</a>
+    {{ $breadcrumbs := .Site.GetPage "section" .Section }}
 </div>
