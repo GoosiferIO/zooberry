@@ -2,18 +2,8 @@
 {{ $game := .Scratch.Get "game" }}
 {{ $category := .Scratch.Get "category" }}
 
-{{$category}}
 {{/*  return pages with specific tag  */}}
 {{ $mods :=  where .Site.RegularPages "Type" "mods" }}
-{{/*  {{ $mods = where $mods "Params.game" $game }}
-{{ $mods = where $mods "Params.layout" $category }}
-{{ $mods = where $mods "Params.major" $game }}  */}}
-
-{{ .Params.layout }}
-{{ $mods }}
-
-{{/*  get category  */}}
-
 {{/*  all
 animal-food
 animal-reskins
@@ -51,13 +41,14 @@ zoo tycoon 2
 zt1  */}}
 
 
-{{/*  get all tags inside all subdirectories  */}}
+{{/* Get all tags inside all subdirectories  */}}
 
 {{ $uniqueTags := slice }}
 
 {{/* Collect all pages in the site */}}
 {{ range $mods }}
     {{ with .Params.tags }}
+        {{/*  Only if tags exist in $category or $game  */}}
         {{ if in . $category }}
             {{ if in . $game }}
                 {{ range . }}
@@ -73,6 +64,7 @@ zt1  */}}
 {{/* Sort tags alphabetically */}}
 {{ $uniqueTags = sort $uniqueTags }}
 
+{{/*  Display the tags  */}}
 <div class="filter-tags">
     {{ range $uniqueTags }}
         <a href="/mods/{{ . }}" class="badge-default">{{ . }}</a>

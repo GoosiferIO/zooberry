@@ -22,6 +22,10 @@
     list-style: none; 
     width: 100%;
     margin-left: -2rem;
+    transition: transform 0.3s ease-in-out;
+}
+
+.sidebar-open {
 }
 
 .sidebar li {
@@ -38,9 +42,23 @@
 }
 
 .sidebar li:hover {
-    .icon {
+    .pre-anim {
         animation: swing ease-in-out 0.5s 1 alternate;
     }
+}
+
+.pre-anim {
+    padding-right: 1rem;
+}
+
+.arrow {
+    position: absolute;
+    right: 1rem;
+    top: 50%;
+    transform: translateY(-50%) scale(0.7); /* Initial transform */
+    font-size: 1.5rem;
+    color: var(--link-color);
+    transform-origin: center;
 }
 
 .sidebar li a:hover {
@@ -59,46 +77,6 @@ li.side-li::before {
     top: 50%;
     transform: translateY(-50%);
     color: black;
-}
-
-li.side-li-animals::before {
-    color: var(--animals);
-}
-
-li.side-li-assets::before {
-    color: var(--assets);
-}
-
-li.side-li-biomes::before {
-    color: var(--biomes);
-}
-
-li.side-li-hacks::before {
-    color: var(--hacks);
-}
-
-li.side-li-maps::before {
-    color: var(--maps);
-}
-
-li.side-li-objects::before {
-    color: var(--objects);
-}
-
-li.side-li-packs::before, li.side-li-expansive-packs::before {
-    color: var(--packs);
-}
-
-li.side-li-remakes::before {
-    color: var(--remakes);
-}
-
-li.side-li-texture-mods::before {
-    color: var(--texture-mods);
-}
-
-li.side-li-tools-and-utilities::before {
-    color: var(--tools-utilities);
 }
 
 @keyframes swing {
@@ -126,12 +104,6 @@ li.side-li-tools-and-utilities::before {
       transform: rotate(-5deg);
     }
   }
-
-/* .sidebar .icon {
-    border-radius: 5px;
-    padding: 0.5rem;
-    background-color: var(--sidebar-icons);
-} */
 
 li.side-kofi {
     /* vertical center */
