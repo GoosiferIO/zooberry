@@ -1,7 +1,7 @@
 {{ define "main" }}
   <div class="body-content">
     <h1>{{ .Title }}</h1>
-    <p class="cat-blurb">{{ .Content }}</p>
+    <div class="cat-blurb">{{ .Content }}</div>
     {{/*  {{ .Content }}  */}}
     {{/*  get the current page  */}}
     {{ if .Params.categories}}
