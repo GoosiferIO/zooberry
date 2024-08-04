@@ -6,10 +6,19 @@
     {{/*  get the current page  */}}
     {{ if .Params.categories}}
         <div class="filter-bar-content">
-            <a class="filter-bar-button filter-bar-active" href="/mods/"><i class="material-icons">all_inclusive</i>All</a>
+            {{ if len .Params.tags | eq 2 }}
+                <a class="filter-bar-button filter-bar-active" href="/mods/{{.Params.major}}"><i class="material-icons">all_inclusive</i>All</a>
+            {{ else }}
+                <a class="filter-bar-button" href="/mods/{{.Params.major}}"><i class="material-icons">all_inclusive</i>All</a>
+            {{ end }}
             {{ $game := .Params.major }}
+            {{ $layout := .Params.layout }}
             {{ range .Params.categories }}
-                <a class="filter-bar-button" href="/mods/{{ $game }}/{{ .slug }}"><i class="material-icons">{{ .icon }}</i>{{ .name }}</a>
+                {{ if eq .slug $layout }}
+                    <a class="filter-bar-button filter-bar-active" href="/mods/{{ $game }}/{{ .slug }}"><i class="material-icons">{{ .icon }}</i>{{ .name }}</a>
+                {{ else }}
+                    <a class="filter-bar-button" href="/mods/{{ $game }}/{{ .slug }}"><i class="material-icons">{{ .icon }}</i>{{ .name }}</a>
+                {{ end }}
             {{ end }}
             {{/*  <a class="filter-bar-button filter-bar-active" href="/mods"><i class="material-icons">all_inclusive</i>All</a>
             <a class="filter-bar-button" href="/mods/{{ .Params.major }}/animals"><i class="material-icons">pets</i>Animals</a>
