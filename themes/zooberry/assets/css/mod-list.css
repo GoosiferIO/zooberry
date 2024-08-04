@@ -13,14 +13,14 @@
 }
 
 .filter-bar-content {
-    display: flex;
-    flex-direction: column;
-    width: 92%;
+    display: grid;
+    /* 3 columns */
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;    width: 92%;
     background-color: var(--secondary-bg);
-    padding: 2rem 2rem 0 2rem;
+    padding: 2rem;
     border-radius: 20px;
     border: 1px solid var(--secondary-border);
-    min-height: 300px;
 }
 
 .filter-bar-content button {
@@ -44,4 +44,25 @@
 
 .filter-group ul {
     list-style: none;
+}
+
+/* Filter Buttons */
+
+.filter-bar-button {
+
+    background: var(--thead-bg);
+    padding: 0.5rem;
+    border-radius: 20px;
+    text-align: center;
+    border: 2px solid var(--secondary-bg);
+}
+
+.filter-bar-button:hover {
+    background: var(--primary-bg-hover);
+    transition: ease-in-out 0.3s;
+    border: 2px solid var(--accent-bg);
+}
+
+.filter-bar-active {
+    border: 2px solid var(--accent-color);
 }

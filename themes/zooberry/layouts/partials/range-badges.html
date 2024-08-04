@@ -1,10 +1,16 @@
     
-{{ $mods := where .Site.RegularPages "Section" "mods" }}
-
 {{ $game := .Scratch.Get "game" }}
+{{/*  return pages with specific tag  */}}
+{{ $mods :=  where .Site.RegularPages "Type" "mods" }}
+{{ $mods = where .Site.Pages "Params.tags" "intersect" (slice "zoo tycoon 2" ) }}
+
+
+{{/*  get category  */}}
 {{ $category := .Scratch.Get "category" }}
 
-
+{{ range $mods }}
+  test
+{{ end }}
 {{/*  all
 animal-food
 animal-reskins

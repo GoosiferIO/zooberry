@@ -3,7 +3,7 @@
 
 
 {{ $mods := where $context.Site.RegularPages "Section" "mods" }}
-{{ $filteredMods := where $mods "Params.tags" "intersect" (slice $tag) }}
+{{ $filteredMods := where $mods "Params.tags" "intersect" (slice "objects") }}
 {{ $sortedMods := sort $filteredMods "Title" "asc" }}
 {{ $paginator := $context.Paginate $sortedMods }}
 {{ template "_internal/pagination.html" (dict "paginator" $paginator "page" $context) }}
