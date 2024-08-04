@@ -44,8 +44,7 @@
                 {{ end }}
                 </p>
             <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-            <p><i class="material-icons icon">person</i>  
-                {{ $authors := .Params.author }}
+            <p>by {{ $authors := .Params.author }}
 
                 {{ $len := len $authors }}
                 {{ if eq $len 1 }}
