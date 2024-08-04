@@ -8,9 +8,6 @@
 {{/*  get category  */}}
 {{ $category := .Scratch.Get "category" }}
 
-{{ range $mods }}
-  test
-{{ end }}
 {{/*  all
 animal-food
 animal-reskins
@@ -48,66 +45,26 @@ zoo tycoon 2
 zt1  */}}
 
 
-{{ $animalTags := slice "animals" "dinosaurs" "extinct" }}
-{{ $packTags := slice "uxp" "animal-bundles" "theme-packs" "building-kits" }}
-{{ $objectTags := slice "arches" "animal-food" "building-kits" "theme-packs" "enrichment" "objects" "buildings" "fences" "scenery" "shelters" "signs" "rocks" "trees" "foliage" "land-foliage" "ground-paths" "elevated-paths" }}
-{{ $textureTags := slice "texture-mods" "animal-reskins" "misc-reskins" }}
-{{ $miscTags := slice "biomes" "maps" "hacks" "tools-utilities" "remakes" "transportation" }}
+{{/*  get all tags inside all subdirectories  */}}
 
-{{ $allTags := slice }}
-{{ range $mods }}
-    {{ $allTags = $allTags | append .Params.tags }}
-{{ end }}
+{{ $uniqueTags := slice "all" }}
 
-{{ $uniqueTags := slice }}
-{{ range $allTags }}
-    {{ if not (in $uniqueTags .) }}
-        {{ $uniqueTags = $uniqueTags | append . }}
-    {{ end }}
-{{ end }}
-
-{{ $sortedTags := sort $uniqueTags }}
-<div class="filter-tags">
-    {{/*  {{ range $sortedTags }}
-        <a href="{{ . | urlize }}" class="badge-default badge-{{ . }}">{{ . }}</a>
-    {{ end }}
-    {{ range .Data.Terms.Alphabetical }}
-        {{ .Title }} 
-    {{ end }}  */}}
-
-    {{ range $sortedTags }}
-        {{ if eq $category "animals" }}
-            {{ if in $animalTags . }}
-                <a href="{{ . | urlize }}" class="badge-default badge-{{ . }}">{{ . }}</a>
-            {{ end }}
-        {{ else if eq $category "packs" }}
-            {{ if in $packTags . }}
-                <a href="{{ . | urlize }}" class="badge-default badge-{{ . }}">{{ . }}</a>
-            {{ end }}
-        {{ else if eq $category "objects" }}
-            {{ if in $objectTags . }}
-                <a href="{{ . | urlize }}" class="badge-default badge-{{ . }}">{{ . }}</a>
-            {{ end }}
-        {{ else if eq $category "texture-mods" }}
-            {{ if in $textureTags . }}
-                <a href="{{ . | urlize }}" class="badge-default badge-{{ . }}">{{ . }}</a>
-            {{ end }}
-        {{ else if eq $category "all" }}
-            <a href="{{ . | urlize }}" class="badge-default badge-{{ . }}">{{ . }}</a>
-        {{ else }}
-            {{/*  if in miscTags or not in any other tags  */}}
-            {{ if not (in $animalTags .) }}
-                {{ if not (in $packTags .) }}
-                    {{ if not (in $objectTags .) }}
-                        {{ if not (in $textureTags .) }}
-                            {{ if in $miscTags . }}
-                                <a href="{{ . | urlize }}" class="badge-default badge-{{ . }}">{{ . }}</a>
-                            {{ end }}
-                        {{ end }}
-                    {{ end }}
-                {{ end }}
+{{/* Collect all pages in the site */}}
+{{ range .Site.RegularPages }}
+    {{ with .Params.tags }}
+        {{ range . }}
+            {{ if not (in $uniqueTags .) }}
+                {{ $uniqueTags = $uniqueTags | append . }}
             {{ end }}
         {{ end }}
+    {{ end }}
+{{ end }}
 
+{{/* Sort tags alphabetically */}}
+{{ $uniqueTags = sort $uniqueTags }}
+
+<div class="filter-tags">
+    {{ range $uniqueTags }}
+        <a href="/mods/{{ . }}" class="badge-default">{{ . }}</a>
     {{ end }}
 </div>

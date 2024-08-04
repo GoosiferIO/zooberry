@@ -6,29 +6,22 @@
     {{/*  get the current page  */}}
     <div class="filter-bar-content">
         <a class="filter-bar-button" href="/mods">All</a>
-        <a class="filter-bar-button" href="/mods/objects">Animals</a>
-        <a class="filter-bar-button" href="/mods/packs">Biomes</a>
-        <a class="filter-bar-button" href="/mods/texture-mods">Expansive Packs</a>
-        <a class="filter-bar-button" href="/mods/texture-mods">Maps</a>
-        <a class="filter-bar-button" href="/mods/texture-mods">Hacks</a>
-        <a class="filter-bar-button" href="/mods/texture-mods">Objects</a>  
-        <a class="filter-bar-button" href="/mods/texture-mods">Remakes</a>
-        <a class="filter-bar-button" href="/mods/texture-mods">Texture Mods</a> 
-        <a class="filter-bar-button" href="/mods/texture-mods">Tools & Utilities</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/animals">Animals</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/biomes">Biomes</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/expansive-packs">Packs</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/maps">Maps</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/hacks">Hacks</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/objects">Objects</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/remakes">Remakes</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/texture-mods">Texture Mods</a>
+        <a class="filter-bar-button" href="/mods/{{ .Params.game }}/tools-utilities">Tools & Utilities</a>
     </div>  
 
-
-    {{ $currentPage := . }}
-    {{ $tag := index $currentPage.Params.tags 0 }}
-    {{ if eq (len $currentPage.Params.tags) 2 }}
-        {{ $tag = index $currentPage.Params.tags 1 }}
-    {{ else if eq (len $currentPage.Params.tags) 3 }}
-        {{ $tag = index $currentPage.Params.tags 2 }}
-    {{ else }}
-        {{ $tag = "all" }}
-        {{/*  print all tags  */}}
-    {{ end }}
-    {{ partial "range-mods-list.html" (dict "tag" $tag "context" . ) }}
+    {{ .Scratch.Set "filter" .Params.layout }}
+    {{ partial "range-mods-list.html" . }}
+    
+    {{ .Scratch.Set "category" "all" }}
+    {{ .Scratch.Set "game" "zt2" }}
     {{ partial "sidebar-r/filter-root.html" . }}
 
 

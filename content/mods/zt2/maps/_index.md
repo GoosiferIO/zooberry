@@ -1,18 +1,11 @@
 ---
 title: "Maps"
-game:
-exp_req: 
-file_size: 
-orig_rel_date:
-orig_rel_at:
+layout: maps
 draft: false
-thumbnail: /zt2/maps.jpg
-gallery:
-- maps.jpg
 alt_text: "Zt2 Maps"
 summary: "Experience new zoos created from other master zoo-builders."
 cascade:
-    tags: ["all", "zoo tycoon 2", "maps" ]
+    tags: ["all", "zt2", "maps" ]
 
 ---
 

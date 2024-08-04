@@ -1,16 +1,12 @@
-{{ $tag := .tag }}
-{{ $context := .context }}
-
-
-{{ $mods := where $context.Site.RegularPages "Section" "mods" }}
-{{ $filteredMods := where $mods "Params.tags" "intersect" (slice "objects") }}
+{{ $filter := .Scratch.Get "filter" }}
+{{ $mods := where .Site.RegularPages "Section" "mods" }}
+{{ $filteredMods := where $mods "Params.tags" "intersect" (slice $filter) }}
 {{ $sortedMods := sort $filteredMods "Title" "asc" }}
-{{ $paginator := $context.Paginate $sortedMods }}
-{{ template "_internal/pagination.html" (dict "paginator" $paginator "page" $context) }}
+{{ $paginator := .Paginate $sortedMods }}
+{{ template "_internal/pagination.html" (dict "paginator" $paginator "page" .) }}
 
 <div class="box-card-list">
     {{ range $paginator.Pages }}
-    {{ if in .Params.tags $tag }}
     <li class="box-card-mods">
         <div class="box-card-mods-img">
             {{/*  get first image from images folder in this bundle */}}
@@ -53,8 +49,7 @@
             </span>
         </div>
     </li>
-    {{ end }}
         {{ end }}
   </div>
-  {{ template "_internal/pagination.html" (dict "paginator" $paginator "page" $context) }}
+  {{ template "_internal/pagination.html" (dict "paginator" $paginator "page" .) }}
 </div>
