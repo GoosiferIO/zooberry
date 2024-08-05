@@ -7,6 +7,8 @@ summary: "Art assets anyone can use for their own mod projects."
 cascade:
     layout: assets
     tags: 
+    - "all"
+    - "assets"
     - "assets"
 ---
 

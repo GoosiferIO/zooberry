@@ -23,7 +23,7 @@ orig_rel_date: 2006-07-13
 summary: This is part of a set of eight biome packs that were made by the Zoo Admin
   Design Team many years ago.
 title: Boreal Forest Pack
-tags: ["animals", "foliage", "trees", "signs", "arches", "fences", "ground-paths", "elevated-paths", "land-foliage", "scenery", "transportation"]
+tags: ["all", "animals", "packs", "foliage", "trees", "signs", "arches", "fences", "ground-paths", "elevated-paths", "land-foliage", "scenery", "transportation"]
 ---
 This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago. Many members helped out. Please note that due to how old these packs are, not everything is up to the same standard that Penguinman would have later used. Modeling, for instance, was not discovered until after these packs were made. However, Penguinman did feel that many of the plants, objects and animals would be useful and that's why he reuploaded them onto Penguin's Peak. Hope you enjoy!
 
