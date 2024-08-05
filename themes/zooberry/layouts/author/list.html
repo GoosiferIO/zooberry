@@ -1,0 +1,41 @@
+{{ define "main" }}
+    {{ $mods := where .Site.RegularPages "Type" "mods" }}
+    
+    {{/*  Create complete author list  */}}
+    {{ $authorList := slice }}
+    {{ range $mods }}
+        {{ $authors := .Params.author }}
+        {{ $modCount := 0 }}
+        {{ range $authors }}
+            {{ if in $authorList . }}
+                {{/*  increase the mod count of author  */}}
+                {{ $modCount = add $modCount 1 }}
+            {{ end }}
+            {{ if not (in $authorList .) }}
+                {{ $authorList = $authorList | append . }}
+                {{/*  increase the mod count of author  */}}
+                {{ $modCount = add $modCount 1 }}
+            {{ end }}   
+        {{ end }}
+    {{ end }}
+
+    {{/*  Sort author list  */}}
+    {{ $authorList = sort $authorList }}
+    
+    {{/*  Display author list  */}}
+    <table class="st-table">
+        <thead>
+            <tr>
+                <th>Author</th>
+            </tr>
+        </thead>
+        {{ range $authorList }}
+            <tr>
+                <td>
+                    <a href="{{ . | urlize }}">{{ . }}</a>
+                </td>
+            </tr>
+        {{ end }}
+    </table>
+
+{{ end }}

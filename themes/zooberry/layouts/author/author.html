@@ -1,0 +1,119 @@
+<div class="container">
+    {{ $author := .Title }}
+
+    {{/*  Author meta data  */}}
+    {{ $modCount := 0 }}
+    {{ $allTagsAssociated := slice }}
+    {{ $languagesByAuthor := slice }}
+    {{ $websitesPublishedOn := slice }}
+    {{ $collaborators := slice }}
+    {{ $yearsActive := slice }}
+    {{ $modsByAuthor := slice }}
+
+    {{ $mods := where .Site.RegularPages "Type" "mods" }}
+
+    {{/*  Populate meta data  */}}
+    {{ range $mods }}
+        {{ $curentMod := . }}
+        {{ $authors := .Params.author }}
+        {{ $tags := .Params.tags }}
+        {{ $languages := .Params.languages }}
+        {{ $websites := .Params.orig_rel_at }}
+        {{ $years := .Params.orig_rel_date }}
+        {{ range $authors }}
+            {{ if eq . $author }}
+                {{ $modCount = add $modCount 1 }}
+
+                {{/*  Grab all tags published by author (if any)  */}}
+                {{ with $tags }}
+                    {{ range . }}
+                        {{ if not (in $allTagsAssociated .) }}
+                            {{ if not (eq . "all") }}
+                                {{ $allTagsAssociated = $allTagsAssociated | append . }}
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+
+                {{/*  Grab all languages published by author (if any)  */}}
+                {{ with $languages }}
+                    {{ range . }}
+                        {{ if not (in $languagesByAuthor .) }}
+                            {{ $languagesByAuthor = $languagesByAuthor | append . }}
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+
+                {{/*  Grab all websites published on by author (if any)  */}}
+                {{ with $websites }}
+                    {{ range . }}
+                        {{ if not (in $websitesPublishedOn .) }}
+                            {{ $websitesPublishedOn = $websitesPublishedOn | append . }}
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+
+                {{/*  Grab all years active by author (if any)  */}}
+                {{ with $years }}
+                    {{/*  Only keep the year (it's in 2006-03-14 format)  */}}
+                    {{ $year := index (split . "-") 0 }}
+                    {{ if not (in $yearsActive $year) }}
+                        {{ $yearsActive = $yearsActive | append $year }}
+                    {{ end }}
+                {{ end}}
+
+                {{/*  Grab all mods by author  */}}
+                {{ if not (in $modsByAuthor $curentMod) }}
+                    {{ $modsByAuthor = $modsByAuthor | append $curentMod }}
+                {{ end }}
+
+            {{ end }}
+
+            {{/*  Grab all collaborators that worked with author */}}
+            {{ if not (in $collaborators .) }}
+                {{ if in $authors $author }}
+                    {{ if not (eq . $author) }}
+                        {{ $collaborators = $collaborators | append . }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+        
+        {{ end }}
+    {{ end }}
+
+    <h1>{{ .Title }}</h1>
+    <p>{{ $modCount }} mods by {{ .Title }}</p>
+    <p>Tags: 
+        {{ range $allTagsAssociated }}
+            <a href="/tags/{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+    </p>
+    <p>Languages: 
+        {{ range $languagesByAuthor }}
+            <a href="/languages/{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+    </p>
+    <p>Published on: 
+        {{ range $websitesPublishedOn }}
+            <a href="{{ . }}">{{ . }}</a>
+        {{ end }}
+    </p>
+    <p>Previous Collaborators: 
+        {{ range $collaborators }}
+            <a href="/authors/{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+    </p>
+    <p>Years Active: 
+        {{ $yearsActive = sort $yearsActive }}
+        {{ range $yearsActive }}
+            {{ . }}
+        {{ end }}
+    </p>
+    <p><h2>Mods by {{ .Title }}:</h2> 
+        <ul>
+            {{ range $modsByAuthor }}
+                <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+            {{ end }}
+        </ul>
+    </p>
+</div>
