@@ -11,10 +11,8 @@ date: '2024-01-17T13:28:26'
 draft: false
 exp_req:
 - ES
-file_date: 2006-03-11
 file_size: 8.52 MB
 game: Zoo Tycoon 2
-has_author: true
 languages:
 - English
 license: 'Yes'
@@ -25,6 +23,7 @@ summary: This is part of a set of eight biome packs that were made by the Zoo Ad
   Design Team many years ago.
 title: Alpine Pack
 tags: ["all", "animals", "packs", "foliage", "trees", "signs", "arches", "fences", "ground-paths", "elevated-paths", "land-foliage", "scenery", "zt2", "objects"]
+team: Zoo Admin Design Team
 ---
 This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago. Many members helped out. Please note that due to how old these packs are, not everything is up to the same standard that Penguinman would have later used. Modeling, for instance, was not discovered until after these packs were made. However, Penguinman did feel that many of the plants, objects and animals would be useful and that's why he reuploaded them onto Penguin's Peak. Hope you enjoy!
 
