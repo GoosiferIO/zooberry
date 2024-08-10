@@ -2,6 +2,7 @@
     {{ $team := .Title }}
 
     {{/*  Author meta data  */}}
+    {{ $websiteCount := 0 }}
     {{ $modCount := 0 }}
     {{ $allTagsAssociated := slice }}
     {{ $languagesByAuthor := slice }}
@@ -10,66 +11,75 @@
     {{ $yearsActive := slice }}
     {{ $modsByTeam := slice }}
 
+    {{ $archivedList := slice }}
+
     {{ $mods := where .Site.RegularPages "Type" "mods" }}
+    {{ $websites := where .Site.RegularPages "Type" "archived-website" }}
+
+    {{/*  Store list of website names from archived-websites  */}}
+    {{ $websiteCount = len $websites }}
 
     {{/*  Populate meta data  */}}
     {{ range $mods }}
         {{ $curentMod := . }}
-        {{ $curTeam := .Params.team }}
+        {{ $curWebsiteList := .Params.orig_rel_at }}
         {{ $authors := .Params.author }}
         {{ $tags := .Params.tags }}
         {{ $languages := .Params.languages }}
         {{ $websites := .Params.orig_rel_at }}
         {{ $years := .Params.orig_rel_date }}
-        {{ if eq $curTeam $team }}
-            {{ $modCount = add $modCount 1 }}
+        {{ range $curWebsiteList }}
+            {{ $curWebsite := . }}
+            {{ range $websites }}
+                {{ if eq $curWebsite . }}
+                    {{ $modCount = add $modCount 1 }}
 
-            {{/*  Grab all tags published by author (if any)  */}}
-            {{ with $tags }}
-                {{ range . }}
-                    {{ if not (in $allTagsAssociated .) }}
-                        {{ if not (eq . "all") }}
-                            {{ $allTagsAssociated = $allTagsAssociated | append . }}
+                    {{/*  Grab all tags published by author (if any)  */}}
+                    {{ with $tags }}
+                        {{ range . }}
+                            {{ if not (in $allTagsAssociated .) }}
+                                {{ if not (eq . "all") }}
+                                    {{ $allTagsAssociated = $allTagsAssociated | append . }}
+                                {{ end }}
+                            {{ end }}
                         {{ end }}
                     {{ end }}
-                {{ end }}
-            {{ end }}
 
-            {{/*  Grab all languages published by author (if any)  */}}
-            {{ with $languages }}
-                {{ range . }}
-                    {{ if not (in $languagesByAuthor .) }}
-                        {{ $languagesByAuthor = $languagesByAuthor | append . }}
+                    {{/*  Grab all languages published by author (if any)  */}}
+                    {{ with $languages }}
+                        {{ range . }}
+                            {{ if not (in $languagesByAuthor .) }}
+                                {{ $languagesByAuthor = $languagesByAuthor | append . }}
+                            {{ end }}
+                        {{ end }}
                     {{ end }}
-                {{ end }}
-            {{ end }}
 
-            {{/*  Grab all websites published on by team (if any)  */}}
-            {{ with $websites }}
-                {{ range . }}
-                    {{ if not (in $websitesPublishedOn .) }}
-                        {{ $websitesPublishedOn = $websitesPublishedOn | append . }}
+                    {{/*  Grab all websites published on by team (if any)  */}}
+                    {{ with $websites }}
+                        {{ range . }}
+                            {{ if not (in $websitesPublishedOn .) }}
+                                {{ $websitesPublishedOn = $websitesPublishedOn | append . }}
+                            {{ end }}
+                        {{ end }}
                     {{ end }}
+
+                    {{/*  Grab all years active by team (if any)  */}}
+                    {{ with $years }}
+                        {{/*  Only keep the year (it's in 2006-03-14 format)  */}}
+                        {{ $year := index (split . "-") 0 }}
+                        {{ if not (in $yearsActive $year) }}
+                            {{ $yearsActive = $yearsActive | append $year }}
+                        {{ end }}
+                    {{ end}}
+
+                    {{/*  Grab all mods by team  */}}
+                    {{ if not (in $modsByTeam $curentMod) }}
+                        {{ $modsByTeam = $modsByTeam | append $curentMod }}
+                    {{ end }}
+
                 {{ end }}
             {{ end }}
-
-            {{/*  Grab all years active by team (if any)  */}}
-            {{ with $years }}
-                {{/*  Only keep the year (it's in 2006-03-14 format)  */}}
-                {{ $year := index (split . "-") 0 }}
-                {{ if not (in $yearsActive $year) }}
-                    {{ $yearsActive = $yearsActive | append $year }}
-                {{ end }}
-            {{ end}}
-
-            {{/*  Grab all mods by team  */}}
-            {{ if not (in $modsByTeam $curentMod) }}
-                {{ $modsByTeam = $modsByTeam | append $curentMod }}
-            {{ end }}
-
         {{ end }}
-
-
     {{ end }}
 
     {{/*  Get the latest mod's image  */}}
@@ -84,19 +94,39 @@
     {{ end }}
 <div style="display: flex; flex-direction: column; margin: 2rem 0; width:100%;">
     <h1 style="margin:0;">{{ .Title }}</h1>
-    <p style="margin:0;padding:0;"><i class="material-icons icon">extension</i> {{ $modCount }} Mods Published</p>
+    <p style="margin:0;padding:0;"><i class="material-icons icon">archive</i> Archived</p>
 
-    <div class="banner-box" style="margin: 2rem 0; width: 100%; background: center center / cover no-repeat url('{{ .RelPermalink}}/images/banner.png'); border-radius: 20px; height: 300px;">
-
-    </div>
     <div style="display: flex; flex-direction: row;width: 100%;">
-        <div style="margin-right: 2rem;">
+        <div style="width:100%;margin-right: 2rem;">
+            <table class="tb-df">
+                <tr class="tb-th">
+                    <th class="tb-th">
+                        Website
+                    </th>
+                    <th class="tb-th">
+                        File Count
+                    </th>
+                    <th class="tb-th">
+                        File Tags
+                    </th>
+                </tr>
+                {{ range $websites }}
+                    <tr class="tb-tr">
+                        <td class="tb-td">
+                            <a href="{{ .Title | urlize }}">{{ .Title }}</a>
+                        </td>
+                        <td class="tb-td">
+                            {{ $modCount }}
+                        </td>
+                        <td class="tb-td">
+                            {{ range $allTagsAssociated }}
+                                <a class="badge-default" href="/tags/{{ . | urlize }}">{{ . }}</a>
+                            {{ end }}
+                        </td>
+                    </tr>
+                {{ end }}
+            </table>
 
-            <p><h1 style="margin-top:-1rem;padding:0;">Library</h1> 
-                {{/*  {{ $paginator := .Paginate $modsByTeam }}
-                {{ template "_internal/pagination.html" (dict "paginator" $paginator "page" .) }}  */}}
-
-                <ul class="box-card-list">
                     {{ range $modsByTeam }}
                         <li class="box-card-mods">
                             <div class="box-card-mods-img">
@@ -140,9 +170,6 @@
                             </div>
                         </li>
                     {{ end }}
-                </ul>
-                {{/*  {{ template "_internal/pagination.html" (dict "paginator" $paginator "page" .) }}  */}}
-            </p>
         </div>
         <div class="sidebar_r">
             <div class="sidebar_r-inner">

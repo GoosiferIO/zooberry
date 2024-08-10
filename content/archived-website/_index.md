@@ -1,5 +1,5 @@
 ---
 title: "Archived Websites"
 draft: false
-description: "A list of archived websites"
+description: "The ZooBerry Project has obtained permission from various administrators, modders, and design teams to archive their mod libraries on this website. This page offers a list of the archived websites. For more information, please visit the [about](#) page."
 ---
