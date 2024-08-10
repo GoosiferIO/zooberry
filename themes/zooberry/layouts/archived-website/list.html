@@ -22,19 +22,19 @@
     {{/*  Populate meta data  */}}
     <div style="display: flex; flex-direction: column; margin: 2rem 0; width:100%;">
         <h1 style="margin:0;">{{ .Title }}</h1>
-        <p style="margin:0;padding:0;"><i class="material-icons icon">archive</i> Archived</p>
+        <p style="margin:0;padding:0;"><i class="material-icons icon">archive</i>{{$websiteCount}} Archived</p>
     
         <div style="display: flex; flex-direction: row;width: 100%;">
             <div style="width:100%;margin-right: 2rem;">
                 <table class="tb-df">
                     <tr class="tb-th">
-                        <th class="tb-th">
+                        <th>
                             Website
                         </th>
-                        <th class="tb-th">
+                        <th>
                             File Count
                         </th>
-                        <th class="tb-th">
+                        <th>
                             File Tags
                         </th>
                     </tr>
@@ -97,9 +97,11 @@
                 {{ $modCount }}
             </td>
             <td class="tb-td">
-                {{ range $allTagsAssociated }}
-                    <a class="badge-default" href="/tags/{{ . | urlize }}">{{ . }}</a>
-                {{ end }}
+                <div class="filter-tags">
+                    {{ range $allTagsAssociated }}
+                        <a class="badge-default" href="/tags/{{ . | urlize }}">{{ . }}</a>
+                    {{ end }}
+                </div>
             </td>
         </tr>
         
@@ -117,30 +119,7 @@
                 <a class="badge-default" href="/languages/{{ . | urlize }}">{{ . }}</a>
             {{ end }}
         </div>
-        <span class="sidebar_r-title">Published On</span>
-        <div class="side-ul filter-tags">
-            {{ range $websitesPublishedOn }}
-                <a class="badge-default" href="{{ . }}">{{ . }}</a>
-            {{ end }}
-        </div>
-        <span class="sidebar_r-title">Members</span>
-        <div class="side-ul filter-tags">
-            {{ range .Params.members }}
-                <a class="badge-default" href="/authors/{{ . | urlize }}">{{ . }}</a>
-            {{ end }}
-        </div>
-        <span class="sidebar_r-title">Years Active</span>
-        <div class="side-ul filter-tags">
-            {{ range $yearsActive }}
-                <a class="badge-default" href="/years/{{ . | urlize }}">{{ . }}</a>
-            {{ end }}
-        </div>
-        <span class="sidebar_r-title">Tags</span>
-        <div class="side-ul filter-tags">
-            {{ range $allTagsAssociated }}
-                <a class="badge-default" href="/tags/{{ . | urlize }}">{{ . }}</a>
-            {{ end }}
-        </div>
+
     </div>
 </div>
 
