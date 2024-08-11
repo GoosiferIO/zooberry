@@ -11,13 +11,29 @@
     {{ $yearsActive := slice }}
     {{ $modsByTeam := slice }}
 
+
     {{ $archivedList := slice }}
 
     {{ $mods := where .Site.RegularPages "Type" "mods" }}
     {{ $websites := where .Site.RegularPages "Type" "archived-website" }}
+    {{ $pageSize := 30 }} <!-- Items per page -->
+    {{ $pageNumber := .Param "page" | default 1 | int }} <!-- Get current page number from URL or default to 1 -->
+    {{ $totalPages := div (add (len $websites) $pageSize) $pageSize }}
+
+    {{ $websites := where site.RegularPages "Params.orig_rel_at" "intersect" (slice $website) }}
+
+    {{ $paginate := .Paginate $websites 10 }}
 
     {{/*  Store list of website names from archived-websites  */}}
     {{ $websiteCount = len $websites }}
+
+    {{/*  {{ range $mods }}
+
+        <article>
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <p>{{ .Summary }}</p>
+        </article>
+    {{ end }}  */}}
     {{/*  Populate meta data  */}}
     {{ range $mods }}
         {{ $curentMod := . }}

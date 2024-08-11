@@ -1,7 +1,8 @@
 {{ define "main" }}
-    {{ $team := .Title }}
+    {{ $website := .Title }}
 
     {{/*  Author meta data  */}}
+    {{ $websiteCount := 0 }}
     {{ $modCount := 0 }}
     {{ $allTagsAssociated := slice }}
     {{ $languagesByAuthor := slice }}
@@ -10,18 +11,39 @@
     {{ $yearsActive := slice }}
     {{ $modsByTeam := slice }}
 
-    {{ $mods := where .Site.RegularPages "Type" "mods" }}
 
+    {{ $archivedList := slice }}
+
+    {{ $mods := where .Site.RegularPages "Type" "mods" }}
+    {{ $websites := where .Site.RegularPages "Type" "archived-website" }}
+    {{ $pageSize := 30 }} <!-- Items per page -->
+    {{ $pageNumber := .Param "page" | default 1 | int }} <!-- Get current page number from URL or default to 1 -->
+    {{ $totalPages := div (add (len $websites) $pageSize) $pageSize }}
+
+    {{ $websites := where site.RegularPages "Params.orig_rel_at" "intersect" (slice $website) }}
+
+    {{ $paginate := .Paginate $websites 10 }}
+
+    {{/*  Store list of website names from archived-websites  */}}
+    {{ $websiteCount = len $websites }}
+
+    {{/*  {{ range $mods }}
+
+        <article>
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <p>{{ .Summary }}</p>
+        </article>
+    {{ end }}  */}}
     {{/*  Populate meta data  */}}
     {{ range $mods }}
         {{ $curentMod := . }}
-        {{ $curTeam := .Params.team }}
+        {{ $curWebsite := .Params.orig_rel_at }}
         {{ $authors := .Params.author }}
         {{ $tags := .Params.tags }}
         {{ $languages := .Params.languages }}
         {{ $websites := .Params.orig_rel_at }}
         {{ $years := .Params.orig_rel_date }}
-        {{ if eq $curTeam $team }}
+        {{ if in $curWebsite $website }}
             {{ $modCount = add $modCount 1 }}
 
             {{/*  Grab all tags published by author (if any)  */}}
@@ -40,15 +62,6 @@
                 {{ range . }}
                     {{ if not (in $languagesByAuthor .) }}
                         {{ $languagesByAuthor = $languagesByAuthor | append . }}
-                    {{ end }}
-                {{ end }}
-            {{ end }}
-
-            {{/*  Grab all websites published on by team (if any)  */}}
-            {{ with $websites }}
-                {{ range . }}
-                    {{ if not (in $websitesPublishedOn .) }}
-                        {{ $websitesPublishedOn = $websitesPublishedOn | append . }}
                     {{ end }}
                 {{ end }}
             {{ end }}
@@ -152,12 +165,6 @@
                 <div class="side-ul filter-tags">
                     {{ range $languagesByAuthor }}
                         <a class="badge-default" href="/languages/{{ . | urlize }}">{{ . }}</a>
-                    {{ end }}
-                </div>
-                <span class="sidebar_r-title">Published On</span>
-                <div class="side-ul filter-tags">
-                    {{ range $websitesPublishedOn }}
-                        <a class="badge-default" href="{{ . }}">{{ . }}</a>
                     {{ end }}
                 </div>
                 <span class="sidebar_r-title">Members</span>
