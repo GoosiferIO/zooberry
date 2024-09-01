@@ -4,26 +4,45 @@
 
     {{/*  Main menu  */}}
     <ul class="side-ul main-menu sidebar-open">
-        <li class="side-kofi"><script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Us on Ko-fi', 'var(--kofi)', 'U7U6UXNXD');kofiwidget2.draw();</script></li>
-        
+        <li class="side-kofi">
+            <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
+            <script type='text/javascript'>
+                kofiwidget2.init('Support Us on Ko-fi', 'var(--kofi)', 'U7U6UXNXD');
+                kofiwidget2.draw();
+            </script>
+        </li>
+    
         {{/*  Grabs main menu from hugo.toml  */}}
         {{- with index site.Menus "main" }}
             {{ range . }}
                 <li class="side-li">
                     {{ if .HasChildren }}
-                    <a class="dropbtn" href="{{ .PageRef }}"><i class="material-icons icon pre-anim">{{ .Params.icon }}</i>{{ .Name }}<i class="material-icons icon arrow">arrow_forward_ios</i></a>
-                        <ul class="submenu">
+                        <a class="dropbtn" href="#" onclick="toggleSubMenu(event, this)"><i class="material-icons icon pre-anim">{{ .Params.icon }}</i>{{ .Name }}<i class="material-icons icon arrow">arrow_forward_ios</i></a>
+                        <ul class="submenu sub-hidden">
                             {{ range .Children }}
                                 <li><a href="{{ .PageRef }}">{{ .Name }}</a></li>
                             {{ end }}
                         </ul>
                     {{ else }}
                         <a href="{{ .PageRef }}"><i class="material-icons icon pre-anim">{{ .Params.icon }}</i> {{ .Name }}</a>
-                    {{- end }}    
+                    {{- end }}
                 </li>
             {{ end }}
         {{- end }}
     </ul>
+    
+    <script>
+    function toggleSubMenu(event, element) {
+        event.preventDefault(); // Prevent default action (navigation)
+        var submenu = element.nextElementSibling; // Get the submenu element
+        if (submenu.classList.contains('sub-hidden')) {
+            submenu.classList.remove('sub-hidden'); // Show the submenu
+        } else {
+            submenu.classList.add('sub-hidden'); // Hide the submenu
+        }
+    }
+    </script>
+
 
     {{/* Menu that goes below the main. Simple filtering options. */}}
     <ul class="side-ul filter-menu sidebar-open">
@@ -69,6 +88,7 @@
     <script>
         document.addEventListener('DOMContentLoaded', function () {
             const menuLinks = document.querySelectorAll('.dropbtn');
+            const mainMenu = document.querySelector('.side-ul.main-menu');
         
             menuLinks.forEach(link => {
                 link.addEventListener('click', function (e) {
@@ -77,8 +97,8 @@
                     // Check if the submenu exists
                     if (submenu && submenu.classList.contains('submenu')) {
                         e.preventDefault();
-
-                        // Close all other submenus
+        
+                        // Close all other submenus and reset the main menu
                         document.querySelectorAll('.submenu').forEach(sub => {
                             if (sub !== submenu) {
                                 sub.classList.remove('submenu-open');
@@ -86,15 +106,19 @@
                             }
                         });
         
-                        // Toggle the clicked submenu
-                        submenu.classList.toggle('submenu-open');
-                        if (submenu.classList.contains('submenu-open')) {
+                        // Toggle the submenu
+                        if (!submenu.classList.contains('submenu-open')) {
+                            submenu.classList.add('submenu-open');
+                            mainMenu.classList.add('sidebar-open'); // Slide main menu out
+        
+                            // Adjust submenu height
                             submenu.style.maxHeight = submenu.scrollHeight + 'px';
                         } else {
+                            submenu.classList.remove('submenu-open');
+                            mainMenu.classList.remove('sidebar-open'); // Slide main menu back in
                             submenu.style.maxHeight = null;
                         }
                     }
-                    // If there's no submenu, the link will function normally
                 });
             });
         });
