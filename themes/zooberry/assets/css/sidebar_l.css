@@ -18,6 +18,10 @@
     -ms-transition: all 0.3s;
 }
 
+.main-menu {
+  transition: transform 0.3s ease-in-out;
+}
+
 .sidebar ul {
     list-style: none; 
     width: 100%;
@@ -26,6 +30,12 @@
 }
 
 .sidebar-open {
+    transform: translateX(0);
+}
+
+.sub-hidden {
+    transform: translateX(-100%);
+    display: none;
 }
 
 .sidebar li {
@@ -127,15 +137,20 @@ ul.filter-menu {
 }
 
 .submenu {
-    overflow: hidden;
-    background: var(--sidebar-hover);
-    height: 0;
-    transition: height 0.3s ease;
-    width: 100%;
-    box-shadow: 
-    inset 0 -5px 5px -5px rgba(0, 0, 0, 0.3), /* Top shadow */
-    inset 0 5px 5px -5px rgba(0, 0, 0, 0.3);  /* Bottom shadow */
+  position: absolute;
+  top: 0;
+  left: 100%; /* Start off-screen to the right */
+  width: 100%;
+  transition: transform 0.3s ease-in-out;
+  transform: translateX(100%); /* Hidden off-screen to the right */
+  max-height: 0;
+  overflow: hidden;
 
+}
+
+.submenu.submenu-open {
+  transform: translateX(0); /* Slide into view from the right */
+    max-height: none;
 }
 
 div.submenu ul {
