@@ -33,11 +33,6 @@
     transform: translateX(0);
 }
 
-.sub-hidden {
-    transform: translateX(-100%);
-    display: none;
-}
-
 .sidebar li {
     position: relative;
     line-height: 1.8rem;
@@ -55,6 +50,15 @@
     .pre-anim {
         animation: swing ease-in-out 0.5s 1 alternate;
     }
+}
+
+.side-ul.main-menu {
+  transition: transform 0.3s ease-in-out;
+  transform: translateX(0);
+}
+
+.side-ul.main-menu.menu-slid {
+  transform: translateX(-250px); /* Adjust this value as needed */
 }
 
 .pre-anim {
@@ -137,20 +141,13 @@ ul.filter-menu {
 }
 
 .submenu {
-  position: absolute;
-  top: 0;
-  left: 100%; /* Start off-screen to the right */
-  width: 100%;
-  transition: transform 0.3s ease-in-out;
-  transform: translateX(100%); /* Hidden off-screen to the right */
   max-height: 0;
   overflow: hidden;
-
+  transition: max-height 0.3s ease;
 }
 
 .submenu.submenu-open {
-  transform: translateX(0); /* Slide into view from the right */
-    max-height: none;
+  max-height: 1000px; 
 }
 
 div.submenu ul {

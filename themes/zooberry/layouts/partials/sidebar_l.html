@@ -14,34 +14,25 @@
     
         {{/*  Grabs main menu from hugo.toml  */}}
         {{- with index site.Menus "main" }}
-            {{ range . }}
-                <li class="side-li">
-                    {{ if .HasChildren }}
-                        <a class="dropbtn" href="#" onclick="toggleSubMenu(event, this)"><i class="material-icons icon pre-anim">{{ .Params.icon }}</i>{{ .Name }}<i class="material-icons icon arrow">arrow_forward_ios</i></a>
-                        <ul class="submenu sub-hidden">
-                            {{ range .Children }}
-                                <li><a href="{{ .PageRef }}">{{ .Name }}</a></li>
-                            {{ end }}
-                        </ul>
-                    {{ else }}
-                        <a href="{{ .PageRef }}"><i class="material-icons icon pre-anim">{{ .Params.icon }}</i> {{ .Name }}</a>
-                    {{- end }}
-                </li>
-            {{ end }}
-        {{- end }}
+    {{ range . }}
+        {{ if .HasChildren }}
+            <li class="side-li has-children">
+                <a class="dropbtn" href="#"><i class="material-icons icon pre-anim">{{ .Params.icon }}</i>{{ .Name }}<i class="material-icons icon arrow">arrow_forward_ios</i></a>
+                <ul class="submenu">
+                    {{ range .Children }}
+                        <li><a href="{{ .PageRef }}">{{ .Name }}</a></li>
+                    {{ end }}
+                </ul>
+            </li>
+        {{ else }}
+            <li class="side-li">
+                <a href="{{ .PageRef }}"><i class="material-icons icon pre-anim">{{ .Params.icon }}</i> {{ .Name }}</a>
+            </li>
+            {{- end }}
+        {{ end }}
+    {{- end }}
+
     </ul>
-    
-    <script>
-    function toggleSubMenu(event, element) {
-        event.preventDefault(); // Prevent default action (navigation)
-        var submenu = element.nextElementSibling; // Get the submenu element
-        if (submenu.classList.contains('sub-hidden')) {
-            submenu.classList.remove('sub-hidden'); // Show the submenu
-        } else {
-            submenu.classList.add('sub-hidden'); // Hide the submenu
-        }
-    }
-    </script>
 
 
     {{/* Menu that goes below the main. Simple filtering options. */}}
@@ -87,18 +78,17 @@
     {{/*  Sliding door navigation script  */}}
     <script>
         document.addEventListener('DOMContentLoaded', function () {
-            const menuLinks = document.querySelectorAll('.dropbtn');
+            const menuLinks = document.querySelectorAll('.side-li.has-children > .dropbtn');
             const mainMenu = document.querySelector('.side-ul.main-menu');
         
             menuLinks.forEach(link => {
                 link.addEventListener('click', function (e) {
+                    e.preventDefault(); // Prevent navigation
+        
                     const submenu = this.nextElementSibling;
         
-                    // Check if the submenu exists
                     if (submenu && submenu.classList.contains('submenu')) {
-                        e.preventDefault();
-        
-                        // Close all other submenus and reset the main menu
+                        // Close all other submenus
                         document.querySelectorAll('.submenu').forEach(sub => {
                             if (sub !== submenu) {
                                 sub.classList.remove('submenu-open');
@@ -109,19 +99,16 @@
                         // Toggle the submenu
                         if (!submenu.classList.contains('submenu-open')) {
                             submenu.classList.add('submenu-open');
-                            mainMenu.classList.add('sidebar-open'); // Slide main menu out
-        
-                            // Adjust submenu height
+                            mainMenu.classList.add('menu-slid'); // Slide main menu out
                             submenu.style.maxHeight = submenu.scrollHeight + 'px';
                         } else {
                             submenu.classList.remove('submenu-open');
-                            mainMenu.classList.remove('sidebar-open'); // Slide main menu back in
+                            mainMenu.classList.remove('menu-slid'); // Slide main menu back in
                             submenu.style.maxHeight = null;
                         }
                     }
                 });
             });
         });
-        
-    </script>
+        </script>
 </div>
