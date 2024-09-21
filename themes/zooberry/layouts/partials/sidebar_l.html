@@ -31,8 +31,20 @@
             {{- end }}
         {{ end }}
     {{- end }}
-
     </ul>
+    
+    <script>
+    function toggleSubMenu(event, element) {
+        event.preventDefault(); // Prevent default action (navigation)
+        var submenu = element.nextElementSibling; // Get the submenu element
+        if (submenu.classList.contains('sub-hidden')) {
+            submenu.classList.remove('sub-hidden'); // Show the submenu
+        } else {
+            submenu.classList.add('sub-hidden'); // Hide the submenu
+        }
+    }
+    </script>
+
 
 
     {{/* Menu that goes below the main. Simple filtering options. */}}
