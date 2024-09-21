@@ -10,7 +10,9 @@
     background: var(--sidebar-bg);
     scrollbar-color: #324363 #1b263b;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: visible;
     overflow-y: auto;
+    overflow-x: hidden;
     border-right: 2px solid var(--accent-bg);
     transition: all 0.3s;
     -webkit-transition: all 0.3s;
@@ -20,7 +22,7 @@
 }
 
 .side-li.has-children {
-  position: relative;
+  position: static;
 }
 
 .main-menu {
@@ -148,18 +150,25 @@ ul.filter-menu {
 .submenu {
   position: absolute;
   top: 0;
-  left: 250px; 
-  width: 250px; 
+  left: 350px; 
+  width: auto; 
+  min-width: 250px;
+  max-width: 400px;
   background: var(--sidebar-bg);
   max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.3s ease, opacity 0.3s ease;
+  overflow-y: auto;
+  overflow-x: hidden; 
   opacity: 0;
-  z-index: 1000; 
+  transition: max-height 0.3s ease, opacity 0.3s ease;
+  z-index: 1000;
+  padding: 0;
+  margin: 0; 
 }
 
+
 .submenu.submenu-open {
-  max-height: 1000px; 
+  max-height: 100vh;
+  opacity: 1;
 }
 
 div.submenu ul {
@@ -168,12 +177,20 @@ div.submenu ul {
 }
 
 .submenu li {
-    padding: 0.25rem 0 0 1rem;
-
+  width: auto; 
+  margin: 0;
+  padding: 0.5rem 0;     
 }
 
 .submenu a {
-    opacity: 0.6;
+  display: block;   
+  padding: 0.5rem 1rem;  
+  color: var(--link-color);
+  text-decoration: none;
+  text-align: left; 
+  white-space: normal; 
+  word-wrap: break-word; 
+  overflow-wrap: break-word; 
 }
 
 .submenu a:hover {

@@ -101,7 +101,7 @@
                         if (!submenu.classList.contains('submenu-open')) {
                             submenu.classList.add('submenu-open');
                             mainMenu.classList.add('menu-slid'); // Slide main menu out
-                            submenu.style.maxHeight = submenu.scrollHeight + 'px';
+                            submenu.style.maxHeight = '100vh';    // Allow submenu to expand
                             submenu.style.opacity = 1;
                         } else {
                             submenu.classList.remove('submenu-open');
@@ -113,6 +113,5 @@
                 });
             });
         });
-        
-        </script>
+                </script>
 </div>
