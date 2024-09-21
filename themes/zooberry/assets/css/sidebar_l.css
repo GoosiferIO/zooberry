@@ -1,4 +1,5 @@
 .sidebar {
+    position: relative;
     padding-top: 1rem;
     position: -webkit-sticky; /* For Safari */
     position: sticky;
@@ -16,6 +17,10 @@
     -moz-transition: all 0.3s;
     -o-transition: all 0.3s;
     -ms-transition: all 0.3s;
+}
+
+.side-li.has-children {
+  position: relative;
 }
 
 .main-menu {
@@ -58,7 +63,7 @@
 }
 
 .side-ul.main-menu.menu-slid {
-  transform: translateX(-250px); /* Adjust this value as needed */
+  transform: translateX(-250px); 
 }
 
 .pre-anim {
@@ -141,9 +146,16 @@ ul.filter-menu {
 }
 
 .submenu {
+  position: absolute;
+  top: 0;
+  left: 250px; 
+  width: 250px; 
+  background: var(--sidebar-bg);
   max-height: 0;
   overflow: hidden;
-  transition: max-height 0.3s ease;
+  transition: max-height 0.3s ease, opacity 0.3s ease;
+  opacity: 0;
+  z-index: 1000; 
 }
 
 .submenu.submenu-open {
@@ -168,9 +180,9 @@ div.submenu ul {
     opacity: 1;
 }
 
-.submenu-open {
-    height: auto;
-    transition: height 0.3s ease;
+.submenu.submenu-open {
+  max-height: 1000px; 
+  opacity: 1;
 }
 
 /* Theme switcher */

@@ -93,6 +93,7 @@
                             if (sub !== submenu) {
                                 sub.classList.remove('submenu-open');
                                 sub.style.maxHeight = null;
+                                sub.style.opacity = 0;
                             }
                         });
         
@@ -101,14 +102,17 @@
                             submenu.classList.add('submenu-open');
                             mainMenu.classList.add('menu-slid'); // Slide main menu out
                             submenu.style.maxHeight = submenu.scrollHeight + 'px';
+                            submenu.style.opacity = 1;
                         } else {
                             submenu.classList.remove('submenu-open');
                             mainMenu.classList.remove('menu-slid'); // Slide main menu back in
                             submenu.style.maxHeight = null;
+                            submenu.style.opacity = 0;
                         }
                     }
                 });
             });
         });
+        
         </script>
 </div>
