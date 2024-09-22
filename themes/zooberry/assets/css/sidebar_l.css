@@ -228,19 +228,21 @@ li.active a {
 li.submenu-back a {
   display: flex;
   align-items: center;
-  padding: 0.5rem 0 0.5rem 1rem;
   color: var(--link-color);
   text-decoration: none;
   text-align: center;
-  border: 2px solid var(--link-color);
-  border-radius: 5px;
-  width: 80%;
+  border: 1px solid var(--link-color);
+  border-radius: 6px;
+  padding: 0.25rem 0 0.25rem 0.5rem;
+  width: calc(99% - 2rem);
   margin: 0 auto;
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
 }
 
 .submenu-back a:hover {
   color: var(--link-hover-color);
-  background-color: #687080;
+  background-color: #0000000c;
+  border-color: var(--link-hover-color);
 }
 
 .submenu-back .icon {
