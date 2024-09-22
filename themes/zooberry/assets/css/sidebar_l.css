@@ -19,6 +19,8 @@
     -moz-transition: all 0.3s;
     -o-transition: all 0.3s;
     -ms-transition: all 0.3s;
+    display: flex;
+    flex-direction: column;
 }
 
 .side-li.has-children {
@@ -65,6 +67,7 @@
 .side-ul.main-menu {
   transition: transform 0.3s ease;
   transform: translateX(0);
+  flex: 1 1 auto;
 }
 
 .side-ul.main-menu.menu-slid {
@@ -268,13 +271,12 @@ li.submenu-back a {
 /* Theme switcher */
 
 .switch {
-    position: fixed;
-    display: inline-block;
-    width: 40px;
-    height: 22px;
-    bottom: 1rem;
-    margin-left: 1rem;
+    display: block;
+    width: auto;
+    height: auto;
+    margin: 1rem auto;
   }
+
   
   .switch input { 
     opacity: 0;
@@ -299,10 +301,6 @@ li.submenu-back a {
   .switch .slider {
     position: absolute;
     cursor: pointer;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
     background-color: var(--primary-bg);
     transition: 0.4s;
     border-radius: 34px;
