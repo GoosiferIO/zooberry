@@ -323,3 +323,6 @@ li.submenu-back a {
     line-height: 15px;
   }
   
+  .selectedli {
+    font-weight: 800;
+  }
