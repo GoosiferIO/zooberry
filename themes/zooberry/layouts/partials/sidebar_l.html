@@ -24,6 +24,7 @@
                             <i class="material-icons icon">arrow_back_ios</i> Back
                         </a>
                     </li>
+                    <li class="active"><a href="{{ .PageRef }}">{{ .Name }}</a></li>
                     {{ range .Children }}
                         <li><a href="{{ .PageRef }}">{{ .Name }}</a></li>
                     {{ end }}

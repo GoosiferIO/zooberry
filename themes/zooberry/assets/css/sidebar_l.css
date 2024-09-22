@@ -6,7 +6,7 @@
     top: 0;
     z-index: 2000;
     height: 100vh;
-    min-width: 250px;
+    min-width: 270px;
     background: var(--sidebar-bg);
     scrollbar-color: #324363 #1b263b;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -47,6 +47,11 @@
     display: block;
     width: 100%;
     padding: 0.5rem 1rem;
+}
+
+.sidebar li a.dropbtn {
+  position: relative;
+  width: 230px;
 }
 
 .sidebar li:hover {
@@ -203,6 +208,10 @@ div.submenu ul {
 .submenu.submenu-open {
   max-height: 1000px; 
   opacity: 1;
+}
+
+li.active a {
+    background-color: var(--link-color);
 }
 
 /* Submenu back button */
