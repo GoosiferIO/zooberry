@@ -2,6 +2,7 @@
     {{/*  ZooBerry logo  */}}
     <a href="/" title="ZooBerry" class="nav-logo"></a>
 
+    {{/*  Search bar  */}}
     {{/*  Main menu  */}}
     <ul class="side-ul main-menu sidebar-open">
         <li class="side-kofi">
@@ -11,6 +12,10 @@
                 kofiwidget2.draw();
             </script>
         </li>
+
+        {{/* Set passed variable to a variable */}}
+        {{ $menuID := .menuID }}
+        {{ $page := .page }}
     
         {{/*  Grabs main menu from hugo.toml  */}}
         {{- with index site.Menus "main" }}
@@ -34,7 +39,11 @@
                     </li>
                     <li class="active"><a href="{{ .PageRef }}">{{ .Name }}</a></li>
                     {{ range .Children }}
-                        <li><a href="{{ .PageRef }}">{{ .Name }}</a></li>
+                        {{ if eq .Name $page.Params.mainModCat }}
+                            <li class="active"><a href="{{ .PageRef }}">{{ .Name }}</a></li>
+                        {{ else }}
+                            <li><a href="{{ .PageRef }}">{{ .Name }}</a></li>
+                        {{ end }}
                     {{ end }}
                 </ul>
             </li>
