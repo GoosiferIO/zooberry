@@ -118,13 +118,13 @@
         document.addEventListener('DOMContentLoaded', function () {
             const menuLinks = document.querySelectorAll('.side-li.has-children > .dropbtn');
             const mainMenu = document.querySelector('.side-ul.main-menu');
-        
+            
             menuLinks.forEach(link => {
                 link.addEventListener('click', function (e) {
                     e.preventDefault(); // Prevent navigation
-        
+            
                     const submenu = this.nextElementSibling;
-        
+            
                     if (submenu && submenu.classList.contains('submenu')) {
                         // Close any open submenus
                         document.querySelectorAll('.submenu.submenu-open').forEach(sub => {
@@ -134,7 +134,7 @@
                                 mainMenu.classList.remove('menu-slid');
                             }
                         });
-        
+            
                         // Toggle the submenu
                         if (!submenu.classList.contains('submenu-open')) {
                             submenu.classList.remove('submenu-closing');
@@ -154,7 +154,7 @@
             backButtons.forEach(button => {
                 button.addEventListener('click', function (e) {
                     e.preventDefault(); // Prevent navigation
-        
+            
                     const submenu = this.closest('.submenu');
                     submenu.classList.remove('submenu-open');
                     submenu.classList.add('submenu-closing');
@@ -162,13 +162,13 @@
                 });
             });
         
-            // Open the active submenu on page load
-            const activeMenuItem = document.querySelector('.side-li.active');
-            if (activeMenuItem && activeMenuItem.classList.contains('has-children')) {
-                const submenu = activeMenuItem.querySelector('.submenu');
+            // Automatically open the active submenu on page load
+            const activeMenuItem = document.querySelector('.submenu .active');
+            if (activeMenuItem) {
+                const submenu = activeMenuItem.closest('.submenu');
                 if (submenu) {
-                    submenu.classList.add('submenu-open');
-                    mainMenu.classList.add('menu-slid'); // Slide main menu out
+                    submenu.classList.add('submenu-open');  // Open the submenu
+                    mainMenu.classList.add('menu-slid');    // Slide main menu out
                 }
             }
         
@@ -181,7 +181,6 @@
                     // Check if the submenu was closing
                     if (submenu.classList.contains('submenu-closing')) {
                         submenu.classList.remove('submenu-closing');
-                        // Clear inline styles to prevent interference with CSS classes
                         submenu.style.opacity = '';
                         submenu.style.transform = '';
                         submenu.style.pointerEvents = '';
@@ -189,5 +188,6 @@
                 });
             });
         });
+        
                         </script>
 </div>
