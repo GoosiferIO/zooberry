@@ -211,6 +211,11 @@ ul.submenu a {
   width: calc(100% - 1rem);
 }
 
+ul.submenu a:hover {
+  background-color: var(--sidebar-hover);
+  color: var(--link-hover-color);
+}
+
 ul.submenu li.side-kofi {
     text-align: center;
     padding: 0.5rem 2rem 0.5rem 0;
@@ -234,7 +239,7 @@ ul.submenu li.side-kofi {
 }
 
 li.active a {
-    background-color: var(--link-color);
+    background-color: var(--sidebar-hover);
 }
 
 /* Submenu back button */
