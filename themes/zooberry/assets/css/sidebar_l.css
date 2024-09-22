@@ -10,9 +10,7 @@
     background: var(--sidebar-bg);
     scrollbar-color: #324363 #1b263b;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    overflow: visible;
-    overflow-y: auto;
-    overflow-x: hidden;
+    overflow: hidden;
     border-right: 2px solid var(--accent-bg);
     transition: all 0.3s;
     -webkit-transition: all 0.3s;
@@ -21,6 +19,12 @@
     -ms-transition: all 0.3s;
     display: flex;
     flex-direction: column;
+}
+
+.menu-container {
+  flex: 1 1 auto; /* Allows the container to grow and shrink */
+  overflow-y: auto; /* Enables vertical scrolling when content overflows */
+  overflow-x: hidden;
 }
 
 .side-li.has-children {
@@ -278,11 +282,14 @@ li.submenu-back a {
 /* Theme switcher */
 
 .switch {
+  margin-top: auto;
   position: relative;
   display: block;
   width: 50px; 
   height: 22px; 
   margin: 0 1rem 1rem 1rem;
+  z-index: 1;
+  flex-shrink: 0;
 }
 
   
