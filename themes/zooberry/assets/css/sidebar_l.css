@@ -6,7 +6,7 @@
     top: 0;
     z-index: 2000;
     height: 100vh;
-    min-width: 270px;
+    width: 250px;
     background: var(--sidebar-bg);
     scrollbar-color: #324363 #1b263b;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -26,11 +26,13 @@
 }
 
 .sidebar ul {
-    list-style: none; 
-    width: 100%;
-    margin-left: -2rem;
-    transition: transform 0.3s ease-in-out;
+  list-style: none; 
+  width: 100%;
+  margin-left: 0;
+  padding-left: 0;
+  transition: transform 0.3s ease-in-out;
 }
+
 
 .sidebar-open {
     transform: translateX(0);
@@ -51,7 +53,7 @@
 
 .sidebar li a.dropbtn {
   position: relative;
-  width: 230px;
+  width: calc(100% - 2rem);
 }
 
 .sidebar li:hover {
@@ -151,14 +153,12 @@ ul.filter-menu {
 .submenu {
   position: absolute;
   top: 0;
-  left: 350px; 
-  width: auto; 
-  min-width: 250px;
-  max-width: 400px;
+  left: 250px; 
+  width: 100%;
   background: var(--sidebar-bg);
   max-height: 0;
   overflow-y: auto;
-  overflow-x: hidden; 
+  overflow-x: hidden;
   opacity: 0;
   transform: translateX(0);
   transition: transform 0.3s ease, max-height 0.3s ease, opacity 0.3s ease;
@@ -185,7 +185,7 @@ div.submenu ul {
 }
 
 .submenu li {
-  width: auto; 
+  width: 100%; 
   margin: 0;
   padding: 0.5rem 0;     
 }
