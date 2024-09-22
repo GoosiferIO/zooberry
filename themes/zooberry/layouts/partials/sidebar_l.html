@@ -41,6 +41,8 @@
                     {{ range .Children }}
                         {{ if eq .Name $page.Params.mainModCat }}
                             <li class="active"><a href="{{ .PageRef }}">{{ .Name }}</a></li>
+                        {{ else if eq .Name $page.Params.Title }}
+                            <li class="active"><a href="{{ .PageRef }}">{{ .Name }}</a></li>
                         {{ else }}
                             <li><a href="{{ .PageRef }}">{{ .Name }}</a></li>
                         {{ end }}
