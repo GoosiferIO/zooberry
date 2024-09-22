@@ -1,29 +1,76 @@
 <div class="sidebar">
     {{/*  ZooBerry logo  */}}
     <a href="/" title="ZooBerry" class="nav-logo"></a>
-
+    <div class="menu-container">
+    {{/*  Search bar  */}}
     {{/*  Main menu  */}}
     <ul class="side-ul main-menu sidebar-open">
-        <li class="side-kofi"><script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Us on Ko-fi', 'var(--kofi)', 'U7U6UXNXD');kofiwidget2.draw();</script></li>
-        
+        <li class="side-kofi">
+            <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
+            <script type='text/javascript'>
+                kofiwidget2.init('Support Us on Ko-fi', 'var(--kofi)', 'U7U6UXNXD');
+                kofiwidget2.draw();
+            </script>
+        </li>
+
+        {{/* Set passed variable to a variable */}}
+        {{ $menuID := .menuID }}
+        {{ $page := .page }}
+    
         {{/*  Grabs main menu from hugo.toml  */}}
         {{- with index site.Menus "main" }}
-            {{ range . }}
-                <li class="side-li">
-                    {{ if .HasChildren }}
-                    <a class="dropbtn" href="{{ .PageRef }}"><i class="material-icons icon pre-anim">{{ .Params.icon }}</i>{{ .Name }}<i class="material-icons icon arrow">arrow_forward_ios</i></a>
-                        <ul class="submenu">
-                            {{ range .Children }}
-                                <li><a href="{{ .PageRef }}">{{ .Name }}</a></li>
-                            {{ end }}
-                        </ul>
-                    {{ else }}
-                        <a href="{{ .PageRef }}"><i class="material-icons icon pre-anim">{{ .Params.icon }}</i> {{ .Name }}</a>
-                    {{- end }}    
-                </li>
-            {{ end }}
-        {{- end }}
+    {{ range . }}
+        {{ if .HasChildren }}
+            <li class="side-li has-children">
+                <a class="dropbtn" href="#"><i class="material-icons icon pre-anim">{{ .Params.icon }}</i>{{ .Name }}<i class="material-icons icon arrow">arrow_forward_ios</i></a>
+                <ul class="submenu">
+                    <li class="side-kofi">
+                        <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
+                        <script type='text/javascript'>
+                            kofiwidget2.init('Support Us on Ko-fi', 'var(--kofi)', 'U7U6UXNXD');
+                            kofiwidget2.draw();
+                        </script>
+                    </li>
+            
+                    <li class="submenu-back">
+                        <a href="#" class="back-btn">
+                            <i class="material-icons icon pre-anim">arrow_back_ios</i>Main Menu
+                        </a>
+                    </li>
+                    <li class="selectedli"><a href="{{ .PageRef }}">{{ .Name }}</a></li>
+                    {{ range .Children }}
+                        {{ if eq .Name $page.Params.mainModCat }}
+                            <li class="active"><a href="{{ .PageRef }}">{{ .Name }}</a></li>
+                        {{ else if eq .Name $page.Params.Title }}
+                            <li class="active"><a href="{{ .PageRef }}">{{ .Name }}</a></li>
+                        {{ else }}
+                            <li><a href="{{ .PageRef }}">{{ .Name }}</a></li>
+                        {{ end }}
+                    {{ end }}
+                </ul>
+            </li>
+        {{ else }}
+            <li class="side-li">
+                <a href="{{ .PageRef }}"><i class="material-icons icon pre-anim">{{ .Params.icon }}</i> {{ .Name }}</a>
+            </li>
+            {{- end }}
+        {{ end }}
+    {{- end }}
     </ul>
+    
+    <script>
+    function toggleSubMenu(event, element) {
+        event.preventDefault(); // Prevent default action (navigation)
+        var submenu = element.nextElementSibling; // Get the submenu element
+        if (submenu.classList.contains('sub-hidden')) {
+            submenu.classList.remove('sub-hidden'); // Show the submenu
+        } else {
+            submenu.classList.add('sub-hidden'); // Hide the submenu
+        }
+    }
+    </script>
+
+
 
     {{/* Menu that goes below the main. Simple filtering options. */}}
     <ul class="side-ul filter-menu sidebar-open">
@@ -43,61 +90,107 @@
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             const themeSwitcher = document.getElementById('theme-switcher');
-          
+    
             // Load saved theme preference
             const savedTheme = localStorage.getItem('theme');
             if (savedTheme === 'dark') {
-              document.body.classList.add('dark');
-              themeSwitcher.checked = true;
+                document.body.classList.add('dark');
+                themeSwitcher.checked = true;
+            } else {
+                document.body.classList.remove('dark');
+                themeSwitcher.checked = false;
             }
-          
-            // Detect OS preference if no saved preference
-            else if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
-              document.body.classList.add('dark');
-              themeSwitcher.checked = true;
-            }
-          
+    
             // Handle toggle switch
             themeSwitcher.addEventListener('change', function() {
-              document.body.classList.toggle('dark');
-              localStorage.setItem('theme', this.checked ? 'dark' : 'light');
+                if (this.checked) {
+                    document.body.classList.add('dark');
+                    localStorage.setItem('theme', 'dark');
+                } else {
+                    document.body.classList.remove('dark');
+                    localStorage.setItem('theme', 'light');
+                }
             });
-          });
+        });
     </script>
+    
 
     {{/*  Sliding door navigation script  */}}
     <script>
         document.addEventListener('DOMContentLoaded', function () {
-            const menuLinks = document.querySelectorAll('.dropbtn');
-        
+            const menuLinks = document.querySelectorAll('.side-li.has-children > .dropbtn');
+            const mainMenu = document.querySelector('.side-ul.main-menu');
+            
             menuLinks.forEach(link => {
                 link.addEventListener('click', function (e) {
+                    e.preventDefault(); // Prevent navigation
+            
                     const submenu = this.nextElementSibling;
-        
-                    // Check if the submenu exists
+            
                     if (submenu && submenu.classList.contains('submenu')) {
-                        e.preventDefault();
-
-                        // Close all other submenus
-                        document.querySelectorAll('.submenu').forEach(sub => {
+                        // Close any open submenus
+                        document.querySelectorAll('.submenu.submenu-open').forEach(sub => {
                             if (sub !== submenu) {
                                 sub.classList.remove('submenu-open');
-                                sub.style.maxHeight = null;
+                                sub.classList.add('submenu-closing');
+                                mainMenu.classList.remove('menu-slid');
                             }
                         });
-        
-                        // Toggle the clicked submenu
-                        submenu.classList.toggle('submenu-open');
-                        if (submenu.classList.contains('submenu-open')) {
-                            submenu.style.maxHeight = submenu.scrollHeight + 'px';
+            
+                        // Toggle the submenu
+                        if (!submenu.classList.contains('submenu-open')) {
+                            submenu.classList.remove('submenu-closing');
+                            submenu.classList.add('submenu-open');
+                            mainMenu.classList.add('menu-slid'); // Slide main menu out
                         } else {
-                            submenu.style.maxHeight = null;
+                            submenu.classList.remove('submenu-open');
+                            submenu.classList.add('submenu-closing');
+                            mainMenu.classList.remove('menu-slid'); // Slide main menu back in
                         }
                     }
-                    // If there's no submenu, the link will function normally
+                });
+            });
+        
+            // Handle the Back button
+            const backButtons = document.querySelectorAll('.submenu .back-btn');
+            backButtons.forEach(button => {
+                button.addEventListener('click', function (e) {
+                    e.preventDefault(); // Prevent navigation
+            
+                    const submenu = this.closest('.submenu');
+                    submenu.classList.remove('submenu-open');
+                    submenu.classList.add('submenu-closing');
+                    mainMenu.classList.remove('menu-slid'); // Slide main menu back in
+                });
+            });
+        
+            // Automatically open the active submenu on page load
+            const activeMenuItem = document.querySelector('.submenu .active');
+            if (activeMenuItem) {
+                const submenu = activeMenuItem.closest('.submenu');
+                if (submenu) {
+                    submenu.classList.add('submenu-open');  // Open the submenu
+                    mainMenu.classList.add('menu-slid');    // Slide main menu out
+                }
+            }
+        
+            // Listen for transition end to reset submenu after animation
+            document.querySelectorAll('.submenu').forEach(submenu => {
+                submenu.addEventListener('transitionend', function (e) {
+                    // Ensure the event is triggered by the submenu itself, not a child element
+                    if (e.target !== submenu) return;
+            
+                    // Check if the submenu was closing
+                    if (submenu.classList.contains('submenu-closing')) {
+                        submenu.classList.remove('submenu-closing');
+                        submenu.style.opacity = '';
+                        submenu.style.transform = '';
+                        submenu.style.pointerEvents = '';
+                    }
                 });
             });
         });
         
-    </script>
+                        </script>
+                    </div>
 </div>

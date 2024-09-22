@@ -51,6 +51,7 @@
 
 .nav-logo {
     display: block;
+    flex-shrink: 0;
     width: 110px;
     height: 41px;
     background: var(--logo) center 5px;

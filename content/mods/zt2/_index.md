@@ -2,6 +2,7 @@
 title: "Zoo Tycoon 2"
 layout: zt2
 cascade:
+  mainModCat: "Zoo Tycoon 2"
   major: "zt2"
   tags: ["all", "zt2"]
   categories:
