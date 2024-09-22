@@ -25,10 +25,6 @@
   position: static;
 }
 
-.main-menu {
-  transition: transform 0.3s ease-in-out;
-}
-
 .sidebar ul {
     list-style: none; 
     width: 100%;
@@ -60,12 +56,12 @@
 }
 
 .side-ul.main-menu {
-  transition: transform 0.3s ease-in-out;
+  transition: transform 0.3s ease;
   transform: translateX(0);
 }
 
 .side-ul.main-menu.menu-slid {
-  transform: translateX(-250px); 
+  transform: translateX(-250px);
 }
 
 .pre-anim {
@@ -159,20 +155,23 @@ ul.filter-menu {
   overflow-y: auto;
   overflow-x: hidden; 
   opacity: 0;
-  transition: max-height 0.3s ease, opacity 0.3s ease;
+  transform: translateX(0);
+  transition: transform 0.3s ease, max-height 0.3s ease, opacity 0.3s ease;
   z-index: 1000;
   padding: 0;
   margin: 0; 
 }
 
 .submenu.submenu-open {
-  max-height: 100vh;
   opacity: 1;
+  transform: translateX(0);
+  pointer-events: auto;
 }
 
-.submenu.submenu-open {
-  transform: translateX(0); /* Slide into view from the right */
-    max-height: none;
+.submenu.submenu-closing {
+  opacity: 0;
+  transform: translateX(100%); /* Slide out to the right */
+  pointer-events: none;
 }
 
 div.submenu ul {
@@ -205,6 +204,25 @@ div.submenu ul {
   max-height: 1000px; 
   opacity: 1;
 }
+
+/* Submenu back button */
+.submenu-back a {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: var(--link-color);
+  text-decoration: none;
+  text-align: left;
+}
+
+.submenu-back a:hover {
+  color: var(--link-hover-color);
+}
+
+.submenu-back .icon {
+  margin-right: 0.5rem;
+  vertical-align: middle;
+}
+
 
 /* Theme switcher */
 

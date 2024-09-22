@@ -19,6 +19,11 @@
             <li class="side-li has-children">
                 <a class="dropbtn" href="#"><i class="material-icons icon pre-anim">{{ .Params.icon }}</i>{{ .Name }}<i class="material-icons icon arrow">arrow_forward_ios</i></a>
                 <ul class="submenu">
+                    <li class="submenu-back">
+                        <a href="#" class="back-btn">
+                            <i class="material-icons icon">arrow_back_ios</i> Back
+                        </a>
+                    </li>
                     {{ range .Children }}
                         <li><a href="{{ .PageRef }}">{{ .Name }}</a></li>
                     {{ end }}
@@ -100,30 +105,68 @@
                     const submenu = this.nextElementSibling;
         
                     if (submenu && submenu.classList.contains('submenu')) {
-                        // Close all other submenus
-                        document.querySelectorAll('.submenu').forEach(sub => {
+                        // Close any open submenus
+                        document.querySelectorAll('.submenu.submenu-open').forEach(sub => {
                             if (sub !== submenu) {
                                 sub.classList.remove('submenu-open');
-                                sub.style.maxHeight = null;
-                                sub.style.opacity = 0;
+                                sub.classList.add('submenu-closing');
+                                mainMenu.classList.remove('menu-slid');
                             }
                         });
         
                         // Toggle the submenu
                         if (!submenu.classList.contains('submenu-open')) {
+                            submenu.classList.remove('submenu-closing');
                             submenu.classList.add('submenu-open');
                             mainMenu.classList.add('menu-slid'); // Slide main menu out
-                            submenu.style.maxHeight = '100vh';    // Allow submenu to expand
-                            submenu.style.opacity = 1;
                         } else {
                             submenu.classList.remove('submenu-open');
+                            submenu.classList.add('submenu-closing');
                             mainMenu.classList.remove('menu-slid'); // Slide main menu back in
-                            submenu.style.maxHeight = null;
-                            submenu.style.opacity = 0;
                         }
                     }
                 });
             });
+        
+            // Handle the Back button
+            const backButtons = document.querySelectorAll('.submenu .back-btn');
+            backButtons.forEach(button => {
+                button.addEventListener('click', function (e) {
+                    e.preventDefault(); // Prevent navigation
+        
+                    const submenu = this.closest('.submenu');
+                    submenu.classList.remove('submenu-open');
+                    submenu.classList.add('submenu-closing');
+                    mainMenu.classList.remove('menu-slid'); // Slide main menu back in
+                });
+            });
+        
+            // Open the active submenu on page load
+            const activeMenuItem = document.querySelector('.side-li.active');
+            if (activeMenuItem && activeMenuItem.classList.contains('has-children')) {
+                const submenu = activeMenuItem.querySelector('.submenu');
+                if (submenu) {
+                    submenu.classList.add('submenu-open');
+                    mainMenu.classList.add('menu-slid'); // Slide main menu out
+                }
+            }
+        
+            // Listen for transition end to reset submenu after animation
+            document.querySelectorAll('.submenu').forEach(submenu => {
+                submenu.addEventListener('transitionend', function (e) {
+                    // Ensure the event is triggered by the submenu itself, not a child element
+                    if (e.target !== submenu) return;
+            
+                    // Check if the submenu was closing
+                    if (submenu.classList.contains('submenu-closing')) {
+                        submenu.classList.remove('submenu-closing');
+                        // Clear inline styles to prevent interference with CSS classes
+                        submenu.style.opacity = '';
+                        submenu.style.transform = '';
+                        submenu.style.pointerEvents = '';
+                    }
+                });
+            });
         });
-                </script>
+                        </script>
 </div>
