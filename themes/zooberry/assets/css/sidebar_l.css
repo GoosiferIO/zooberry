@@ -1,12 +1,12 @@
 .sidebar {
     position: relative;
     padding-top: 1rem;
-    position: -webkit-sticky; /* For Safari */
-    position: sticky;
     top: 0;
     z-index: 2000;
     height: 100vh;
     width: 250px;
+    min-width: 250px;
+    max-width: 250px;
     background: var(--sidebar-bg);
     scrollbar-color: #324363 #1b263b;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -131,9 +131,16 @@ li.side-li::before {
 
 li.side-kofi {
     /* vertical center */
-    display: flex;
-    align-items: center;
-    padding: 0.5rem 0 0.5rem 0.5rem;
+    padding: 0.5rem 2rem 0.5rem 0.5rem;
+    text-align: center;
+
+    a.kofi-button {
+        width: 100% !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: space-between !important;
+
+    }
 }
 
 .filter-menu {
@@ -154,7 +161,7 @@ ul.filter-menu {
   position: absolute;
   top: 0;
   left: 250px; 
-  width: calc(100% - 2rem);
+  width: calc(250px - 2rem);
   background: var(--sidebar-bg);
   max-height: 0;
   overflow-y: auto;
@@ -191,7 +198,7 @@ div.submenu ul {
 
 ul.submenu a {
   display: block;   
-  padding: 0.5rem 0 0.5rem 1rem;  
+  padding: 0.5rem 0 0.5rem 2.5rem;  
   color: var(--link-color);
   text-decoration: none;
   text-align: left; 
@@ -202,12 +209,15 @@ ul.submenu a {
 }
 
 ul.submenu li.side-kofi {
-    display: flex;
-    align-items: center;
-    padding: 0.5rem 0 0.5rem 0.5rem;
-    width: 100%;
-    a {
-        width: 100%;
+    text-align: center;
+    padding: 0.5rem 2rem 0.5rem 0;
+
+    a.kofi-button {
+        width: calc(250px - 3rem) !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: space-between !important;
+
     }
 }
 
@@ -237,6 +247,11 @@ li.submenu-back a {
   width: calc(99% - 2rem);
   margin: 0 auto;
   transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+
+  .pre-anim {
+    padding-right: 0;
+    padding-left: 1rem;
+  }
 }
 
 .submenu-back a:hover {
