@@ -154,7 +154,7 @@ ul.filter-menu {
   position: absolute;
   top: 0;
   left: 250px; 
-  width: 100%;
+  width: calc(100% - 2rem);
   background: var(--sidebar-bg);
   max-height: 0;
   overflow-y: auto;
@@ -163,8 +163,7 @@ ul.filter-menu {
   transform: translateX(0);
   transition: transform 0.3s ease, max-height 0.3s ease, opacity 0.3s ease;
   z-index: 1000;
-  padding: 0;
-  margin: 0; 
+  margin-left: 1rem;
 }
 
 .submenu.submenu-open {
@@ -180,7 +179,7 @@ ul.filter-menu {
 }
 
 div.submenu ul {
-    padding-left: 0;
+    padding-left: 1rem;
     margin: 0;
 }
 
@@ -190,15 +189,26 @@ div.submenu ul {
   padding: 0.5rem 0;     
 }
 
-.submenu a {
+ul.submenu a {
   display: block;   
-  padding: 0.5rem 1rem;  
+  padding: 0.5rem 0 0.5rem 1rem;  
   color: var(--link-color);
   text-decoration: none;
   text-align: left; 
   white-space: normal; 
   word-wrap: break-word; 
   overflow-wrap: break-word; 
+  width: calc(100% - 1rem);
+}
+
+ul.submenu li.side-kofi {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem 0 0.5rem 0.5rem;
+    width: 100%;
+    a {
+        width: 100%;
+    }
 }
 
 .submenu a:hover {
@@ -215,20 +225,25 @@ li.active a {
 }
 
 /* Submenu back button */
-.submenu-back a {
-  display: block;
-  padding: 0.5rem 1rem;
+li.submenu-back a {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem 0 0.5rem 1rem;
   color: var(--link-color);
   text-decoration: none;
-  text-align: left;
+  text-align: center;
+  border: 2px solid var(--link-color);
+  border-radius: 5px;
+  width: 80%;
+  margin: 0 auto;
 }
 
 .submenu-back a:hover {
   color: var(--link-hover-color);
+  background-color: #687080;
 }
 
 .submenu-back .icon {
-  margin-right: 0.5rem;
   vertical-align: middle;
 }
 

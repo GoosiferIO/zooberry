@@ -19,9 +19,17 @@
             <li class="side-li has-children">
                 <a class="dropbtn" href="#"><i class="material-icons icon pre-anim">{{ .Params.icon }}</i>{{ .Name }}<i class="material-icons icon arrow">arrow_forward_ios</i></a>
                 <ul class="submenu">
+                    <li class="side-kofi">
+                        <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
+                        <script type='text/javascript'>
+                            kofiwidget2.init('Support Us on Ko-fi', 'var(--kofi)', 'U7U6UXNXD');
+                            kofiwidget2.draw();
+                        </script>
+                    </li>
+            
                     <li class="submenu-back">
                         <a href="#" class="back-btn">
-                            <i class="material-icons icon pre-anim">arrow_back_ios</i> Back
+                            <i class="material-icons icon pre-anim">arrow_back_ios</i>Main Menu
                         </a>
                     </li>
                     <li class="active"><a href="{{ .PageRef }}">{{ .Name }}</a></li>
