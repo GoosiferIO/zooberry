@@ -10,7 +10,7 @@
                 <a class="cat-card" href="{{ .url }}">
                     <span class="cat-card-title">{{.name}}</span>
                     <span class="cat-card-blurb">{{.blurb}}</span>
-                    <div class="cat-card-image" ></div>
+                    <div class="cat-card-image" style="background-image: url('{{.image}}')"></div>
                 </a>
             {{ end }}
         {{ end }}
