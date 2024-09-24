@@ -20,7 +20,60 @@
       {{ $dependencyCount = len .Params.dependencies }}
     {{ end }}
     {{ partial "galleria.html" . }}
+    <div class="mod-info">
+        <div class="mod-meta">
+          <h1>Details</h1>
 
+            <div class="meta-group">
+              <i class="material-icons icon">sports_esports</i>
+              <span class="meta-name">Game</span>{{ .Params.game }}
+            </div>
+            <div class="meta-group">
+              <i class="material-icons icon">grid_on</i>
+              <span class="meta-name">Required Expansions</span>
+              {{ partial "class-reqexp.html" . }}
+            </div>
+            <div class="meta-group">
+              <i class="material-icons icon">calendar_today</i>
+              <span class="meta-name">Original Release</span>{{ .Params.orig_rel_date }}
+            </div>
+            <div class="meta-group">
+              <i class="material-icons icon">history</i>
+              <span class="meta-name">Archive Date</span>{{ .Params.Date | time.Format "2006-01-02" }}
+            </div>
+            <div class="meta-group">
+              <i class="material-icons icon">roofing</i>
+              <span class="meta-name">Original Platform</span>
+              {{ range .Params.orig_rel_at }}
+                <a class="badge-default">{{ . }}</a>
+              {{ end }}
+            </div>
+            <tr class="tr-alt">
+              <td class="td-cat">Derivative Works Allowed?</td>
+              <td>{{ .Params.license }}</td>
+            </tr>
+            /* Derivative Works Allowed? */
+            <div class="meta-group">
+              <i class="material-icons icon">change_circle</i>
+              <span class="meta-name">Derivative Works Allowed?</span>
+              {{ .Params.license }}
+            </div>
+            <div class="meta-group">
+              <i class="material-icons icon">language</i>
+              <span class="meta-name">Languages</span>
+              {{ partial "class-languages.html" . }}
+            </div>
+          </div>
+          <div class="mod-ilinks">
+            <ul>
+              <li class="mod-ilinks-item">
+                <a class="button-dft" href="#tab-file-anchor" onclick="openTab('tab-files')">
+                  <i class="material-icons icon">download</i>
+                  Download
+                </a>
+            </ul>
+          </div>
+        </div>
     <div class="post-content">
       <div class="mod-tab-bar">
         <button class="mod-tab-btn tab-description tab-active" onclick="openTab('tab-description')">Description</button>
@@ -47,6 +100,7 @@
       </div>
     </div>
   </div>
+  
     {{ partial "sidebar_r-mods.html" . }}
     <script>
       function openTab(item) {

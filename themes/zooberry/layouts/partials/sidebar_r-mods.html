@@ -25,41 +25,4 @@
             Download
         </a> 
     </div>
-    <div class="sidebar_r-inner">
-        <span class="sidebar_r-title">Details</span>
-        <table class="mod-meta">
-            <tr class="thead">
-              <td class="td-cat">Game</td>
-              <td>{{ .Params.game }}</td>
-            </tr>
-            <tr class="tr-alt">
-              <td class="td-cat">Required Expansions</td>
-              <td>{{ partial "class-reqexp.html" . }}</td>
-            </td>
-            <tr>
-              <td class="td-cat">Original Release</td>
-              <td>{{ .Params.orig_rel_date }}</td>
-            </tr>
-            <tr class="tr-alt">
-              <td class="td-cat">Archive Date</td>
-              <td>{{ .Params.Date | time.Format "2006-01-02" }}</td>
-            </tr>
-            <tr>
-              <td class="td-cat">Original Platform</td>
-              <td>
-                {{ range .Params.orig_rel_at }}
-                  <a class="badge-default">{{ . }}</a>
-                {{ end }}
-              </td>
-            </tr>
-            <tr class="tr-alt">
-              <td class="td-cat">Author Allows Derivative Works?</td>
-              <td>{{ .Params.license }}</td>
-            </tr>
-            <tr>
-              <td class="td-cat">Languages</td>
-              <td>{{ partial "class-languages.html" . }}</td>
-            </tr>
-        </table>
-      </div>
 </div>
