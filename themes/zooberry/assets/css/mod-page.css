@@ -16,6 +16,54 @@
     margin-bottom: 1rem;
 }
 
+.author-meta p {
+    margin: 1rem 0 2rem;
+    font-weight: bold;
+}
+
+.author-meta a {
+    margin-left: 0.5rem;
+}
+
+span.author-meta a.badge-default {
+    padding: 1rem;
+    border-radius: 20px;
+}
+
+.mod-deets {
+    margin: 2rem 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: space-between;
+    i {
+        padding: 0 0.5rem;
+    }
+}
+
+.mod-deets div {
+    border: 1px solid var(--secondary-border);
+    padding: 1rem;
+    color: var(--font-color);
+}
+
+.mod-deets div:first-child {
+    border-radius: 10px 0 0 10px;
+}
+
+.mod-deets div:last-child {
+    border-radius: 0 10px 10px 0;
+}
+
+.mod-deets p {
+    margin: 0;
+    font-weight: bold;
+    color: var(--accent-text);
+}
+
+.mod-deets span {
+    margin-left: 1rem;
+}
+
 div.post-subheader i {
     background: var(--sidebar-hover);
     border-radius: 50%;
