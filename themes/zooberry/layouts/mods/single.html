@@ -29,50 +29,58 @@
             <ul class="meta-group">
               <li>
                 <i class="material-icons icon">sports_esports</i>
-                <span class="meta-name">Game</span>{{ .Params.game }}
+                <span class="meta-name">Game</span>
+                <p>{{ .Params.game }}</p>
               </li>
               <li>
                 <i class="material-icons icon">grid_on</i>
                 <span class="meta-name">Required Expansions</span>
-                {{ partial "class-reqexp.html" . }}  
+                <p>{{ partial "class-reqexp.html" . }}</p>
               </li>
               <li>
                 <i class="material-icons icon">calendar_today</i>
-                <span class="meta-name">Original Release</span>{{ .Params.orig_rel_date }}  
-              </li>
-              <li>
-                <i class="material-icons icon">history</i>
-                <span class="meta-name">Archive Date</span>{{ .Params.Date | time.Format "2006-01-02" }}
+                <span class="meta-name">Original Release</span>
+                <p>{{ .Params.orig_rel_date }}</p>
               </li>
             </ul>
             <ul class="meta-group">
               <li>
                 <i class="material-icons icon">roofing</i>
                 <span class="meta-name">Original Platform</span>
+                <p>
                 {{ range .Params.orig_rel_at }}
                   <a class="badge-default">{{ . }}</a>
                 {{ end }}
+                </p>
               </li>
               <li>
                 <i class="material-icons icon">change_circle</i>
                 <span class="meta-name">Derivative Works Allowed?</span>
-                {{ .Params.license }}  
+                <p>{{ .Params.license }}</p>
               </li>
               <li>
                 <i class="material-icons icon">language</i>
                 <span class="meta-name">Languages</span>
-                {{ partial "class-languages.html" . }}  
+                <p>{{ partial "class-languages.html" . }}</p>
               </li>
             </ul>
-          <div class="mod-ilinks">
-            <ul>
-              <li class="mod-ilinks-item">
-                <a class="button-dft" href="#tab-file-anchor" onclick="openTab('tab-files')">
-                  <i class="material-icons icon">download</i>
-                  Download
-                </a>
-            </ul>
-          </div>
+          <ul class="mod-info-links">
+            <li class="side-li-contribute-to-zooberry">
+              <a href="#">Contribute to ZooBerry</a>
+            </li>
+        
+            <li class="side-li-how-to-install-mods">
+                <a href="/knowledgebase/how-to-install-mods">How to Install Mods</a>
+            </li>
+        
+            <li class="side-li-how-to-install-maps">
+                <a href="//knowledgebase/how-to-install-maps">How to Install Maps</a>
+            </li>
+        
+            <li class="side-li-create-your-own-mods">
+                <a href="#">Create Your Own Mods</a>
+            </li>
+          </ul>
       </div>
       <div class="post-content">
         <div class="mod-tab-bar">
