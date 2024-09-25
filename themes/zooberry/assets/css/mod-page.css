@@ -7,7 +7,6 @@
 .mod-header {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
     width: 100%;
     margin-bottom: 1rem;
 }
@@ -60,7 +59,7 @@ span.author-meta a.badge-default {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin-bottom: 1rem;
+    margin-bottom: 4rem;
 }
 
 .meta-name {

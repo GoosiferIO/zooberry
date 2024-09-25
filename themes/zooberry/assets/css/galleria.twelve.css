@@ -296,11 +296,12 @@
 /* GALLERIA */
 
 .galleria { 
-    width: 100%;
+    width: 60%;
     height: 60vh;
     max-height: 500px;
     min-height: 500px;
     margin-bottom: 1rem;
+    margin-right: 2rem;
 }
 
 .galleria-lightbox-box {
