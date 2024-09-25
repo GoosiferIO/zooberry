@@ -1,8 +1,6 @@
 .mod-page-ctr {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
     margin: 0;
 }
 
@@ -10,9 +8,20 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    align-items: center;
     width: 100%;
     margin-bottom: 1rem;
+}
+
+.mod-header h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 0;
+}
+
+.meta-group {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
 }
 
 .post-content {
@@ -45,6 +54,13 @@
 span.author-meta a.badge-default {
     padding: 1rem;
     border-radius: 20px;
+}
+
+.mod-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 1rem;
 }
 
 .mod-deets {
