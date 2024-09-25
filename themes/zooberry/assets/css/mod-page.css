@@ -17,12 +17,12 @@
 }
 
 .author-meta p {
-    margin: 1rem 0 2rem;
+    margin: 0.5rem 0;
     font-weight: bold;
 }
 
 .author-meta a {
-    margin-left: 0.5rem;
+    padding-left: 0.25rem;
 }
 
 span.author-meta a.badge-default {
