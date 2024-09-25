@@ -10,7 +10,7 @@
       {{ $lastAuthor := index .Params.author (sub $len 1) }}
       {{ range $index, $author := .Params.author }}
           {{ if eq $len 1 }}
-              <a class="badge-default" href="/author/">{{ $author }}</a>
+              <a href="/author/">{{ $author }}</a>
           {{ else if eq $len 2 }}
               {{ if eq $index 0 }}
                 <a href="/author/">{{ $author }}</a> and
