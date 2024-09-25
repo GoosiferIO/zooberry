@@ -24,11 +24,11 @@
 }
 
 .post-content {
-    padding: 1rem;
+    padding: 2rem;
     background: var(--primary-bg);
     border: 1px solid var(--secondary-border);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
+    border-radius: 20px;
     font-size: 14px;
     display: flex;
     flex-direction: column;
@@ -192,7 +192,7 @@ table.mod-meta .tr-alt {
 
 .mod-tab-bar {
     text-align: center;
-    border-bottom: 1px solid var(--secondary-border);
+    margin-bottom: 2rem;
 }
 
 .mod-tab-bar button {
