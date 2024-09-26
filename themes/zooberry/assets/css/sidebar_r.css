@@ -1,10 +1,12 @@
 .sidebar_r {
-    width: 40%;
+    width: 30%;
     display: block;
     border-radius: 10px;
-    padding: 0 0.5rem;
+    padding: 2rem;
     top: 2rem;
     float: right;
+    background-color: var(--secondary-bg);
+    height: max-content;
 }
 
 .sidebar_r-inner {

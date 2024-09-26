@@ -52,11 +52,11 @@
 
                 {{ $len := len $authors }}
                 {{ if eq $len 1 }}
-                    <a href="{{ .Site.BaseURL }}author/{{ index $authors 0 }}">{{ index $authors 0 }}</a>
+                    <a href="{{ .Site.BaseURL }}author/{{ index $authors 0 | urlize }}">{{ index $authors 0 }}</a>
                 {{ else if eq $len 2 }}
-                    <a href="{{ .Site.BaseURL }}author/{{ index $authors 0 }}">{{ index $authors 0 }}</a> and <a href="{{ .Site.BaseURL }}author/{{ index $authors 1 }}">{{ index $authors 1 }}</a>
+                    <a href="{{ .Site.BaseURL }}author/{{ index $authors 0 | urlize }}">{{ index $authors 0 }}</a> and <a href="{{ .Site.BaseURL }}author/{{ index $authors 1 | urlize }}">{{ index $authors 1 }}</a>
                 {{ else }}
-                    <a href="{{ .Site.BaseURL }}author/{{ index $authors 0 }}">{{ index $authors 0 }}</a>, <a href="{{ .Site.BaseURL }}author/{{ index $authors 1 }}">{{ index $authors 1 }}</a> and {{ sub $len 2 }} more
+                    <a href="{{ .Site.BaseURL }}author/{{ index $authors 0 | urlize }}">{{ index $authors 0 }}</a>, <a href="{{ .Site.BaseURL }}author/{{ index $authors 1 | urlize }}">{{ index $authors 1 }}</a> and {{ sub $len 2 }} more
                 {{ end }}
             </p>
             <span class="box-card-bottom">
