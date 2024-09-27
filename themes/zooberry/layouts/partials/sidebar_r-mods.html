@@ -10,18 +10,18 @@
       {{ $lastAuthor := index .Params.author (sub $len 1) }}
       {{ range $index, $author := .Params.author }}
           {{ if eq $len 1 }}
-              <a href="/author/">{{ $author }}</a>
+              <a href="/author/{{ $author | urlize }}">{{ $author }}</a>
           {{ else if eq $len 2 }}
               {{ if eq $index 0 }}
-                <a href="/author/">{{ $author }}</a> and
+              <a href="/author/{{ $author | urlize }}">{{ $author }}</a> and
               {{ else }}
-                 <a href="/author/">{{ $author }}</a>
+              <a href="/author/{{ $author | urlize }}">{{ $author }}</a>
               {{ end }}
           {{ else }}
               {{ if eq $author $lastAuthor }}
-                  and <a href="/author/">{{ $author }}</a>
+                  and <a href="/author/{{ $author | urlize }}">{{ $author }}</a>
               {{ else }}
-                <a href="/author/">{{ $author }}</a>,
+              <a href="/author/{{ $author | urlize }}">{{ $author }}</a>,
               {{ end }}
           {{ end }}
       {{ end }}
