@@ -37,11 +37,16 @@
                             <i class="material-icons icon pre-anim">arrow_back_ios</i>Main Menu
                         </a>
                     </li>
-                    <li class="selectedli"><a href="{{ .PageRef }}">{{ .Name }}</a></li>
+
+                    {{/* Active element in list if element name matches page title */}}
+                    {{ if eq .Name $page.Title }}
+                        <li class="selectedli active"><a href="{{ .PageRef }}">{{ .Name }}</a></li>
+                    {{ else }}
+                        <li class="selectedli"><a href="{{ .PageRef }}">{{ .Name }}</a></li>
+                    {{ end }}
                     {{ range .Children }}
-                        {{ if eq .Name $page.Params.mainModCat }}
-                            <li class="active"><a href="{{ .PageRef }}">{{ .Name }}</a></li>
-                        {{ else if eq .Name $page.Params.Title }}
+                        {{/* If mainModCat matches item name or page title*/}}
+                        {{ if or (eq .Name $page.Params.mainModCat) (eq .Name $page.Params.Title) }}
                             <li class="active"><a href="{{ .PageRef }}">{{ .Name }}</a></li>
                         {{ else }}
                             <li><a href="{{ .PageRef }}">{{ .Name }}</a></li>

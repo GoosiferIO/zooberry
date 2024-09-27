@@ -8,21 +8,7 @@
   {{ .Content }}
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}  */}}
 
-  <div class="body-content">
     {{/*  breadcrumbs  */}}
-    {{ partial "breadcrumbs.html" . }}
-    <h1>{{.Title}}</h1>
-    <div class="post-subheader cat-blurb">
-      <span><i class="material-icons icon">person</i> 
-        {{ range .Params.author }}
-            <a class="badge-default" href="/author/">{{ . }}</a>
-        {{ end }}
-      </span>
-      <span>
-        <i class="material-icons icon">download</i> 10
-        <i class="material-icons icon icon-second">calendar_month</i> {{ .Date.Format "2 Jan 2006" }}
-      </span>
-    </div>
 
     {{ $files := .Resources.Match "/*.zip" }}
     {{ $fileCount := len $files }}
@@ -31,35 +17,141 @@
     {{ if .Params.dependencies }}
       {{ $dependencyCount = len .Params.dependencies }}
     {{ end }}
+    <div class="mod-page-ctr">
+      {{/*  {{ partial "breadcrumbs.html" . }}  */}}
 
-    <div class="post-content">
-      {{ partial "galleria.html" . }}
-      <div class="mod-tab-bar">
-        <button class="mod-tab-btn tab-description tab-active" onclick="openTab('tab-description')">Description</button>
-        <button class="mod-tab-btn tab-files" onclick="openTab('tab-files')" id="tab-file-anchor">Files
-          {{ if gt $fileCount 0 }}
-            <span class="badge-alert">{{ $fileCount }}</span>
-          {{ end }}
-        </button>
-        <button class="mod-tab-btn tab-dependencies" onclick="openTab('tab-dependencies')">Dependencies
-          <span class="badge-alert">{{ $dependencyCount }}</span>
-        </button>
-      </div> 
-      <div class="tab tab-description">
-        <h2>Description</h2>
-        {{ .Content }}
+      <div class="mod-header">
+        {{ partial "galleria.html" . }}
+        {{ partial "sidebar_r-mods.html" . }}
       </div>
-      <div class="tab tab-files" style="display: none;">
-        <h2>Files</h2>
-        {{ partial "range-files.html" . }}
+      <h1>Details</h1>
+      <div class="mod-info">
+            <ul class="meta-group">
+              <li>
+                <i class="material-icons icon">sports_esports</i>
+                <span class="meta-name">Game</span>
+                <p>{{ .Params.game }}</p>
+              </li>
+              <li>
+                <i class="material-icons icon">grid_on</i>
+                <span class="meta-name">Required Expansions</span>
+                <p>{{ partial "class-reqexp.html" . }}</p>
+              </li>
+              <li>
+                <i class="material-icons icon">calendar_today</i>
+                <span class="meta-name">Original Release</span>
+                <p>{{ .Params.orig_rel_date }}</p>
+              </li>
+            </ul>
+            <ul class="meta-group">
+              <li>
+                <i class="material-icons icon">roofing</i>
+                <span class="meta-name">Original Platform</span>
+                <p>
+                {{ range .Params.orig_rel_at }}
+                  <a class="badge-default">{{ . }}</a>
+                {{ end }}
+                </p>
+              </li>
+              <li>
+                <i class="material-icons icon">change_circle</i>
+                <span class="meta-name">Derivative Works Allowed?</span>
+                <p>{{ .Params.license }}</p>
+              </li>
+              <li>
+                <i class="material-icons icon">language</i>
+                <span class="meta-name">Languages</span>
+                <p>{{ partial "class-languages.html" . }}</p>
+              </li>
+            </ul>
+          <ul class="mod-info-links">
+            <li class="side-li-contribute-to-zooberry">
+              <a href="#">Contribute to ZooBerry</a>
+            </li>
+        
+            <li class="side-li-how-to-install-mods">
+                <a href="/knowledgebase/how-to-install-mods">How to Install Mods</a>
+            </li>
+        
+            <li class="side-li-how-to-install-maps">
+                <a href="//knowledgebase/how-to-install-maps">How to Install Maps</a>
+            </li>
+        
+            <li class="side-li-create-your-own-mods">
+                <a href="#">Create Your Own Mods</a>
+            </li>
+          </ul>
       </div>
-      <div class="tab tab-dependencies" style="display: none;">
-        <h2>Dependencies</h2>
-        {{ partial "range-dependencies.html" . }}
+      {{/*  <div class="post-content">
+        <div class="mod-tab-bar">
+          <button class="mod-tab-btn tab-description tab-active" onclick="openTab('tab-description')">Description</button>
+          <button class="mod-tab-btn tab-files" onclick="openTab('tab-files')" id="tab-file-anchor">Files
+            {{ if gt $fileCount 0 }}
+              <span class="badge-alert">{{ $fileCount }}</span>
+            {{ end }}
+          </button>
+          <button class="mod-tab-btn tab-dependencies" onclick="openTab('tab-dependencies')">Dependencies
+            <span class="badge-alert">{{ $dependencyCount }}</span>
+          </button>
+        </div> 
+        <div class="tab tab-description">
+          <h2>Description</h2>
+          {{ .Content }}
+        </div>
+        <div class="tab tab-files" style="display: none;">
+          <h2>Files</h2>
+          {{ partial "range-files.html" . }}
+        </div>
+        <div class="tab tab-dependencies" style="display: none;">
+          <h2>Dependencies</h2>
+          {{ partial "range-dependencies.html" . }}
+        </div>
       </div>
+      </div>  */}}
+    <div class="mod-post">
+      <div class="mod-description">
+        <h1>Description</h1>
+        <div class="mod-description-content">
+          {{ .Content }}
+        </div>
+      </div>
+      <div class="mod-files" id="tab-file-anchor">
+        <h1>Files</h1>
+        <table class="mod-files-table">
+          <thead>
+            <tr>
+              <th>File</th>
+              <th>Size</th>
+              <th>Uploaded</th>
+              <th>Download</th>
+            </tr>
+          </thead>
+          <tbody>
+              {{ partial "range-files.html" . }}
+          </tbody>
+        </table>
+      </div>
+      <div class="mod-dependencies">
+        <h1>Dependencies</h1>
+        {{ if gt $dependencyCount 0 }}
+          <table class="mod-files-table">
+            <thead>
+              <tr>
+                <th>Dependency</th>
+                <th>Version</th>
+                <th>Download</th>
+              </tr>
+            </thead>
+            <tbody>
+                {{ partial "range-dependencies.html" . }}
+            </tbody>
+          </table>
+        {{ else }}
+          <p>No dependencies found</p>
+        {{ end }}
+      </div>  
     </div>
-  </div>
-    {{ partial "sidebar_r-mods.html" . }}
+
     <script>
       function openTab(item) {
         var i;

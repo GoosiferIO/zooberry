@@ -1,9 +1,35 @@
+.mod-page-ctr {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    width: 100%;
+}
+
+.mod-header {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.mod-header h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 0;
+}
+
+.meta-group {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
 .post-content {
-    padding: 1rem;
+    padding: 2rem;
     background: var(--primary-bg);
     border: 1px solid var(--secondary-border);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
+    border-radius: 20px;
     font-size: 14px;
     display: flex;
     flex-direction: column;
@@ -14,6 +40,89 @@
     flex-direction: column;
     justify-content: space-between;
     margin-bottom: 1rem;
+}
+
+.author-meta p {
+    margin: 0.5rem 0;
+    font-weight: bold;
+}
+
+.author-meta a {
+    padding-left: 0.25rem;
+}
+
+span.author-meta a.badge-default {
+    padding: 1rem;
+    border-radius: 20px;
+}
+
+.mod-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 4rem;
+}
+
+.meta-name {
+    font-weight: bold;
+    color: var(--accent-text);
+}
+
+.meta-group p {
+    margin: 0.5rem 1.7rem;
+}
+
+.mod-deets {
+    margin: 2rem 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: space-between;
+    i {
+        padding: 0 0.5rem;
+    }
+}
+
+.mod-deets div {
+    border: 1px solid var(--secondary-border);
+    padding: 1rem;
+    color: var(--font-color);
+}
+
+.mod-deets div:first-child {
+    border-radius: 10px 0 0 10px;
+}
+
+.mod-deets div:last-child {
+    border-radius: 0 10px 10px 0;
+}
+
+.mod-deets p {
+    margin: 0;
+    font-weight: bold;
+    color: var(--accent-text);
+}
+
+.mod-deets span {
+    margin-left: 1rem;
+}
+
+.mod-page-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 1rem 0;
+}
+
+.mod-info-links {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: var(--secondary-bg);
+    border-radius: 20px;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30%;
 }
 
 div.post-subheader i {
@@ -84,7 +193,7 @@ table.mod-meta .tr-alt {
 
 .mod-tab-bar {
     text-align: center;
-    border-bottom: 1px solid var(--secondary-border);
+    margin-bottom: 2rem;
 }
 
 .mod-tab-bar button {
@@ -120,3 +229,74 @@ table.mod-meta .tr-alt {
     background-color: var(--secondary-bg);
     border-radius: 10px;
 }
+
+
+.mod-post-info {
+    width: 40%;
+    display: block;
+    border-radius: 10px;
+    padding: 0 0.5rem;
+    top: 2rem;
+    float: right;
+}
+
+/* Mod Post */
+
+.mod-post {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    width: 100%;
+    gap: 2rem;
+}
+
+.mod-description {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-right: 2rem;
+}
+
+.mod-description-content {
+    padding: 2rem;
+    background: var(--thead-bg-alt);
+    border-radius: 20px;
+    border: 1px solid var(--secondary-border);
+}
+
+.mod-files {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+/* Mod files table */
+
+.mod-files-table {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.mod-files-table th {
+    background: var(--thead-bg);
+    color: var(--thead-text);
+    font-weight: bold;
+    padding: 1rem 2rem;
+    text-align: left;
+}
+
+.mod-files-table  th:first-child {
+    border-radius: 20px 0 0 0;
+}
+
+.mod-files-table  th:last-child {
+    border-radius: 0 20px 0 0;
+}
+
+.mod-files-table td {
+    padding: 1rem;
+    border-bottom: 1px solid var(--secondary-border);
+}
+

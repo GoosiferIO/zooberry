@@ -1,21 +1,36 @@
 {{ $files := .Resources.Match "/*.zip" }}
 {{ $fileCount := len $files }}
 
-<div class="sidebar_r">
-
-    <div class="sidebar_r-inner">
-        <span class="sidebar_r-title">Knowledgebase</span>
-        {{- with index site.Menus "mpknowledgebase" }}
-        <ul class="side-ul">
-            {{ $currentPage := . }}
-            {{ range . }}
-                <li class="side-li-{{ .Name | urlize }}">
-                    <a href="{{ .PageRef }}">{{ .Name }}</a>
-                </li>
-            {{ end }}
-        </ul>
-        {{- end }}
+<div class="mod-post-info">
+  <h1>{{.Title}}</h1>
+  <p>{{ .Summary }}</p> 
+    <span class="author-meta">
+      <p>Created By</p>
+      {{ $len := len .Params.author }}
+      {{ $lastAuthor := index .Params.author (sub $len 1) }}
+      {{ range $index, $author := .Params.author }}
+          {{ if eq $len 1 }}
+              <a href="/author/{{ $author | urlize }}">{{ $author }}</a>
+          {{ else if eq $len 2 }}
+              {{ if eq $index 0 }}
+              <a href="/author/{{ $author | urlize }}">{{ $author }}</a> and
+              {{ else }}
+              <a href="/author/{{ $author | urlize }}">{{ $author }}</a>
+              {{ end }}
+          {{ else }}
+              {{ if eq $author $lastAuthor }}
+                  and <a href="/author/{{ $author | urlize }}">{{ $author }}</a>
+              {{ else }}
+              <a href="/author/{{ $author | urlize }}">{{ $author }}</a>,
+              {{ end }}
+          {{ end }}
+      {{ end }}
+          </span>
+    <div class="mod-deets">
+      <div><p><i class="material-icons icon">download</i>Downloads</p> <span>10</span></div>
+      <div><p><i class="material-icons icon">calendar_month</i>Published</p> <span>{{ .Date.Format "2 Jan 2006" }}</span></div>
     </div>
+
     <div class="sidebar_r-inner">
       {{ if gt $fileCount 1 }}
         <a class="button-dft" href="#tab-file-anchor" onclick="openTab('tab-files')">
@@ -26,41 +41,4 @@
             Download
         </a> 
     </div>
-    <div class="sidebar_r-inner">
-        <span class="sidebar_r-title">Details</span>
-        <table class="mod-meta">
-            <tr class="thead">
-              <td class="td-cat">Game</td>
-              <td>{{ .Params.game }}</td>
-            </tr>
-            <tr class="tr-alt">
-              <td class="td-cat">Required Expansions</td>
-              <td>{{ partial "class-reqexp.html" . }}</td>
-            </td>
-            <tr>
-              <td class="td-cat">Original Release</td>
-              <td>{{ .Params.orig_rel_date }}</td>
-            </tr>
-            <tr class="tr-alt">
-              <td class="td-cat">Archive Date</td>
-              <td>{{ .Params.Date | time.Format "2006-01-02" }}</td>
-            </tr>
-            <tr>
-              <td class="td-cat">Original Platform</td>
-              <td>
-                {{ range .Params.orig_rel_at }}
-                  <a class="badge-default">{{ . }}</a>
-                {{ end }}
-              </td>
-            </tr>
-            <tr class="tr-alt">
-              <td class="td-cat">Author Allows Derivative Works?</td>
-              <td>{{ .Params.license }}</td>
-            </tr>
-            <tr>
-              <td class="td-cat">Languages</td>
-              <td>{{ partial "class-languages.html" . }}</td>
-            </tr>
-        </table>
-      </div>
 </div>

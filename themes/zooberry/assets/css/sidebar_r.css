@@ -1,17 +1,12 @@
 .sidebar_r {
     width: 30%;
     display: block;
-    background: var(--secondary-bg);
     border-radius: 10px;
-    border: 1px solid var(--secondary-border);
-    padding: 0 0.5rem;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    max-width: 400px;
-    position: -webkit-sticky; /* For Safari */
-    position: sticky;
-    align-self: flex-start;
+    padding: 2rem;
     top: 2rem;
     float: right;
+    background-color: var(--secondary-bg);
+    height: max-content;
 }
 
 .sidebar_r-inner {
@@ -22,6 +17,11 @@
     width: 100%;
     display: flex;
     flex-direction: column;
+}
+
+div.sidebar_r-inner a.button-dft {
+    width: calc(100% - 2rem);
+    text-align: center;
 }
 
 .sidebar_r-inner ul {

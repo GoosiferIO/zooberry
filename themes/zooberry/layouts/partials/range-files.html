@@ -3,33 +3,51 @@
 {{ $files := .Resources.Match "/*.zip" }}
 {{ $fileCount := len $files }}
 {{ if gt $fileCount 1 }}
-    {{ range .Params.mod_list }}
-    <div class="box-card-mods box-card-tab">
-        <h2>{{ .title }}</h2>
-        <div class="box-card-mods-content clearfix">        
-            <p><strong>File</strong>: {{ .name }}</p>
-            <p><strong>Size</strong>: 28 kb</p>
-            <p><strong>Uploaded</strong>: {{ .uploaded }}</p>
-            <a class="button-dft margin-top" href="{{ .RelPermalink }}"><i class="material-icons icon">download</i> Download</a>
-            <div class="box-card-summary">
-                <p>{{ .description }}</p>
-            </div>
-        </div>
-    </div>
-    
-{{ end }}
+        {{ range .Params.mod_list }}
+        <tr>
+
+            {{ with . }}
+                <td class="mod-list-item">
+                    {{ .name }}.zip
+                </td>
+                <td class="mod-list-item">
+                    {{  .file_size }}
+                </td>
+                <td class="mod-list-item">
+                    {{ .Params.uploaded.Format "2 Jan 2006" }}
+                </td>
+                <td class="mod-list-item">
+                    <a class="button-dft margin-top" href="{{ .RelPermalink }}"><i class="material-icons icon">download</i> Download</a>
+                </td>
+        </tr>   
+        <tr>
+            <td class="mod-list-item" colspan="5">
+                {{ .description }}
+            </td>
+        </tr>
+        {{ end }}
+
+
+        {{ end }}
 {{ else if eq $fileCount 1 }}
-    <div class="box-card-mods box-card-tab">
-        <h2>Download</h2>
-        <div class="box-card-mods-content clearfix">        
-            <p><strong>File</strong>: {{ index $files 0 }}</p>
-            <p><strong>Size</strong>: {{  .Params.file_size }}
-            <p><strong>Uploaded</strong>: {{ .Date.Format "2 Jan 2006" }}</p>
-            <a class="button-dft margin-top" href="{{ index $files 0 }}"><i class="material-icons icon">download</i> Download</a>
-        </div>
-    </div>
-
-
+    {{ range $files }}
+        <tr>
+            <td class="mod-list-item">
+                {{ index $files 0 }}
+            </td>
+            <td class="mod-list-item">
+                {{  .Params.file_size }}
+            </td>
+            <td class="mod-list-item">
+            </td>
+            <td class="mod-list-item">
+                <a class="button-dft margin-top" href="{{ .RelPermalink }}"><i class="material-icons icon">download</i> Download</a>
+            </td>
+            <td class="mod-list-item">
+                {{ .Params.description }}
+            </td>
+        </tr>
+    {{ end }}
 {{ else }}
     <p>No files found</p>
 {{ end }}

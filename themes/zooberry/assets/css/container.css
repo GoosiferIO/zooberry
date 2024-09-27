@@ -90,6 +90,9 @@
   --logo: url('/logo-lt.png') no-repeat !important;
 }
 
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   color: var(--font-color);
