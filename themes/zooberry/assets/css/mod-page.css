@@ -239,3 +239,63 @@ table.mod-meta .tr-alt {
     top: 2rem;
     float: right;
 }
+
+/* Mod Post */
+
+.mod-post {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    width: 100%;
+}
+
+.mod-description {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-right: 2rem;
+}
+
+.mod-description-content {
+    padding: 2rem;
+    background: var(--thead-bg-alt);
+    border-radius: 20px;
+    border: 1px solid var(--secondary-border);
+}
+
+.mod-files {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+/* Mod files table */
+
+.mod-files-table {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.mod-files-table th {
+    background: var(--thead-bg);
+    color: var(--thead-text);
+    font-weight: bold;
+    padding: 1rem 2rem;
+    text-align: left;
+}
+
+.mod-files-table  th:first-child {
+    border-radius: 20px 0 0 0;
+}
+
+.mod-files-table  th:last-child {
+    border-radius: 0 20px 0 0;
+}
+
+.mod-files-table td {
+    padding: 1rem;
+    border-bottom: 1px solid var(--secondary-border);
+}
+
