@@ -130,6 +130,8 @@
               {{ partial "range-files.html" . }}
           </tbody>
         </table>
+      </div>
+      <div class="mod-dependencies">
         <h1>Dependencies</h1>
         {{ if gt $dependencyCount 0 }}
           <table class="mod-files-table">
@@ -147,7 +149,7 @@
         {{ else }}
           <p>No dependencies found</p>
         {{ end }}
-      </div>
+      </div>  
     </div>
 
     <script>

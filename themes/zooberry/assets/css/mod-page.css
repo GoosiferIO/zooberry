@@ -247,6 +247,7 @@ table.mod-meta .tr-alt {
     flex-direction: column;
     margin: 0;
     width: 100%;
+    gap: 2rem;
 }
 
 .mod-description {
