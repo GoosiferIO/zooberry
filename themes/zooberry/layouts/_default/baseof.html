@@ -22,10 +22,11 @@
             </header>
               {{ block "main" . }}{{ end }}
           </main>
+          <footer>
+            {{ partial "footer.html" . }}
+          </footer>
         </div>
       </div>
-    {{/*  <footer>
-      {{ partial "footer.html" . }}
-    </footer>  */}}
+
   </body>
 </html>
