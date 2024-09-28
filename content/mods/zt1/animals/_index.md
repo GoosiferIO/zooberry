@@ -4,8 +4,8 @@ draft: false
 layout: animals
 summary: "Adopt new animals to share with your guests at home!"
 cascade:
-    tags: ["all", "zt1", "animals" ]
-
+    zt1tags: ["All", "ZT1", "Animals" ]
+is_category: true
 ---
 
 Adopt new animals to share with your guests at home!

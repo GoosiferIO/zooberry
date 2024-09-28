@@ -4,7 +4,9 @@ draft: false
 layout: objects
 summary: "Any inanimate objects including buildings, fences, paths, animal enrichment items, etc."
 cascade:
-    tags: ["all", "zt1", "objects" ]
+    zt1tags: ["All", "ZT1", "Objects" ]
+is_category: true
+
 ---
 
 Any inanimate objects including buildings, fences, paths, animal enrichment items, etc.

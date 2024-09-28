@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "3x3, Water placeable, Exhibit placeable(Animals don't feel happy or unhappy)"
-
+zt1tags: ["All", "ZT1", "Objects"]
 ---
 
 Imported from Age of Empires 2. 
