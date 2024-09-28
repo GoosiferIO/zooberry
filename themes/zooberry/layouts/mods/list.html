@@ -18,10 +18,12 @@
     {{ end }}
     {{ if .Params.categories}}
         <div class="filter-bar-content">
-            {{ if len .Params.tags | eq 2 }}
-                <a class="filter-bar-button filter-bar-active" href="/mods/{{.Params.major}}"><i class="material-icons">all_inclusive</i>All</a>
+            {{ $major := .Params.major }}
+            {{ $layout := .Params.layout }}
+            {{ with or (.Params.zt1tags) (.Params.zt2tags) }}
+                <a class="filter-bar-button filter-bar-active" href="/mods/{{$major}}"><i class="material-icons">all_inclusive</i>All</a>
             {{ else }}
-                <a class="filter-bar-button" href="/mods/{{.Params.major}}"><i class="material-icons">all_inclusive</i>All</a>
+                <a class="filter-bar-button" href="/mods/{{$major}}"><i class="material-icons">all_inclusive</i>All</a>
             {{ end }}
             {{ $game := .Params.major }}
             {{ $layout := .Params.layout }}

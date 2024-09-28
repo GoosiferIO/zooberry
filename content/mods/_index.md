@@ -5,8 +5,7 @@ draft: false
 cascade:
   mainModCat: "Mods"
   galleria: true
-  tags:
-  - "all"
+  zt2tags: ["All", "ZT2"]
   submenu:
   - name: "Home"
     url: "/mods/"

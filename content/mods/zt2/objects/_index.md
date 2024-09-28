@@ -5,7 +5,7 @@ draft: false
 alt_text: "Zt2 Objects"
 summary: "Any inanimate objects including buildings, fences, paths, animal enrichment items, etc."
 cascade:
-    tags: ["all", "zt2", "objects" ]
+    zt2tags: ["All", "ZT2", "Objects" ]
 
 ---
 
