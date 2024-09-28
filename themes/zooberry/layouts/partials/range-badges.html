@@ -47,16 +47,14 @@ zt1  */}}
 
 {{/* Collect all pages in the site */}}
 {{ range $mods }}
-    {{ with .Params.tags }}
+    {{ with .Params.zt1tags }}
         {{/*  Only if tags exist in $category or $game  */}}
-        {{ if in . $category }}
-            {{ if in . $game }}
+        {{ if (in . $category) }}
                 {{ range . }}
                     {{ if not (in $uniqueTags .) }}
                         {{ $uniqueTags = $uniqueTags | append . }}
-                    {{ end }}
                 {{ end }}
-            {{ end }}
+        {{ end }}
         {{ end }}
     {{ end }}
 {{ end }}
@@ -67,6 +65,6 @@ zt1  */}}
 {{/*  Display the tags  */}}
 <div class="filter-tags">
     {{ range $uniqueTags }}
-        <a href="/mods/{{ . }}" class="badge-default">{{ . }}</a>
+        <a href="/mods/zt1/tags/{{ . | urlize}}" class="badge-default">{{ . }}</a>
     {{ end }}
 </div>
