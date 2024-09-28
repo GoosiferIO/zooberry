@@ -6,18 +6,17 @@
         <div class="cat-blurb">{{ .Content }}</div>
 
         {{/* Get list of categories from top level taxonomy */}}
-        {{ with .Site.GetPage "page" "mods/zt2" }}
+        {{ with .Site.GetPage "page" "mods/zt1" }}
         {{ if .Params.categories}}
         <div class="filter-bar-content">
             {{ $major := .Params.major }}
             {{ $layout := .Params.layout }}
-            {{ with .Params.majorModCat }}
+            {{ if (.Params.zt1tags) }}
                 <a class="filter-bar-button filter-bar-active" href="/mods/zt1/tags/{{$major}}"><i class="material-icons">all_inclusive</i>All</a>
             {{ else }}
                 <a class="filter-bar-button" href="/mods/zt1/tags/{{$major}}"><i class="material-icons">all_inclusive</i>All</a>
             {{ end }}
             {{ $game := .Params.major }}
-            {{ $layout := .Params.layout }}
             {{ range .Params.categories }}
                 {{ if eq .slug $layout }}
                     <a class="filter-bar-button filter-bar-active" href="/mods/zt1/tags/{{ .slug }}"><i class="material-icons">{{ .icon }}</i>{{ .name }}</a>
