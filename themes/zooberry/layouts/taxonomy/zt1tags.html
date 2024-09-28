@@ -1,8 +1,36 @@
 {{ define "main" }}
+
     <div class="body-content">
         {{/*  Title and blurb  */}}
         <h1>{{ .Title }}</h1>
         <div class="cat-blurb">{{ .Content }}</div>
+
+        {{/* Get list of categories from top level taxonomy */}}
+        {{ with .Site.GetPage "page" "mods/zt2" }}
+        {{ if .Params.categories}}
+        <div class="filter-bar-content">
+            {{ $major := .Params.major }}
+            {{ $layout := .Params.layout }}
+            {{ with .Params.majorModCat }}
+                <a class="filter-bar-button filter-bar-active" href="/mods/zt1/tags/{{$major}}"><i class="material-icons">all_inclusive</i>All</a>
+            {{ else }}
+                <a class="filter-bar-button" href="/mods/zt1/tags/{{$major}}"><i class="material-icons">all_inclusive</i>All</a>
+            {{ end }}
+            {{ $game := .Params.major }}
+            {{ $layout := .Params.layout }}
+            {{ range .Params.categories }}
+                {{ if eq .slug $layout }}
+                    <a class="filter-bar-button filter-bar-active" href="/mods/zt1/tags/{{ .slug }}"><i class="material-icons">{{ .icon }}</i>{{ .name }}</a>
+                {{ else }}
+                    <a class="filter-bar-button" href="/mods/zt1/tags/{{ .slug }}"><i class="material-icons">{{ .icon }}</i>{{ .name }}</a>
+                {{ end }}
+            {{ end }}
+        </div>  
+    {{ end }}
+
+
+        {{ end }}
+        
         {{/*  Generate category buttons  */}}
         {{ if eq .Params.mainModCat "Mods" }}
             {{ range .Params.submenu }}
@@ -66,13 +94,17 @@
                 <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
                 <p>by {{ $authors := .Params.author }}
 
-                    {{ $len := len $authors }}
-                    {{ if eq $len 1 }}
-                        <a href="{{ .Site.BaseURL }}author/{{ index $authors 0 | urlize }}">{{ index $authors 0 }}</a>
-                    {{ else if eq $len 2 }}
-                        <a href="{{ .Site.BaseURL }}author/{{ index $authors 0 | urlize }}">{{ index $authors 0 }}</a> and <a href="{{ .Site.BaseURL }}author/{{ index $authors 1 | urlize }}">{{ index $authors 1 }}</a>
-                    {{ else }}
-                        <a href="{{ .Site.BaseURL }}author/{{ index $authors 0 | urlize }}">{{ index $authors 0 }}</a>, <a href="{{ .Site.BaseURL }}author/{{ index $authors 1 | urlize }}">{{ index $authors 1 }}</a> and {{ sub $len 2 }} more
+                    {{ $siteBaseURL := .Site.BaseURL }}
+                    {{ with $authors }}
+                        {{ $len := len . }}
+
+                        {{ if eq $len 1 }}
+                            <a href="{{ $siteBaseURL }}author/{{ index . 0 | urlize }}">{{ index . 0 }}</a>
+                        {{ else if eq $len 2 }}
+                            <a href="{{ $siteBaseURL }}author/{{ index . 0 | urlize }}">{{ index . 0 }}</a> and <a href="{{ $siteBaseURL }}author/{{ index . 1 | urlize }}">{{ index . 1 }}</a>
+                        {{ else }}
+                            <a href="{{ $siteBaseURL }}author/{{ index . 0 | urlize }}">{{ index . 0 }}</a>, <a href="{{ $siteBaseURL }}author/{{ index . 1 | urlize }}">{{ index . 1 }}</a> and {{ sub $len 2 }} more
+                        {{ end }}
                     {{ end }}
                 </p>
                 <span class="box-card-bottom">
