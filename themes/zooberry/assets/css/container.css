@@ -17,6 +17,7 @@
   --accent-bg: #b85454;
   --secondary-border: #324363;
   --sidebar-bg: var(--shade-bg);
+  --disabled-bg: #2E3B52;
 
   --body-pattern: repeating-linear-gradient( 45deg, #273651, #27344b 1px, var(--primary-bg) 1px, var(--primary-bg) 25px );
 
@@ -65,6 +66,7 @@
   --accent-bg: #9fc000;
   --secondary-border: #ccc;
   --sidebar-bg: var(--primary-bg);
+  --disabled-bg: #D2E2BC;
 
   --body-pattern: repeating-linear-gradient( 45deg, var(--shade-bg), var(--shade-bg) 1px, var(--primary-bg) 1px, var(--primary-bg) 25px );
 
