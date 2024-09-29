@@ -1,0 +1,64 @@
+{{ define "main" }}
+    <div style="display: flex; flex-direction: column; margin: 2rem 0; width:100%;">
+        <h1 style="margin:0;">{{ .Title }}</h1>
+        <p style="margin:0;padding:0;"><i class="material-icons icon">archive</i>{{ len .Site.Taxonomies.team }} Teams</p>
+
+        <div style="display: flex; flex-direction: row;width: 100%;">
+            <div style="width:100%;margin-right: 2rem;">
+                <table class="tb-df">
+                    <thead class="tb-th">
+                        <tr>
+                            <th>Website</th>
+                            <th>File Count</th>
+                            <th>Known For</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {{ with .Site.Taxonomies.team }}
+                            {{ range . }}
+                                {{ $modCount := len .Pages }}
+                                {{ $knownFor := slice }}
+                                {{range .Pages }}
+                                    {{ $mainModCat := .Params.mainModCat }}
+                                    {{ if not (in $knownFor $mainModCat) }}
+                                        {{ if not (eq $mainModCat "Mods")}}
+                                            {{ $knownFor = $knownFor | append $mainModCat }}
+                                        {{ end }}
+                                    {{ end }}
+                                {{ end }}
+                                <tr class="tb-tr">
+                                    <td class="tb-td">
+                                        <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+                                    </td>
+                                    <td class="tb-td">
+                                        {{ $modCount }}
+                                    </td>
+                                    <td class="tb-td">
+                                        <div class="filter-tags">
+                                            {{ range $knownFor }}
+                                                <a class="badge-default" href="/tags/{{ . | urlize }}">{{ . }}</a>
+                                            {{ end }}                                   
+                                        </div>
+                                    </td>
+                                </tr>
+                            {{ end }}
+                        {{ end }}
+                    </tbody>
+                </table>
+            </div>
+            
+            <div class="sidebar_r">
+                <div class="sidebar_r-inner">
+                    <span class="sidebar_r-title">Description</span>
+                    <p style="padding: 0 2rem 0 2rem;">{{ .Params.description }}</p>
+                    <span class="sidebar_r-title">Languages</span>
+                    <div class="side-ul filter-tags">
+                        {{/*  {{ range $languagesByAuthor }}
+                            <a class="badge-default" href="/languages/{{ . | urlize }}">{{ . }}</a>
+                        {{ end }}  */}}                    
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{{ end }}
