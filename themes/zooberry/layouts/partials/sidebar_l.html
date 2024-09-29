@@ -95,25 +95,25 @@
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             const themeSwitcher = document.getElementById('theme-switcher');
-    
+        
             // Load saved theme preference
             const savedTheme = localStorage.getItem('theme');
-            if (savedTheme === 'dark') {
-                document.body.classList.add('dark');
+            if (savedTheme === 'light') {
+                document.documentElement.classList.add('light');
                 themeSwitcher.checked = true;
             } else {
-                document.body.classList.remove('dark');
+                document.documentElement.classList.remove('light');
                 themeSwitcher.checked = false;
             }
-    
+        
             // Handle toggle switch
             themeSwitcher.addEventListener('change', function() {
                 if (this.checked) {
-                    document.body.classList.add('dark');
-                    localStorage.setItem('theme', 'dark');
-                } else {
-                    document.body.classList.remove('dark');
+                    document.documentElement.classList.add('light');
                     localStorage.setItem('theme', 'light');
+                } else {
+                    document.documentElement.classList.remove('light');
+                    localStorage.setItem('theme', 'dark');
                 }
             });
         });
