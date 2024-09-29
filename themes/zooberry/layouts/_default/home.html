@@ -10,17 +10,25 @@
   <h1>New Releases</h1>
   <p class="cat-blurb">These mods are new and published directly to ZooBerry.</p>
   {{ partial "range-zooberry-mods.html" . }}
+  <div class="post-buttons">
+    <a href="/archives/zooberry" class="button-dft margin-rt">More from ZooBerry</a>
+    <a href="/mods" class="button-dft margin-rt">Browse All Mods</a>
+  </div>
+
   <h1>Latest Archived</h1>
   <p class="cat-blurb">All of the latest mods part of the greater ZooBerry archive project.</p>
     {{ partial "range-mods.html" . }}
     <div class="post-buttons">
-      <a href="mods" class="button-dft margin-rt">More from Latest</a>
-      <a href="mods" class="button-dft margin-rt">Browse All Mods</a>
+      <a href="/latest" class="button-dft margin-rt">More from Latest</a>
+      <a href="/mods" class="button-dft margin-rt">Browse All Mods</a>
     </div>
   <h1>Latest Blog Posts</h1>
+  <p class="cat-blurb">Stay up to date with the latest news and updates from ZooBerry.</p>
     {{ partial "range-blogs.html" . }}
+  <div class="post-buttons">
     <a href="blog" class="button-dft margin-rt">More from Latest</a>
     <a href="blog" class="button-dft margin-rt">Browse All Blog Posts</a>
+  </div>
   <h1>Latest Knowledgebase Articles</h1>
 </div>
   {{ partial "sidebar_r.html" . }}
