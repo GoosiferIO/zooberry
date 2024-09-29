@@ -22,7 +22,7 @@ cascade:
       slug: "objects"
       icon: "business"
     - name: "Remakes"
-      slug: "remakes"
+      slug: "all-remakes"
       icon: "swap_horiz"
     - name: "Texture Mods"
       slug: "texture-mods"
