@@ -5,6 +5,7 @@ layout: maps
 summary: "Empty maps for you to start your zoo-building!"
 cascade:
     zt1tags: ["All", "ZT1", "Maps" ]
+    subcat: "Maps"
 is_category: true
 
 ---
