@@ -251,17 +251,24 @@
                                             {{ end }}
                                             </p>
                                         <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-                                        <p>by {{ $authors := .Params.author }}
-                            
-                                            {{ $len := len $authors }}
-                                            {{ if eq $len 1 }}
-                                                {{ index $authors 0 }}
-                                            {{ else if eq $len 2 }}
-                                                {{ index $authors 0 }} and {{ index $authors 1 }}
+                                        <p>by 
+                                            {{ $authors := .Params.author }}
+                                            {{ $siteBaseURL := .Site.BaseURL }}    
+                                            {{ with .Params.team }}
+                                                <a href="{{ $siteBaseURL }}teams/{{ . | urlize }}">{{ . }}</a>
                                             {{ else }}
-                                                {{ index $authors 0 }}, {{ index $authors 1 }}, and {{ add $len -2 }} more
+                                                {{ with $authors }}
+                                                    {{ $len := len $authors }}
+                                                    {{ if eq $len 1 }}
+                                                        <a href="{{ $siteBaseURL }}authors/{{ index $authors 0 | urlize }}">{{ index $authors 0 }}</a>
+                                                    {{ else if eq $len 2 }}
+                                                        <a href="{{ $siteBaseURL }}authors/{{ index $authors 0 | urlize }}">{{ index $authors 0 }}</a> and <a href="{{ $siteBaseURL }}authors/{{ index $authors 1 | urlize }}">{{ index $authors 1 }}</a>
+                                                    {{ else }}
+                                                        <a href="{{ $siteBaseURL }}authors/{{ index $authors 0 | urlize }}">{{ index $authors 0 }}</a>, <a href="{{ $siteBaseURL }}authors/{{ index $authors 1 | urlize }}">{{ index $authors 1 }}</a> and {{ sub $len 2 }} more
+                                                    {{ end }}
+                                                {{ end }}
                                             {{ end }}
-                                        </p>
+                                                        </p>
                                         <span class="box-card-bottom">
                                             {{ partial "class-badges.html" . }}
                                             <span class="box-card-date">{{ .Date.Format "2 Jan 2006" }}</span>
