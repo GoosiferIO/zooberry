@@ -27,8 +27,9 @@
   --contrast-font: #e0e1dd;
 
   /* Table Colors */
-  --tbody-bg: var(--shade-bg);
-  --thead-bg: var(--shade-bg);
+  --thead-bg: #1A2334;
+  --tbody-bg: #273756;
+  --tbody-bg-alt: #212D44;
   --thead-bg-alt: var(--primary-bg);
 
   /* Buttons */
@@ -82,7 +83,8 @@
   --alert: var(--accent-bg);
 
   /* Table Colors */
-  --tbody-bg: #bace9c;
+  --tbody-bg: #CDDFB1;
+  --tbody-bg-alt: #C6D9AB;
   --thead-bg: #bace9c;
   --thead-bg-alt: #cbd9b6;
 

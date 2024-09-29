@@ -27,17 +27,13 @@
             <div style="display: flex; flex-direction: row;width: 100%;">
                 <div style="width:100%;margin-right: 2rem;">
                     <table class="tb-df">
-                        <tr class="tb-th">
-                            <th>
-                                Website
-                            </th>
-                            <th>
-                                File Count
-                            </th>
-                            <th>
-                                File Tags
-                            </th>
-                        </tr>
+                        <thead class="tb-th">
+                            <tr>
+                              <th>Website</th>
+                              <th>File Count</th>
+                              <th>Tags</th>
+                            </tr>
+                        </thead>
 
         {{ range $websites }}
             {{ $curWebsite := .Title }}

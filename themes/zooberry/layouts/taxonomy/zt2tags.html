@@ -104,11 +104,11 @@
                                 {{ $len := len . }}
 
                                 {{ if eq $len 1 }}
-                                    <a href="{{ $siteBaseURL }}author/{{ index . 0 | urlize }}">{{ index . 0 }}</a>
+                                    <a href="{{ $siteBaseURL }}authors/{{ index . 0 | urlize }}">{{ index . 0 }}</a>
                                 {{ else if eq $len 2 }}
-                                    <a href="{{ $siteBaseURL }}author/{{ index . 0 | urlize }}">{{ index . 0 }}</a> and <a href="{{ $siteBaseURL }}author/{{ index . 1 | urlize }}">{{ index . 1 }}</a>
+                                    <a href="{{ $siteBaseURL }}authors/{{ index . 0 | urlize }}">{{ index . 0 }}</a> and <a href="{{ $siteBaseURL }}authors/{{ index . 1 | urlize }}">{{ index . 1 }}</a>
                                 {{ else }}
-                                    <a href="{{ $siteBaseURL }}author/{{ index . 0 | urlize }}">{{ index . 0 }}</a>, <a href="{{ $siteBaseURL }}author/{{ index . 1 | urlize }}">{{ index . 1 }}</a> and {{ sub $len 2 }} more
+                                    <a href="{{ $siteBaseURL }}authors/{{ index . 0 | urlize }}">{{ index . 0 }}</a>, <a href="{{ $siteBaseURL }}authors/{{ index . 1 | urlize }}">{{ index . 1 }}</a> and {{ sub $len 2 }} more
                                 {{ end }}
                             {{ end }}
                         </p>

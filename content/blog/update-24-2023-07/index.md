@@ -22,7 +22,7 @@ Update log for ZooBerry on July 24, 2023.<!--more-->
 # Updated to ZooBerry Beta v0.2.2
 ## Changelog:
 - Can now click on an author's name and get a full list of their mods in the ZooBerry database.
-- Can now also get a full list of authors whose files are hosted on ZooBerry along with a list of each of their mods: https://zoo.goosifer.io/author/
+- Can now also get a full list of authors whose files are hosted on ZooBerry along with a list of each of their mods: https://zoo.goosifer.io/authors/
   - Note that this path will eventually change
   - No other way to get there - there will be a button for it soon.
   - More sorting options also coming.
