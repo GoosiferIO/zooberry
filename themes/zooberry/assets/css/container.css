@@ -107,13 +107,6 @@ body {
   background: var(--body-pattern);
 }
 
-footer {
-  border-top: 1px solid #222;
-  margin-top: 1rem;
-  margin: 4rem 0 0 300px;
-  padding: 1rem;
-}
-
 a {
   color: var(--link-color);
   text-decoration: none;
