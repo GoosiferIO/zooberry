@@ -3,6 +3,8 @@ title: "September 2023 - Mod Backup Summary"
 date: 2023-09-23T15:17:38-07:00
 author: Goosifer
 draft: false
+image: summary.png
+tag: Summary
 ---
 
 Summary list of mods backed up on ZooBerry in September. <!--more-->

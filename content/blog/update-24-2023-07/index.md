@@ -3,6 +3,8 @@ title: "Update July 24, 2023"
 date: 2023-07-24T18:51:37-07:00
 author: Goosifer
 draft: false
+tag: Update
+image: update.png
 ---
 
 Update log for ZooBerry on July 24, 2023.<!--more-->
