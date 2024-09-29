@@ -82,7 +82,8 @@
   --alert: var(--accent-bg);
 
   /* Table Colors */
-  --tbody-bg: #bace9c;
+  --tbody-bg: #CDDFB1;
+  --tbody-bg-alt: #C6D9AB;
   --thead-bg: #bace9c;
   --thead-bg-alt: #cbd9b6;
 
