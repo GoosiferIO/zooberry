@@ -1,0 +1,23 @@
+footer {
+    margin: 1rem 0 0 0;
+    padding: 2rem;
+    width: calc(100% - 4rem);
+    background-color: var(--thead-bg);
+  }
+
+.foot-ctr {
+    margin: 0 auto;
+    max-width: 1280px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(33.3%, 1fr));
+}
+
+footer ul {
+    list-style: none;
+    padding-left: 1rem;
+}
+
+.foot-col p {
+    font-size: 0.8rem;
+    opacity: 40%;
+}
