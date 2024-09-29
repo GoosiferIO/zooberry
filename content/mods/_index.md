@@ -14,11 +14,11 @@ cascade:
     blurb: "Art assets anyone can use for their own mod projects."
     image: "assets_cat.png"
   - name: "Zoo Tycoon 1"
-    url: "/mods/zt1/"
+    url: "/mods/zt1/tags/all/"
     blurb: "Mods for the original Zoo Tycoon game released in 2001."
     image: "zt1_cat.png"
   - name: "Zoo Tycoon 2"
-    url: "/mods/zt2/"
+    url: "/mods/zt2/tags/all/"
     blurb: "Mods for the Zoo Tycoon sequel released in 2004."
     image: "zt2_cat.png"
 ---
