@@ -15,6 +15,7 @@
   --secondary-bg: #1b263b;
   --shade-bg: #0d1b2a;
   --accent-bg: #b85454;
+  --accent-bg-alt: #a54b4b;
   --secondary-border: #324363;
   --sidebar-bg: var(--shade-bg);
   --disabled-bg: #2E3B52;
@@ -64,6 +65,7 @@
   --secondary-bg: #d4e8b7;
   --shade-bg: #f5eaca;
   --accent-bg: #9fc000;
+  --accent-bg-alt: #93b100;
   --secondary-border: #ccc;
   --sidebar-bg: var(--primary-bg);
   --disabled-bg: #D2E2BC;
@@ -144,11 +146,12 @@ main {
 }
 
 .box-frontpage {
-  border-radius: 5px;
+  border-radius: 20px;
   border: 1px solid var(--secondary-border);
-  padding: 1rem;
+  padding: 2rem;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   background: url(/bear.webp) no-repeat top -2rem right -6rem / 50%;
+  text-shadow: 0 0 10px var(--primary-bg);
 }
 
 .box-frontpage p {
@@ -207,5 +210,4 @@ pre code {
 .main-wrapper {
   width: 100%;
   border-left: 1px solid var(--secondary-border);
-  border-radius: 20% 0 0 0;
 }

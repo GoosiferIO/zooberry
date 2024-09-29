@@ -2,26 +2,50 @@
 <div class="body-content">
   <div class="box-frontpage">
       {{ .Content }}
+
+      {{/* Count number of mods in database */}}
+      {{ $mods := where .Site.RegularPages "Section" "mods" }}
+      {{ $count := len $mods }}
+      <p>
+        We are a Zoo Tycoon mod archive with <code>{{ $count }}</code> mods and counting. We aim to provide a safe and secure place for the community to share their content, but primarily our goal is to preserve mods that are becoming harder to find. 
+      </p>
+      <p>
+        Join us in our mission to preserve and celebrate the creativity of the Zoo Tycoon community. Together, we can ensure that these amazing mods remain available and appreciated for years to come.
+      </p>
       <a href="#" class="button-dft margin-rt">Learn More About ZooBerry</a>
       <a href="#" class="button-dft margin-rt">How to Contribute</a>
-      <a href="#" class="button-dft margin-rt">Browse Mods</a>
+      <a href="/mods" class="button-dft margin-rt">Browse Mods</a>
 
   </div>
   <h1>New Releases</h1>
   <p class="cat-blurb">These mods are new and published directly to ZooBerry.</p>
   {{ partial "range-zooberry-mods.html" . }}
+  <div class="post-buttons">
+    <a href="/archives/zooberry" class="button-dft margin-rt">More from ZooBerry</a>
+    <a href="/mods" class="button-dft margin-rt">Browse All Mods</a>
+  </div>
+
   <h1>Latest Archived</h1>
   <p class="cat-blurb">All of the latest mods part of the greater ZooBerry archive project.</p>
     {{ partial "range-mods.html" . }}
     <div class="post-buttons">
-      <a href="mods" class="button-dft margin-rt">More from Latest</a>
-      <a href="mods" class="button-dft margin-rt">Browse All Mods</a>
+      <a href="/latest" class="button-dft margin-rt">More from Latest</a>
+      <a href="/mods" class="button-dft margin-rt">Browse All Mods</a>
     </div>
   <h1>Latest Blog Posts</h1>
+  <p class="cat-blurb">Stay up to date with the latest news and updates from ZooBerry.</p>
     {{ partial "range-blogs.html" . }}
+  <div class="post-buttons">
     <a href="blog" class="button-dft margin-rt">More from Latest</a>
     <a href="blog" class="button-dft margin-rt">Browse All Blog Posts</a>
+  </div>
   <h1>Latest Knowledgebase Articles</h1>
+  <p class="cat-blurb">Learn how to create mods, troubleshoot issues, and more with our knowledgebase.</p>
+    {{ partial "range-knowledgebase.html" . }}
+  <div class="post-buttons">
+    <a href="knowledgebase" class="button-dft margin-rt">More from Knowledgebase</a>
+    <a href="knowledgebase" class="button-dft margin-rt">Browse All Knowledgebase Articles</a>
+  </div>  
 </div>
   {{ partial "sidebar_r.html" . }}
 {{ end }}

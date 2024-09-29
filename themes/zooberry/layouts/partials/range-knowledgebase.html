@@ -1,7 +1,5 @@
-
-
 <table class="tb-df">
-    {{ range (where .Site.RegularPages "Section" "blog") | first 8 }}
+    {{ range (where .Site.RegularPages "Section" "knowledgebase") | first 8 }}
         <tr class="tb-tr">
             <td class="tb-td">
                 <strong><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></strong>
