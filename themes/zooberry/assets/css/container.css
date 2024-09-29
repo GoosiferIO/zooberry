@@ -84,6 +84,7 @@
 
   /* Table Colors */
   --tbody-bg: #CDDFB1;
+  --tbody-bg-border: #C7D7AE;
   --tbody-bg-alt: #C6D9AB;
   --thead-bg: #bace9c;
   --thead-bg-alt: #cbd9b6;
@@ -202,13 +203,9 @@ pre code {
 }
 
 .cat-blurb  {
-  background: var(--secondary-bg);  
-  border-left: 5px solid var(--accent-bg);
-  border-right: 1px solid var(--secondary-border);
-  border-top: 1px solid var(--secondary-border);
-  border-bottom: 1px solid var(--secondary-border);
-  padding: 0.5rem 1rem;
-  border-radius: 10px;
+  background: var(--thead-bg);  
+  padding: 1rem;
+  border-radius: 20px;
   margin: -0.5rem 0 1rem 0;
 }
 
