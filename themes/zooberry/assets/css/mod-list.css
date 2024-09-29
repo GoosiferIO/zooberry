@@ -52,7 +52,7 @@
 .filter-bar-button {
     display: flex; 
     align-items: center; 
-    background: var(--thead-bg);
+    background: var(--tbody-bg);
     padding: 0.5rem 0 0.5rem 2rem;
     border-radius: 20px;
     text-align: center;
