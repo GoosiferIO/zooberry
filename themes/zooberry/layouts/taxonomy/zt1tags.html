@@ -5,30 +5,35 @@
         <h1>{{ .Title }}</h1>
         <div class="cat-blurb">{{ .Content }}</div>
 
+
         {{/* Get list of categories from top level taxonomy */}}
+        {{ $categories := slice }}
         {{ with .Site.GetPage "page" "mods/zt1" }}
-        {{ if .Params.categories}}
-        <div class="filter-bar-content">
-            {{ $major := .Params.major }}
-            {{ $layout := .Params.layout }}
-            {{ if (.Params.zt1tags) }}
-                <a class="filter-bar-button filter-bar-active" href="/mods/zt1/tags/all"><i class="material-icons">all_inclusive</i>All</a>
-            {{ else }}
-                <a class="filter-bar-button" href="/mods/zt1/tags/all"><i class="material-icons">all_inclusive</i>All</a>
-            {{ end }}
-            {{ $game := .Params.major }}
-            {{ range .Params.categories }}
-                {{ if eq .slug $layout }}
-                    <a class="filter-bar-button filter-bar-active" href="/mods/zt1/tags/{{ .slug }}"><i class="material-icons">{{ .icon }}</i>{{ .name }}</a>
-                {{ else }}
-                    <a class="filter-bar-button" href="/mods/zt1/tags/{{ .slug }}"><i class="material-icons">{{ .icon }}</i>{{ .name }}</a>
-                {{ end }}
-            {{ end }}
-        </div>  
-    {{ end }}
-
-
+            {{ $categories = .Params.categories }}
         {{ end }}
+
+        {{ if $categories }}
+            <div class="filter-bar-content">
+                {{ $major := .Params.major }}
+                {{ $layout := .Params.layout }}
+                {{ if eq .Title "All" }}
+                    <a class="filter-bar-button filter-bar-active" href="/mods/zt1/tags/all"><i class="material-icons">all_inclusive</i>All</a>
+                {{ else }}
+                    <a class="filter-bar-button" href="/mods/zt1/tags/all"><i class="material-icons">all_inclusive</i>All</a>
+                {{ end }}
+                {{ $game := .Params.major }}
+                {{ $title := .Title }}
+
+                {{ range $categories }}
+                    {{ if (eq $title .name) }}
+                        <a class="filter-bar-button filter-bar-active" href="/mods/zt1/tags/{{ .slug }}"><i class="material-icons">{{ .icon }}</i>{{ .name }}</a>
+                    {{ else }}
+                        <a class="filter-bar-button" href="/mods/zt1/tags/{{ .slug }}"><i class="material-icons">{{ .icon }}</i>{{ .name }}</a>
+                    {{ end }}
+                {{ end }}
+            </div>  
+        {{ end }}
+
         
         {{/*  Generate category buttons  */}}
         {{ if eq .Params.mainModCat "Mods" }}
