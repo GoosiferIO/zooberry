@@ -15,6 +15,7 @@
   --secondary-bg: #1b263b;
   --shade-bg: #0d1b2a;
   --accent-bg: #b85454;
+  --accent-bg-alt: #a54b4b;
   --secondary-border: #324363;
   --sidebar-bg: var(--shade-bg);
   --disabled-bg: #2E3B52;
@@ -64,6 +65,7 @@
   --secondary-bg: #d4e8b7;
   --shade-bg: #f5eaca;
   --accent-bg: #9fc000;
+  --accent-bg-alt: #93b100;
   --secondary-border: #ccc;
   --sidebar-bg: var(--primary-bg);
   --disabled-bg: #D2E2BC;
