@@ -77,23 +77,16 @@ span.author-meta a.badge-default {
     display: grid;
     grid-template-columns: 1fr 1fr;
     justify-content: space-between;
+    background-color: var(--tbody-bg);
+    border-radius: 20px;
     i {
         padding: 0 0.5rem;
     }
 }
 
 .mod-deets div {
-    border: 1px solid var(--secondary-border);
-    padding: 1rem;
+    padding: 1rem 2rem;
     color: var(--font-color);
-}
-
-.mod-deets div:first-child {
-    border-radius: 10px 0 0 10px;
-}
-
-.mod-deets div:last-child {
-    border-radius: 0 10px 10px 0;
 }
 
 .mod-deets p {
@@ -103,7 +96,9 @@ span.author-meta a.badge-default {
 }
 
 .mod-deets span {
-    margin-left: 1rem;
+    display: block;
+    width: 100%;
+    margin-left: 0.8rem;
 }
 
 .mod-page-title {
@@ -116,7 +111,7 @@ span.author-meta a.badge-default {
     list-style-type: none;
     padding: 0;
     margin: 0;
-    background-color: var(--secondary-bg);
+    background-color: var(--thead-bg);
     border-radius: 20px;
     padding: 2rem;
     display: flex;
@@ -259,9 +254,8 @@ table.mod-meta .tr-alt {
 
 .mod-description-content {
     padding: 2rem;
-    background: var(--thead-bg-alt);
+    background: var(--thead-bg);
     border-radius: 20px;
-    border: 1px solid var(--secondary-border);
 }
 
 .mod-files {
