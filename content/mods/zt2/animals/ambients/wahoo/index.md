@@ -18,7 +18,6 @@ alt_text:
 languages:
 - English
 summary: "The Wahoo is a game fish, found in the open see, and is related to the Marlin and Mackerel."
-
 ---
 
 Note: this is an ambient, not an adoptable animal. This means it will spawn in the environment at random intervals.
