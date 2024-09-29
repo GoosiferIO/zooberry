@@ -127,7 +127,8 @@
 
     </div>
     {{/*  Generate the sidebar filters */}}
-    {{ .Scratch.Set "category" .Params.Title }}
+
     {{ .Scratch.Set "game" .Params.major }}
+    {{ .Scratch.Set "category" .Title }}
     {{ partial "sidebar-r/filter-root.html" . }}
 {{ end }}

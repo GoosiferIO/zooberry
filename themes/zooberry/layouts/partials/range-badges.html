@@ -78,13 +78,13 @@ zt1  */}}
 
 {{/*  Display the tags  */}}
 <div class="filter-tags">
-    {{ if eq "zt1" .Params.major }}
+    {{ if eq "Zoo Tycoon 1" .Params.mainModCat }}
         {{ with $uniqueZT1Tags }}
             {{ range . }}
                 <a href="/mods/zt1/tags/{{ . | urlize}}" class="badge-default">{{ . }}</a>
             {{ end }}
         {{ end }}
-    {{ else if eq "zt2" .Params.major }}
+    {{ else if eq "Zoo Tycoon 2" .Params.mainModCat }}
         {{ with $uniqueZT2Tags }}
             {{ range . }}
                 <a href="/mods/zt2/tags/{{ . | urlize}}" class="badge-default">{{ . }}</a>
