@@ -1,12 +1,12 @@
 ---
 title: "Animals"
 layout: animals
-orig_rel_at:
+is_category: true
 draft: false
-alt_text: "Zt1 screenshot"
 summary: "Adopt new animals to share with your guests at home!"
 cascade:
-    tags: ["all", "zt2", "animals" ]
+    zt2tags: ["All", "ZT2", "Animals" ]
+    subcat: "Animals"
 ---
 
 Adopt new animals to share with your guests at home!

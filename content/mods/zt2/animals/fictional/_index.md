@@ -1,17 +1,9 @@
 ---
 title: "Fictional"
-game:
-exp_req: 
-file_size: 
-orig_rel_date:
-orig_rel_at:
-draft: false
-thumbnail: /zt2/animals/fantasy_thumb.jpg
-gallery:
-- fantasy_thumb.jpg
-alt_text: "Fictional animals"
+is_category: true
 summary: "Animals that only exist in the depths our imaginations."
-
+cascade:
+    zt2tags: [ "All", "ZT2", "Animals", "Fictional" ]
 ---
 
 Animals that only exist in the depths our imaginations.

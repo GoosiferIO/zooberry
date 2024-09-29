@@ -1,4 +1,3 @@
-{{ if .Params.tags }}
 
 {{/*  Animals
 Biomes
@@ -11,30 +10,7 @@ Texture Mods
 Tools and Utilities  */}}
 
 {{/*  get second index   */}}
-{{ $main_cat := index .Params.tags 2 }}
-<span class="badge-default badge-{{- $main_cat -}}">
-    {{ if eq $main_cat "animals" }}
-        Animals
-    {{ else if eq $main_cat "biomes" }}
-        Biomes
-    {{ else if eq $main_cat "expansive-packs" }}
-        Packs
-    {{ else if eq $main_cat "packs" }}
-        Packs
-    {{ else if eq $main_cat "hacks" }}
-        Hacks
-    {{ else if eq $main_cat "maps" }}
-        Maps
-    {{ else if eq $main_cat "objects" }}
-        Objects
-    {{ else if eq $main_cat "remakes" }}
-        Remakes
-    {{ else if eq $main_cat "texture-mods" }}
-        Texture Mods
-    {{ else if eq $main_cat "tools-utilities" }}
-        Tools and Utilities
-    {{ else if eq $main_cat "assets" }}
-        Assets
-    {{ end }}
+{{ $main_cat := .Params.subcat }}
+<span class="badge-default badge-{{- $main_cat | urlize -}}">
+    {{ $main_cat }}
 </span>
-{{ end }}

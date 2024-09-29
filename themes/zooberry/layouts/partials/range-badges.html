@@ -43,17 +43,28 @@ zt1  */}}
 
 {{/* Get all tags inside all subdirectories  */}}
 
-{{ $uniqueTags := slice }}
+{{ $uniqueZT1Tags := slice }}
+{{ $uniqueZT2Tags := slice }}
+{{ $major := .Params.major }}
 
 {{/* Collect all pages in the site */}}
 {{ range $mods }}
-    {{ with .Params.tags }}
-        {{/*  Only if tags exist in $category or $game  */}}
+    {{ with and (.Params.zt1tags) }}
+        {{/*  Only if tags exist in zt1  */}}
         {{ if in . $category }}
-            {{ if in . $game }}
+            {{ range . }}
+                {{ if not (in $uniqueZT1Tags .) }}
+                    {{ $uniqueZT1Tags = $uniqueZT1Tags | append . }}
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    {{ else }}
+        {{ with and (.Params.zt2tags) }}
+            {{/* Only if tags exist in zt2 */}}
+            {{ if in . $category}}
                 {{ range . }}
-                    {{ if not (in $uniqueTags .) }}
-                        {{ $uniqueTags = $uniqueTags | append . }}
+                    {{ if not (in $uniqueZT2Tags .) }}
+                        {{ $uniqueZT2Tags = $uniqueZT2Tags | append . }}
                     {{ end }}
                 {{ end }}
             {{ end }}
@@ -62,11 +73,22 @@ zt1  */}}
 {{ end }}
 
 {{/* Sort tags alphabetically */}}
-{{ $uniqueTags = sort $uniqueTags }}
+{{ $uniqueZT1Tags = sort $uniqueZT1Tags }}
+{{ $uniqueZT2Tags = sort $uniqueZT2Tags }}
 
 {{/*  Display the tags  */}}
 <div class="filter-tags">
-    {{ range $uniqueTags }}
-        <a href="/mods/{{ . }}" class="badge-default">{{ . }}</a>
+    {{ if eq "Zoo Tycoon 1" .Params.mainModCat }}
+        {{ with $uniqueZT1Tags }}
+            {{ range . }}
+                <a href="/mods/zt1/tags/{{ . | urlize}}" class="badge-default">{{ . }}</a>
+            {{ end }}
+        {{ end }}
+    {{ else if eq "Zoo Tycoon 2" .Params.mainModCat }}
+        {{ with $uniqueZT2Tags }}
+            {{ range . }}
+                <a href="/mods/zt2/tags/{{ . | urlize}}" class="badge-default">{{ . }}</a>
+            {{ end }}
+        {{ end }}
     {{ end }}
 </div>

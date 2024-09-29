@@ -1,0 +1,134 @@
+{{ define "main" }}
+
+    <div class="body-content">
+        {{/*  Title and blurb  */}}
+        <h1>{{ .Title }}</h1>
+        <div class="cat-blurb">{{ .Content }}</div>
+
+
+        {{/* Get list of categories from top level taxonomy */}}
+        {{ $categories := slice }}
+        {{ with .Site.GetPage "page" "mods/zt2" }}
+            {{ $categories = .Params.categories }}
+        {{ end }}
+
+        {{ if $categories }}
+            <div class="filter-bar-content">
+                {{ $major := .Params.major }}
+                {{ $layout := .Params.layout }}
+                {{ if eq .Title "All" }}
+                    <a class="filter-bar-button filter-bar-active" href="/mods/zt2/tags/all"><i class="material-icons">all_inclusive</i>All</a>
+                {{ else }}
+                    <a class="filter-bar-button" href="/mods/zt2/tags/all"><i class="material-icons">all_inclusive</i>All</a>
+                {{ end }}
+                {{ $game := .Params.major }}
+                {{ $title := .Title }}
+
+                {{ range $categories }}
+                    {{ if (eq $title .name) }}
+                        <a class="filter-bar-button filter-bar-active" href="/mods/zt2/tags/{{ .slug }}"><i class="material-icons">{{ .icon }}</i>{{ .name }}</a>
+                    {{ else }}
+                        <a class="filter-bar-button" href="/mods/zt2/tags/{{ .slug }}"><i class="material-icons">{{ .icon }}</i>{{ .name }}</a>
+                    {{ end }}
+                {{ end }}
+            </div>  
+        {{ end }}
+
+        
+        {{/*  Generate category buttons  */}}
+        {{ if eq .Params.mainModCat "Mods" }}
+            {{ range .Params.submenu }}
+                {{ if not (eq .name "Home") }}
+                    <a class="cat-card" href="{{ .url }}">
+                        <span class="cat-card-title">{{.name}}</span>
+                        <span class="cat-card-blurb">{{.blurb}}</span>
+                        <div class="cat-card-image" style="background-image: url('{{.image}}')"></div>
+                    </a>
+                {{ end }}
+            {{ end }}
+        {{ end }}
+        {{ if .Params.categories}}
+            <div class="filter-bar-content">
+                {{ $major := .Params.major }}
+                {{ $layout := .Params.layout }}
+                {{ with or (.Params.zt2tags) (.Params.zt2tags) }}
+                    <a class="filter-bar-button filter-bar-active" href="/mods/{{$major}}"><i class="material-icons">all_inclusive</i>All</a>
+                {{ else }}
+                    <a class="filter-bar-button" href="/mods/{{$major}}"><i class="material-icons">all_inclusive</i>All</a>
+                {{ end }}
+                {{ $game := .Params.major }}
+                {{ $layout := .Params.layout }}
+                {{ range .Params.categories }}
+                    {{ if eq .slug $layout }}
+                        <a class="filter-bar-button filter-bar-active" href="/mods/{{ $game }}/{{ .slug }}"><i class="material-icons">{{ .icon }}</i>{{ .name }}</a>
+                    {{ else }}
+                        <a class="filter-bar-button" href="/mods/{{ $game }}/{{ .slug }}"><i class="material-icons">{{ .icon }}</i>{{ .name }}</a>
+                    {{ end }}
+                {{ end }}
+            </div>  
+        {{ end }}
+        
+        {{ template "_internal/pagination.html" (dict "paginator" .Pages "page" .) }}
+
+        <ul class="box-card-list">
+            {{ range .Pages.ByTitle }}
+                {{ if not (.Params.is_category) }}
+                    <li class="box-card-mods">
+                        <div class="box-card-mods-img">
+                            {{/*  get first image from images folder in this bundle */}}
+                            {{ $thumbnail := "" }}
+                            {{ with (.Resources.GetMatch "images/*") }}
+                                {{ $processedImage := .Fill "300x200 center" }} <!-- Adjust dimensions as needed -->
+                                {{ $thumbnail = $processedImage.RelPermalink }}
+                            {{ end }}
+
+                            <a href="{{ .RelPermalink }}">
+                                <img src="{{ $thumbnail }}" alt="{{ .LinkTitle }}">
+                            </a>
+                        </div>
+                        <div class="box-card-mods-content">
+                            <p>
+                            {{ if eq .Params.game "Zoo Tycoon 1" }}
+                                <a href="{{ .Site.BaseURL }}mods/zt2">{{ .Params.game }}</a>
+                            {{ else if eq .Params.game "Zoo Tycoon 2" }}
+                                <a href="{{ .Site.BaseURL }}mods/zt2">{{ .Params.game }}</a>
+                            {{ else }}
+                                <a href="{{ .Site.BaseURL }}mods/assets">Assets</a>
+                            {{ end }}
+                            </p>
+                        <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+                        <p>by {{ $authors := .Params.author }}
+
+                            {{ $siteBaseURL := .Site.BaseURL }}
+                            {{ with $authors }}
+                                {{ $len := len . }}
+
+                                {{ if eq $len 1 }}
+                                    <a href="{{ $siteBaseURL }}author/{{ index . 0 | urlize }}">{{ index . 0 }}</a>
+                                {{ else if eq $len 2 }}
+                                    <a href="{{ $siteBaseURL }}author/{{ index . 0 | urlize }}">{{ index . 0 }}</a> and <a href="{{ $siteBaseURL }}author/{{ index . 1 | urlize }}">{{ index . 1 }}</a>
+                                {{ else }}
+                                    <a href="{{ $siteBaseURL }}author/{{ index . 0 | urlize }}">{{ index . 0 }}</a>, <a href="{{ $siteBaseURL }}author/{{ index . 1 | urlize }}">{{ index . 1 }}</a> and {{ sub $len 2 }} more
+                                {{ end }}
+                            {{ end }}
+                        </p>
+                        <span class="box-card-bottom">
+                            {{ partial "class-badges.html" . }}
+                            <span class="box-card-date">{{ .Date.Format "2 Jan 2006" }}</span>
+                        </span>
+                    </div>
+                    </li>
+                {{ end }}
+            {{ end }}
+        </ul>
+
+        {{ template "_internal/pagination.html" (dict "paginator" .Pages "page" .) }}
+
+
+    </div>
+    {{/*  Generate the sidebar filters */}}
+
+    {{ .Scratch.Set "game" .Params.major }}
+    {{ .Scratch.Set "category" .Title }}
+    {{ partial "sidebar-r/filter-root.html" . }}
+{{ end }}

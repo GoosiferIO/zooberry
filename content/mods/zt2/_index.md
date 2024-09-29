@@ -4,7 +4,7 @@ layout: zt2
 cascade:
   mainModCat: "Zoo Tycoon 2"
   major: "zt2"
-  tags: ["all", "zt2"]
+  zt2tags: ["All", "ZT2"]
   categories:
     - name: "Animals"
       slug: "animals"
@@ -22,7 +22,7 @@ cascade:
       slug: "objects"
       icon: "business"
     - name: "Remakes"
-      slug: "remakes"
+      slug: "all-remakes"
       icon: "swap_horiz"
     - name: "Texture Mods"
       slug: "texture-mods"

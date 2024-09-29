@@ -18,7 +18,7 @@ alt_text:
 languages:
 - English
 summary: "The Nile Monitor is a large, fast, and agile lizard from the rainforest outskirts and grasslands of Africa."
-
+zt1tags: ["All", "Animals", "Reptiles", "Lizards", "African"]
 ---
 
 The Nile Monitor is a large, fast, and agile lizard from the rainforest outskirts and grasslands of Africa. As such, it likes rainforest foliage and rainforest terrain, but also likes a good amount of grass in its exhibit.

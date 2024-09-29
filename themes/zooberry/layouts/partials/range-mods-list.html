@@ -4,6 +4,7 @@
 {{/*  tags" "intersect" (slice $filter) }}  */}}
 {{/*  return only mods that have field currently set in Params.game */}}
 {{ $filteredMods := slice }}
+{{ .Params.zt1tags }}
 {{ range $mods }}
     {{ if eq .Params.major $currentGame }}
         {{ if in .Params.tags $filter }}

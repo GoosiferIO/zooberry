@@ -4,7 +4,10 @@ draft: false
 layout: maps
 summary: "Empty maps for you to start your zoo-building!"
 cascade:
-    tags: ["all", "zt1", "maps" ]
+    zt1tags: ["All", "ZT1", "Maps" ]
+    subcat: "Maps"
+is_category: true
+
 ---
 
 Empty maps for you to start your zoo-building!

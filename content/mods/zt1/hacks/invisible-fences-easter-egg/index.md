@@ -19,7 +19,7 @@ alt_text:
 languages:
 - English
 summary: "Use cheat codes to make fences invisible!"
-
+zt1tags: ["All", "Hacks", "Cheats"]
 ---
 
 Invisible Fences Easter Egg

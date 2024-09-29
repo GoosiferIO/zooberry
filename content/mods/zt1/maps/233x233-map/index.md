@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "A map larger than ZT1 will let you!"
-
+zt1tags: ["All", "ZT1", "Maps"]
 ---
 
 Gymnasiast created a 233x233 map which amounts to a larger size than the base Zoo Tycoon 1 game allows. The base game has a maximum map size of 150x150.

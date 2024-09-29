@@ -17,13 +17,9 @@ alt_text:
 languages:
 - English
 summary: "Adds the striking and unique looking Hamadryas baboon for adoption."
+zt1tags: ["All", "Animals", "Mammals", "Primates", "African", "North African"]
 ---
-
- 
-
-
 Adds the striking and unique looking Hamadryas baboon for adoption. They are a social and fun species to have in your zoo, just remember to keep their numbers in check! Should be compatible with most versions of the game, although their preferred foliage, the Doum palm, was included with the North African theme pack, as well as Complete Collection, so you need either one of these for that to work properly.
-
 
 Credits
 
