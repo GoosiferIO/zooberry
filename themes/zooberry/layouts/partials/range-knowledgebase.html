@@ -1,0 +1,13 @@
+<table class="tb-df">
+    {{ range (where .Site.RegularPages "Section" "knowledgebase") | first 8 }}
+        <tr class="tb-tr">
+            <td class="tb-td">
+                <strong><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></strong>
+                by <a href="/authors/{{ .Params.author | urlize }}">{{ .Params.author}}</a> 
+            </td>
+            <td style="text-align: right;">
+                {{ .Date.Format "2 Jan 2006" }}
+            </td>
+        </tr>
+    {{ end }}
+</table>
