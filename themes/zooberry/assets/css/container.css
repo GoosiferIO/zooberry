@@ -103,7 +103,7 @@
 
   /* Code Blocks */
   --code: #c7d5b2;
-  --codeblock: #819367;
+  --codeblock: #778269;
 }
 
 html {
@@ -207,6 +207,7 @@ pre {
 
 pre code {
   background-color: inherit; /* Ensure the code block inherits the pre background */
+  color: #fff;
 }
 
 .cat-blurb  {
