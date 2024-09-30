@@ -3,6 +3,8 @@ title: "October 2023 - Mod Backup Summary"
 date: 2023-10-23T15:17:38-07:00
 author: Goosifer
 draft: false
+image: summary.png
+tag: Summary
 ---
 
 The following 8 ZooMania variants have been backed up on ZooBerry:

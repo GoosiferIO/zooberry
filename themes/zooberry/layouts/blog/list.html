@@ -1,15 +1,16 @@
 {{ define "main" }}
   <div class="body-content">
     <h1>{{ .Title }}</h1>
-    <p class="cat-blurb">These mods are new and published directly to ZooBerry.</p>
+    <p class="cat-blurb">{{ .Description }}</p>
     {{/*  {{ .Content }}  */}}
         <div class="blog-card-list">
         {{ range .Pages }}
             <div class="box-card-blogs">
-                <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-                <p class="blog-card-date">{{ .Date.Format "2 Jan 2006" }}</p>
-                <div class="box-card-bottom">
-                    <a href="{{ .RelPermalink }}" class="button-dft"><i class="material-icons icon">arrow_forward</i> Read More</a>
+                <a href="{{.RelPermalink}}"><img src="{{ .RelPermalink }}images/{{ .Params.image }}" alt="{{ .Params.image }}" class="blog-card-img"></a>
+                <div class="blog-card-content">
+                    <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+                    <p class="blog-card-date">{{ .Date.Format "2 Jan 2006" }}</p>
+                    <span class="blog-cat-{{ .Params.tag | urlize }}">{{ .Params.tag }}</span>
                 </div>
             </div>
         {{ end }}
