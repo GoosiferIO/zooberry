@@ -6,24 +6,6 @@ draft: false
 tag: Update
 image: update.png
 ---
-
-Update log for ZooBerry on July 22, 2023. <!--more-->
-
-## Table of Contents <!-- omit in toc -->
-- [Updated to ZooBerry v0.1.1](#updated-to-zooberry-v011)
-  - [Changelog:](#changelog)
-- [New Additions](#new-additions)
-  - [Zoo Tycoon 2](#zoo-tycoon-2)
-    - [Animals](#animals)
-    - [Animal edits:](#animal-edits)
-    - [Foliage](#foliage)
-      - [Foliage edits:](#foliage-edits)
-    - [Objects](#objects)
-    - [Packs](#packs)
-  - [Zoo Tycoon 1](#zoo-tycoon-1)
-    - [Animals](#animals-1)
-
-
 ## Updated to ZooBerry v0.1.1  
   
 ### Changelog:

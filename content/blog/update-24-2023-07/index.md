@@ -7,22 +7,10 @@ tag: Update
 image: update.png
 ---
 
-Update log for ZooBerry on July 24, 2023.<!--more-->
+## Updated to ZooBerry Beta v0.2.2
 
-## Table of Contents <!-- omit in toc -->
-- [Updated to ZooBerry Beta v0.2.2](#updated-to-zooberry-beta-v022)
-  - [Changelog:](#changelog)
-  - [General ZooBerry developments:](#general-zooberry-developments)
-- [New Additions](#new-additions)
-- [Zoo Tycoon 1](#zoo-tycoon-1)
-  - [Objects](#objects)
-  - [Packs](#packs)
-- [Zoo Tycoon 2](#zoo-tycoon-2)
-  - [Packs](#packs-1)
+### Changelog:
 
-
-# Updated to ZooBerry Beta v0.2.2
-## Changelog:
 - Can now click on an author's name and get a full list of their mods in the ZooBerry database.
 - Can now also get a full list of authors whose files are hosted on ZooBerry along with a list of each of their mods: https://zoo.goosifer.io/authors/
   - Note that this path will eventually change
@@ -33,18 +21,16 @@ Update log for ZooBerry on July 24, 2023.<!--more-->
 
 Feel free to track upcoming features on the ZooBerry Trello: https://trello.com/b/X9FjAPnO/zooberry
 
-## General ZooBerry developments:
+## General ZooBerry Developments
+
 - A dedicated domain has been purchased. **ZooBerry.org** will be its new home soon :)
 - Discussed it with the EMU team and we decided we will be integrating a forum into ZooBerry. Similar to the design centre from long ago, it will be project-centric (and also meant as a platform to support and discuss our team projects: EMU, ZooBerry, **\<unannounced-project-1\>**, **\<unannounced-project-2\>**.) ;)
 
-
-# New Additions 
-
 > **34 additional Northern Skies and ZooMania files have been backed up to ZooBerry on 2024-07-24.** Check out what's 'new' below.
 
-# Zoo Tycoon 1
+## Zoo Tycoon 1
 
-## Objects 
+### Objects 
 - [AOE2 Viking Ship](https://zoo.goosifer.io/mods/zt1/objects/aoe2-viking-ship/) by RDingFT
 - [American Alligator in the Water Statue](https://zoo.goosifer.io/mods/zt1/objects/american-alligator-in-the-water-statue/) by RDingFT
 - [Diplodocus Statue](https://zoo.goosifer.io/mods/zt1/objects/diplodocus-statue/) by RDingFT
@@ -54,7 +40,7 @@ Feel free to track upcoming features on the ZooBerry Trello: https://trello.com/
 - [Insect House With Ant and the Hercules Beetle](https://zoo.goosifer.io/mods/zt1/objects/insect-house-with-ant-and-the-hercules-beetle/) by RDingFT
 - [Kaprosuchus Statue](https://zoo.goosifer.io/mods/zt1/objects/kaprosuchus-statue/) by RDingFT
 
-## Packs
+### Packs
 - [Anaconda and Turtle in the Water Statues](https://zoo.goosifer.io/mods/zt1/packs/anaconda-and-turtle-in-the-water-statues/) by RDingFT
 - [AOE2 Gold Ore and Rock Ore](https://zoo.goosifer.io/mods/zt1/packs/aoe2-gold-ore-and-rock-ore/) by RDingFT
 - [AOE2 Houses](https://zoo.goosifer.io/mods/zt1/packs/aoe2-houses/) by RDingFT
@@ -74,11 +60,11 @@ Feel free to track upcoming features on the ZooBerry Trello: https://trello.com/
 - [WLP1 Scenery](https://zoo.goosifer.io/mods/zt1/packs/wlp1-scenery/) by RDingFT
 - [Wolves and Panthera Hunting Statues](https://zoo.goosifer.io/mods/zt1/packs/wolves-and-panthera-hunting-statues/) by RDingFT
 
-# Zoo Tycoon 2
+## Zoo Tycoon 2
 
 > Tested the following files. If I picked up a general bug, I documented in the file description. Please let me know if I missed any.
 
-## Packs
+### Packs
 - [African Safari Pack](https://zoo.goosifer.io/mods/zt2/packs/african-safari-pack/) by Koala Komander
 - [Arabia Pack](https://zoo.goosifer.io/mods/zt2/packs/arabia-pack/) by Kangorilaphant and Plants
 - [Coastal Theme Pack](https://zoo.goosifer.io/mods/zt2/packs/coastal-theme-pack/) by ShenTirag

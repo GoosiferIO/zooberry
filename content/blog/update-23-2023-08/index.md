@@ -9,17 +9,17 @@ image: update.png
 
 Update log for ZooBerry on August 23, 2023. <!--more-->
 
-# Concerning ZooBerry
+## Concerning ZooBerry
 
 There is currently a bug I am trying to work out where lists aren't completely sorted in order across all pagination. I can't give an estimate when that will be fixed but hopefully soon! <!--more-->
 
 I am also looking into the issue where the authors list is trying to embed a thumbnail next to an author's name in error.
 
-# Files Added to ZooBerry Database on 08-05-2023
+## Files Added to ZooBerry Database on 08-05-2023
 
 33 new files have been added to the ZooBerry database (Only Zoo Tycoon 2 this time). Below is an itemized list with links. Of note, back in 2008 I ran a designer tournament at ZooMania. All entries were meant to be released after the tournament but we never got around to it. You'll see those entries under the Colosseum category below:
 
-# PACKS
+### Packs
 - [Aboriginal Australian Pack by sheltiefan](https://www.zooberry.org/mods/zt2/packs/aboriginal-australian-pack/)
 - [Reskin Pack 1 by Koala Komander](https://www.zooberry.org/mods/zt2/packs/reskin-pack-1/)
 - [Sandstone Theme by ShenTirag](https://www.zooberry.org/mods/zt2/packs/sandstone-theme/)
@@ -29,11 +29,11 @@ I am also looking into the issue where the authors list is trying to embed a thu
 - [Shen's Path Pack by ShenTirag](https://www.zooberry.org/mods/zt2/packs/shens-path-pack/)
 - [Small Gemstone Pack by Budgielover101](https://www.zooberry.org/mods/zt2/packs/small-gemstone-pack/)
 
-# OBJECTS
+### Objects
 - [Snow Volcano by Animalover44](https://www.zooberry.org/mods/zt2/objects/snow-volcano/)
 - [Enlarged Desert Fountain by Animalover44](https://www.zooberry.org/mods/zt2/objects/enlarged-desert-fountain/)
 
-# COLOSSEUM
+### Colosseum
 - [Atlantis Viewing Area by Otter Lord](https://www.zooberry.org/mods/zt2/objects/atlantis-viewing-area/)
 - [Ibex Arch by badisbadis101](https://www.zooberry.org/mods/zt2/objects/ibex-arch/)
 - [Forgotten Spire by Catc](https://www.zooberry.org/mods/zt2/objects/forgotten-spire/)
@@ -41,13 +41,13 @@ I am also looking into the issue where the authors list is trying to embed a thu
 - [Alpine Geological Model by Otter Lord](https://www.zooberry.org/mods/zt2/objects/alpine-geological-model/)
 - [Alpine Viewing Area by Zooasaurus](https://www.zooberry.org/mods/zt2/objects/alpine-viewing-area/)
 
-# HACKS
+### Hacks
 - [Guest Limit Hack by Penguino](https://www.zooberry.org/mods/zt2/hacks/guest-limit-hack/)
 - [Compatibility Hack by Eriorguez](https://www.zooberry.org/mods/zt2/hacks/compatibility-hack/)
 - [Compatibility Hack Plus EA by Eriorguez](https://www.zooberry.org/mods/zt2/hacks/compatibility-hack-ea/)
 - [Pink Elephant Disorder Fix by Dinwrest](https://www.zooberry.org/mods/zt2/hacks/pink-elephant-disorder-fix/)
 
-# RESKINS
+### Reskins
 - [African Elephant Reskin by Koala Komander](https://www.zooberry.org/mods/zt2/reskins/african-elephant-reskin/)
 - [Lion Reskins by Koala Komander](https://www.zooberry.org/mods/zt2/reskins/lion-reskins/)
 - [Jaguar Reskin by Koala Komander](https://www.zooberry.org/mods/zt2/reskins/jaguar-reskin/)
