@@ -1,40 +1,22 @@
 {{ define "main" }}
-  {{/*  <h1>{{ .Title }}</h1>
-
-  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-  {{ $dateHuman := .Date | time.Format ":date_long" }}
-  <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-
-  {{ .Content }}
-  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}  */}}
-
-    {{/*  breadcrumbs  */}}
-
-    <div class="article">
-    <div class="article-post">
-        <h1>{{.Title}}</h1>
-        {{ if .Params.meta }}
-            <div class="post-subheader">
-                <span><i class="material-icons icon">person</i> 
-                        <a class="badge-default" href="/authors/">{{ .Params.author }}</a>
-                    <i class="material-icons icon">calendar_month</i> {{ .Date.Format "2 Jan 2006" }}
-                </span>
+  <div class="body-content">
+    <h1>{{ .Title }}</h1>
+    <img class="k-banner" src="{{ .RelPermalink }}images/banner.jpg" alt="{{ .Params.image }}" />
+    <p class="cat-blurb">{{ .Description }}</p>
+    {{/*  {{ .Content }}  */}}
+        <div class="blog-card-list">
+        {{ range .Pages }}
+            <div class="box-card-blogs">
+                <a href="{{.RelPermalink}}"><img src="{{ .RelPermalink }}images/{{ .Params.image }}" alt="{{ .Params.image }}" class="blog-card-img"></a>
+                <div class="blog-card-content">
+                    <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+                    <p class="blog-card-date">{{ .Date.Format "2 Jan 2006" }}</p>
+                    <span class="blog-cat-{{ .Params.tag | urlize }}">{{ .Params.tag }}</span>
+                </div>
             </div>
         {{ end }}
-        {{ .Content }}
+        </div>
+  </div>
+  {{ partial "sidebar_r.html" . }}
 
-        {{ if .Params.main }}
-        {{ end }}
-    </div>
-    {{ if .Params.toc }}
-    <div class="article-toc">
-        <h2>Table of Contents</h2>
-            {{ .TableOfContents }}
-    </div>
-    {{ else }}
-        {{ partial "sidebar_r.html" . }}
-    {{ end }}
-
-
-    </div>
 {{ end }}
