@@ -1,8 +1,29 @@
 
 .breadcrumbs {
-    display: block;
+    list-style: none;
+    display: flex;
+    gap: 0.5rem;
     margin-bottom: 1rem;
-    background: var(--secondary-bg);
-    border-radius: 5px;
-    padding: 0.5rem;
+    background: var(--tbody-bg);
+    border-radius: 20px;
+    padding: 0.5rem 2rem;
+}
+
+.breadcrumbs li::after {
+    content: "/";
+    margin-left: 0.5rem;
+}
+
+.breadcrumbs li:last-child::after {
+    content: ""; /* No trailing slash for the last item */
+}
+
+.breadcrumbs li a {
+    text-decoration: none;
+    color: var(--link-color);
+}
+
+.breadcrumbs li.active {
+    color: var(--font-color);
+    font-weight: bold;
 }
