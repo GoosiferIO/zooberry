@@ -184,8 +184,8 @@ main {
 code {
   color: var(--font-color);
   background: var(--code);
-  padding: 0.025rem 0.4rem;
-  border-radius: 0.3rem;
+  padding: 0.005rem 0.4rem;
+  border-radius: 20px;
   font-family: 'Courier New', Courier, monospace;
   display: inline-block;
   word-wrap: break-word;
