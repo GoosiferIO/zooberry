@@ -9,13 +9,16 @@ tag: Summary
 
 Summary list of mods backed up on ZooBerry in September. <!--more-->
 
-# Zoo Tycoon 1
+## Zoo Tycoon 1
 
-**Maps**
+### Maps
+
 - [Enlarged ZT1 Map (233x233)](https://www.zooberry.org/mods/zt1/maps/233x233-map/) by Gymnasiast
 
-# Zoo Tycoon 2
-**Variants**
+## Zoo Tycoon 2
+
+### Animals
+
 - [African Adventure Variant Pack P1](https://www.zooberry.org/mods/zt2/variants/aavp-p1/) by Koala Komander
 - [African Adventure Variant Pack P2](https://www.zooberry.org/mods/zt2/variants/aavp-p2/) by Koala Komander
 - [African Spurred Tortoise Variants](https://www.zooberry.org/mods/zt2/variants/african-spurred-tort-vars-ktrenal/) by Ktrenal

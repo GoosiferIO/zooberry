@@ -8,7 +8,7 @@ image: update.png
 ---
 ## Updated to ZooBerry v0.1.1  
   
-### Changelog:
+### Changelog
 - Improved readability on posts (previous color was too close to background color)
 - Track upcoming features on the ZooBerry Trello: https://trello.com/b/X9FjAPnO/zooberry
 
