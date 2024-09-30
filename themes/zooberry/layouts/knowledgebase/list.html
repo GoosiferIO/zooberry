@@ -4,15 +4,17 @@
     <img class="k-banner" src="{{ .RelPermalink }}images/banner.jpg" alt="{{ .Params.image }}" />
     <p class="cat-blurb">{{ .Description }}</p>
     {{/*  {{ .Content }}  */}}
-        <div class="blog-card-list">
-        {{ range .Pages }}
-            <div class="box-card-blogs">
-                <a href="{{.RelPermalink}}"><img src="{{ .RelPermalink }}images/{{ .Params.image }}" alt="{{ .Params.image }}" class="blog-card-img"></a>
-                <div class="blog-card-content">
-                    <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
-                    <p class="blog-card-date">{{ .Date.Format "2 Jan 2006" }}</p>
-                    <span class="blog-cat-{{ .Params.tag | urlize }}">{{ .Params.tag }}</span>
-                </div>
+
+    <div class="k-grid">
+        {{/* For each section in the main 'knowledgebase section', list their top level pages */}}
+        {{ range .Sections }}
+            <div class="k-section">
+                <h2>{{ .Title }}</h2>
+                {{ range .Pages }}
+                    <ul class="k-list">
+                        <li><a href="{{.RelPermalink}}">{{ .LinkTitle }}</a></li>
+                    </ul>
+                {{ end}}
             </div>
         {{ end }}
         </div>
