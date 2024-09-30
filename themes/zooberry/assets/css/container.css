@@ -57,6 +57,11 @@
 
   /* Images */
   --logo: url('/logo.png') no-repeat !important;
+
+  /* Code Blocks */
+  --code: var(--thead-bg);
+  --codeblock: var(--thead-bg);
+  
 }
 
 :root.light  {
@@ -95,6 +100,10 @@
 
   /* Images */
   --logo: url('/logo-lt.png') no-repeat !important;
+
+  /* Code Blocks */
+  --code: #c7d5b2;
+  --codeblock: #819367;
 }
 
 html {
@@ -174,8 +183,8 @@ main {
 
 code {
   color: var(--font-color);
-  background: var(--thead-bg);
-  padding: 0.2rem 0.4rem;
+  background: var(--code);
+  padding: 0.025rem 0.4rem;
   border-radius: 0.3rem;
   font-family: 'Courier New', Courier, monospace;
   display: inline-block;
@@ -190,10 +199,9 @@ blockquote {
 }
 
 pre {
-  background: var(--thead-bg) !important;
-  color: var(--accent-bg);
-  padding: 1rem;
-  border-radius: 0.5rem;
+  background: var(--codeblock) !important;
+  padding: 2rem;
+  border-radius: 20px;
   overflow-x: auto;
 }
 

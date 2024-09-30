@@ -1,32 +1,23 @@
 {{ define "main" }}
-  {{/*  <h1>{{ .Title }}</h1>
-
-  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-  {{ $dateHuman := .Date | time.Format ":date_long" }}
-  <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-
-  {{ .Content }}
-  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}  */}}
-
-    {{/*  breadcrumbs  */}}
-  <div class="article-container" id="TableOfContents">
-
-      <div class="article">
-        <div class="article-post">
-          <h1>{{.Title}}</h1>
-          <div class="post-subheader">
-            <span><i class="material-icons icon">person</i> 
-                  <a class="badge-default" href="/authors/">{{ .Params.author }}</a>
-              <i class="material-icons icon">calendar_month</i> {{ .Date.Format "2 Jan 2006" }}
-            </span>
-          </div>
-          {{ .Content }}
-        </div>
-        <div class="article-toc">
-          <h2>Table of Contents</h2>
-              {{ .TableOfContents }}
-        </div>
-
-      </div>
+<div class="article-container" id="TableOfContents">
+  <div class="article">
+    {{ partial "breadcrumbs.html" . }}
+    <h1>{{.Title}}</h1>
+    <div class="post-subheader">
+      <span>
+            <strong>Published by </strong> <a href="/authors/">{{ .Params.author }}</a>
+            <strong> on </strong><span class="post-date">{{ .Date.Format "2 Jan 2006" }}</span>
+      </span>
     </div>
+
+    <div class="article-post">
+        {{ .Content }}
+      </div>
+
+    </div>
+    <div class="article-toc">
+      <h2>Table of Contents</h2>
+          {{ .TableOfContents }}
+    </div>
+  </div>
 {{ end }}
