@@ -2,18 +2,25 @@
 <div class="article-container" id="TableOfContents">
   <div class="article">
     {{ partial "breadcrumbs.html" . }}
-    <h1>{{.Title}}</h1>
-    <div class="post-subheader">
-      <span>
-            <strong>Published by </strong> <a href="/authors/">{{ .Params.author }}</a>
-            <strong> on </strong><span class="post-date">{{ .Date.Format "2 Jan 2006" }}</span>
-      </span>
-    </div>
-
     <div class="article-post">
         {{ .Content }}
+    </div>
+      <div class="post-subheader">
+        <span>
+              <strong>Published by </strong> <a href="/authors/">{{ .Params.author }}</a>
+              <strong> on </strong><span class="post-date">{{ .Date.Format "2 Jan 2006" }}</span>
+        </span>
       </div>
-
+      <div class="article-buttons">
+        {{ $previousArticle := .PrevInSection }}
+        {{ $nextArticle := .NextInSection }}
+        {{ if $previousArticle }}
+          <a href="{{ $previousArticle.RelPermalink }}" class="btn btn-primary">Previous</a>
+        {{ end }}
+        {{ if $nextArticle }}
+          <a href="{{ $nextArticle.RelPermalink }}" class="btn btn-primary">Next</a>
+        {{ end }}
+      </div>
     </div>
     <div class="article-toc">
       <h2>Table of Contents</h2>

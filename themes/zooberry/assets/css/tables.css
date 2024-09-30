@@ -57,3 +57,31 @@ thead tr {
 .tb-df tr:nth-child(odd) td {
     background-color: var(--tbody-bg-alt);
 }
+
+/* Generic table styles */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    table-layout: auto;
+    word-wrap: break-word;
+}
+
+th {
+    font-weight: 600;
+    text-align: left;
+    background-color: var(--thead-bg);
+}
+
+th, td {
+    padding: 1rem 2rem;
+}
+
+tr:nth-child(even) td {
+    background-color: var(--tbody-bg);
+}
+
+tr:nth-child(odd) td {
+    background-color: var(--tbody-bg-alt);
+}
