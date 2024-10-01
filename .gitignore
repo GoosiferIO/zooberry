@@ -9,5 +9,5 @@ images/
 /**/*.ztd
 /**/*.dll
 
-hugo.toml
+*.toml
 *.lock

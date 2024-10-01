@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZooBerry</title>
+    <link>https://88fe8fef.zooberry.pages.dev/knowledgebase/zooberry/</link>
+    <description>Recent content on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://88fe8fef.zooberry.pages.dev/knowledgebase/zooberry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started 2</title>
+      <link>https://88fe8fef.zooberry.pages.dev/knowledgebase/zooberry/test/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://88fe8fef.zooberry.pages.dev/knowledgebase/zooberry/test/</guid>
+      <description>Getting Started This page will lay out the basics of OpenZT modding, including filetypes, folder layout and meta info</description>
+    </item>
+  </channel>
+</rss>

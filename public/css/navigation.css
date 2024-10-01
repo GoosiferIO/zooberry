@@ -1,0 +1,121 @@
+nav {
+    height: 4rem;
+    background-color: var(--shade-bg);
+    position: fixed;
+    top: 0;
+    margin: 0;
+    width: 100%;
+    border-bottom: 2px solid var(--accent-bg);
+    vertical-align: middle;
+    padding: 0 2rem;
+    flex-direction: row;
+    justify-content: space-between;
+    z-index: 1001;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+  }
+
+  nav a {
+    color: var(--link-color);
+    font-weight: bold;
+    font-size: 1rem;
+    display: inline-block;
+    padding: 0 1rem;
+    line-height: 4rem;
+    transition: all 0.3s ease 0s;
+  }
+
+  nav a:hover {
+    color: var(--accent-bg);
+    text-shadow: var(--accent-bg) 0 0 25px;
+  }
+
+  nav ul {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+  }
+
+  nav li {
+    display: inline;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    transition: all 0.3s ease 0s;
+  }
+
+.nav-right {
+    margin-left: auto;
+    padding-right: 5rem;
+}
+
+.nav-logo a {
+    display: inline-block;
+    width: 110px;
+    height: 41px;
+    background: var(--logo) center 5px;
+    line-height: 100%;
+    padding-bottom: 1rem;
+}
+
+.nav-logo a:hover {
+    background-color: #d1c18c;
+}
+
+
+
+
+
+
+/* Dropdown Styles */
+.dropdown .dropbtn {
+  background-color: var(--shade-bg);
+  border: none;
+  cursor: pointer;
+  outline: none;
+  opacity: 1;
+  z-index: 1;
+
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: var(--shade-bg);
+  min-width: 200px; /* Custom width */
+  box-shadow: -4px 2px 0 0 rgba(0,0,0,0.2);
+  z-index: 1;
+  top: 100%; /* Position below the parent */
+  left: 0;
+  padding: 1rem; /* Add padding for better styling */
+  margin-top: 1.35rem;
+  border-top: 2px solid var(--shade-bg);
+  border-right: 2px solid var(--accent-bg);
+  border-bottom: 2px solid var(--accent-bg);
+  border-left: 2px solid var(--accent-bg);
+  border-radius: 0 0 0.5rem 0.5rem;
+}
+
+.dropdown-content a {
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+  text-decoration: none;
+  display: block;
+  line-height: 1rem;
+  font-weight: normal;
+}
+
+.dropdown-content a:hover {
+  background: var(--accent-bg);
+  border-radius: 5px;
+  text-shadow: none;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
