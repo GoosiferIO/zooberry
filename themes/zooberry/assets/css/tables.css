@@ -72,10 +72,12 @@ th {
     font-weight: 600;
     text-align: left;
     background-color: var(--thead-bg);
+    padding: 1rem 2rem;
+    margin: 0;
 }
 
-th, td {
-    padding: 1rem 2rem;
+td {
+    padding: 1rem;
 }
 
 tr:nth-child(even) td {

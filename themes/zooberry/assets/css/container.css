@@ -126,7 +126,7 @@ a {
 
 a:hover {
   color: var(--link-hover-color);
-  transition: color 0.5s ease 0s;
+  transition: color 0.5s ease-in-out;
 }
 
 main {

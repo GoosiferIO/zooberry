@@ -113,11 +113,12 @@ div.article-post img {
 }
 
 .article-post {
-    width: 100%;
+    width: calc(100% - 4rem);
     margin-right: 2rem;
     padding: 2rem;
     border-radius: 20px;
-    padding: 1rem;
+    padding: 2rem;
+    background: var(--tbody-bg);
 }
 
 .article-post p {

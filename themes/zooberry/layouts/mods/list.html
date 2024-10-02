@@ -8,11 +8,11 @@
     {{ if eq .Params.mainModCat "Mods" }}
         {{ range .Params.submenu }}
             {{ if not (eq .name "Home") }}
-                <a class="cat-card" href="{{ .url }}">
-                    <span class="cat-card-title">{{.name}}</span>
+                <div class="cat-card" href="{{ .url }}">
+                    <a class="cat-card-title" href="{{ .url }}">{{.name}}</a>
                     <span class="cat-card-blurb">{{.blurb}}</span>
-                    <div class="cat-card-image" style="background-image: url('{{.image}}')"></div>
-                </a>
+                    <a href="{{ .url }}"><img class="cat-card-image" src="{{.image}}"></a>
+                </div>
             {{ end }}
         {{ end }}
     {{ end }}
