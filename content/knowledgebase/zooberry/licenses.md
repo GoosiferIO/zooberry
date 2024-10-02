@@ -1,5 +1,5 @@
 ---
-title: "Licenses and Credits"
+title: "Licenses"
 date: 2023-07-04T00:51:18-07:00
 draft: false
 author: Goosifer

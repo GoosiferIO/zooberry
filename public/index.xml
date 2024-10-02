@@ -9,11 +9,11 @@
     <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About ZooBerry</title>
+      <title>About</title>
       <link>http://localhost:1313/knowledgebase/zooberry/about/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/knowledgebase/zooberry/about/</guid>
-      <description>Hi, Welcome. My name is Goosifer, but I used to go by other usernames. A long time ago I used to help run a couple of Zoo Tycoon websites named ZooMania and Northern Skies. I was also lucky to join a modding team named Artifex toward the very end of my time in the scene. Though I was incredibly young and still in high school, I consider it one of the coolest experiences and was able to learn a lot of fun tech while I explored my creative outlet online.</description>
+      <description>About ZooBerry Hi, Welcome. My name is Goosifer, but I used to go by other usernames. A long time ago I used to help run a couple of Zoo Tycoon websites named ZooMania and Northern Skies. I was also lucky to join a modding team named Artifex toward the very end of my time in the scene. Though I was incredibly young and still in high school, I consider it one of the coolest experiences and was able to learn a lot of fun tech while I explored my creative outlet online.</description>
     </item>
     <item>
       <title>FAQ</title>
@@ -3481,7 +3481,7 @@
       <description>A small boreal forest mustelid.</description>
     </item>
     <item>
-      <title>Licenses and Credits</title>
+      <title>Licenses</title>
       <link>http://localhost:1313/knowledgebase/zooberry/licenses/</link>
       <pubDate>Tue, 04 Jul 2023 00:51:18 -0700</pubDate>
       <guid>http://localhost:1313/knowledgebase/zooberry/licenses/</guid>
