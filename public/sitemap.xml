@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2024-10-01T18:51:37-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mods/zt2/tags/all/</loc>
     <lastmod>2024-09-30T11:15:53-07:00</lastmod>
   </url><url>
@@ -70,9 +73,6 @@
   </url><url>
     <loc>http://localhost:1313/teams/zoo-admin-design-team/</loc>
     <lastmod>2024-08-07T13:28:26+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-08-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/</loc>
     <lastmod>2024-08-04T00:00:00+00:00</lastmod>

@@ -12,16 +12,20 @@ Compose an email to [submit@goosifer.io](mailto:submit@goosifer.io) with the fol
 
 ## Questionnaire
 
-> Title: 
+```plaintext
+Title: 
 Author(s):  
 Game (ZT1, ZT2, N/A):  
 Req Expansion(s):  
 Description:
+```
 
 Optional:
 
-> Known bugs/issues:  
-> Dependencies:
+```plaintext
+Known bugs/issues:  
+Dependencies:
+```
 
 Feel free to attach any files to the email. If you have multiple files, please consider compressing them into a single archive file (e.g., .zip, .7z). Descriptions for each file (if necessary) can be included in the email body.
 
