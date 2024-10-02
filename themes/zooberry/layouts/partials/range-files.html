@@ -11,6 +11,9 @@
 {{ $modList := .Params.mod_list }}
 {{ $rel := .RelPermalink}}
 
+{{ $fileSize := .Params.file_size }}
+{{ $date := .Date.Format "2 Jan 2006" }}
+
 {{ if gt $fileCount 1 }}
     {{ range $categories }}
         {{ $curCategory := . }}
@@ -55,24 +58,35 @@
         </table>
     {{ end }}
 {{ else if eq $fileCount 1 }}
+    <table class="mod-list-table" style="margin-bottom: 1rem;">
+        <colgroup>
+            <col style="width: 30%">
+            <col style="width: 20%">
+            <col style="width: 20%">
+            <col style="width: 30%">
+        </colgroup>
+        <thead>
+            <tr>
+                <th colspan="4">Download</th>
+            </tr>
+        </thead>
     {{ range $files }}
         <tr>
             <td class="mod-list-item">
                 {{ index $files 0 }}
             </td>
             <td class="mod-list-item">
-                {{  .Params.file_size }}
+                {{  $fileSize }}
             </td>
             <td class="mod-list-item">
+                {{ $date }}
             </td>
-            <td class="mod-list-item">
+            <td class="mod-list-item" style="text-align: center;">
                 <a class="button-dft margin-top" href="{{ .RelPermalink }}"><i class="material-icons icon">download</i> Download</a>
-            </td>
-            <td class="mod-list-item">
-                {{ .Params.description }}
             </td>
         </tr>
     {{ end }}
+    </table>
 {{ else }}
     <p>No files found</p>
 {{ end }}
