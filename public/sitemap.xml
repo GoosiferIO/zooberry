@@ -5,6 +5,21 @@
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2024-10-01T18:51:37-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/faq/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/goosifer/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knowledgebase/zooberry/other-websites/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knowledgebase/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knowledgebase/zooberry/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mods/zt2/tags/all/</loc>
     <lastmod>2024-09-30T11:15:53-07:00</lastmod>
   </url><url>
@@ -96,9 +111,6 @@
     <lastmod>2024-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/knowledgebase/openzt/</loc>
-    <lastmod>2024-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/knowledgebase/</loc>
     <lastmod>2024-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/</loc>
@@ -725,9 +737,6 @@
     <loc>http://localhost:1313/mods/zt1/tags/cheats/</loc>
     <lastmod>2024-03-21T21:03:09-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/goosifer/</loc>
-    <lastmod>2024-03-21T21:03:09-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/mods/zt1/tags/hacks/</loc>
     <lastmod>2024-03-21T21:03:09-07:00</lastmod>
   </url><url>
@@ -759,7 +768,7 @@
     <lastmod>2024-02-01T10:34:38-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt2/tools-utilities/legos-revamped-biome-system/</loc>
-    <lastmod>2024-01-19T03:57:32+00:00</lastmod>
+    <lastmod>2024-01-19T14:38:31-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/assets/bln-animal-stnd-assets-gs/</loc>
     <lastmod>2024-01-17T16:06:05+00:00</lastmod>
@@ -2424,8 +2433,6 @@
     <loc>http://localhost:1313/archives/zoo-tycoon-volcano-&#43;-hideout/</loc>
   </url><url>
     <loc>http://localhost:1313/archives/zooberry/</loc>
-  </url><url>
-    <loc>http://localhost:1313/knowledgebase/zooberry/</loc>
   </url><url>
     <loc>http://localhost:1313/archives/zoomania/</loc>
   </url><url>

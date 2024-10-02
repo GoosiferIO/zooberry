@@ -6,8 +6,22 @@
     <description>Recent content in Goosifer on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Mar 2024 21:03:09 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/authors/goosifer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FAQ</title>
+      <link>http://localhost:1313/faq/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/faq/</guid>
+      <description>Frequently Asked Questions Will you backup legacy mods from other forums not from ZooMania, Northern Skies, or Artifex? As of November 2023, the scope of this project has grown from archiving mods from three websites, to nine. If you ran a Zoo Tycoon website or are a modder who wants their mods archived, please feel free to contact us. We are always open to adding additional libraries to the archive.</description>
+    </item>
+    <item>
+      <title>Other Websites</title>
+      <link>http://localhost:1313/knowledgebase/zooberry/other-websites/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledgebase/zooberry/other-websites/</guid>
+      <description>For Community Zoo Tek Phoenix The longest-running Zoo Tycoon forum, Zoo Tek Phoenix sports one of the nicest communities out there and are always keen on helping if you get stuck.&#xA;Zoo Tek Phoenix&#xA;The ZT2 Roundtable As the name suggests, this community is more geared toward fans of the Zoo Tycoon sequel. Still, it has one of the largest communities for the game still around.&#xA;The ZT2 Roundtable&#xA;The r/ZooTycoon Subreddit Zoo Tycoon carries a large presence on Reddit and should quickly be a familiar format to any used to the karma-scoring link aggregator.</description>
+    </item>
     <item>
       <title>Invisible Fences Cheat Code</title>
       <link>http://localhost:1313/mods/zt1/hacks/invisible-fences-easter-egg/</link>

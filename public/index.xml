@@ -9,6 +9,13 @@
     <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>FAQ</title>
+      <link>http://localhost:1313/faq/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/faq/</guid>
+      <description>Frequently Asked Questions Will you backup legacy mods from other forums not from ZooMania, Northern Skies, or Artifex? As of November 2023, the scope of this project has grown from archiving mods from three websites, to nine. If you ran a Zoo Tycoon website or are a modder who wants their mods archived, please feel free to contact us. We are always open to adding additional libraries to the archive.</description>
+    </item>
+    <item>
       <title>Other Websites</title>
       <link>http://localhost:1313/knowledgebase/zooberry/other-websites/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
