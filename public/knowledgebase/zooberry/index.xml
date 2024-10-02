@@ -9,74 +9,11 @@
     <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/knowledgebase/zooberry/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/about/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/about/</guid>
-      <description>About ZooBerry Hi, Welcome. My name is Goosifer, but I used to go by other usernames. A long time ago I used to help run a couple of Zoo Tycoon websites named ZooMania and Northern Skies. I was also lucky to join a modding team named Artifex toward the very end of my time in the scene. Though I was incredibly young and still in high school, I consider it one of the coolest experiences and was able to learn a lot of fun tech while I explored my creative outlet online.</description>
-    </item>
-    <item>
-      <title>FAQ</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/faq/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/faq/</guid>
-      <description>Frequently Asked Questions What websites are being archived by ZooBerry? Originally the scope was just three websites, including ZooMania, Northern Skies, and Artifex. However, we had the privelege of getting permission to host mods from other websites as well.&#xA;The current list of websites whose mods and tutorials we are committed to archiving are as follows:&#xA;ZooMania Northern Skies Artifex ZT2 Designing Centre Penguika Penguin&amp;rsquo;s Peak Shen&amp;rsquo;s Den Zoo Tycoon Hideout Zoo Tycoon Volcano Z-Studio Bunyupy&amp;rsquo;s Projects Hispa Designs Dannybob&amp;rsquo;s Forum Stalker&amp;rsquo;s Ranch How did you get permission to host mods from these websites?</description>
-    </item>
-    <item>
       <title>Other Websites</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/other-websites/</link>
+      <link>http://localhost:1313/knowledgebase/zooberry/community/other-websites/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/other-websites/</guid>
+      <guid>http://localhost:1313/knowledgebase/zooberry/community/other-websites/</guid>
       <description>For Community Zoo Tek Phoenix The longest-running Zoo Tycoon forum, Zoo Tek Phoenix sports one of the nicest communities out there and are always keen on helping if you get stuck.&#xA;Zoo Tek Phoenix&#xA;The ZT2 Roundtable As the name suggests, this community is more geared toward fans of the Zoo Tycoon sequel. Still, it has one of the largest communities for the game still around.&#xA;The ZT2 Roundtable&#xA;The r/ZooTycoon Subreddit Zoo Tycoon carries a large presence on Reddit and should quickly be a familiar format to any used to the karma-scoring link aggregator.</description>
-    </item>
-    <item>
-      <title>Licenses</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/licenses/</link>
-      <pubDate>Tue, 04 Jul 2023 00:51:18 -0700</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/licenses/</guid>
-      <description>Licenses Attribution for the tech involved in the creation of ZooBerry and their licenses.&#xA;Galleria ZooBerry uses a slightly-modified version of GalleriaJS to display mod images.&#xA;The MIT License&#xA;Copyright (c) 2016 worse is better UG http://wib.io&#xA;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
-    </item>
-    <item>
-      <title>Terms of Service</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/tos/</link>
-      <pubDate>Tue, 04 Jul 2023 00:51:18 -0700</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/tos/</guid>
-      <description>Terms of Service ZooBerry is a fan-made platform dedicated to hosting user-created modifications (&amp;ldquo;mods&amp;rdquo;) for Zoo Tycoon, a video game developed and owned by Microsoft Corporation. We would like to emphasize that this website is not affiliated with or endorsed by Microsoft in any way. Zoo Tycoon and all related trademarks, logos, characters, and other assets are the property of Microsoft Corporation.&#xA;The mods hosted on this website are created by the Zoo Tycoon community and are provided for informational and entertainment purposes only.</description>
-    </item>
-    <item>
-      <title>Submit</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/submit/</link>
-      <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/submit/</guid>
-      <description>Thank you for your interest in submitting your file for hosting on ZooBerry. Since ZooBerry is a statically-generated website, we don&amp;rsquo;t have a traditional means of submission. There are no user accounts, nor is there a way to upload files directly to the site. Please follow the steps ahead to submit your file.&#xA;Submit by Email Compose an email to submit@goosifer.io with the following information:&#xA;Questionnaire Title: Author(s): Game (ZT1, ZT2, N/A): Req Expansion(s): Description: Optional:</description>
-    </item>
-    <item>
-      <title>Contribute to ZooBerry</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/contribute-to-zooberry/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/contribute-to-zooberry/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Create Your Own Mods</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/create-your-own-mods/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/create-your-own-mods/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>How to Install Maps</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/how-to-install-maps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/how-to-install-maps/</guid>
-      <description>Getting Started Zoo Tycoon 1 Zoo Tycoon 2 </description>
-    </item>
-    <item>
-      <title>How to Install Mods</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/how-to-install-mods/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/how-to-install-mods/</guid>
-      <description>Getting Started This page will lay out the basics of OpenZT modding, including filetypes, folder layout and meta info&#xA;Zoo Tycoon 1 Zoo Tycoon 2 </description>
     </item>
   </channel>
 </rss>
