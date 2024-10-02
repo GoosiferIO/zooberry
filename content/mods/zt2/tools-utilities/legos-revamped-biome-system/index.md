@@ -2,14 +2,14 @@
 alt_text: null
 author:
 - Harlequinz eg0
-date: '2024-01-19T03:57:32'
+date: 2024-01-19T14:38:31-07:00
 draft: false
-exp_req: null
+exp_req: 
 file_date: 2013-07-17
 file_size: 51.4 KB
 game: Zoo Tycoon 2
 has_author: true
-languages: null
+languages: 
 license: Unknown
 orig_rel_at:
 - ZT2 Design Centre

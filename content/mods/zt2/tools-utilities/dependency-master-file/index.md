@@ -6,7 +6,7 @@ author:
 - Hendrix
 - ZT ABC
 - zerosvalmont
-- Harlequinz eg0
+- "Harlequinz eg0"
 - Bill
 game: Zoo Tycoon 2
 exp_req:
