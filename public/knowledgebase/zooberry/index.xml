@@ -9,11 +9,11 @@
     <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/knowledgebase/zooberry/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About ZooBerry</title>
+      <title>About</title>
       <link>http://localhost:1313/knowledgebase/zooberry/about/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/knowledgebase/zooberry/about/</guid>
-      <description>Hi, Welcome. My name is Goosifer, but I used to go by other usernames. A long time ago I used to help run a couple of Zoo Tycoon websites named ZooMania and Northern Skies. I was also lucky to join a modding team named Artifex toward the very end of my time in the scene. Though I was incredibly young and still in high school, I consider it one of the coolest experiences and was able to learn a lot of fun tech while I explored my creative outlet online.</description>
+      <description>About ZooBerry Hi, Welcome. My name is Goosifer, but I used to go by other usernames. A long time ago I used to help run a couple of Zoo Tycoon websites named ZooMania and Northern Skies. I was also lucky to join a modding team named Artifex toward the very end of my time in the scene. Though I was incredibly young and still in high school, I consider it one of the coolest experiences and was able to learn a lot of fun tech while I explored my creative outlet online.</description>
     </item>
     <item>
       <title>FAQ</title>
@@ -30,11 +30,11 @@
       <description>For Community Zoo Tek Phoenix The longest-running Zoo Tycoon forum, Zoo Tek Phoenix sports one of the nicest communities out there and are always keen on helping if you get stuck.&#xA;Zoo Tek Phoenix&#xA;The ZT2 Roundtable As the name suggests, this community is more geared toward fans of the Zoo Tycoon sequel. Still, it has one of the largest communities for the game still around.&#xA;The ZT2 Roundtable&#xA;The r/ZooTycoon Subreddit Zoo Tycoon carries a large presence on Reddit and should quickly be a familiar format to any used to the karma-scoring link aggregator.</description>
     </item>
     <item>
-      <title>Licenses and Credits</title>
+      <title>Licenses</title>
       <link>http://localhost:1313/knowledgebase/zooberry/licenses/</link>
       <pubDate>Tue, 04 Jul 2023 00:51:18 -0700</pubDate>
       <guid>http://localhost:1313/knowledgebase/zooberry/licenses/</guid>
-      <description>Licenses Attribution for the tech involved in the creation of ZooBerry and their licenses.&#xA;MIT License Copyright (c) 2020 Eric Davis&#xA;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+      <description>Licenses Attribution for the tech involved in the creation of ZooBerry and their licenses.&#xA;Galleria ZooBerry uses a slightly-modified version of GalleriaJS to display mod images.&#xA;The MIT License&#xA;Copyright (c) 2016 worse is better UG http://wib.io&#xA;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
     </item>
     <item>
       <title>Terms of Service</title>
