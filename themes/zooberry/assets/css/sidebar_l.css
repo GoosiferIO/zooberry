@@ -8,7 +8,7 @@
     max-width: 250px;
     height: 100vh;
     background: var(--sidebar-bg);
-    scrollbar-color: #324363 #1b263b;
+    scrollbar-color: var(--accent-bg) var(--shade-bg);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     overflow: hidden;
     transition: all 0.3s;
@@ -320,7 +320,7 @@ li.submenu-back a {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: var(--sidebar-hover);
+  background-color: var(--tbody-bg-alt);
   transition: 0.4s;
   border-radius: 34px;
   z-index: 1;
