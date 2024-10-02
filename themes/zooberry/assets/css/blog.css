@@ -109,14 +109,12 @@ margin: 0.5rem 0;
 div.article-post img {
     display: block;
     margin: 0 auto;
-    border-radius: 20px;
+    max-width: 500px;
 }
 
 .article-post {
     width: calc(100% - 4rem);
     margin-right: 2rem;
-    padding: 2rem;
-    border-radius: 20px;
     padding: 2rem;
     background: var(--tbody-bg);
 }
@@ -158,7 +156,6 @@ div.article-post img {
     position: sticky;
     top: 2rem; /* Stick to the top */
     padding: 2rem;
-    border-radius: 20px;
     background: var(--shade-bg);
     z-index: 1000;
     width: 300px;
@@ -182,7 +179,6 @@ div.article-post img {
 }
 
 .post-subheader {
-    border-radius: 20px;
     margin-bottom: 1rem;
     padding: 1rem 2rem;
     background: var(--thead-bg);

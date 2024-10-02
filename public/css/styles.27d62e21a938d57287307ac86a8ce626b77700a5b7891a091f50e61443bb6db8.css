@@ -2,7 +2,6 @@
     background-color: var(--shade-bg);
     color: var(--link-color);
     padding: 0.2rem 0.5rem;
-    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
     width: max-content;
@@ -12,7 +11,6 @@
     background-color: var(--animals);
     color: var(--contrast-font);
     padding: 0.2rem 0.5rem;
-    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
 }
@@ -21,7 +19,6 @@
     background-color: var(--objects);
     color: var(--contrast-font);
     padding: 0.2rem 0.5rem;
-    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
 }
@@ -39,7 +36,6 @@
     background-color: var(--expansive-packs);
     color: var(--contrast-font);
     padding: 0.2rem 0.5rem;
-    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
 }
@@ -48,7 +44,6 @@
     background-color: var(--packs);
     color: var(--contrast-font);
     padding: 0.2rem 0.5rem;
-    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
 }
@@ -57,7 +52,6 @@
     background-color: var(--assets);
     color: var(--contrast-font);
     padding: 0.2rem 0.5rem;
-    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
 }
@@ -66,7 +60,6 @@
     background-color: var(--hacks);
     color: var(--contrast-font);
     padding: 0.2rem 0.5rem;
-    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
 }
@@ -75,7 +68,6 @@
     background-color: var(--tools-utilities);
     color: var(--contrast-font);
     padding: 0.2rem 0.5rem;
-    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
 }
@@ -84,7 +76,6 @@
     background-color: var(--texture-mods);
     color: var(--contrast-font);
     padding: 0.2rem 0.5rem;
-    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
 }
@@ -93,7 +84,6 @@
     background-color: var(--remakes);
     color: var(--contrast-font);
     padding: 0.2rem 0.5rem;
-    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
 }
@@ -102,7 +92,6 @@
     background-color: var(--biomes);
     color: var(--contrast-font);
     padding: 0.2rem 0.5rem;
-    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
 }
@@ -314,7 +303,6 @@ div.article-post img {
     gap: 0.5rem;
     margin-bottom: 1rem;
     background: var(--shade-bg);
-    border-radius: 20px;
     padding: 0.5rem 2rem;
 }
 
@@ -342,7 +330,6 @@ div.article-post img {
     background: var(--accent-bg);
     color: var(--font-color);
     padding: 0.5rem 1rem;
-    border-radius: 20px;
     transition: all 0.3s ease 0s;
     margin: 1rem 0;
     width: max-content;
@@ -386,7 +373,6 @@ div.sidebar_r-inner a.button-dft {
 
 .box-card-mods {
     background-color: var(--tbody-bg);
-    border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     display: flex;
     flex-direction: column;
@@ -437,7 +423,6 @@ div.sidebar_r-inner a.button-dft {
 }
 
 .box-card-mods-img img {
-    border-radius: 10px 10px 0 0;
     width: 100%;
 }
 
@@ -498,7 +483,6 @@ div.sidebar_r-inner a.button-dft {
 .blog-card-list img {
     width: 100%;
     height: 200px;
-    border-radius: 20px;
 }
 
 .box-card-blogs {
@@ -525,7 +509,6 @@ div.sidebar_r-inner a.button-dft {
 
 .blog-card-content span {
     padding: 0.5rem 0.8rem;
-    border-radius: 20px;
     font-size: 0.7rem;
     margin-top: 1rem;
     background-color: var(--animals);
@@ -628,7 +611,7 @@ span.blog-card-update {
   --body-pattern: repeating-linear-gradient( 45deg, var(--shade-bg), var(--shade-bg) 1px, var(--primary-bg) 1px, var(--primary-bg) 25px );
 
   /* Font Colors */
-  --font-color: #6f5e5e;
+  --font-color: #4f4423;
   --link-color: #615252;
   --link-hover-color: #ad7335;
   --contrast-font: var(--primary-bg);
@@ -706,7 +689,6 @@ main {
 }
 
 .box-frontpage {
-  border-radius: 20px;
   border: 1px solid var(--secondary-border);
   padding: 2rem;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -735,7 +717,6 @@ code {
   color: var(--font-color);
   background: var(--code);
   padding: 0.005rem 0.4rem;
-  border-radius: 20px;
   font-family: 'Courier New', Courier, monospace;
   display: inline-block;
   word-wrap: break-word;
@@ -751,7 +732,6 @@ blockquote {
 pre {
   background: var(--codeblock) !important;
   padding: 2rem;
-  border-radius: 20px;
   white-space: pre-wrap;
   overflow-x: auto;
 }
@@ -764,7 +744,6 @@ pre code {
 .cat-blurb  {
   background: var(--thead-bg);  
   padding: 1rem;
-  border-radius: 20px;
   margin: -0.5rem 0 1rem 0;
 }
 
@@ -1317,7 +1296,6 @@ a.filter-bar-active {
     flex-direction: column;
     justify-content: space-between;
     background-color: var(--secondary-bg);
-    border-radius: 20px;
     margin-top: 2rem;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -1357,7 +1335,6 @@ a.filter-bar-active {
     width: 100%;
     height: 200px;
     object-fit: cover;
-    border-radius: 0 0 20px 20px;
     background-color: var(--secondary-bg);
     background-image: url('https://ladygeekgirl.wordpress.com/wp-content/uploads/2015/06/zoo-tycoon-1.jpg');
     background-position: center;
@@ -1374,7 +1351,6 @@ a.filter-bar-active {
     width: calc(100% - 4rem);
     margin: 1rem 0;
     background: var(--thead-bg);
-    border-radius: 20px;
     padding: 2rem;
 }
 
@@ -1395,7 +1371,6 @@ a.filter-bar-active {
     background: var(--primary-bg);
     border: 1px solid var(--secondary-border);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 20px;
     font-size: 14px;
     display: flex;
     flex-direction: column;
@@ -1434,8 +1409,7 @@ span.author-meta a.badge-default {
     flex-direction: column;
     justify-content:center;
     padding: 1rem 2rem;
-    border-radius: 20px;
-    background: var(--thead-bg);
+    background: var(--tbody-bg);
     width: 60%;
     margin-right: 1rem;
 }
@@ -1470,7 +1444,6 @@ span.author-meta a.badge-default {
     grid-template-columns: 1fr 1fr;
     justify-content: space-between;
     background-color: var(--tbody-bg);
-    border-radius: 20px;
     i {
         padding: 0 0.5rem;
     }
@@ -1512,7 +1485,6 @@ span.author-meta a.badge-default {
     padding: 0;
     margin: 0;
     background-color: var(--thead-bg);
-    border-radius: 20px;
     padding: 1rem 2rem;
     display: flex;
     flex-direction: column;
@@ -1639,7 +1611,6 @@ div.post-subheader i {
 .mod-description-content {
     padding: 2rem;
     background: var(--thead-bg);
-    border-radius: 20px;
 }
 
 .mod-files {
@@ -1651,7 +1622,6 @@ div.post-subheader i {
 /* Mod files table */
 
 table.mod-meta {
-    margin-bottom: 20px;
     padding: 10px;
     border-radius: 3px;
     font-size: 14px;
@@ -1682,15 +1652,6 @@ table.mod-meta .tr-alt {
     width: 100%;
     border-collapse: separate;
     border-spacing: 0;
-    border-radius: 20px;
-}
-
-.mod-files-table tr:last-child td:first-child {
-    border-radius: 0 0 0 20px;
-}
-
-.mod-files-table tr:last-child td:last-child {
-    border-radius: 0 0 20px 0;
 }
 
 .mod-files-table th {
@@ -1698,14 +1659,6 @@ table.mod-meta .tr-alt {
     color: var(--thead-text);
     font-weight: bold;
     text-align: left;
-}
-
-.mod-files-table  th:first-child {
-    border-radius: 20px 0 0 0;
-}
-
-.mod-files-table  th:last-child {
-    border-radius: 0 20px 0 0;
 }
 
 .mod-files-table th,
@@ -1861,7 +1814,6 @@ li.page-item a {
   text-decoration: none;
   color: var(--font-color);
   background-color: var(--shade-bg);
-  border-radius: 20px;
   margin-right: 0.25rem;
   border: 1px solid var(--shade-bg);
 }
@@ -2140,7 +2092,6 @@ li.submenu-back a {
   text-align: center;
   padding: 0.25rem 0 0.25rem 0.5rem;
   border: 2px solid var(--sidebar-bg);
-  border-radius: 20px;
   width: calc(99% - 2rem);
   margin: 0 auto;
   background-color: var(--sidebar-hover);
@@ -2236,7 +2187,6 @@ li.submenu-back a {
   }.sidebar_r {
     width: 30%;
     display: block;
-    border-radius: 20px;
     padding: 2rem;
     top: 2rem;
     float: right;

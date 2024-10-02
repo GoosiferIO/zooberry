@@ -11,7 +11,6 @@
     width: calc(100% - 4rem);
     margin: 1rem 0;
     background: var(--thead-bg);
-    border-radius: 20px;
     padding: 2rem;
 }
 
@@ -32,7 +31,6 @@
     background: var(--primary-bg);
     border: 1px solid var(--secondary-border);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 20px;
     font-size: 14px;
     display: flex;
     flex-direction: column;
@@ -71,8 +69,7 @@ span.author-meta a.badge-default {
     flex-direction: column;
     justify-content:center;
     padding: 1rem 2rem;
-    border-radius: 20px;
-    background: var(--thead-bg);
+    background: var(--tbody-bg);
     width: 60%;
     margin-right: 1rem;
 }
@@ -107,7 +104,6 @@ span.author-meta a.badge-default {
     grid-template-columns: 1fr 1fr;
     justify-content: space-between;
     background-color: var(--tbody-bg);
-    border-radius: 20px;
     i {
         padding: 0 0.5rem;
     }
@@ -149,7 +145,6 @@ span.author-meta a.badge-default {
     padding: 0;
     margin: 0;
     background-color: var(--thead-bg);
-    border-radius: 20px;
     padding: 1rem 2rem;
     display: flex;
     flex-direction: column;
@@ -276,7 +271,6 @@ div.post-subheader i {
 .mod-description-content {
     padding: 2rem;
     background: var(--thead-bg);
-    border-radius: 20px;
 }
 
 .mod-files {
@@ -288,7 +282,6 @@ div.post-subheader i {
 /* Mod files table */
 
 table.mod-meta {
-    margin-bottom: 20px;
     padding: 10px;
     border-radius: 3px;
     font-size: 14px;
@@ -319,15 +312,6 @@ table.mod-meta .tr-alt {
     width: 100%;
     border-collapse: separate;
     border-spacing: 0;
-    border-radius: 20px;
-}
-
-.mod-files-table tr:last-child td:first-child {
-    border-radius: 0 0 0 20px;
-}
-
-.mod-files-table tr:last-child td:last-child {
-    border-radius: 0 0 20px 0;
 }
 
 .mod-files-table th {
@@ -335,14 +319,6 @@ table.mod-meta .tr-alt {
     color: var(--thead-text);
     font-weight: bold;
     text-align: left;
-}
-
-.mod-files-table  th:first-child {
-    border-radius: 20px 0 0 0;
-}
-
-.mod-files-table  th:last-child {
-    border-radius: 0 20px 0 0;
 }
 
 .mod-files-table th,
