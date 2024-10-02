@@ -191,18 +191,18 @@
       <description>Shark Pack Total Remake is an expansive pack for Zoo Tycoon 2 created by zerosvalmont.</description>
     </item>
     <item>
-      <title>Maps</title>
-      <link>http://localhost:1313/mods/zt2/maps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mods/zt2/maps/</guid>
-      <description>Experience new zoos created from other master zoo-builders.</description>
-    </item>
-    <item>
       <title>Lavender Fields</title>
       <link>http://localhost:1313/mods/zt2/maps/lavender-fields/</link>
       <pubDate>Tue, 25 Jun 2024 18:33:48 -0700</pubDate>
       <guid>http://localhost:1313/mods/zt2/maps/lavender-fields/</guid>
       <description>Lavender Fields is a map for Zoo Tycoon 2 created by Wiene.</description>
+    </item>
+    <item>
+      <title>Maps</title>
+      <link>http://localhost:1313/mods/zt2/maps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/maps/</guid>
+      <description>Experience new zoos created from other master zoo-builders.</description>
     </item>
     <item>
       <title>Paranoia Graveyard</title>
@@ -928,7 +928,7 @@
     <item>
       <title>Lego&#39;s Revamped Biome System</title>
       <link>http://localhost:1313/mods/zt2/tools-utilities/legos-revamped-biome-system/</link>
-      <pubDate>Fri, 19 Jan 2024 03:57:32 +0000</pubDate>
+      <pubDate>Fri, 19 Jan 2024 14:38:31 -0700</pubDate>
       <guid>http://localhost:1313/mods/zt2/tools-utilities/legos-revamped-biome-system/</guid>
       <description>This is the second version of the biome system, which allows designers to create biomes with different codenames, instead of using a pre-defined and numbered registry.</description>
     </item>
