@@ -1,7 +1,7 @@
 .inner-nav  {
     display: flex;
     flex-direction: row;
-    background: var(--accent-bg);
+    background: var(--thead-bg);
     border-bottom: 1px solid var(--secondary-border);
     width: 100%;
     margin: 0 auto;
