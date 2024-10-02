@@ -243,13 +243,13 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             {{ if eq .Params.game "Zoo Tycoon 1" }}
-                                                <a href="mods/zt1">{{ .Params.game }}</a>
+                                                <a href="{{ .Site.BaseURL }}/mods/zt1/tags/all">{{ .Params.game }}</a>
                                             {{ else if eq .Params.game "Zoo Tycoon 2" }}
-                                                <a href="mods/zt2">{{ .Params.game }}</a>
+                                                <a href="{{ .Site.BaseURL }}/mods/zt2/tags/all">{{ .Params.game }}</a>
                                             {{ else }}
-                                                {{ .Params.game }}
+                                                <a href="{{ .Site.BaseURL }}mods/assets">Assets</a>
                                             {{ end }}
-                                            </p>
+                                                                        </p>
                                         <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
                                         <p>by 
                                             {{ $authors := .Params.author }}
