@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animal Enrichment, Food, and Shelters on ZooBerry</title>
+    <link>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/</link>
+    <description>Recent content in Animal Enrichment, Food, and Shelters on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2024 02:05:14 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rack of Ribs</title>
+      <link>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/rack-of-ribs/</link>
+      <pubDate>Sun, 23 Jun 2024 02:05:14 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/rack-of-ribs/</guid>
+      <description>A rack of ribs food enrichment item for Zoo Tycoon 2.</description>
+    </item>
+    <item>
+      <title>Mystery Meat Carcass</title>
+      <link>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/mystery-meat-carcass/</link>
+      <pubDate>Sat, 22 Jul 2023 09:04:01 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/mystery-meat-carcass/</guid>
+      <description>A carcass with a mysterious green meat inside.</description>
+    </item>
+    <item>
+      <title>Meat in a Wooden Trough</title>
+      <link>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/meat-in-a-wooden-trough/</link>
+      <pubDate>Sat, 22 Jul 2023 09:00:35 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/meat-in-a-wooden-trough/</guid>
+      <description>A wooden trough with red meat in it.</description>
+    </item>
+    <item>
+      <title>Insect Dish</title>
+      <link>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/insect-dish/</link>
+      <pubDate>Sat, 22 Jul 2023 08:52:35 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/insect-dish/</guid>
+      <description>This is a dish containing insects to be eaten from by insectivores.</description>
+    </item>
+    <item>
+      <title>Mystery Meat Trough</title>
+      <link>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/mystery-meat-trough/</link>
+      <pubDate>Sat, 22 Jul 2023 08:01:51 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/mystery-meat-trough/</guid>
+      <description>A trough with green meat in it.</description>
+    </item>
+    <item>
+      <title>Mystery Meat Dish</title>
+      <link>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/mystery-meat-dish/</link>
+      <pubDate>Fri, 21 Jul 2023 22:04:11 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/mystery-meat-dish/</guid>
+      <description>A dish with the green meat inside.</description>
+    </item>
+    <item>
+      <title>Biome Shelter Pack</title>
+      <link>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/biome-shelter-pack/</link>
+      <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/biome-shelter-pack/</guid>
+      <description>Enjoy this trio of shelters made by ShenTirag!</description>
+    </item>
+  </channel>
+</rss>

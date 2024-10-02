@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZooBerry</title>
+    <link>http://localhost:1313/knowledgebase/zooberry/</link>
+    <description>Recent content on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/knowledgebase/zooberry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contribute to ZooBerry</title>
+      <link>http://localhost:1313/knowledgebase/zooberry/contribute-to-zooberry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledgebase/zooberry/contribute-to-zooberry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Create Your Own Mods</title>
+      <link>http://localhost:1313/knowledgebase/zooberry/create-your-own-mods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledgebase/zooberry/create-your-own-mods/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How to Install Maps</title>
+      <link>http://localhost:1313/knowledgebase/zooberry/how-to-install-maps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledgebase/zooberry/how-to-install-maps/</guid>
+      <description>Getting Started Zoo Tycoon 1 Zoo Tycoon 2 </description>
+    </item>
+    <item>
+      <title>How to Install Mods</title>
+      <link>http://localhost:1313/knowledgebase/zooberry/how-to-install-mods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledgebase/zooberry/how-to-install-mods/</guid>
+      <description>Getting Started This page will lay out the basics of OpenZT modding, including filetypes, folder layout and meta info&#xA;Zoo Tycoon 1 Zoo Tycoon 2 </description>
+    </item>
+  </channel>
+</rss>

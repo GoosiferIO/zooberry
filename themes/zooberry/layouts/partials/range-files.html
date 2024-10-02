@@ -2,33 +2,58 @@
 
 {{ $files := .Resources.Match "/*.zip" }}
 {{ $fileCount := len $files }}
+{{/* Get unique list of .Params.mod_list.category */}}
+{{ $categories := slice }}
+{{ range .Params.mod_list }}
+    {{ $categories = union $categories (slice .category) }}
+{{ end }}
+
+{{ $modList := .Params.mod_list }}
+{{ $rel := .RelPermalink}}
+
 {{ if gt $fileCount 1 }}
-        {{ range .Params.mod_list }}
-        <tr>
-
+    {{ range $categories }}
+        {{ $curCategory := . }}
+        <table class="mod-list-table" style="margin-bottom: 1rem;">
+            <colgroup>
+                <col style="width: 30%">
+                <col style="width: 20%">
+                <col style="width: 20%">
+                <col style="width: 30%">
+            </colgroup>
+            <thead>
+                <tr>
+                    <th colspan="4">{{ . }}</th>
+                </tr>
+            </thead>
+        {{ range $modList }}
             {{ with . }}
-                <td class="mod-list-item">
-                    {{ .name }}.zip
-                </td>
-                <td class="mod-list-item">
-                    {{  .file_size }}
-                </td>
-                <td class="mod-list-item">
-                    {{ .Params.uploaded.Format "2 Jan 2006" }}
-                </td>
-                <td class="mod-list-item">
-                    <a class="button-dft margin-top" href="{{ .RelPermalink }}"><i class="material-icons icon">download</i> Download</a>
-                </td>
-        </tr>   
-        <tr>
-            <td class="mod-list-item" colspan="5">
-                {{ .description }}
-            </td>
-        </tr>
-        {{ end }}
+                {{ if eq $curCategory .category }}
+                <tr>
 
-
+                        <td class="mod-list-item">
+                            {{ .name }}.zip
+                        </td>
+                        <td class="mod-list-item">
+                            {{  .file_size }}
+                        </td>
+                        <td class="mod-list-item">
+                            {{ .uploaded }}
+                        </td>
+                        <td class="mod-list-item" style="text-align: center;">
+                            <a class="button-dft margin-top" href="{{ $rel }}{{ .name }}.zip"><i class="material-icons icon">download</i> Download</a>
+                        </td>
+                </tr>   
+                <tr>
+                    <td class="mod-list-item" colspan="4">
+                        {{ .description }}
+                    </td>
+                </tr>
+                {{ end }}
+            {{ end }}
         {{ end }}
+        </table>
+    {{ end }}
 {{ else if eq $fileCount 1 }}
     {{ range $files }}
         <tr>
