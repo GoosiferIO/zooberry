@@ -19,7 +19,6 @@
     gap: 1rem;    width: 92%;
     background-color: var(--tbody-bg);
     padding: 2rem;
-    border-radius: 20px;
     margin-top: 2rem;
 }
 
@@ -53,7 +52,6 @@
     align-items: center; 
     background: var(--thead-bg-alt);
     padding: 0.5rem 0 0.5rem 2rem;
-    border-radius: 20px;
     text-align: center;
     border: 2px solid var(--thead-bg-alt);
     vertical-align: middle;
