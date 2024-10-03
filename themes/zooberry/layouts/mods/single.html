@@ -25,65 +25,75 @@
         {{ partial "sidebar_r-mods.html" . }}
       </div>
       <div class="mod-info">
-        <div class="mod-info-content">
-            <div>
-              <ul class="meta-group">
-                <li>
-                  <i class="material-icons icon">sports_esports</i>
-                  <span class="meta-name">Game</span>
-                  <p>{{ .Params.game }}</p>
-                </li>
-                <li>
-                  <i class="material-icons icon">grid_on</i>
-                  <span class="meta-name">Required Expansions</span>
-                  <p>{{ partial "class-reqexp.html" . }}</p>
-                </li>
-                <li>
-                  <i class="material-icons icon">calendar_today</i>
-                  <span class="meta-name">Original Release</span>
-                  <p>{{ .Params.orig_rel_date }}</p>
-                </li>
-              </ul>
-              <ul class="meta-group">
-                <li>
-                  <i class="material-icons icon">roofing</i>
-                  <span class="meta-name">Original Platform</span>
-                  <p>
-                  {{ range .Params.orig_rel_at }}
-                    {{ . }}
-                  {{ end }}
-                  </p>
-                </li>
-                <li>
-                  <i class="material-icons icon">change_circle</i>
-                  <span class="meta-name">Derivative Works Allowed?</span>
-                  <p>{{ .Params.license }}</p>
-                </li>
-                <li>
-                  <i class="material-icons icon">language</i>
-                  <span class="meta-name">Languages</span>
-                  <p>{{ partial "class-languages.html" . }}</p>
-                </li>
-              </ul>
-            </div>
-        </div>
-          <ul class="mod-info-links">
-            <li><h3>Quick Access</h3></li>
-            <li class="side-li-contribute-to-zooberry">
-              <a href="/contribute-to-zooberry">Contribute to ZooBerry</a>
-            </li>
-            <li class="side-li-how-to-install-mods">
-                <a href="/knowledgebase/how-to-install-mods">How to Install Mods</a>
-            </li>
-        
-            <li class="side-li-how-to-install-maps">
-                <a href="//knowledgebase/how-to-install-maps">How to Install Maps</a>
-            </li>
-        
-            <li class="side-li-create-your-own-mods">
-                <a href="#">Create Your Own Mods</a>
-            </li>
-          </ul>
+        <table>
+          <tr>
+            <td>
+              <span class="meta-name">Game</span>
+            </td>
+            <td>
+              <p>{{ .Params.game }}</p>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span class="meta-name">Required Expansions</span>
+            </td>
+            <td>
+              {{ partial "class-reqexp.html" . }}
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span class="meta-name">Original Release</span>
+            </td>
+            <td>
+              {{ .Params.orig_rel_date }}
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span class="meta-name">Original Platform</span>
+            </td>
+            <td>
+              {{ range .Params.orig_rel_at }}
+                {{ . }}
+              {{ end }}
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span class="meta-name">Derivative Works Allowed?</span>
+            </td>
+            <td>
+              {{ .Params.license }}            
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span class="meta-name">Languages</span>
+            </td>
+            <td>
+              {{ partial "class-languages.html" . }}
+            </td>
+          </tr>
+        </table>
+        <ul class="mod-info-links">
+          <li><h3>Quick Access</h3></li>
+          <li class="side-li-contribute-to-zooberry">
+            <a href="/contribute-to-zooberry">Contribute to ZooBerry</a>
+          </li>
+          <li class="side-li-how-to-install-mods">
+              <a href="/knowledgebase/how-to-install-mods">How to Install Mods</a>
+          </li>
+      
+          <li class="side-li-how-to-install-maps">
+              <a href="//knowledgebase/how-to-install-maps">How to Install Maps</a>
+          </li>
+      
+          <li class="side-li-create-your-own-mods">
+              <a href="#">Create Your Own Mods</a>
+          </li>
+        </ul>
       </div>
     <div class="mod-post">
       <div class="mod-description">
