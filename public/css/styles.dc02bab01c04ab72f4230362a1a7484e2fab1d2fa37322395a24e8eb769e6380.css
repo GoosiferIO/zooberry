@@ -1035,6 +1035,18 @@ footer ul {
 .foot-col p {
     font-size: 0.8rem;
     opacity: 40%;
+}
+
+@media screen and (max-width: 960px) {
+    .foot-ctr {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .foot-ctr div:nth-child(4) {
+        width: 100%;
+        grid-area: 1 / 1 / 2 / 4;
+    }
 }.icon {
     color: var(--link-color);
     vertical-align: middle;
@@ -1102,7 +1114,8 @@ footer ul {
     display: grid;
     /* 3 columns */
     grid-template-columns: repeat(3, 1fr);
-    gap: 1rem;    width: 92%;
+    gap: 1rem;    
+    width: 92%;
     background-color: var(--tbody-bg);
     padding: 2rem;
     margin-top: 2rem;
@@ -1296,18 +1309,18 @@ span.author-meta a.badge-default {
     justify-content: space-evenly;
 }
 
+.mod-info table {
+    width: 100%;
+    margin-right: 1rem;
+}
+
+.mod-info table td {
+    padding-left: 2rem;
+}
+
 .meta-name {
     font-weight: bold;
     color: var(--accent-text);
-}
-
-.meta-group {
-    padding: 2rem;
-
-}
-
-.meta-group p {
-    margin: 0.5rem 0;
 }
 
 .mod-deets {
@@ -1540,7 +1553,21 @@ table.mod-meta .tr-alt {
     width: auto;
 }
 
-.nav-menu {
+/* MEDIA QUERIES */
+
+@media screen and (max-width: 1345px) {
+    .mod-header {
+        flex-direction: column;
+    }
+
+    div.galleria {
+        width: 100% !important;
+    }
+
+    .mod-post-info {
+        width: 100%;
+    }
+}.nav-menu {
     height: 4rem;
     background-color: var(--shade-bg);
     position: fixed;

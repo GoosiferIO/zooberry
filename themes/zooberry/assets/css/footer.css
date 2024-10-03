@@ -32,3 +32,15 @@ footer ul {
     font-size: 0.8rem;
     opacity: 40%;
 }
+
+@media screen and (max-width: 960px) {
+    .foot-ctr {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .foot-ctr div:nth-child(4) {
+        width: 100%;
+        grid-area: 4 / 1 / 5 / 4;
+    }
+}

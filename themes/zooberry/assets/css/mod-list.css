@@ -16,7 +16,8 @@
     display: grid;
     /* 3 columns */
     grid-template-columns: repeat(3, 1fr);
-    gap: 1rem;    width: 92%;
+    gap: 1rem;    
+    width: 92%;
     background-color: var(--tbody-bg);
     padding: 2rem;
     margin-top: 2rem;

@@ -1035,6 +1035,19 @@ footer ul {
 .foot-col p {
     font-size: 0.8rem;
     opacity: 40%;
+}
+
+@media screen and (max-width: 960px) {
+    .foot-ctr {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-area: 1 / 1 / 2 / 4;
+
+    }
+
+    .foot-ctr div:nth-child(4) {
+        width: 100%;
+    }
 }.icon {
     color: var(--link-color);
     vertical-align: middle;
@@ -1102,7 +1115,8 @@ footer ul {
     display: grid;
     /* 3 columns */
     grid-template-columns: repeat(3, 1fr);
-    gap: 1rem;    width: 92%;
+    gap: 1rem;    
+    width: 92%;
     background-color: var(--tbody-bg);
     padding: 2rem;
     margin-top: 2rem;
@@ -1547,6 +1561,13 @@ table.mod-meta .tr-alt {
         flex-direction: column;
     }
 
+    div.galleria {
+        width: 100% !important;
+    }
+
+    .mod-post-info {
+        width: 100%;
+    }
 }.nav-menu {
     height: 4rem;
     background-color: var(--shade-bg);
