@@ -331,6 +331,8 @@ table.mod-meta .tr-alt {
 /* MEDIA QUERIES */
 
 @media screen and (max-width: 1345px) {
+
+    /* Sub-header */
     .mod-header {
         flex-direction: column;
     }
@@ -341,5 +343,17 @@ table.mod-meta .tr-alt {
 
     .mod-post-info {
         width: 100%;
+    }
+}
+
+@media screen and (max-width: 870px) {
+
+    .mod-info {
+        flex-direction: column;
+    }
+
+    .mod-info-links {
+        width: calc(100% - 4rem);
+        margin-top: 1rem;
     }
 }
