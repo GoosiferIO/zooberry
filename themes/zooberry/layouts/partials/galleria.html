@@ -9,7 +9,7 @@
     {{ end }}
     <script>
         (function() {
-            Galleria.loadTheme('{{ .Site.BaseURL }}js/galleria.twelve.js');
+            Galleria.loadTheme('{{ .Site.BaseURL }}js/galleria.{{ .Site.Params.galleriaTheme }}.js');
             Galleria.run('.galleria');
         }());
     </script>

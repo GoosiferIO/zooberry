@@ -5,16 +5,28 @@
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2024-10-01T18:51:37-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/knowledgebase/zooberry/about/</loc>
+    <loc>http://localhost:1313/knowledgebase/zooberry/site/about/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/knowledgebase/zooberry/faq/</loc>
+    <loc>http://localhost:1313/knowledgebase/zooberry/community/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knowledgebase/zooberry/site/faq/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/goosifer/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/knowledgebase/zooberry/other-websites/</loc>
+    <loc>http://localhost:1313/knowledgebase/zooberry/using-zooberry/how-to-install-mods/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knowledgebase/zooberry/community/other-websites/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knowledgebase/zooberry/site/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/knowledgebase/zooberry/using-zooberry/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/knowledgebase/</loc>
@@ -2366,16 +2378,16 @@
     <loc>http://localhost:1313/mods/zt2/animals/living/pine-marten/</loc>
     <lastmod>2023-07-18T17:30:46-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/knowledgebase/zooberry/licenses/</loc>
+    <loc>http://localhost:1313/knowledgebase/zooberry/site/licenses/</loc>
     <lastmod>2023-07-04T00:51:18-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/knowledgebase/zooberry/tos/</loc>
+    <loc>http://localhost:1313/knowledgebase/zooberry/site/tos/</loc>
     <lastmod>2023-07-04T00:51:18-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/knowledgebase/zooberry/submit/</loc>
+    <loc>http://localhost:1313/knowledgebase/zooberry/site/submit/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/</loc>
@@ -2413,13 +2425,11 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/knowledgebase/zooberry/contribute-to-zooberry/</loc>
+    <loc>http://localhost:1313/knowledgebase/zooberry/community/contribute-to-zooberry/</loc>
   </url><url>
-    <loc>http://localhost:1313/knowledgebase/zooberry/create-your-own-mods/</loc>
+    <loc>http://localhost:1313/knowledgebase/zooberry/community/create-your-own-mods/</loc>
   </url><url>
-    <loc>http://localhost:1313/knowledgebase/zooberry/how-to-install-maps/</loc>
-  </url><url>
-    <loc>http://localhost:1313/knowledgebase/zooberry/how-to-install-mods/</loc>
+    <loc>http://localhost:1313/knowledgebase/zooberry/using-zooberry/how-to-install-maps/</loc>
   </url><url>
     <loc>http://localhost:1313/latest/</loc>
   </url><url>
