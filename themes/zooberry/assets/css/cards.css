@@ -196,11 +196,6 @@ span.blog-card-update {
         grid-template-columns: repeat(2, minmax(200px, 1fr));
     }
 
-    .box-card-mods {
-        margin-right: 0;
-    }
-
-
     .blog-card-list {
         grid-template-columns: repeat(3, minmax(200px, 1fr));
     }

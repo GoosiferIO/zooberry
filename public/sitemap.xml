@@ -2,6 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/mods/zt2/tags/all/</loc>
+    <lastmod>2024-10-03T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/tags/all/</loc>
+    <lastmod>2024-10-03T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/all/</loc>
+    <lastmod>2024-10-03T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/tags/animals/</loc>
+    <lastmod>2024-10-03T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/tags/dinosaurs/</loc>
+    <lastmod>2024-10-03T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/packs/meow/</loc>
+    <lastmod>2024-10-03T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/tags/packs/</loc>
+    <lastmod>2024-10-03T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/packs/</loc>
+    <lastmod>2024-10-03T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/zarawatto/</loc>
+    <lastmod>2024-10-03T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/</loc>
+    <lastmod>2024-10-03T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/zt1/</loc>
+    <lastmod>2024-10-03T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/tags/zt1/</loc>
+    <lastmod>2024-10-03T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt2/tags/zt2/</loc>
+    <lastmod>2024-10-03T01:09:23+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2024-10-01T18:51:37-07:00</lastmod>
   </url><url>
@@ -35,41 +74,8 @@
     <loc>http://localhost:1313/knowledgebase/zooberry/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/tags/all/</loc>
-    <lastmod>2024-09-30T11:15:53-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mods/zt1/tags/all/</loc>
-    <lastmod>2024-09-30T11:15:53-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/all/</loc>
-    <lastmod>2024-09-30T11:15:53-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/mods/zt1/packs/bug-mayhem/</loc>
     <lastmod>2024-09-30T11:15:53-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mods/zt1/tags/packs/</loc>
-    <lastmod>2024-09-30T11:15:53-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mods/zt1/packs/</loc>
-    <lastmod>2024-09-30T11:15:53-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/zarawatto/</loc>
-    <lastmod>2024-09-30T11:15:53-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mods/zt1/</loc>
-    <lastmod>2024-09-30T11:15:53-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/zt1/</loc>
-    <lastmod>2024-09-30T11:15:53-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mods/zt1/tags/zt1/</loc>
-    <lastmod>2024-09-30T11:15:53-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mods/zt2/tags/zt2/</loc>
-    <lastmod>2024-09-30T11:15:53-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mods/zt1/tags/animals/</loc>
-    <lastmod>2024-09-30T09:34:23-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt1/animals/</loc>
     <lastmod>2024-09-30T09:34:23-07:00</lastmod>
@@ -78,9 +84,6 @@
     <lastmod>2024-09-30T09:34:23-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt1/tags/cryptids/</loc>
-    <lastmod>2024-09-30T09:34:23-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mods/zt1/tags/dinosaurs/</loc>
     <lastmod>2024-09-30T09:34:23-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt1/animals/eoraptor/</loc>
