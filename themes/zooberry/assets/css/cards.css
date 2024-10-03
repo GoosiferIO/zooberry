@@ -188,4 +188,30 @@ span.blog-card-update {
     .box-card-list {
         grid-template-columns: repeat(3, minmax(200px, 1fr));
     }
+
+}
+
+@media screen and (max-width: 720px) {
+    .box-card-list {
+        grid-template-columns: repeat(2, minmax(200px, 1fr));
+    }
+
+    .box-card-mods {
+        margin-right: 0;
+    }
+
+
+    .blog-card-list {
+        grid-template-columns: repeat(3, minmax(200px, 1fr));
+    }
+}
+
+@media screen and (max-width: 470px) {
+    .box-card-list {
+        grid-template-columns: repeat(1, minmax(200px, 1fr));
+    }
+
+    .blog-card-list {
+        grid-template-columns: repeat(1, minmax(200px, 1fr));
+    }
 }

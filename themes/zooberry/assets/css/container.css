@@ -218,3 +218,14 @@ pre code {
   width: 100%;
   border-left: 1px solid var(--secondary-border);
 }
+
+@media screen and (max-width: 1262px) {
+  .body-content {
+    width: 100%;
+    margin: 0;
+  }
+
+  div.sidebar_r {
+    display: none;
+  }
+}
