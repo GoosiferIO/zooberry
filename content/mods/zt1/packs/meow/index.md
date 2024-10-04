@@ -64,16 +64,21 @@ mod_list:
 
 Thanks for downloading **Mischievous Erradicators of Outside Wildlife (M.E.O.W.)**!!!
 
-This pack has two purposes:
+# This pack has two purposes
 
-1. I'm a cat lover and I will always be. But this pack, most by its own name, is a recall for all cat owners: We all must be responsible cat lovers! Because of this, remember: Neuter and vaccinate your kittens, but most important: Do NOT let them roam outdoors! Cats are an actual threat for ecosystems. This is no unsupported opinion, this is a fact!
+## Number One
 
-Further reading on cats damage to enviroment at: 
+I'm a cat lover and I will always be. But this pack, most by its own name, is a recall for all cat owners: We all must be responsible cat lovers! Because of this, remember: Neuter and vaccinate your kittens, but most important: Do NOT let them roam outdoors! Cats are an actual threat for ecosystems. This is no unsupported opinion, this is a fact!
+
+### Further reading on cats damage to enviroment
+
 - Loss, S., Will, T. & Marra, P. The impact of free-ranging domestic cats on wildlife of the United States. Nat Commun 4, 1396 (2013). https://doi.org/10.1038/ncomms2380
 - Trouwborst, A., Somsen, H. Domestic Cats (Felis catus) and European Nature Conservation Law—Applying the EU Birds and Habitats Directives to a Significant but Neglected Threat to Wildlife, Journal of Environmental Law, Volume 32, Issue 3, November 2020, Pages 391–415. https://doi.org/10.1093/jel/eqz035
 - Trouwborst, A, McCormack, PC, Martínez Camacho, E. Domestic cats and their impacts on biodiversity: A blind spot in the application of nature conservation law. People Nat. 2020; 2: 235– 250. https://doi.org/10.1002/pan3.10073
 
-2. Dedicated to my two cat sisters, Vega & Rigel, whose birthday is on September 7th. Also dedicated to all cat lovers! My beloved & I are both cat lovers: Meanwhile she loves sphynx cats, I'd rather wegies, which are the whole opposite. That's why those are the only ones with gender differencies (New version has now Brittish Longhair which also has gender differencies, as suggested by ZZ).
+## Number Two
+
+Dedicated to my two cat sisters, Vega & Rigel, whose birthday is on September 7th. Also dedicated to all cat lovers! My beloved & I are both cat lovers: Meanwhile she loves sphynx cats, I'd rather wegies, which are the whole opposite. That's why those are the only ones with gender differencies (New version has now Brittish Longhair which also has gender differencies, as suggested by ZZ).
 
 # Content List
 

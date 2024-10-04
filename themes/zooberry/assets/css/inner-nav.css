@@ -5,13 +5,14 @@
     border-bottom: 1px solid var(--secondary-border);
     width: 100%;
     margin: 0 auto;
+    justify-content: center;
   
     ul {
       list-style: none;
       display: flex;
       flex-direction: row;
       width: 100%;
-      margin: 1rem auto;
+      margin: 1rem 2rem;
       max-width:1280px;
       padding: 0;
     }
