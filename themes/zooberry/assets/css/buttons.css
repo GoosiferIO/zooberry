@@ -7,6 +7,8 @@
     transition: all 0.3s ease 0s;
     margin: 1rem 0;
     width: max-content;
+    white-space: nowrap;
+    flex-shrink: 0;
   }
   
   .button-dft:hover {

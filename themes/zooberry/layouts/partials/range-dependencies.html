@@ -12,9 +12,9 @@
                 <td class="mod-list-item">{{ .title }}</td>    
                 <td class="mod-list-item dep-item">
                     {{ if .internal }}
-                        <a class="button-dft margin-top dep-btn" href="{{ .url }}"><i class="material-icons icon">insert_drive_file</i> Visit Mod Page</a>
+                        <a class="button-dft margin-top dep-btn" href="{{ .url }}" target="_blank" rel="noopener noreferrer"><i class="material-icons icon">insert_drive_file</i> Visit Mod Page</a>
                     {{ else }}
-                        <a class="button-dft margin-top dep-btn" href="{{ .url }}"><i class="material-icons icon">open_in_new</i> External Link</a>
+                        <a class="button-dft margin-top dep-btn" href="{{ .url }}" target="_blank" rel="noopener noreferrer"><i class="material-icons icon">open_in_new</i> External Link</a>
                     {{ end }}
             </tr>
             <tr>

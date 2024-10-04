@@ -100,9 +100,9 @@ span.author-meta a.badge-default {
 
 .mod-deets {
     margin: 2rem 0 0.5rem;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
     background-color: var(--tbody-bg);
     i {
         padding: 0 0.5rem;
@@ -110,7 +110,13 @@ span.author-meta a.badge-default {
 }
 
 .mod-deets div {
-    padding: 1rem 2rem;
+    padding: 1rem 2rem 1rem 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
     color: var(--font-color);
 }
 
@@ -121,16 +127,16 @@ span.author-meta a.badge-default {
 }
 
 .mod-deets span {
-    width: 100%;
     padding: 0;
-    margin-left: -0.5rem;
+    flex: 0 0 auto;
     i {
         padding: 0;
         margin: 0;
     }
 }
 
-.mod-deets div:first-child {
+.mod-deets div:first-child,
+.mod-deets div:nth-child(2) {
     border-right: 1px solid var(--secondary-border);
 }
 

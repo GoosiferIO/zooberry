@@ -1,3 +1,6 @@
+{{ if .Params.redirect}}
+<meta http-equiv="refresh" content="0; url={{ .Site.BaseURL }}{{ .Params.redirect }}" />
+{{ end }}
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>

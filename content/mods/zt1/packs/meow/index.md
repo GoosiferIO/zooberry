@@ -20,7 +20,7 @@ mod_list:
   - name: ZwMEOWCombinedFiles
     title: MEOW Combined Files
     category: Combined Files
-    description: "This is the combined file for the M.E.O.W. pack. It includes all the animals, items, and bonus scenery items in one file. For single files, see below."
+    description: "Stop here if you just want the whole mod, no need to go further! This is the combined file for the M.E.O.W. pack. It includes all the animals, items, and bonus scenery items in one file. For single files, see below."
     file_size: 6.97 MB
     uploaded: 2024-10-03
   - name: ZwSiameseV2
@@ -122,8 +122,13 @@ mod_list:
 dependencies:
 - title: LANG--ZTCDD.dll
   url: http://www.ztcdd.org/DG/index.php?topic=3734.0
-  description: This mod requires a custom string table definition provided by this file. If not installed, the mod will not function correctly.
+  description: The shelter mod uses the Fancy Shelter ID from this file. Download it if you don't have it already. Only one of the two files in this dependency section is needed.
   external: true
+- title: LANG--fern-Tek.dll
+  url: https://zootekphoenix.com/forums/files/file/4861-lang-fern-tek-dll-file/
+  description: The shelter mod uses the Fancy Shelter ID from this file. Download it if you don't have it already.
+  external: true
+  
 ---
 
 Thanks for downloading **Mischievous Erradicators of Outside Wildlife (M.E.O.W.)**!!!
