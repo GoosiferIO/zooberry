@@ -107,7 +107,7 @@ div.blog-ctr {
     max-width: 1280px;
     margin: 0 auto;
     flex-direction: column;
-    padding: 2rem;
+    margin-right: 2rem;
 }
 
 div.article-post img {
@@ -158,12 +158,11 @@ div.article-post img {
 
 .article-toc {
     position: sticky;
-    top: 2rem; /* Stick to the top */
+    top: 2rem;
     padding: 2rem;
     background: var(--shade-bg);
     z-index: 1000;
     width: 300px;
-    margin-top: 2rem;
     height: max-content;
 
 }
@@ -188,6 +187,12 @@ div.article-post img {
     background: var(--thead-bg);
 }
 
-.post-subheader a, .post-date {
+.post-subheader a, .post-date, .blog-subheader a {
     font-weight: 200;
+}
+
+.blog-subheader {
+    margin: 1rem 0 2rem 0;
+    padding: 1rem 2rem;
+    background: var(--thead-bg);
 }
