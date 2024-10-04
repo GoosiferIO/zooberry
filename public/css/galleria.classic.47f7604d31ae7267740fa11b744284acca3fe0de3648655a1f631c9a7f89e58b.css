@@ -166,12 +166,11 @@
     left: 0;
     top: 0;
     height: 40px;
-    width: 25px;
+    width: 23px;
     z-index: 3;
     opacity: .8;
     filter: alpha(opacity=80);
-    background-color: var(--tbody-bg);
-    color: var(--font-color);
+    background-color: var(--shade-alt);
 }
 .galleria-theme-classic .galleria-thumb-nav-right {
     background-position: -578px 5px;
@@ -188,7 +187,7 @@
 .galleria-theme-classic.notouch .galleria-thumb-nav-right:hover {
     opacity: 1;
     filter: alpha(opacity=100);
-    filter: brightness(0.8);
+    background-color: #111;
 }
 .galleria-theme-classic.touch .galleria-thumb-nav-left:active,
 .galleria-theme-classic.touch .galleria-thumb-nav-right:active {

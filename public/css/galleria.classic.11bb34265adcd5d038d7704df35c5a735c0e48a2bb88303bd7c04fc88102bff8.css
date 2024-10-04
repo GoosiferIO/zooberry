@@ -188,7 +188,7 @@
 .galleria-theme-classic.notouch .galleria-thumb-nav-right:hover {
     opacity: 1;
     filter: alpha(opacity=100);
-    filter: brightness(0.8);
+    filter: brightness(0.1);
 }
 .galleria-theme-classic.touch .galleria-thumb-nav-left:active,
 .galleria-theme-classic.touch .galleria-thumb-nav-right:active {
