@@ -83,13 +83,14 @@
     {{ end }}
 
     {{/*  Get the latest mod's image  */}}
-    {{ $latestMod := index $modsByAuthor 0 }}
-    {{ $imageFromLatestMod := "" }}
+    {{ $shuffledMods := shuffle $modsByAuthor }}
+    {{ $shuffledMod := index $shuffledMods 0 }}
+    {{ $imageFromShuffledMod := "" }}
 
-    {{ if $latestMod }}
-        {{ $image := $latestMod.Resources.GetMatch "images/*" }}
+    {{ if $shuffledMod }}
+        {{ $image := $shuffledMod.Resources.GetMatch "images/*" }}
         {{ if $image }}
-            {{ $imageFromLatestMod = $image.RelPermalink }}
+            {{ $imageFromShuffledMod = $image.RelPermalink }}
         {{ end }}
     {{ end }}
 <div style="display: flex; flex-direction: column; margin: 2rem 0; width:100%;">
@@ -97,7 +98,7 @@
     <h1 style="margin:0;">{{ .Title }}</h1>
     <p style="margin:0;padding:0;"><i class="material-icons icon">extension</i> {{ $modCount }} Mods Published</p>
 
-    <div class="banner-box" style="margin: 2rem 0; width: 100%; background: center center / cover no-repeat url('{{ $imageFromLatestMod }}'); height: 300px;">
+    <div class="banner-box" style="margin: 2rem 0; width: 100%; background: center center / cover no-repeat url('{{ $imageFromShuffledMod }}'); height: 300px;">
 
     </div>
     <div style="display: flex; flex-direction: row;width: 100%;">
