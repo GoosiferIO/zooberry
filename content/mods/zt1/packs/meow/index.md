@@ -119,7 +119,11 @@ mod_list:
     category: Scenery
     file_size: 25.3 KB
     uploaded: 2024-10-03
-
+dependencies:
+- title: LANG--ZTCDD.dll
+  url: http://www.ztcdd.org/DG/index.php?topic=3734.0
+  description: This mod requires a custom string table definition provided by this file. If not installed, the mod will not function correctly.
+  external: true
 ---
 
 Thanks for downloading **Mischievous Erradicators of Outside Wildlife (M.E.O.W.)**!!!
