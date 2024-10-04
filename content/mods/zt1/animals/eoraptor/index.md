@@ -22,15 +22,20 @@ mod_list:
   - name: ZwEoraptorVanillaV2
     title: Eoraptor (Vanilla)
     category: Requires Dinosaur Digs 
-    description: "This version is the vanilla version of the Eoraptor. It is made to be compatible with the Dinosaur Digs expansion pack."
+    description: "This version is the vanilla version of the Eoraptor. It is made to be compatible with just the Dinosaur Digs expansion pack."
     file_size: 407 KB
     uploaded: 2024-09-30
   - name: ZwEoraptorRealHackV3
-    title: Hotdog Stand (Contest Mode)
+    title: Eoraptor (Realism Hack)
     category: Requires Realism Hack by VNDragon
     description: "This version is the Realism Hack version of the Eoraptor. It is made to be compatible with the Realism Hack by VNDragon. See below for dependency downloads."
     file_size: 407 KB
     uploaded: 2024-09-30
+dependencies:
+  - title: Realism Hack by VNDragon
+    link: https://zootekphoenix.com/forums/files/file/5330-dinosaur-digs-combined-realism-hack-by-vndragon/
+    external: true
+    description: "This mod is required for the Realism Hack version of the Eoraptor."
 ---
 
 Thanks for downloading Eoraptor!!!

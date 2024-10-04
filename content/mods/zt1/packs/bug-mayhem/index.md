@@ -21,27 +21,24 @@ languages:
 summary: A little expansion pack containing items for a full terrarium of arthropods!
 mod_list: 
   - name: ZwBugsComb
-    title: Eoraptor (Vanilla)
+    title: Combined File
     category: Combined Version
-    description: "This version has all the items in a single file. Simply unzip and drop the ztd in the ZT1 folder and you're ready to go!"
+    description: "This version has all the animals and foliage in a single file. Simply unzip and drop the ztd in the ZT1 folder and you're ready to go!"
     file_size: 3.85 MB
     uploaded: 2024-09-30
   - name: ZwNeuraV3
     title: Meganeura
     category: Animals
-    description: "Meganeura. Coniferous//Aquatic. Download this file if you only want the Meganeura."
     file_size: 1.96 MB
     uploaded: 2024-09-30
   - name: ZwScorpiusV3
     title: Pulmonoscorpius
     category: Animals
-    description: "Pulmonoscorpius. Coniferous forest. Download this file if you only want the Pulmonoscorpius."
     file_size: 2.08 MB
     uploaded: 2024-09-30
   - name: ZwArchV2
     title: Archaeopteris
     category: Foliage
-    description: "Archaeopteris. Coniferous forest + Water placeable! Download this file if you only want the Archaeopteris."
     file_size: 228 KB
     uploaded: 2024-09-30
 ---
