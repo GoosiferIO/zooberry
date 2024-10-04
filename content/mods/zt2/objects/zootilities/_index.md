@@ -1,10 +1,6 @@
 ---
 title: "Zootilities"
-game:
-exp_req: 
-file_size: 
-orig_rel_date:
-orig_rel_at:
+redirect: /mods/zt2/tags/zootilities/
 draft: false
 thumbnail: /zt2/objects/zootilities_thumb.jpg
 gallery:

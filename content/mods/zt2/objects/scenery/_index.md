@@ -1,10 +1,6 @@
 ---
 title: "Scenery"
-game:
-exp_req: 
-file_size: 
-orig_rel_date:
-orig_rel_at:
+redirect: /mods/zt2/tags/scenery/
 draft: false
 thumbnail: /zt2/objects/scenery_thumb.jpg
 gallery:

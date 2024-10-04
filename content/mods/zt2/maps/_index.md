@@ -2,6 +2,7 @@
 title: "Maps"
 layout: maps
 draft: false
+redirect: mods/zt2/tags/maps/
 alt_text: "Zt2 Maps"
 summary: "Experience new zoos created from other master zoo-builders."
 cascade:

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arches on ZooBerry</title>
+    <link>http://localhost:1313/mods/zt2/objects/arches/</link>
+    <description>Recent content in Arches on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Aug 2023 13:58:19 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/mods/zt2/objects/arches/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ibex Arch</title>
+      <link>http://localhost:1313/mods/zt2/objects/arches/ibex-arch/</link>
+      <pubDate>Sat, 05 Aug 2023 13:58:19 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/arches/ibex-arch/</guid>
+      <description>Ibex arch designed by badisbadis101.hugo</description>
+    </item>
+  </channel>
+</rss>

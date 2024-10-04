@@ -198,18 +198,18 @@
       <description>Shark Pack Total Remake is an expansive pack for Zoo Tycoon 2 created by zerosvalmont.</description>
     </item>
     <item>
-      <title>Maps</title>
-      <link>http://localhost:1313/mods/zt2/maps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mods/zt2/maps/</guid>
-      <description>Experience new zoos created from other master zoo-builders.</description>
-    </item>
-    <item>
       <title>Lavender Fields</title>
       <link>http://localhost:1313/mods/zt2/maps/lavender-fields/</link>
       <pubDate>Tue, 25 Jun 2024 18:33:48 -0700</pubDate>
       <guid>http://localhost:1313/mods/zt2/maps/lavender-fields/</guid>
       <description>Lavender Fields is a map for Zoo Tycoon 2 created by Wiene.</description>
+    </item>
+    <item>
+      <title>Maps</title>
+      <link>http://localhost:1313/mods/zt2/maps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/maps/</guid>
+      <description>Experience new zoos created from other master zoo-builders.</description>
     </item>
     <item>
       <title>Paranoia Graveyard</title>
@@ -233,17 +233,17 @@
       <description>Become an expert hacker and manipulate your Zoo Tycoon gameplay with these hacks!</description>
     </item>
     <item>
-      <title>Arches, Fences, and Viewing Canopies</title>
-      <link>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/</link>
+      <title>Fences</title>
+      <link>http://localhost:1313/mods/zt2/objects/fences/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/</guid>
-      <description>Tighten up your zoo with fences and new arches.</description>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/</guid>
+      <description>Fence in your animals with these decorative and functional fences!</description>
     </item>
     <item>
       <title>Iron Tunnel</title>
-      <link>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/iron-tunnel/</link>
+      <link>http://localhost:1313/mods/zt2/objects/fences/iron-tunnel/</link>
       <pubDate>Tue, 25 Jun 2024 18:12:43 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/iron-tunnel/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/iron-tunnel/</guid>
       <description>This dinosaur fence is perfect for large dinosaurs. There are also two smaller dinosaur fences, a vehicle gate and placeable cables. With these objects you can make a gate construction for Jeeps or zookeepers.</description>
     </item>
     <item>
@@ -422,17 +422,17 @@
       <description>Temperate Bridges is a map for Zoo Tycoon 2 created by ceej12.</description>
     </item>
     <item>
-      <title>Animal Enrichment, Food, and Shelters</title>
-      <link>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/</link>
+      <title>Animal Food</title>
+      <link>http://localhost:1313/mods/zt2/objects/animal-food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/animal-food/</guid>
       <description>Animal enrichment, food, and shelters to keep your animals fed and happy!</description>
     </item>
     <item>
       <title>Rack of Ribs</title>
-      <link>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/rack-of-ribs/</link>
+      <link>http://localhost:1313/mods/zt2/objects/animal-food/rack-of-ribs/</link>
       <pubDate>Sun, 23 Jun 2024 02:05:14 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/rack-of-ribs/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/animal-food/rack-of-ribs/</guid>
       <description>A rack of ribs food enrichment item for Zoo Tycoon 2.</description>
     </item>
     <item>
@@ -465,9 +465,9 @@
     </item>
     <item>
       <title>Peach Railing Fence</title>
-      <link>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/peach-rail-fence/</link>
+      <link>http://localhost:1313/mods/zt2/objects/fences/peach-rail-fence/</link>
       <pubDate>Sat, 22 Jun 2024 21:35:14 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/peach-rail-fence/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/peach-rail-fence/</guid>
       <description>Originally released as a teaser for The CRG Problem&amp;rsquo;s upcoming Barn Pack.</description>
     </item>
     <item>
@@ -759,16 +759,16 @@
     </item>
     <item>
       <title>Indoor Fences</title>
-      <link>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/indoor-fences/</link>
+      <link>http://localhost:1313/mods/zt2/objects/fences/indoor-fences/</link>
       <pubDate>Thu, 20 Jun 2024 18:43:14 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/indoor-fences/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/indoor-fences/</guid>
       <description>Indoor Fence made by Felipeepilef.</description>
     </item>
     <item>
       <title>Green Fence</title>
-      <link>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/green-fence/</link>
+      <link>http://localhost:1313/mods/zt2/objects/fences/green-fence/</link>
       <pubDate>Thu, 20 Jun 2024 18:42:53 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/green-fence/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/green-fence/</guid>
       <description>Green Fence made by Felipeepilef.</description>
     </item>
     <item>
@@ -878,16 +878,16 @@
     </item>
     <item>
       <title>Massai Fence</title>
-      <link>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/massai-fence/</link>
+      <link>http://localhost:1313/mods/zt2/objects/fences/massai-fence/</link>
       <pubDate>Fri, 22 Mar 2024 06:35:13 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/massai-fence/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/massai-fence/</guid>
       <description>A massai fence for your zoo!</description>
     </item>
     <item>
       <title>Stony Fence</title>
-      <link>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/stony-fence/</link>
+      <link>http://localhost:1313/mods/zt2/objects/fences/stony-fence/</link>
       <pubDate>Fri, 22 Mar 2024 06:30:27 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/stony-fence/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/stony-fence/</guid>
       <description>A stony fence for your zoo!</description>
     </item>
     <item>
@@ -1375,9 +1375,9 @@
     </item>
     <item>
       <title>Rusty Fences</title>
-      <link>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/shens-rusty-fences/</link>
+      <link>http://localhost:1313/mods/zt2/objects/fences/shens-rusty-fences/</link>
       <pubDate>Wed, 10 Jan 2024 09:26:07 +0000</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/shens-rusty-fences/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/shens-rusty-fences/</guid>
       <description>A pair of rusting metal fences, complete with chains and portholes! Perfect for placing alongside benthic animals!</description>
     </item>
     <item>
@@ -2488,9 +2488,9 @@
     </item>
     <item>
       <title>White Salt Fence</title>
-      <link>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/white-salt-fence/</link>
+      <link>http://localhost:1313/mods/zt2/objects/fences/white-salt-fence/</link>
       <pubDate>Fri, 10 Nov 2023 03:29:25 -0800</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/white-salt-fence/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/white-salt-fence/</guid>
       <description>White salt fence made by Robert.</description>
     </item>
     <item>
@@ -2838,10 +2838,17 @@
     </item>
     <item>
       <title>Alpine Viewing Area</title>
-      <link>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/alpine-viewing-area/</link>
+      <link>http://localhost:1313/mods/zt2/objects/canopies/alpine-viewing-area/</link>
       <pubDate>Sat, 05 Aug 2023 14:54:11 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/alpine-viewing-area/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/canopies/alpine-viewing-area/</guid>
       <description>The Alpine Viewing Area was designed by Zooasaurus</description>
+    </item>
+    <item>
+      <title>Canopies</title>
+      <link>http://localhost:1313/mods/zt2/objects/canopies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/canopies/</guid>
+      <description>Shade your guests and animals with these decorative canopies!</description>
     </item>
     <item>
       <title>Alpine Geological Model</title>
@@ -2865,17 +2872,24 @@
       <description>The Forgotten Spire was designed by Catc for the 2008 Coliseum Tournament.</description>
     </item>
     <item>
+      <title>Arches</title>
+      <link>http://localhost:1313/mods/zt2/objects/arches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/arches/</guid>
+      <description>Frame your paths and exhibits with these decorative arches!</description>
+    </item>
+    <item>
       <title>Ibex Arch</title>
-      <link>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/ibex-arch/</link>
+      <link>http://localhost:1313/mods/zt2/objects/arches/ibex-arch/</link>
       <pubDate>Sat, 05 Aug 2023 13:58:19 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/ibex-arch/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/arches/ibex-arch/</guid>
       <description>Ibex arch designed by badisbadis101.hugo</description>
     </item>
     <item>
       <title>Atlantis Viewing Area</title>
-      <link>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/atlantis-viewing-area/</link>
+      <link>http://localhost:1313/mods/zt2/objects/canopies/atlantis-viewing-area/</link>
       <pubDate>Sat, 05 Aug 2023 13:45:43 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/atlantis-viewing-area/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/canopies/atlantis-viewing-area/</guid>
       <description>An Atlantis-themed viewing canopy.</description>
     </item>
     <item>
@@ -2908,16 +2922,16 @@
     </item>
     <item>
       <title>Glass Fence</title>
-      <link>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/glass-fence/</link>
+      <link>http://localhost:1313/mods/zt2/objects/fences/glass-fence/</link>
       <pubDate>Thu, 03 Aug 2023 06:34:32 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/glass-fence/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/glass-fence/</guid>
       <description>This is the an all glass fence created by Gibbon-Fanatic with help from Penguinman. Enjoy!</description>
     </item>
     <item>
       <title>Shen&#39;s Fences Pack</title>
-      <link>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/fences-pack/</link>
+      <link>http://localhost:1313/mods/zt2/objects/fences/fences-pack/</link>
       <pubDate>Thu, 03 Aug 2023 06:34:32 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/fences-pack/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/fences-pack/</guid>
       <description>10 new fences!</description>
     </item>
     <item>
@@ -3223,16 +3237,16 @@
     </item>
     <item>
       <title>Mystery Meat Carcass</title>
-      <link>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/mystery-meat-carcass/</link>
+      <link>http://localhost:1313/mods/zt2/objects/animal-food/mystery-meat-carcass/</link>
       <pubDate>Sat, 22 Jul 2023 09:04:01 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/mystery-meat-carcass/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/animal-food/mystery-meat-carcass/</guid>
       <description>A carcass with a mysterious green meat inside.</description>
     </item>
     <item>
       <title>Meat in a Wooden Trough</title>
-      <link>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/meat-in-a-wooden-trough/</link>
+      <link>http://localhost:1313/mods/zt2/objects/animal-food/meat-in-a-wooden-trough/</link>
       <pubDate>Sat, 22 Jul 2023 09:00:35 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/meat-in-a-wooden-trough/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/animal-food/meat-in-a-wooden-trough/</guid>
       <description>A wooden trough with red meat in it.</description>
     </item>
     <item>
@@ -3244,9 +3258,9 @@
     </item>
     <item>
       <title>Insect Dish</title>
-      <link>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/insect-dish/</link>
+      <link>http://localhost:1313/mods/zt2/objects/animal-food/insect-dish/</link>
       <pubDate>Sat, 22 Jul 2023 08:52:35 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/insect-dish/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/animal-food/insect-dish/</guid>
       <description>This is a dish containing insects to be eaten from by insectivores.</description>
     </item>
     <item>
@@ -3328,9 +3342,9 @@
     </item>
     <item>
       <title>Mystery Meat Trough</title>
-      <link>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/mystery-meat-trough/</link>
+      <link>http://localhost:1313/mods/zt2/objects/animal-food/mystery-meat-trough/</link>
       <pubDate>Sat, 22 Jul 2023 08:01:51 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/mystery-meat-trough/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/animal-food/mystery-meat-trough/</guid>
       <description>A trough with green meat in it.</description>
     </item>
     <item>
@@ -3356,9 +3370,9 @@
     </item>
     <item>
       <title>Mystery Meat Dish</title>
-      <link>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/mystery-meat-dish/</link>
+      <link>http://localhost:1313/mods/zt2/objects/animal-food/mystery-meat-dish/</link>
       <pubDate>Fri, 21 Jul 2023 22:04:11 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/mystery-meat-dish/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/animal-food/mystery-meat-dish/</guid>
       <description>A dish with the green meat inside.</description>
     </item>
     <item>
@@ -3447,9 +3461,9 @@
     </item>
     <item>
       <title>Biome Shelter Pack</title>
-      <link>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/biome-shelter-pack/</link>
+      <link>http://localhost:1313/mods/zt2/objects/shelters/biome-shelter-pack/</link>
       <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/biome-shelter-pack/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/shelters/biome-shelter-pack/</guid>
       <description>Enjoy this trio of shelters made by ShenTirag!</description>
     </item>
     <item>
@@ -3565,6 +3579,13 @@
       <description>A miniature pony! for your zoo! =D</description>
     </item>
     <item>
+      <title>Shelters</title>
+      <link>http://localhost:1313/mods/zt2/objects/shelters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/shelters/</guid>
+      <description>Shelters to keep your animals safe and happy!</description>
+    </item>
+    <item>
       <title>Volcanoes National Park</title>
       <link>http://localhost:1313/mods/zt2/maps/volcanoes-national-park/</link>
       <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
@@ -3626,6 +3647,13 @@
       <pubDate>Tue, 18 Jul 2023 17:30:46 -0800</pubDate>
       <guid>http://localhost:1313/mods/zt2/animals/living/pine-marten/</guid>
       <description>A small boreal forest mustelid.</description>
+    </item>
+    <item>
+      <title>Animal Enrichment, Food, and Shelters</title>
+      <link>http://localhost:1313/mods/zt2/objects/animal-enrichment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/animal-enrichment/</guid>
+      <description>Animal enrichment, food, and shelters to keep your animals fed and happy!</description>
     </item>
   </channel>
 </rss>

@@ -272,10 +272,10 @@
     <loc>http://localhost:1313/authors/ulquiorra/</loc>
     <lastmod>2024-06-25T18:17:10-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/</loc>
+    <loc>http://localhost:1313/mods/zt2/objects/fences/</loc>
     <lastmod>2024-06-25T18:12:43-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/iron-tunnel/</loc>
+    <loc>http://localhost:1313/mods/zt2/objects/fences/iron-tunnel/</loc>
     <lastmod>2024-06-25T18:12:43-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt2/tags/objects/</loc>
@@ -404,13 +404,13 @@
     <loc>http://localhost:1313/mods/zt2/maps/temperate-bridges/</loc>
     <lastmod>2024-06-23T12:32:16-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/</loc>
+    <loc>http://localhost:1313/mods/zt2/objects/animal-food/</loc>
     <lastmod>2024-06-23T02:05:14-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/okeanos-saviour/</loc>
     <lastmod>2024-06-23T02:05:14-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/rack-of-ribs/</loc>
+    <loc>http://localhost:1313/mods/zt2/objects/animal-food/rack-of-ribs/</loc>
     <lastmod>2024-06-23T02:05:14-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/thom/</loc>
@@ -434,7 +434,7 @@
     <loc>http://localhost:1313/mods/zt2/tools-utilities/domesticated-status/</loc>
     <lastmod>2024-06-23T00:48:21-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/peach-rail-fence/</loc>
+    <loc>http://localhost:1313/mods/zt2/objects/fences/peach-rail-fence/</loc>
     <lastmod>2024-06-22T21:35:14-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt2/animals/living/grants-zebra/</loc>
@@ -647,10 +647,10 @@
     <loc>http://localhost:1313/authors/felipeepilef/</loc>
     <lastmod>2024-06-20T18:43:14-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/indoor-fences/</loc>
+    <loc>http://localhost:1313/mods/zt2/objects/fences/indoor-fences/</loc>
     <lastmod>2024-06-20T18:43:14-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/green-fence/</loc>
+    <loc>http://localhost:1313/mods/zt2/objects/fences/green-fence/</loc>
     <lastmod>2024-06-20T18:42:53-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt2/animals/living/owstons-palm-civet/</loc>
@@ -746,10 +746,10 @@
     <loc>http://localhost:1313/authors/nintendo_6444/</loc>
     <lastmod>2024-03-22T08:20:40-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/massai-fence/</loc>
+    <loc>http://localhost:1313/mods/zt2/objects/fences/massai-fence/</loc>
     <lastmod>2024-03-22T06:35:13-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/stony-fence/</loc>
+    <loc>http://localhost:1313/mods/zt2/objects/fences/stony-fence/</loc>
     <lastmod>2024-03-22T06:30:27-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt1/tags/cheats/</loc>
@@ -1088,7 +1088,7 @@
     <loc>http://localhost:1313/mods/zt2/objects/theme-packs/shens-natural-scenery-pack-2/</loc>
     <lastmod>2024-01-10T09:26:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/shens-rusty-fences/</loc>
+    <loc>http://localhost:1313/mods/zt2/objects/fences/shens-rusty-fences/</loc>
     <lastmod>2024-01-10T09:26:07+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt2/objects/zootilities/warning-signs/</loc>
@@ -1772,7 +1772,7 @@
     <loc>http://localhost:1313/mods/zt2/animals/living/red-wolf/</loc>
     <lastmod>2023-11-12T02:04:07-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/white-salt-fence/</loc>
+    <loc>http://localhost:1313/mods/zt2/objects/fences/white-salt-fence/</loc>
     <lastmod>2023-11-10T03:29:25-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt2/animals/extinct/barbary-lion/</loc>
@@ -1955,7 +1955,10 @@
     <loc>http://localhost:1313/authors/penguino/</loc>
     <lastmod>2023-08-05T15:41:09-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/alpine-viewing-area/</loc>
+    <loc>http://localhost:1313/mods/zt2/objects/canopies/alpine-viewing-area/</loc>
+    <lastmod>2023-08-05T14:54:11-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt2/objects/canopies/</loc>
     <lastmod>2023-08-05T14:54:11-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt2/objects/zootilities/alpine-geological-model/</loc>
@@ -1970,13 +1973,16 @@
     <loc>http://localhost:1313/mods/zt2/objects/scenery/forgotten-spire/</loc>
     <lastmod>2023-08-05T14:23:32-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mods/zt2/objects/arches/</loc>
+    <lastmod>2023-08-05T13:58:19-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/authors/badisbadis101/</loc>
     <lastmod>2023-08-05T13:58:19-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/ibex-arch/</loc>
+    <loc>http://localhost:1313/mods/zt2/objects/arches/ibex-arch/</loc>
     <lastmod>2023-08-05T13:58:19-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/atlantis-viewing-area/</loc>
+    <loc>http://localhost:1313/mods/zt2/objects/canopies/atlantis-viewing-area/</loc>
     <lastmod>2023-08-05T13:45:43-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt2/objects/scenery/enlarged-desert-fountain/</loc>
@@ -1991,10 +1997,10 @@
     <loc>http://localhost:1313/mods/zt2/objects/paths/shens-path-pack/</loc>
     <lastmod>2023-08-05T02:15:27-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/glass-fence/</loc>
+    <loc>http://localhost:1313/mods/zt2/objects/fences/glass-fence/</loc>
     <lastmod>2023-08-03T06:34:32-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/fences-pack/</loc>
+    <loc>http://localhost:1313/mods/zt2/objects/fences/fences-pack/</loc>
     <lastmod>2023-08-03T06:34:32-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt2/animals/animal-bundles/shark-pack-2/</loc>
@@ -2174,16 +2180,16 @@
     <loc>http://localhost:1313/mods/zt2/objects/scenery/water-springs-fountain/</loc>
     <lastmod>2023-07-22T09:06:32-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/mystery-meat-carcass/</loc>
+    <loc>http://localhost:1313/mods/zt2/objects/animal-food/mystery-meat-carcass/</loc>
     <lastmod>2023-07-22T09:04:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/meat-in-a-wooden-trough/</loc>
+    <loc>http://localhost:1313/mods/zt2/objects/animal-food/meat-in-a-wooden-trough/</loc>
     <lastmod>2023-07-22T09:00:35-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt2/objects/zootilities/jungle-croc-trashcan/</loc>
     <lastmod>2023-07-22T08:56:47-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/insect-dish/</loc>
+    <loc>http://localhost:1313/mods/zt2/objects/animal-food/insect-dish/</loc>
     <lastmod>2023-07-22T08:52:35-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt2/objects/scenery/grizzly-bear-statue/</loc>
@@ -2222,7 +2228,7 @@
     <loc>http://localhost:1313/mods/zt2/objects/zootilities/south-american-trashcan/</loc>
     <lastmod>2023-07-22T08:07:39-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/mystery-meat-trough/</loc>
+    <loc>http://localhost:1313/mods/zt2/objects/animal-food/mystery-meat-trough/</loc>
     <lastmod>2023-07-22T08:01:51-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt2/animals/living/fringe-eared-oryx/</loc>
@@ -2234,7 +2240,7 @@
     <loc>http://localhost:1313/mods/zt2/texture-mods/misc-reskins/volcano-reskin/</loc>
     <lastmod>2023-07-21T23:04:46-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/mystery-meat-dish/</loc>
+    <loc>http://localhost:1313/mods/zt2/objects/animal-food/mystery-meat-dish/</loc>
     <lastmod>2023-07-21T22:04:11-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt2/objects/zootilities/mini-trashcan-pack/</loc>
@@ -2291,7 +2297,7 @@
     <loc>http://localhost:1313/mods/zt2/animals/living/atlantic-devil-ray/</loc>
     <lastmod>2023-07-20T23:04:46-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/biome-shelter-pack/</loc>
+    <loc>http://localhost:1313/mods/zt2/objects/shelters/biome-shelter-pack/</loc>
     <lastmod>2023-07-20T23:04:46-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt2/animals/living/dall-sheep/</loc>
@@ -2346,6 +2352,9 @@
     <lastmod>2023-07-20T23:04:46-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/risingsun/</loc>
+    <lastmod>2023-07-20T23:04:46-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt2/objects/shelters/</loc>
     <lastmod>2023-07-20T23:04:46-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/sicilian-gorilla/</loc>
@@ -2421,6 +2430,8 @@
     <lastmod>2007-07-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/ambient-accumulation-guide/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt2/objects/animal-enrichment/</loc>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
   </url><url>

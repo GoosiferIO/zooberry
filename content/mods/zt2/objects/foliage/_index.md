@@ -1,10 +1,6 @@
 ---
 title: "Foliage"
-game:
-exp_req: 
-file_size: 
-orig_rel_date:
-orig_rel_at:
+redirect: /mods/zt2/tags/foliage/
 draft: false
 thumbnail: /zt2/objects/foliage.jpg
 gallery:

@@ -24,6 +24,7 @@ cascade:
     - name: "Packs"
       slug: "packs"
       icon: "inventory"
+redirect: mods/zt1/tags/all/
 ---
 
 Mods for the original Zoo Tycoon released in 2001.

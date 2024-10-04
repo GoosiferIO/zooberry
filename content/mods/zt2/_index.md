@@ -1,6 +1,7 @@
 ---
 title: "Zoo Tycoon 2"
 layout: zt2
+redirect: mods/zt2/tags/all/
 cascade:
   mainModCat: "Zoo Tycoon 2"
   major: "zt2"

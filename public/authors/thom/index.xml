@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/authors/thom/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rack of Ribs</title>
-      <link>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/rack-of-ribs/</link>
+      <link>http://localhost:1313/mods/zt2/objects/animal-food/rack-of-ribs/</link>
       <pubDate>Sun, 23 Jun 2024 02:05:14 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/animal-enrichment-food-shelters/rack-of-ribs/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/animal-food/rack-of-ribs/</guid>
       <description>A rack of ribs food enrichment item for Zoo Tycoon 2.</description>
     </item>
     <item>
@@ -31,9 +31,9 @@
     </item>
     <item>
       <title>Massai Fence</title>
-      <link>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/massai-fence/</link>
+      <link>http://localhost:1313/mods/zt2/objects/fences/massai-fence/</link>
       <pubDate>Fri, 22 Mar 2024 06:35:13 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/objects/arches-canopies-and-fences/massai-fence/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/massai-fence/</guid>
       <description>A massai fence for your zoo!</description>
     </item>
     <item>

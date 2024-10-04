@@ -1,10 +1,6 @@
 ---
 title: "Paths"
-game:
-exp_req: 
-file_size: 
-orig_rel_date:
-orig_rel_at:
+redirect: /mods/zt2/tags/paths/
 draft: false
 thumbnail: /zt2/objects/paths_thumb.jpg
 gallery:
