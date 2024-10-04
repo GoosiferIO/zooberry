@@ -360,6 +360,10 @@ table.mod-meta .tr-alt {
     flex-shrink: 0;
 }
 
+.dep-item {
+    text-align: center;
+}
+
 /* MEDIA QUERIES */
 
 @media screen and (max-width: 1345px) {

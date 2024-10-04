@@ -20,7 +20,7 @@ cascade:
     - name: "Zoo Tycoon 2"
       url: "/knowledgebase/zoo-tycoon-2/"
       slug: "zoo-tycoon-2"
-description: "The ZooBerry Knowledgebase project has a dual purpose: to archive old tutorials at risk of being lost but also to provide new tutorials and guides for the Zoo Tycoon community whenever possible. This section is of course a work in progress and will be updated as new content is added."
+description: "The ZooBerry Knowledgebase project has a dual purpose: to archive old tutorials at risk of being lost but also to provide original tutorials and guides for the Zoo Tycoon community whenever possible. This section is of course a work in progress and will be updated as new content is added."
 mainModCat: "Knowledgebase"
 ---
 
