@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Profile on ZooBerry</title>
+    <title>Authors on ZooBerry</title>
     <link>http://localhost:1313/author/</link>
-    <description>Recent content in Profile on ZooBerry</description>
+    <description>Recent content in Authors on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Oct 2024 01:09:23 +0000</lastBuildDate>

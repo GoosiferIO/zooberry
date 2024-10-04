@@ -1,5 +1,5 @@
 {{ define "main" }}
-    {{ $author := .Title }}
+    {{ $author := .Title | urlize }}
 
     {{/*  Author meta data  */}}
     {{ $modCount := 0 }}
@@ -21,7 +21,8 @@
         {{ $websites := .Params.orig_rel_at }}
         {{ $years := .Params.orig_rel_date }}
         {{ range $authors }}
-            {{ if eq . $author }}
+            {{ $curAuthor := . | urlize}}
+            {{ if eq $curAuthor $author }}
                 {{ $modCount = add $modCount 1 }}
 
                 {{/*  Grab all tags published by author (if any)  */}}
