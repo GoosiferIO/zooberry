@@ -32,26 +32,28 @@
         {{ range $modList }}
             {{ with . }}
                 {{ if eq $curCategory .category }}
-                <tr>
+                    <tr>
 
-                        <td class="mod-list-item">
-                            {{ .name }}.zip
-                        </td>
-                        <td class="mod-list-item">
-                            {{  .file_size }}
-                        </td>
-                        <td class="mod-list-item">
-                            {{ .uploaded }}
-                        </td>
-                        <td class="mod-list-item" style="text-align: center;">
-                            <a class="button-dft margin-top" href="{{ $rel }}{{ .name }}.zip"><i class="material-icons icon">download</i> Download</a>
-                        </td>
-                </tr>   
-                <tr>
-                    <td class="mod-list-item" colspan="4">
-                        {{ .description }}
-                    </td>
-                </tr>
+                            <td class="mod-list-item">
+                                {{ .title }}
+                            </td>
+                            <td class="mod-list-item">
+                                {{  .file_size }}
+                            </td>
+                            <td class="mod-list-item">
+                                {{ .uploaded }}
+                            </td>
+                            <td class="mod-list-item" style="text-align: center;">
+                                <a class="button-dft margin-top" href="{{ $rel }}{{ .name }}.zip"><i class="material-icons icon">download</i> Download</a>
+                            </td>
+                    </tr>
+                    {{ with .description }}
+                        <tr>
+                            <td class="mod-list-item" colspan="4">
+                                {{ . }}
+                            </td>
+                        </tr>
+                    {{ end }}
                 {{ end }}
             {{ end }}
         {{ end }}

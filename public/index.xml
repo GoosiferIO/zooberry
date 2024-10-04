@@ -16,34 +16,6 @@
       <description>Dedicated to my two cat sisters, Vega &amp;amp; Rigel, whose birthday is on September 7th. Also dedicated to all cat lovers!</description>
     </item>
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/site/about/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/site/about/</guid>
-      <description>About ZooBerry Hi, Welcome. My name is Goosifer, but I used to go by other usernames. A long time ago I used to help run a couple of Zoo Tycoon websites named ZooMania and Northern Skies. I was also lucky to join a modding team named Artifex toward the very end of my time in the scene. Though I was incredibly young and still in high school, I consider it one of the coolest experiences and was able to learn a lot of fun tech while I explored my creative outlet online.</description>
-    </item>
-    <item>
-      <title>FAQ</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/site/faq/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/site/faq/</guid>
-      <description>Frequently Asked Questions What websites are being archived by ZooBerry? Originally the scope was just three websites, including ZooMania, Northern Skies, and Artifex. However, we had the privelege of getting permission to host mods from other websites as well.&#xA;The current list of websites whose mods and tutorials we are committed to archiving are as follows:&#xA;ZooMania Northern Skies Artifex ZT2 Designing Centre Penguika Penguin&amp;rsquo;s Peak Shen&amp;rsquo;s Den Zoo Tycoon Hideout Zoo Tycoon Volcano Z-Studio Bunyupy&amp;rsquo;s Projects Hispa Designs Dannybob&amp;rsquo;s Forum Stalker&amp;rsquo;s Ranch How did you get permission to host mods from these websites?</description>
-    </item>
-    <item>
-      <title>How to Install Mods</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/using-zooberry/how-to-install-mods/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/using-zooberry/how-to-install-mods/</guid>
-      <description>How to Install Mods Important Turn off the game Though it shouldn&amp;rsquo;t cause any issues if we were to install a mod while your game is running, it makes sense to have it shut down so that any changes show up on a re-launch.&#xA;Unzip your files All files on ZooBerry are in .zip format and will require access to a zip utility. Below are resources that can get you started.</description>
-    </item>
-    <item>
-      <title>Other Websites</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/community/other-websites/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/community/other-websites/</guid>
-      <description>For Community Zoo Tek Phoenix The longest-running Zoo Tycoon forum, Zoo Tek Phoenix sports one of the nicest communities out there and are always keen on helping if you get stuck.&#xA;Zoo Tek Phoenix&#xA;The ZT2 Roundtable As the name suggests, this community is more geared toward fans of the Zoo Tycoon sequel. Still, it has one of the largest communities for the game still around.&#xA;The ZT2 Roundtable&#xA;The r/ZooTycoon Subreddit Zoo Tycoon carries a large presence on Reddit and should quickly be a familiar format to any used to the karma-scoring link aggregator.</description>
-    </item>
-    <item>
       <title>Bug Mayhem</title>
       <link>http://localhost:1313/mods/zt1/packs/bug-mayhem/</link>
       <pubDate>Mon, 30 Sep 2024 11:15:53 -0700</pubDate>
@@ -84,13 +56,6 @@
       <pubDate>Wed, 07 Aug 2024 13:28:26 +0000</pubDate>
       <guid>http://localhost:1313/teams/zoo-admin-design-team/</guid>
       <description>Test</description>
-    </item>
-    <item>
-      <title>Habitats and Locations</title>
-      <link>http://localhost:1313/knowledgebase/openzt/habitats-and-locations/</link>
-      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/openzt/habitats-and-locations/</guid>
-      <description>Habitats and Locations Habitats and locations appear in the animal buy window below the animal name as show in the picture below.&#xA;Zoo Tycoon comes with many inbuilt habitats and locations which can be referenced when making an animal, but prior to OpenZT modded locations or habitats were particularly hard to make. With OpenZT habitats and locations can be made and used with ease. They have a very similar config (in Vanilla ZT they are actually interchangeable, minus the UI looking wrong)</description>
     </item>
     <item>
       <title>Dependency Master File</title>
@@ -651,20 +616,6 @@
       <pubDate>Thu, 20 Jun 2024 18:36:00 -0700</pubDate>
       <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/pterosaur-pack-2/</guid>
       <description>Six pterosaurs by Andrew12.</description>
-    </item>
-    <item>
-      <title>Getting Started</title>
-      <link>http://localhost:1313/knowledgebase/openzt/getting-started/</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/openzt/getting-started/</guid>
-      <description>Getting Started This page will lay out the basics of OpenZT modding, including filetypes, folder layout and meta info&#xA;Filetypes All config files use the toml format, which looks very similar to the INI-like format the Zoo Tycoon uses, but with much better support and an official spec.&#xA;Toml files should always have the .toml file type, regardless of use.&#xA;Currently all graphics files remain the same as in Zoo Tycoon, new formats will likely be added in the future to make creating mods easier.</description>
-    </item>
-    <item>
-      <title>OpenZT Modding</title>
-      <link>http://localhost:1313/knowledgebase/openzt/openzt-modding/</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/openzt/openzt-modding/</guid>
-      <description>OpenZT Modding !!! warning WIP OpenZT is a work in progress, every effort is being made to minimize changes to how modding works&#xA;OpenZT modding extends and simplifies the capabilities of vanilla Zoo Tycoon modding with an end goal of being able to mod all aspects of Zoo Tycoon and add custom scripts.&#xA;Zoo Tycoon Limitations If you are an experienced Zoo Tycoon modder you will be familiar with the limitations on certain aspects of modding.</description>
     </item>
     <item>
       <title>Hamadryas Baboon</title>
@@ -3493,111 +3444,6 @@
       <pubDate>Tue, 18 Jul 2023 17:30:46 -0800</pubDate>
       <guid>http://localhost:1313/mods/zt2/animals/living/pine-marten/</guid>
       <description>A small boreal forest mustelid.</description>
-    </item>
-    <item>
-      <title>Licenses</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/site/licenses/</link>
-      <pubDate>Tue, 04 Jul 2023 00:51:18 -0700</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/site/licenses/</guid>
-      <description>Licenses Attribution for the tech involved in the creation of ZooBerry and their licenses.&#xA;Galleria ZooBerry uses a slightly-modified version of GalleriaJS to display mod images.&#xA;The MIT License&#xA;Copyright (c) 2016 worse is better UG http://wib.io&#xA;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
-    </item>
-    <item>
-      <title>Terms of Service</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/site/tos/</link>
-      <pubDate>Tue, 04 Jul 2023 00:51:18 -0700</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/site/tos/</guid>
-      <description>Terms of Service ZooBerry is a fan-made platform dedicated to hosting user-created modifications (&amp;ldquo;mods&amp;rdquo;) for Zoo Tycoon, a video game developed and owned by Microsoft Corporation. We would like to emphasize that this website is not affiliated with or endorsed by Microsoft in any way. Zoo Tycoon and all related trademarks, logos, characters, and other assets are the property of Microsoft Corporation.&#xA;The mods hosted on this website are created by the Zoo Tycoon community and are provided for informational and entertainment purposes only.</description>
-    </item>
-    <item>
-      <title>Submit</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/site/submit/</link>
-      <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/site/submit/</guid>
-      <description>Thank you for your interest in submitting your file for hosting on ZooBerry. Since ZooBerry is a statically-generated website, we don&amp;rsquo;t have a traditional means of submission. There are no user accounts, nor is there a way to upload files directly to the site. Please follow the steps ahead to submit your file.&#xA;Submit by Email Compose an email to submit@goosifer.io with the following information:&#xA;Questionnaire Title: Author(s): Game (ZT1, ZT2, N/A): Req Expansion(s): Description: Optional:</description>
-    </item>
-    <item>
-      <title>How to Make Filters for Animals and Objects</title>
-      <link>http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/how-to-make-filters-for-animals-and-objects/</link>
-      <pubDate>Sat, 26 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/how-to-make-filters-for-animals-and-objects/</guid>
-      <description>How to Make Filters for Animals and Objects There are two parts to making filters, first creating the filter xml, then adding the filter to animals and objects.&#xA;Penguinman added this important note:&#xA;The only quick thing to add to Shen&amp;rsquo;s fantastic explanation is that for a Product tag, you want your codename to begin with a capital letter, and for a Theme tag the codename needs to be all lowercase.</description>
-    </item>
-    <item>
-      <title>Fence Tutorial</title>
-      <link>http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/fence-tutorial/</link>
-      <pubDate>Mon, 21 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/fence-tutorial/</guid>
-      <description>Fence Tutorial Step One: Gathering the Files For a fence, you will need entities, lang and ui folders, just like many other ZT2 projects. Download the attatched file at the bottom of this tutorial to get the folder template for your fence.&#xA;First, we shall gather the files we need for the entities folder. You will need to go to your Zoo Tycoon 2 directory (which by default is C:\Program Files\Microsoft Games\Zoo Tycoon 2).</description>
-    </item>
-    <item>
-      <title>Zoo Tycoon 2 Reference Guide</title>
-      <link>http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/zt2-reference-guide/</link>
-      <pubDate>Sat, 13 Oct 2007 00:12:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/zt2-reference-guide/</guid>
-      <description>Zoo Tycoon 2 Designing Reference Guide Don&amp;rsquo;t know your BFMs from your BFBs? Do your eyes roll into the back of your head trying to find the files you need? No more! This quick and handy reference guide will help you understand the main file types in ZT2 designing, as well as give you helpful tips for locating your files.&#xA;Common File Types in ZT2 Designing File Type Description BEH This file can be edited in Notepad, and contains behaviour information for animals and guests, allowing the game to give animals and guests their correct responses to thirst, amusement, etc.</description>
-    </item>
-    <item>
-      <title>Making Foliage/Objects Non-Grid Conformable</title>
-      <link>http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/making-foliage-objects-non-grid-conformable/</link>
-      <pubDate>Tue, 28 Aug 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/making-foliage-objects-non-grid-conformable/</guid>
-      <description>Making Foliage/Objects Non-Grid Conformable A few of you have asked about this, so I have worked it out for you. Open up the main ai xml, and look for the placement information. It should look something like this:&#xA;&amp;lt;ZTPlacementData waterPlacement=&amp;#34;false&amp;#34; autoFootprint=&amp;#34;false&amp;#34; icon3Doffset=&amp;#34;0 -0.089795 0.316138&amp;#34; icon3Dscale=&amp;#34;0.1&amp;#34;&amp;gt; &amp;lt;/ZTPlacementData&amp;gt; What you need to do is split the PlacementData in half, so it looks more like this:&#xA;&amp;lt;ZTPlacementData waterPlacement=&amp;#34;false&amp;#34; autoFootprint=&amp;#34;false&amp;#34;&amp;gt; &amp;lt;/ZTPlacementData&amp;gt; &amp;lt;ZTPlacementData icon3Doffset=&amp;#34;0 -0.089795 0.</description>
-    </item>
-    <item>
-      <title>Animal Creation Tutorial</title>
-      <link>http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/animal-creation-tutorial/</link>
-      <pubDate>Sun, 26 Aug 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/animal-creation-tutorial/</guid>
-      <description>Animal Creation Tutorial Hi future designer! I’m Belgian Shepard also knowed as Octavio17493 and ill teach u how to code with this tutorial, hope you can make your animals with my help, so lets go with basic things first.&#xA;1 – Basic things Ok, before coding ill say u what do u need:&#xA;Choose a codename for your animal. This codename mustn’t have spaces, -, ? or rare characters, only letters.</description>
-    </item>
-    <item>
-      <title>DL File Tutorial</title>
-      <link>http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/dl-file-tutorial/</link>
-      <pubDate>Fri, 20 Jul 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/dl-file-tutorial/</guid>
-      <description>DL File Tutorial To begin, you need to come up with two words/phrases. The first is your File Name hereafter referred to as FN. This is basically what the download is. This could, for instance, be Red Kangaroo, Australia Pack, or Aboriginal Lamp. It simply describes the download. Any place you see FN in the zip you download, put that word or phrase.&#xA;The second is UN which stands for User Name.</description>
-    </item>
-    <item>
-      <title>Object Creation Tutorial</title>
-      <link>http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/object-creation-tutorial/</link>
-      <pubDate>Tue, 10 Jul 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/object-creation-tutorial/</guid>
-      <description>Object Creation Tutorial This guide is for objects such as trash cans, benches, tables etc. This guide can help, but is not meant for plants.&#xA;Step 1: The entities folder Part 1: Gathering the files To begin, go to C:Program Files/Microsoft Games/Zoo Tycoon 2. If the object you would like to make is based off an Endangered Species object, then you must use the x100_000 file. If it is not, then use the entities file.</description>
-    </item>
-    <item>
-      <title>Ambient Accumulation Guide</title>
-      <link>http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/ambient-accumulation-guide/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/ambient-accumulation-guide/</guid>
-      <description>Ambient Accumulation Guide In this tutorial you will be creating ambient animals, but you MUST create it based off an existing ambient animal. Now is the time to figure that out and from now on it will be referred to as the base animal. Also, you should know that the 2 folders contained in the download called entities and world will be referred to as your files.&#xA;Section I: Gathering the Files The first thing you must do is get the files that you will be editing.</description>
-    </item>
-    <item>
-      <title>Contribute to ZooBerry</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/community/contribute-to-zooberry/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/community/contribute-to-zooberry/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Create Your Own Mods</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/community/create-your-own-mods/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/community/create-your-own-mods/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>How to Install Maps</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/using-zooberry/how-to-install-maps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/using-zooberry/how-to-install-maps/</guid>
-      <description>Getting Started Zoo Tycoon 1 Installing Zoos .zoo files are the Zoo Tycoon 1 save file format and is used for both the zoo maps themselves after saving the game and for scenarios.&#xA;To install a zoo save file, drop it into the following directory:&#xA;C:\Program Files\Microsoft Games\Zoo Tycoon\Saved Games&#xA;Installing Scenarios If you happen to have a copy of one of the few custom scenarios and wish to install it, simply drop the .</description>
-    </item>
-    <item>
-      <title>Variant Assembly Tutorial</title>
-      <link>http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/variant-assembly-tutorial/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/variant-assembly-tutorial/</guid>
-      <description>Variant Assembly Tutorial Welcome to VAT, a guide made by penguinman to help you create a variant skin for an animal in ZT2. This will only work for members with the Endangered Species (ES) expansion pack.&#xA;Before we begin, there are some programs you will want. One thing you must have is an extracting program. WinRar and WinZip are highly recommended free downloads which serve this purpose. The second one is called DxtBmp and it is so useful during the re-coloring stage.</description>
     </item>
   </channel>
 </rss>

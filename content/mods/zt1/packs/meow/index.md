@@ -20,44 +20,104 @@ mod_list:
   - name: ZwMEOWCombinedFiles
     title: MEOW Combined Files
     category: Combined Files
-    description: "This is the combined file for the M.E.O.W. pack. It includes all the animals, items, and bonus scenery items in one file."
+    description: "This is the combined file for the M.E.O.W. pack. It includes all the animals, items, and bonus scenery items in one file. For single files, see below."
     file_size: 6.97 MB
     uploaded: 2024-10-03
   - name: ZwSiameseV2
     title: Siamese Cat
     category: Animals
-    description: "This is the Siamese Cat from the M.E.O.W. pack. It is a short hair breed."
     file_size: 398 KB
     uploaded: 2024-10-03
   - name: ZwBengalV2
     title: Bengal Cat
     category: Animals
-    description: "This is the Bengal Cat from the M.E.O.W. pack. It is a short hair breed."
     file_size: 474 KB
     uploaded: 2024-10-03
   - name: ZwBombayV2
     title: Bombay Cat
     category: Animals
-    description: "This is the Bombay Cat from the M.E.O.W. pack. It is a short hair breed."
     file_size: 390 KB
     uploaded: 2024-10-03
   - name: ZwEgyptianMauV2
     title: Egyptian Mau
     category: Animals
-    description: "This is the Egyptian Mau from the M.E.O.W. pack. It is a short hair breed."
     file_size: 483 KB
     uploaded: 2024-10-03
   - name: ZwSphynxV2
     title: Sphynx Cat
     category: Animals
-    description: "This is the Sphynx Cat from the M.E.O.W. pack. It is a short hair breed."
     file_size: 762 KB
     uploaded: 2024-10-03
   - name: ZwMaineCoonV2
     title: Maine Coon
     category: Animals
-    description: "This is the Maine Coon. It is a long-haired breed."
     file_size: 812 KB
+    uploaded: 2024-10-03
+  - name: ZwTurkishAngoraV2
+    title: Turkish Angora
+    category: Animals
+    file_size: 517  KB
+    uploaded: 2024-10-03
+  - name: ZwPersianV2
+    title: Persian Cat
+    category: Animals
+    file_size: 502 KB
+    uploaded: 2024-10-03
+  - name: ZwNorwegianForestV2
+    title: Norwegian Forest Cat
+    category: Animals
+    file_size: 808 KB
+    uploaded: 2024-10-03
+  - name: ZwBritishLonghair
+    title: British Longhair
+    category: Animals
+    file_size: 773 KB
+    uploaded: 2024-10-03
+  - name: ZwRagdoll
+    title: Ragdoll
+    category: Animals
+    file_size: 519 KB
+    uploaded: 2024-10-03
+  - name: ZwHeartBoxV2
+    title: Sleeping Siamese Heart Box
+    category: Toys
+    file_size: 14 KB
+    uploaded: 2024-10-03
+  - name: ZwFancyCouchV2
+    title: Tidy Persian Fancy Couch
+    category: Toys
+    file_size: 17.7 KB
+    uploaded: 2024-10-03
+  - name: ZwScratchPostV2
+    title: Playful Mau Scratching Post
+    category: Toys
+    file_size: 15.1 KB
+    uploaded: 2024-10-03
+  - name: ZwWoodPlatformV2
+    title: Pleasant Sphynx Wood Platform
+    category: Toys
+    file_size: 39.1 KB
+    uploaded: 2024-10-03
+  - name: ZwWegieTreeV2
+    title: Norwegian Forest Family Tree
+    category: Toys
+    file_size: 34.5 KB
+    uploaded: 2024-10-03
+  - name: ZwMEOWHQv2
+    title: M.E.O.W. Headquarters
+    description: For the UI text to work, you'll need either LANG--fern-Tek.dll or LANG--ZTCDD.dll. See dependencies below.
+    category: Shelters
+    file_size: 116 KB
+    uploaded: 2024-10-03
+  - name: ZwLeukemiaSign
+    title: Feline Leukemia Awareness Sign
+    category: Scenery
+    file_size: 25.1 KB
+    uploaded: 2024-10-03
+  - name: ZwToxoplasmaSign
+    title: Toxoplasmosis Awareness Sign
+    category: Scenery
+    file_size: 25.3 KB
     uploaded: 2024-10-03
 
 ---

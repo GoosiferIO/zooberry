@@ -1,7 +1,9 @@
 ---
 title: Welcome to the ZooBerry Knowledgebase
 draft: false
+knowledgebaseHome: true
 cascade:
+    knowledgebaseHome: false
     meta: false
     main: true
     toc: false
