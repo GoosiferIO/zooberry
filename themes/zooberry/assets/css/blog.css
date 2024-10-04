@@ -196,3 +196,13 @@ div.article-post img {
     padding: 1rem 2rem;
     background: var(--thead-bg);
 }
+
+@media screen and (max-width: 665px) {
+    .article {
+        margin-right: 0;
+    }
+
+    .article-toc {
+        display: none;
+    }
+}
