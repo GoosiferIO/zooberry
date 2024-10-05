@@ -31,7 +31,7 @@
                 {{ with $zt1tags }}
                     {{ range . }}
                         {{ if not (in $allTagsAssociatedZT1 .) }}
-                            {{ if not (eq . "All") }}
+                            {{ if not (or (eq . "All") (eq . "ZT1")) }}
                                 {{ $allTagsAssociatedZT1 = $allTagsAssociatedZT1 | append . }}
                             {{ end }}
                         {{ end }}
@@ -41,7 +41,7 @@
                 {{ with $zt2tags }}
                     {{ range . }}
                         {{ if not (in $allTagsAssociatedZT2 .) }}
-                            {{ if not (eq . "All") }}
+                            {{ if not (or (eq . "All") (eq . "ZT2")) }}
                                 {{ $allTagsAssociatedZT2 = $allTagsAssociatedZT2 | append . }}
                             {{ end }}
                         {{ end }}
