@@ -128,6 +128,13 @@
       <description>Test</description>
     </item>
     <item>
+      <title>ZT ABC Team</title>
+      <link>http://localhost:1313/teams/zt-abc-team/</link>
+      <pubDate>Wed, 07 Aug 2024 13:28:26 +0000</pubDate>
+      <guid>http://localhost:1313/teams/zt-abc-team/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Habitats and Locations</title>
       <link>http://localhost:1313/knowledgebase/openzt/habitats-and-locations/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>

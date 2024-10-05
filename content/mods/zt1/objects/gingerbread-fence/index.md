@@ -19,13 +19,21 @@ license: Unknown
 languages:
 - English
 summary: "Use the gingerbread wall to spice up your holiday zoos and to create fun areas in your zoos."
-
+zt1tags: ["All", "Objects", "ZT1", "Fences", "Christmas"]
+dependencies:
+  - name: Fern-Tek dll
+    url: https://zootekphoenix.com/forums/files/file/4861-lang-fern-tek-dll-file/
+    description: "Note: Only one of these lang files is needed. This mod requires the Fern-Tek dll to work properly."
+    external: true
+  - name: LangZA03.dll
+    url: https://zooadmin.org/ZT1/index.php?topic=72.0
+    description: "Note: Only one of these lang files is needed. This mod requires the LangZA03.dll to work properly."
+    external: true
 ---
 
 Use the gingerbread wall to spice up your holiday zoos and to create fun areas in your zoos.
 
-**Authors:** Genki - graphics, Fern - ztd creation, rotations and configuring.
+## Credits
+- Genki - graphics
+- Fern - ztd creation, rotations and configuring
 
-**Requires (just one):** 
-- Fern-Tek dll (ZooTek Phoenix): [Download here](https://zootekphoenix.com/forums/files/file/4861-lang-fern-tek-dll-file/)
-- LangZA03.dll (Zoo Admin): [Download here](https://zooadmin.org/ZT1/index.php?topic=72.0)

@@ -3,7 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/mods/zt2/tags/all/</loc>
-    <lastmod>2024-10-04T19:40:23+00:00</lastmod>
+    <lastmod>2024-10-05T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/tags/all/</loc>
+    <lastmod>2024-10-05T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/all/</loc>
+    <lastmod>2024-10-05T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/tags/animals/</loc>
+    <lastmod>2024-10-05T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/tags/dinosaurs/</loc>
+    <lastmod>2024-10-05T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/tags/packs/</loc>
+    <lastmod>2024-10-05T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/packs/</loc>
+    <lastmod>2024-10-05T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/tags/prehistoric/</loc>
+    <lastmod>2024-10-05T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/packs/ufo/</loc>
+    <lastmod>2024-10-05T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/zarawatto/</loc>
+    <lastmod>2024-10-05T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/</loc>
+    <lastmod>2024-10-05T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/zt1/</loc>
+    <lastmod>2024-10-05T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/tags/zt1/</loc>
+    <lastmod>2024-10-05T01:09:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt2/tags/zt2/</loc>
+    <lastmod>2024-10-05T01:09:23+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt2/tags/animals/</loc>
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
@@ -101,46 +140,13 @@
     <loc>http://localhost:1313/mods/zt2/</loc>
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mods/zt2/tags/zt2/</loc>
-    <lastmod>2024-10-04T19:40:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mods/zt1/tags/all/</loc>
-    <lastmod>2024-10-04T01:09:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/all/</loc>
-    <lastmod>2024-10-04T01:09:23+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/mods/zt1/tags/amphibians/</loc>
-    <lastmod>2024-10-04T01:09:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mods/zt1/tags/animals/</loc>
-    <lastmod>2024-10-04T01:09:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mods/zt1/tags/packs/</loc>
-    <lastmod>2024-10-04T01:09:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mods/zt1/packs/</loc>
     <lastmod>2024-10-04T01:09:23+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt1/packs/toadallly-batrocious/</loc>
     <lastmod>2024-10-04T01:09:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/zarawatto/</loc>
-    <lastmod>2024-10-04T01:09:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mods/zt1/</loc>
-    <lastmod>2024-10-04T01:09:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/zt1/</loc>
-    <lastmod>2024-10-04T01:09:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mods/zt1/tags/zt1/</loc>
-    <lastmod>2024-10-04T01:09:23+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/authors/borsato/</loc>
-    <lastmod>2024-10-03T01:09:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mods/zt1/tags/dinosaurs/</loc>
     <lastmod>2024-10-03T01:09:23+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt1/tools-utilities/lang-zborsato/</loc>
@@ -150,9 +156,6 @@
     <lastmod>2024-10-03T01:09:23+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt1/packs/meow/</loc>
-    <lastmod>2024-10-03T01:09:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mods/zt1/packs/ufo/</loc>
     <lastmod>2024-10-03T01:09:23+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt1/tags/tools-utilities/</loc>
@@ -197,11 +200,11 @@
     <loc>http://localhost:1313/mods/zt1/animals/ussuri-dhole/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/knowledgebase/</loc>
-    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/knowledgebase/zooberry/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/tags/arthropods/</loc>
+    <lastmod>2024-09-30T11:15:53-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt1/packs/bug-mayhem/</loc>
     <lastmod>2024-09-30T11:15:53-07:00</lastmod>
@@ -231,6 +234,9 @@
     <lastmod>2024-08-07T13:28:26+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/teams/zoo-admin-design-team/</loc>
+    <lastmod>2024-08-07T13:28:26+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/teams/zt-abc-team/</loc>
     <lastmod>2024-08-07T13:28:26+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/</loc>
@@ -284,7 +290,7 @@
     <loc>http://localhost:1313/authors/zerosvalmont/</loc>
     <lastmod>2024-06-26T14:38:31-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/zt-abc/</loc>
+    <loc>http://localhost:1313/teams/zt-abc-team/</loc>
     <lastmod>2024-06-26T14:38:31-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt2/animals/</loc>
@@ -881,10 +887,16 @@
     <loc>http://localhost:1313/mods/assets/ufo-ride-assets-gs/</loc>
     <lastmod>2024-02-27T02:40:37-08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mods/zt1/tags/carnival/</loc>
+    <lastmod>2024-02-18T00:18:52-08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mods/zt1/tags/objects/</loc>
     <lastmod>2024-02-18T00:18:52-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt1/objects/</loc>
+    <lastmod>2024-02-18T00:18:52-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/tags/rides/</loc>
     <lastmod>2024-02-18T00:18:52-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt1/objects/ufo-ride/</loc>
@@ -1877,6 +1889,9 @@
     <loc>http://localhost:1313/mods/zt1/objects/balloon-animal-stand-gs/</loc>
     <lastmod>2023-10-31T19:32:19-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mods/zt1/tags/buildings/</loc>
+    <lastmod>2023-10-31T19:32:19-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/authors/goblinshark/</loc>
     <lastmod>2023-10-30T20:39:01-07:00</lastmod>
   </url><url>
@@ -1967,11 +1982,23 @@
     <loc>http://localhost:1313/mods/assets/atl-ftn-3d-model/</loc>
     <lastmod>2023-08-15T02:49:24-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mods/zt1/tags/atlantean/</loc>
+    <lastmod>2023-08-14T17:20:20-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mods/zt1/objects/atlantean-fountain/</loc>
+    <lastmod>2023-08-14T17:20:20-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/tags/fountains/</loc>
+    <lastmod>2023-08-14T17:20:20-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/tags/scenery/</loc>
     <lastmod>2023-08-14T17:20:20-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/assets/hotdog-stand/</loc>
     <lastmod>2023-08-11T16:59:15-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/tags/food-stands/</loc>
+    <lastmod>2023-08-09T21:12:56-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt1/objects/hotdog-stand/</loc>
     <lastmod>2023-08-09T21:12:56-07:00</lastmod>
@@ -2183,6 +2210,9 @@
     <loc>http://localhost:1313/mods/zt1/packs/brown-bear-black-and-white-lion-statues/</loc>
     <lastmod>2023-07-24T11:44:32-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mods/zt1/tags/statues/</loc>
+    <lastmod>2023-07-24T11:44:32-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mods/zt1/packs/aoe2-world-wonders/</loc>
     <lastmod>2023-07-24T11:37:37-07:00</lastmod>
   </url><url>
@@ -2193,6 +2223,9 @@
     <lastmod>2023-07-24T11:27:57-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt1/packs/aoe2-gold-ore-and-rock-ore/</loc>
+    <lastmod>2023-07-24T11:21:10-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/tags/rocks/</loc>
     <lastmod>2023-07-24T11:21:10-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt1/packs/anaconda-and-turtle-in-the-water-statues/</loc>
@@ -2210,7 +2243,13 @@
     <loc>http://localhost:1313/mods/zt1/objects/guanlong-statue/</loc>
     <lastmod>2023-07-24T10:35:07-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mods/zt1/tags/christmas/</loc>
+    <lastmod>2023-07-23T18:14:10-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mods/zt1/objects/emperor-chinese-magnificent-palace/</loc>
+    <lastmod>2023-07-23T18:14:10-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt1/tags/fences/</loc>
     <lastmod>2023-07-23T18:14:10-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/fern/</loc>
@@ -2232,9 +2271,6 @@
     <lastmod>2023-07-23T17:39:50-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt1/objects/american-alligator-in-the-water-statue/</loc>
-    <lastmod>2023-07-23T17:39:50-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mods/zt1/tags/statues/</loc>
     <lastmod>2023-07-23T17:39:50-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/update-july-2023-22/</loc>

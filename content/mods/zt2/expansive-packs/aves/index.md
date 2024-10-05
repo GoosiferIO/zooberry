@@ -7,7 +7,7 @@ author:
 - Unicorn
 - Mondschatten
 - Iben
-- ZT ABC
+team: ZT ABC Team
 game: Zoo Tycoon 2
 exp_req: 
 - AA

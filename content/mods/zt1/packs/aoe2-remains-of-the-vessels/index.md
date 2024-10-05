@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "Tile:1x4, Water placeable, Placeable at the bottom of a tank, Exhibit placeable(Animals don't feel happy or unhappy)"
-
+zt1tags: ["All", "Objects", "ZT1"]
 ---
 
 Tile:1x4, Water placeable, Placeable at the bottom of a tank, Exhibit placeable(Animals don't feel happy or unhappy)

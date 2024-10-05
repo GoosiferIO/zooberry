@@ -24,9 +24,9 @@ Gymnasiast created a 233x233 map which amounts to a larger size than the base Zo
 
 From Gymnasiast:
 
-`The map size is saved using a 32-bit integer, which has a theoretical maximum of about 2.1 billion (or 4.2 billion in certain circumstances). In practice though, testing with different map sizes has shown that 233×233 is the maximum that ZT1 will load. Anything bigger and it will freeze while attempting to load.`
-
-`But then, having a 233×233 map is still quite an improvement from 150×150, is it not?`
+> The map size is saved using a 32-bit integer, which has a theoretical maximum of about 2.1 billion (or 4.2 billion in certain circumstances). In practice though, testing with different map sizes has shown that 233×233 is the maximum that ZT1 will load. Anything bigger and it will freeze while attempting to load.
+>
+> But then, having a 233×233 map is still quite an improvement from 150×150, is it not?
 
 To install, unzip the file and drop the `.zoo` within inside of this directory: `C:\Program Files\Microsoft Games\Zoo Tycoon\Saved Games`
 

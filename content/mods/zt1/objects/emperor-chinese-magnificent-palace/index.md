@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "A big scenery building imported from Emperor. Water placeable, exhibit placeable. Animals don't feel happy or unhappy. "
-
+zt1tags: ["All", "Objects", "ZT1", "Buildings"]
 ---
 
 A big scenery building imported from Emperor. Water placeable, exhibit placeable. Animals don't feel happy or unhappy. 

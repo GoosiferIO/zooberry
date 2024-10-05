@@ -41,6 +41,7 @@ mod_list:
     category: Foliage
     file_size: 228 KB
     uploaded: 2024-09-30
+zt1tags: ["All", "Animals", "ZT1", "Arthropods", "Packs"]
 ---
 
 Thanks for downloading Bug Mayhem!!!

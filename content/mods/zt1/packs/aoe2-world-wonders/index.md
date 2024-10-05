@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "Scenery pack with buildings from around the world."
-
+zt1tags: ["All", "Objects", "ZT1", "Scenery", "Buildings"]
 ---
 Part1
 

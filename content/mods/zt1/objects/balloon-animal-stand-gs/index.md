@@ -27,6 +27,7 @@ dependencies:
   link: http://www.ztcdd.org/DG/index.php?topic=3734.0
   external: true
   description: Provides additional UI strings for the mod.
+zt1tags: ["All", "Objects", "ZT1", "Carnival", "Buildings"]
 ---
 A balloon animal stand with custom vendor animations made by Goosifer. Fits in with the in-game carnival theme.
 
