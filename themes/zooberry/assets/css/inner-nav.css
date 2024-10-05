@@ -1,5 +1,5 @@
 .inner-nav  {
-    display: flex;
+    display: none;
     flex-direction: row;
     background: var(--thead-bg);
     border-bottom: 1px solid var(--secondary-border);

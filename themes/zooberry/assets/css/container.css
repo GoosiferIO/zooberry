@@ -175,6 +175,10 @@ main {
   margin-top: 1rem;
 }
 
+.margine-lt-none {
+  margin-left: 0 !important;
+}
+
 .flt-rt {
   float: right;
 }
@@ -231,13 +235,22 @@ pre code {
   }
 
   div.sidebar_r {
-    position: fixed;
     display: none;
-    top: 0;
-    left: -250px;
   }
+
+  .sidebar {
+    left: -250px !important;
+  } 
 
   .main-wrapper {
     margin-left: 0;
+  }
+
+  .menu-button {
+    display: block;
+  }
+
+  .inner-nav {
+    display: flex !important;
   }
 }

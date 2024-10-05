@@ -50,14 +50,3 @@ div.sidebar_r-inner a.button-dft {
 .filter-tags a {
     margin: 0.2rem;
 }
-
-
-@media screen and (max-width: 1100px) {
-    .sidebar {
-        display: none;
-    }
-    
-    main {
-        margin-left: 0;
-    }
-}

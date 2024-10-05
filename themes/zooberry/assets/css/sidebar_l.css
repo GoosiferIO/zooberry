@@ -3,6 +3,7 @@
     padding-top: 1rem;
     top: 0;
     z-index: 2000;
+    left: 0;
     width: 250px;
     min-width: 250px;
     max-width: 250px;
@@ -19,6 +20,10 @@
     flex-direction: column;
 }
 
+.sidebar.open {
+    left: 0 !important;
+}
+
 .nav-controls {
     display: flex;
     flex-direction: row;
@@ -28,6 +33,7 @@
     vertical-align: middle;
 }
 
+/* close-button */
 .nav-controls button {
     background: var(--tbody-bg);
     border: none;
@@ -42,6 +48,7 @@
     position: relative;
     right: -3.5rem;
     z-index: 5000 !important;
+    display: none;
 }
 
 .menu-button {
