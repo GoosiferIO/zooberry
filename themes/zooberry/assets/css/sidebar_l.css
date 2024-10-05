@@ -48,7 +48,7 @@
     position: relative;
     right: -3.5rem;
     z-index: 5000 !important;
-    display: none;
+    display: none !important;
 }
 
 .menu-button {
