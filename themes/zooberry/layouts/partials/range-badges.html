@@ -54,7 +54,9 @@ zt1  */}}
         {{ if in . $category }}
             {{ range . }}
                 {{ if not (in $uniqueZT1Tags .) }}
-                    {{ $uniqueZT1Tags = $uniqueZT1Tags | append . }}
+                    {{ if not (or (eq . "All") (eq . "ZT1")) }}
+                        {{ $uniqueZT1Tags = $uniqueZT1Tags | append . }}
+                    {{ end }}
                 {{ end }}
             {{ end }}
         {{ end }}
@@ -64,7 +66,9 @@ zt1  */}}
             {{ if in . $category}}
                 {{ range . }}
                     {{ if not (in $uniqueZT2Tags .) }}
-                        {{ $uniqueZT2Tags = $uniqueZT2Tags | append . }}
+                        {{ if not (or (eq . "All") (eq . "ZT2")) }}
+                            {{ $uniqueZT2Tags = $uniqueZT2Tags | append . }}
+                        {{ end }}
                     {{ end }}
                 {{ end }}
             {{ end }}
