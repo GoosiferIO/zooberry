@@ -58,6 +58,9 @@
     padding-bottom: 1rem;
     margin: 0 auto;
     padding: 0.5rem 2rem;
+    position: relative;
+    left: 2rem;
+    border-radius: 0.5rem;
 }
 
 .nav-logo:hover {

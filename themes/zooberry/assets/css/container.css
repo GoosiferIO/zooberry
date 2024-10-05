@@ -171,6 +171,10 @@ main {
   margin-right: 1rem;
 }
 
+.margin-tp {
+  margin-top: 1rem;
+}
+
 .flt-rt {
   float: right;
 }
@@ -217,6 +221,7 @@ pre code {
 .main-wrapper {
   width: 100%;
   border-left: 1px solid var(--secondary-border);
+  margin-left: 250px;
 }
 
 @media screen and (max-width: 1262px) {
@@ -226,6 +231,13 @@ pre code {
   }
 
   div.sidebar_r {
+    position: fixed;
     display: none;
+    top: 0;
+    left: -250px;
+  }
+
+  .main-wrapper {
+    margin-left: 0;
   }
 }
