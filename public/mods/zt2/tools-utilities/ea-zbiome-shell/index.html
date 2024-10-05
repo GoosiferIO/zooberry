@@ -30,7 +30,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="http://localhost:1313/css/styles.ab8c4ebf51fab192b016d166702a38f018c02547b3bb3dbe566ef1d4d05ef0c1.css" integrity="sha256-q4xOv1H6sZKwFtFmcCo48BjAJUezuz2&#43;Vm7x1NBe8ME=" media="screen">
+<link rel="stylesheet" href="http://localhost:1313/css/styles.0d1a373266cb6b0c5c47d2f4356bd90498fda770541b3ffdc11df0ae210328ab.css" integrity="sha256-DRo3MmbLawxcR9L0NWvZBJj9p3BUGz/9wR3wriEDKKs=" media="screen">
 <link rel="stylesheet" href="http://localhost:1313/css/galleria.classic.e4ab2a1fb0a2d61540ab6a8f9fd09745e6f154228ac495d815069203e731d774.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" />
@@ -45,8 +45,9 @@
     
       <div class="content">
     
+        <div id="overlay" class="overlay"></div>
         
-          <div class="sidebar open" id="sidebar">
+          <div class="sidebar" id="sidebar">
     
     <div class="nav-controls">
         <a href="/" title="ZooBerry" class="nav-logo"></a>
@@ -703,20 +704,32 @@ Not Applicable
           const menuButton = document.getElementById('menu-button');
           const closeButton = document.getElementById('close-button');
           const sidebar = document.getElementById('sidebar');
-          const mainWrapper = document.getElementById('main-wrapper');
+          const overlay = document.getElementById('overlay');
       
           menuButton.addEventListener('click', function () {
             sidebar.classList.add('open');
+             
+            sidebar.querySelector('.close-button').style.display = 'block';
+            overlay.style.visibility = 'visible';
+            overlay.style.opacity = '0.5';
           });
       
           closeButton.addEventListener('click', function () {
             sidebar.classList.remove('open');
-            mainWrapper.classList.add('margine-lt-none');
+            sidebar.querySelector('.close-button').style.display = 'none';
+            overlay.style.visibility = 'hidden';
+            overlay.style.opacity = '0';
           });
       
           
-          
-
+          document.addEventListener('click', function (event) {
+            if (!sidebar.contains(event.target) && !menuButton.contains(event.target)) {
+              sidebar.classList.remove('open');
+              sidebar.querySelector('.close-button').style.display = 'none';
+              overlay.style.visibility = 'hidden';
+              overlay.style.opacity = '0';
+            }
+          });
         });
       </script>
   </body>

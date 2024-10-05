@@ -7,7 +7,7 @@ gallery:
 - scenery_thumb.jpg
 alt_text: "Scenery"
 summary: "Objects that are designed to just sit there and look pretty!"
-
+is_category: true
 ---
 
 Objects that are designed to just sit there and look pretty!

@@ -8,9 +8,6 @@
     <loc>http://localhost:1313/mods/zt1/tags/all/</loc>
     <lastmod>2024-10-05T01:09:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/all/</loc>
-    <lastmod>2024-10-05T01:09:23+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/mods/zt1/tags/animals/</loc>
     <lastmod>2024-10-05T01:09:23+00:00</lastmod>
   </url><url>
@@ -33,9 +30,6 @@
     <lastmod>2024-10-05T01:09:23+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt1/</loc>
-    <lastmod>2024-10-05T01:09:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/zt1/</loc>
     <lastmod>2024-10-05T01:09:23+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt1/tags/zt1/</loc>
@@ -877,6 +871,9 @@
   </url><url>
     <loc>http://localhost:1313/mods/zt1/hacks/invisible-fences-easter-egg/</loc>
     <lastmod>2024-03-21T21:03:09-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/all/</loc>
+    <lastmod>2024-02-27T02:40:37-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/assets/</loc>
     <lastmod>2024-02-27T02:40:37-08:00</lastmod>

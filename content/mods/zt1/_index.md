@@ -7,7 +7,7 @@ summary: "Mods for the original Zoo Tycoon released in 2001."
 cascade:
     mainModCat: "Zoo Tycoon 1"
     major: "zt1"
-    tags: ["all", "zt1" ]
+    zt1tags: ["All", "ZT1"]
     categories:
     - name: "Animals"
       slug: "animals"
@@ -24,6 +24,9 @@ cascade:
     - name: "Packs"
       slug: "packs"
       icon: "inventory"
+    - name: "Tools & Utilities"
+      slug: "tools-utilities"
+      icon: "build"
 redirect: mods/zt1/tags/all/
 ---
 

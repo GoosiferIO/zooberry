@@ -1,13 +1,9 @@
 ---
-title: "Animal Enrichment, Food, and Shelters"
+title: "Animal Enrichment"
 redirect: 
 draft: false
-thumbnail: /zt2/objects/animal-enrichment-food-and-shelters_thumb.jpg
-gallery:
-- animal-enrichment-food-and-shelters_thumb.jpg
-alt_text: "Animal enrichment"
-summary: "Animal enrichment, food, and shelters to keep your animals fed and happy!"
-
+alt_text: "Animal Enrichment"
+is_category: true
 ---
 
 Animal enrichment, food, and shelters to keep your animals fed and happy!
