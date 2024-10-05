@@ -90,5 +90,7 @@ zt1  */}}
                 <a href="/mods/zt2/tags/{{ . | urlize}}" class="badge-default">{{ . }}</a>
             {{ end }}
         {{ end }}
+    {{ else }}
+        <a href="/mods/assets" class="badge-assets">Assets</a>
     {{ end }}
 </div>
