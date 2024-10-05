@@ -3,7 +3,8 @@
 
     {{/*  Author meta data  */}}
     {{ $modCount := 0 }}
-    {{ $allTagsAssociated := slice }}
+    {{ $allTagsAssociatedZT1 := slice }}
+    {{ $allTagsAssociatedZT2 := slice }}
     {{ $languagesByAuthor := slice }}
     {{ $websitesPublishedOn := slice }}
     {{ $collaborators := slice }}
@@ -16,7 +17,8 @@
     {{ range $mods }}
         {{ $curentMod := . }}
         {{ $authors := .Params.author }}
-        {{ $tags := .Params.tags }}
+        {{ $zt1tags := .Params.zt1tags }}
+        {{ $zt2tags := .Params.zt2tags }}
         {{ $languages := .Params.languages }}
         {{ $websites := .Params.orig_rel_at }}
         {{ $years := .Params.orig_rel_date }}
@@ -26,11 +28,21 @@
                 {{ $modCount = add $modCount 1 }}
 
                 {{/*  Grab all tags published by author (if any)  */}}
-                {{ with $tags }}
+                {{ with $zt1tags }}
                     {{ range . }}
-                        {{ if not (in $allTagsAssociated .) }}
-                            {{ if not (eq . "all") }}
-                                {{ $allTagsAssociated = $allTagsAssociated | append . }}
+                        {{ if not (in $allTagsAssociatedZT1 .) }}
+                            {{ if not (eq . "All") }}
+                                {{ $allTagsAssociatedZT1 = $allTagsAssociatedZT1 | append . }}
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+
+                {{ with $zt2tags }}
+                    {{ range . }}
+                        {{ if not (in $allTagsAssociatedZT2 .) }}
+                            {{ if not (eq . "All") }}
+                                {{ $allTagsAssociatedZT2 = $allTagsAssociatedZT2 | append . }}
                             {{ end }}
                         {{ end }}
                     {{ end }}
@@ -168,9 +180,7 @@
                 {{ if not (eq (len $languagesByAuthor) 0) }}
                     <span class="sidebar_r-title">Languages</span>
                     <div class="side-ul filter-tags">
-                        {{ range $languagesByAuthor }}
-                            <a class="badge-default" href="/languages/{{ . | urlize }}">{{ . }}</a>
-                        {{ end }}
+                            {{ partial "class-languages.html" . }}
                     </div>
                 {{ end }}
                 <span class="sidebar_r-title">Published On</span>
@@ -190,15 +200,25 @@
                 <span class="sidebar_r-title">Years Active</span>
                 <div class="side-ul filter-tags">
                     {{ range $yearsActive }}
-                        <a class="badge-default" href="/years/{{ . | urlize }}">{{ . }}</a>
+                        <span class="badge-default" href="/years/{{ . | urlize }}">{{ . }}</span>
                     {{ end }}
                 </div>
-                <span class="sidebar_r-title">Tags</span>
-                <div class="side-ul filter-tags">
-                    {{ range $allTagsAssociated }}
-                        <a class="badge-default" href="/tags/{{ . | urlize }}">{{ . }}</a>
-                    {{ end }}
-                </div>
+                {{ with $allTagsAssociatedZT1 }}
+                    <span class="sidebar_r-title">Zoo Tycoon 1 Tags</span>
+                    <div class="side-ul filter-tags">
+                        {{ range . }}
+                            <a class="badge-default" href="/tags/{{ . | urlize }}">{{ . }}</a>
+                        {{ end }}
+                    </div>
+                {{ end }}
+                {{ with $allTagsAssociatedZT2 }}
+                    <span class="sidebar_r-title">Zoo Tycoon 2 Tags</span>
+                    <div class="side-ul filter-tags">
+                        {{ range . }}
+                            <a class="badge-default" href="/tags/{{ . | urlize }}">{{ . }}</a>
+                        {{ end }}
+                    </div>
+                {{ end }}
             </div>
         </div>
         

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mammals on ZooBerry</title>
+    <link>http://localhost:1313/tags/mammals/</link>
+    <description>Recent content in Mammals on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 19:40:23 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mammals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Island Excursions</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/island-excursions/</link>
+      <pubDate>Fri, 04 Oct 2024 19:40:23 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/island-excursions/</guid>
+      <description>Embark upon an excursion to travel the oceans in search of tropical paradise! Discover the isles hiding within the Hawaiian Islands and Papua New Guinea, seeing such animals as the Hawaiian Monk Seal and the Northern Cassowary as they live in their lush and vibrant homes.</description>
+    </item>
+  </channel>
+</rss>

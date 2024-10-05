@@ -5,25 +5,40 @@
     <loc>http://localhost:1313/mods/zt2/tags/all/</loc>
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/animals/</loc>
+    <loc>http://localhost:1313/mods/zt2/tags/animals/</loc>
+    <lastmod>2024-10-04T19:40:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt2/tags/arches/</loc>
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/teams/artifex/</loc>
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/biomes/</loc>
+    <loc>http://localhost:1313/mods/zt2/tags/benches/</loc>
+    <lastmod>2024-10-04T19:40:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt2/tags/birds/</loc>
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/budgielover101/</loc>
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/enrichment/</loc>
+    <loc>http://localhost:1313/mods/zt2/tags/buildings/</loc>
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt2/expansive-packs/</loc>
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/foliage/</loc>
+    <loc>http://localhost:1313/mods/zt2/tags/fences/</loc>
+    <lastmod>2024-10-04T19:40:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt2/tags/fish/</loc>
+    <lastmod>2024-10-04T19:40:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt2/tags/foliage/</loc>
+    <lastmod>2024-10-04T19:40:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt2/tags/food-stands/</loc>
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/gloria/</loc>
@@ -32,13 +47,19 @@
     <loc>http://localhost:1313/authors/goosifer/</loc>
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mods/zt2/tags/invertebrates/</loc>
+    <lastmod>2024-10-04T19:40:23+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mods/zt2/expansive-packs/island-excursions/</loc>
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/koala-komander/</loc>
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/land-foliage/</loc>
+    <loc>http://localhost:1313/mods/zt2/tags/lamps/</loc>
+    <lastmod>2024-10-04T19:40:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mods/zt2/tags/mammals/</loc>
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/mikaboshi/</loc>
@@ -50,13 +71,16 @@
     <loc>http://localhost:1313/mods/zt2/tags/packs/</loc>
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mods/zt2/tags/paths/</loc>
+    <lastmod>2024-10-04T19:40:23+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/authors/penguinman/</loc>
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rocks/</loc>
+    <loc>http://localhost:1313/mods/zt2/tags/reptiles/</loc>
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/shelters/</loc>
+    <loc>http://localhost:1313/mods/zt2/tags/scenery/</loc>
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/shentirag/</loc>
@@ -68,10 +92,10 @@
     <loc>http://localhost:1313/authors/steenbok28/</loc>
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/team/</loc>
+    <loc>http://localhost:1313/mods/zt2/tags/tables/</loc>
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/trees/</loc>
+    <loc>http://localhost:1313/team/</loc>
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt2/</loc>
@@ -170,6 +194,9 @@
     <loc>http://localhost:1313/mods/zt1/animals/ussuri-dhole/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/knowledgebase/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/knowledgebase/zooberry/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -256,9 +283,6 @@
   </url><url>
     <loc>http://localhost:1313/authors/zt-abc/</loc>
     <lastmod>2024-06-26T14:38:31-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mods/zt2/tags/animals/</loc>
-    <lastmod>2024-06-25T20:30:47-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt2/animals/</loc>
     <lastmod>2024-06-25T20:30:47-07:00</lastmod>
@@ -644,7 +668,31 @@
     <loc>http://localhost:1313/mods/zt2/expansive-packs/prehistoric-sharks-and-biome-pack/</loc>
     <lastmod>2024-06-21T22:04:13-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/animals/</loc>
+    <lastmod>2024-06-21T21:51:34-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/biomes/</loc>
+    <lastmod>2024-06-21T21:51:34-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mods/zt2/expansive-packs/bog-pack/</loc>
+    <lastmod>2024-06-21T21:51:34-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/enrichment/</loc>
+    <lastmod>2024-06-21T21:51:34-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/foliage/</loc>
+    <lastmod>2024-06-21T21:51:34-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/land-foliage/</loc>
+    <lastmod>2024-06-21T21:51:34-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rocks/</loc>
+    <lastmod>2024-06-21T21:51:34-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/shelters/</loc>
+    <lastmod>2024-06-21T21:51:34-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/trees/</loc>
     <lastmod>2024-06-21T21:51:34-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mods/zt2/animals/living/lesser-mouse-deer/</loc>
