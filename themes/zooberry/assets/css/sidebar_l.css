@@ -44,6 +44,24 @@
     z-index: 5000 !important;
 }
 
+.menu-button {
+    border: none;
+    background: var(--tbody-bg);
+    color: var(--link-color);
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding: 0.5rem 0.7rem;
+    transition: color 0.5s ease;
+    border-radius: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-button:hover {
+    background: var(--tbody-bg-alt);
+}
+
 .nav-controls button:hover {
     background: var(--tbody-bg-alt);
 }
