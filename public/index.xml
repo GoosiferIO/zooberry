@@ -6,13 +6,34 @@
     <description>Recent content in Home on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Oct 2024 01:09:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 01:09:23 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toadally Batrocious Land Invaders</title>
+      <link>http://localhost:1313/mods/zt1/packs/toadallly-batrocious/</link>
+      <pubDate>Fri, 04 Oct 2024 01:09:23 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt1/packs/toadallly-batrocious/</guid>
+      <description>A pack full of ancient amphibians for your zoos! This pack is a Halloween gift for all of you! Toadally Batrocious (TB) is the third of the &amp;ldquo;Works on Lacking Stuff&amp;rdquo; projects.</description>
+    </item>
+    <item>
+      <title>LANG-ZBorsato.dll</title>
+      <link>http://localhost:1313/mods/zt1/tools-utilities/borsatto-lang/</link>
+      <pubDate>Thu, 03 Oct 2024 01:09:23 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt1/tools-utilities/borsatto-lang/</guid>
+      <description>A language file for Zoo Tycoon 1 that adds new text strings to the game. This file is required for some mods to work properly.</description>
+    </item>
     <item>
       <title>Mischievous Erradicators of Outside Wildlife (M.E.O.W.)</title>
       <link>http://localhost:1313/mods/zt1/packs/meow/</link>
       <pubDate>Thu, 03 Oct 2024 01:09:23 +0000</pubDate>
       <guid>http://localhost:1313/mods/zt1/packs/meow/</guid>
+      <description>Dedicated to my two cat sisters, Vega &amp;amp; Rigel, whose birthday is on September 7th. Also dedicated to all cat lovers!</description>
+    </item>
+    <item>
+      <title>Mischievous Erradicators of Outside Wildlife (M.E.O.W.)</title>
+      <link>http://localhost:1313/mods/zt1/tools-utilities/ui99/</link>
+      <pubDate>Thu, 03 Oct 2024 01:09:23 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt1/tools-utilities/ui99/</guid>
       <description>Dedicated to my two cat sisters, Vega &amp;amp; Rigel, whose birthday is on September 7th. Also dedicated to all cat lovers!</description>
     </item>
     <item>
@@ -42,6 +63,13 @@
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/knowledgebase/zooberry/community/other-websites/</guid>
       <description>For Community Zoo Tek Phoenix The longest-running Zoo Tycoon forum, Zoo Tek Phoenix sports one of the nicest communities out there and are always keen on helping if you get stuck.&#xA;Zoo Tek Phoenix&#xA;The ZT2 Roundtable As the name suggests, this community is more geared toward fans of the Zoo Tycoon sequel. Still, it has one of the largest communities for the game still around.&#xA;The ZT2 Roundtable&#xA;The r/ZooTycoon Subreddit Zoo Tycoon carries a large presence on Reddit and should quickly be a familiar format to any used to the karma-scoring link aggregator.</description>
+    </item>
+    <item>
+      <title>Ussuri Dhole</title>
+      <link>http://localhost:1313/mods/zt1/animals/ussuri-dhole/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt1/animals/ussuri-dhole/</guid>
+      <description>Adds the temperate dhole subspecies to your zoo, with a fox-like appearence and unique cooing sounds.</description>
     </item>
     <item>
       <title>Bug Mayhem</title>

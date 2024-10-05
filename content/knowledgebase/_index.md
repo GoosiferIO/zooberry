@@ -1,6 +1,6 @@
 ---
 title: Welcome to the ZooBerry Knowledgebase
-draft: false
+draft: true
 knowledgebaseHome: true
 cascade:
     knowledgebaseHome: false

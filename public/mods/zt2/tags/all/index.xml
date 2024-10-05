@@ -16,6 +16,13 @@
       <description>Dedicated to my two cat sisters, Vega &amp;amp; Rigel, whose birthday is on September 7th. Also dedicated to all cat lovers!</description>
     </item>
     <item>
+      <title>Mischievous Erradicators of Outside Wildlife (M.E.O.W.)</title>
+      <link>http://localhost:1313/mods/zt1/packs/toadallly-batrocious/</link>
+      <pubDate>Thu, 03 Oct 2024 01:09:23 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt1/packs/toadallly-batrocious/</guid>
+      <description>Dedicated to my two cat sisters, Vega &amp;amp; Rigel, whose birthday is on September 7th. Also dedicated to all cat lovers!</description>
+    </item>
+    <item>
       <title>Packs</title>
       <link>http://localhost:1313/mods/zt1/packs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -30,18 +37,25 @@
       <description>Mods for the original Zoo Tycoon released in 2001.</description>
     </item>
     <item>
-      <title>Bug Mayhem</title>
-      <link>http://localhost:1313/mods/zt1/packs/bug-mayhem/</link>
-      <pubDate>Mon, 30 Sep 2024 11:15:53 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/packs/bug-mayhem/</guid>
-      <description>A little expansion pack containing items for a full terrarium of arthropods!</description>
-    </item>
-    <item>
       <title>Animals</title>
       <link>http://localhost:1313/mods/zt1/animals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mods/zt1/animals/</guid>
       <description>Adopt new animals to share with your guests at home!</description>
+    </item>
+    <item>
+      <title>Ussuri Dhole</title>
+      <link>http://localhost:1313/mods/zt1/animals/ussuri-dhole/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt1/animals/ussuri-dhole/</guid>
+      <description>Adds the temperate dhole subspecies to your zoo, with a fox-like appearence and unique cooing sounds.</description>
+    </item>
+    <item>
+      <title>Bug Mayhem</title>
+      <link>http://localhost:1313/mods/zt1/packs/bug-mayhem/</link>
+      <pubDate>Mon, 30 Sep 2024 11:15:53 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt1/packs/bug-mayhem/</guid>
+      <description>A little expansion pack containing items for a full terrarium of arthropods!</description>
     </item>
     <item>
       <title>Cenote Workbench</title>
@@ -198,18 +212,18 @@
       <description>Shark Pack Total Remake is an expansive pack for Zoo Tycoon 2 created by zerosvalmont.</description>
     </item>
     <item>
-      <title>Lavender Fields</title>
-      <link>http://localhost:1313/mods/zt2/maps/lavender-fields/</link>
-      <pubDate>Tue, 25 Jun 2024 18:33:48 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/maps/lavender-fields/</guid>
-      <description>Lavender Fields is a map for Zoo Tycoon 2 created by Wiene.</description>
-    </item>
-    <item>
       <title>Maps</title>
       <link>http://localhost:1313/mods/zt2/maps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mods/zt2/maps/</guid>
       <description>Experience new zoos created from other master zoo-builders.</description>
+    </item>
+    <item>
+      <title>Lavender Fields</title>
+      <link>http://localhost:1313/mods/zt2/maps/lavender-fields/</link>
+      <pubDate>Tue, 25 Jun 2024 18:33:48 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/maps/lavender-fields/</guid>
+      <description>Lavender Fields is a map for Zoo Tycoon 2 created by Wiene.</description>
     </item>
     <item>
       <title>Paranoia Graveyard</title>

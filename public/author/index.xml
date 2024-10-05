@@ -23,6 +23,13 @@
       <description></description>
     </item>
     <item>
+      <title>Serpyderpy</title>
+      <link>http://localhost:1313/authors/serpyderpy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/serpyderpy/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Finn</title>
       <link>http://localhost:1313/authors/finn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -384,13 +391,6 @@
       <link>http://localhost:1313/authors/german13/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/authors/german13/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Serpyderpy</title>
-      <link>http://localhost:1313/authors/serpyderpy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/authors/serpyderpy/</guid>
       <description></description>
     </item>
     <item>

@@ -6,8 +6,15 @@
     <description>Recent content in Animals on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2024 09:34:23 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/mods/zt1/animals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ussuri Dhole</title>
+      <link>http://localhost:1313/mods/zt1/animals/ussuri-dhole/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt1/animals/ussuri-dhole/</guid>
+      <description>Adds the temperate dhole subspecies to your zoo, with a fox-like appearence and unique cooing sounds.</description>
+    </item>
     <item>
       <title>Eoraptor</title>
       <link>http://localhost:1313/mods/zt1/animals/eoraptor/</link>
