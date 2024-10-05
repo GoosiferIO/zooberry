@@ -110,13 +110,13 @@ mod_list:
     uploaded: 2024-10-04
 dependencies:
 - title: LANG-ZBorsato.dll
-  url: /mods/zt1/tools-utilities/borsatto-lang/
+  url: /mods/zt1/tools-utilities/lang-zborsato/
   description: Required for animal eras to display properly.
   external: false
-- title: LANG--fern-Tek.dll
-  url: https://zootekphoenix.com/forums/files/file/4861-lang-fern-tek-dll-file/
-  description: The shelter mod uses the Fancy Shelter ID from this file. Download it if you don't have it already.
-  external: true
+- title: ui99.ztd
+  url: /mods/zt1/tools-utilities/ui99/
+  description: Required for the new location graphics and configurations to display properly.
+  external: false
   
 ---
 

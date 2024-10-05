@@ -6,8 +6,15 @@
     <description>Recent content in Penguinman on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jan 2024 13:28:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 19:40:23 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/authors/penguinman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Island Excursions</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/island-excursions/</link>
+      <pubDate>Fri, 04 Oct 2024 19:40:23 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/island-excursions/</guid>
+      <description>A Bog Pack made by Hendrix with new animals, objects, and a new biome.</description>
+    </item>
     <item>
       <title>Alpine Pack</title>
       <link>http://localhost:1313/mods/zt2/expansive-packs/alpine-pack/</link>

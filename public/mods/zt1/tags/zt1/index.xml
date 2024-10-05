@@ -6,8 +6,29 @@
     <description>Recent content in ZT1 on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Oct 2024 01:09:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 01:09:23 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/mods/zt1/tags/zt1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Packs</title>
+      <link>http://localhost:1313/mods/zt1/packs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt1/packs/</guid>
+      <description>Bundled packs of mods with similar themes.</description>
+    </item>
+    <item>
+      <title>Toadally Batrocious Land Invaders</title>
+      <link>http://localhost:1313/mods/zt1/packs/toadallly-batrocious/</link>
+      <pubDate>Fri, 04 Oct 2024 01:09:23 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt1/packs/toadallly-batrocious/</guid>
+      <description>A pack full of ancient amphibians for your zoos! This pack is a Halloween gift for all of you! Toadally Batrocious (TB) is the third of the &amp;ldquo;Works on Lacking Stuff&amp;rdquo; projects.</description>
+    </item>
+    <item>
+      <title>LANG-ZBorsato.dll</title>
+      <link>http://localhost:1313/mods/zt1/tools-utilities/lang-zborsato/</link>
+      <pubDate>Thu, 03 Oct 2024 01:09:23 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt1/tools-utilities/lang-zborsato/</guid>
+      <description>A language file for Zoo Tycoon 1 that adds new text strings to the game. This file is required for some mods to work properly.</description>
+    </item>
     <item>
       <title>Mischievous Erradicators of Outside Wildlife (M.E.O.W.)</title>
       <link>http://localhost:1313/mods/zt1/packs/meow/</link>
@@ -16,18 +37,18 @@
       <description>Dedicated to my two cat sisters, Vega &amp;amp; Rigel, whose birthday is on September 7th. Also dedicated to all cat lovers!</description>
     </item>
     <item>
-      <title>Mischievous Erradicators of Outside Wildlife (M.E.O.W.)</title>
-      <link>http://localhost:1313/mods/zt1/packs/toadallly-batrocious/</link>
-      <pubDate>Thu, 03 Oct 2024 01:09:23 +0000</pubDate>
-      <guid>http://localhost:1313/mods/zt1/packs/toadallly-batrocious/</guid>
-      <description>Dedicated to my two cat sisters, Vega &amp;amp; Rigel, whose birthday is on September 7th. Also dedicated to all cat lovers!</description>
+      <title>Tools &amp; Utilities</title>
+      <link>http://localhost:1313/mods/zt1/tools-utilities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt1/tools-utilities/</guid>
+      <description>Language files, tools, and other utilities to help you mod Zoo Tycoon 1.</description>
     </item>
     <item>
-      <title>Packs</title>
-      <link>http://localhost:1313/mods/zt1/packs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mods/zt1/packs/</guid>
-      <description>Bundled packs of mods with similar themes.</description>
+      <title>ui99</title>
+      <link>http://localhost:1313/mods/zt1/tools-utilities/ui99/</link>
+      <pubDate>Thu, 03 Oct 2024 01:09:23 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt1/tools-utilities/ui99/</guid>
+      <description>Adds new location graphics and configurations to Zoo Tycoon 1.</description>
     </item>
     <item>
       <title>Animals</title>
