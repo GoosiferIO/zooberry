@@ -32,7 +32,6 @@
                             <tr>
                               <th>Website</th>
                               <th>File Count</th>
-                              <th>Tags</th>
                             </tr>
                         </thead>
 
@@ -92,13 +91,6 @@
                 </td>
                 <td class="tb-td">
                     {{ $modCount }}
-                </td>
-                <td class="tb-td">
-                    <div class="filter-tags">
-                        {{ range $allTagsAssociated }}
-                            <a class="badge-default" href="/tags/{{ . | urlize }}">{{ . }}</a>
-                        {{ end }}
-                    </div>
                 </td>
             </tr>
             
