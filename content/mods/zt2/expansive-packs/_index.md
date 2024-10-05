@@ -8,6 +8,7 @@ summary: "These mods feel like unofficial expansion packs and mini DLC with mods
 cascade:
     zt2tags: ["All", "ZT2", "Packs" ]
     subcat: "Packs"
+is_category: true
 ---
 
 These mods feel like unofficial expansion packs and DLC with mods from mixed categories.
