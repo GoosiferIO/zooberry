@@ -109,13 +109,6 @@
 <div class="sidebar_r-inner">
     <span class="sidebar_r-title">Description</span>
     <p style="padding: 0 2rem 0 2rem;">{{ .Params.description }}</p>
-    <span class="sidebar_r-title">Languages</span>
-    <div class="side-ul filter-tags">
-        {{ range $languagesByAuthor }}
-            <a class="badge-default" href="/languages/{{ . | urlize }}">{{ . }}</a>
-        {{ end }}
-    </div>
-
 </div>
 </div>
 
