@@ -19,4 +19,10 @@ We've given the site a fresh coat of paint with a new design that's cleaner and 
 
 ## Contributor Lists
 
+### Team Pages
+
 ![Contributor Lists](/blog/welcome-to-zb-2.0/images/zb2.jpg)
+
+Not completely unfamiliar to the old site, but we've added a team page to list all design teams and their files. From there you can find brand new design team pages that list all of their mods in one place along with some quick stats.
+
+![Contributor Pages](/blog/welcome-to-zb-2.0/images/zb3.jpg)
