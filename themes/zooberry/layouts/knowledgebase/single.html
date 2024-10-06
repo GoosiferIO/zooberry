@@ -1,32 +1,68 @@
 {{ define "main" }}
-  {{/*  <h1>{{ .Title }}</h1>
-
-  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-  {{ $dateHuman := .Date | time.Format ":date_long" }}
-  <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-
-  {{ .Content }}
-  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}  */}}
-
-    {{/*  breadcrumbs  */}}
-  <div class="article-container" id="TableOfContents">
-
-      <div class="article">
-        <div class="article-post">
-          <h1>{{.Title}}</h1>
-          <div class="post-subheader">
-            <span><i class="material-icons icon">person</i> 
-                  <a class="badge-default" href="/authors/">{{ .Params.author }}</a>
-              <i class="material-icons icon">calendar_month</i> {{ .Date.Format "2 Jan 2006" }}
+<div class="article-container" id="TableOfContents">
+  <div class="article">
+    {{ partial "breadcrumbs.html" . }}
+    <div class="article-post">
+        <span class="article-github-link">
+        {{ if not (eq .BundleType "leaf") }}
+            <a href="https://github.com/GoosiferIO/zooberry/raw/main/content/knowledgebase/{{ .Parent.Title | urlize }}/{{ .Page.Title | urlize }}.md" title="View this page on GitHub" alt="View this page on GitHub" target="_blank" rel="noopener">
+              <span class="material-symbols-outlined">
+                quick_reference_all
+              </span>
+            </a>
+            <a href="https://github.com/GoosiferIO/zooberry/edit/main/content/knowledgebase/{{ .Parent.Title | urlize }}/{{ .Page.Title | urlize }}.md" title="Edit this page on GitHub" alt="Edit this page on GitHub" target="_blank" rel="noopener">
+              <span class="material-symbols-outlined">
+                edit
+              </span>
+            </a>
+            {{/* Report an error */}}
+            <a href="https://github.com/GoosiferIO/zooberry/issues/" title="Report an error on GitHub" alt="Report an error on GitHub" target="_blank" rel="noopener">
+              <span class="material-symbols-outlined">
+                error_outline
+              </span>
+            </a>
+        {{ else }}
+          <a href="https://github.com/GoosiferIO/zooberry/raw/main/content/knowledgebase/{{ .Parent.Title | urlize }}/{{ .Page.Title | urlize }}/index.md" title="View this page on GitHub" alt="View this page on GitHub" target="_blank" rel="noopener">
+            <span class="material-symbols-outlined">
+              quick_reference_all
             </span>
-          </div>
-          {{ .Content }}
-        </div>
-        <div class="article-toc">
-          <h2>Table of Contents</h2>
-              {{ .TableOfContents }}
-        </div>
+          </a>
+          <a href="https://github.com/GoosiferIO/zooberry/edit/main/content/knowledgebase/{{ .Parent.Title | urlize }}/{{ .Page.Title | urlize }}/index.md" title="Edit this page on GitHub" alt="Edit this page on GitHub" target="_blank" rel="noopener">
+            <span class="material-symbols-outlined">
+              edit
+            </span>
+          </a>
+          {{/* Report an error */}}
+          <a href="https://github.com/GoosiferIO/zooberry/issues/" title="Report an error on GitHub" alt="Report an error on GitHub" target="_blank" rel="noopener">
+            <span class="material-symbols-outlined">
+              error_outline
+            </span>
+          </a>
+        {{ end }}
 
-      </div>
+        </span>
+        {{ .Content }}
     </div>
+      <div class="post-subheader">
+        <span>
+              <strong>Published by </strong> <a href="/authors/">{{ .Params.author }}</a>
+              <strong> on </strong><span class="post-date">{{ .Date.Format "2 Jan 2006" }}</span>
+        </span>
+      </div>
+      {{/*  <div class="article-buttons">
+        {{ $previousArticle := .PrevInSection }}
+        {{ $nextArticle := .NextInSection }}
+        {{ if $previousArticle }}
+          <a href="{{ $previousArticle.RelPermalink }}" class="btn btn-primary">Previous</a>
+        {{ end }}
+        {{ if $nextArticle }}
+          <a href="{{ $nextArticle.RelPermalink }}" class="btn btn-primary">Next</a>
+        {{ end }}
+      </div>  */}}
+    </div>
+    <div class="article-toc">
+      <h2>Table of Contents</h2>
+          {{ .TableOfContents }}
+    </div>
+  </div>
 {{ end }}

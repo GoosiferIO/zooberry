@@ -32,7 +32,6 @@
                             <tr>
                               <th>Website</th>
                               <th>File Count</th>
-                              <th>Tags</th>
                             </tr>
                         </thead>
 
@@ -93,13 +92,6 @@
                 <td class="tb-td">
                     {{ $modCount }}
                 </td>
-                <td class="tb-td">
-                    <div class="filter-tags">
-                        {{ range $allTagsAssociated }}
-                            <a class="badge-default" href="/tags/{{ . | urlize }}">{{ . }}</a>
-                        {{ end }}
-                    </div>
-                </td>
             </tr>
             
         {{ end }}
@@ -113,7 +105,7 @@
             <span class="sidebar_r-title">Languages</span>
             <div class="side-ul filter-tags">
                 {{ range $languagesByAuthor }}
-                    <a class="badge-default" href="/languages/{{ . | urlize }}">{{ . }}</a>
+                    <span class="badge-default" href="/languages/{{ . | urlize }}" style="margin: 0.1rem;">{{ . }}</span>
                 {{ end }}
             </div>
 
@@ -217,10 +209,10 @@
             <h1 style="margin:0;">{{ .Title }}</h1>
             <p style="margin:0;padding:0;"><i class="material-icons icon">extension</i> {{ $modCount }} Mods Published</p>
 
-            <div class="banner-box" style="margin: 2rem 0; width: 100%; background: center center / cover no-repeat url('{{ .RelPermalink}}/images/banner.png'); border-radius: 20px; height: 300px;">
+            <div class="banner-box" style="margin: 2rem 0; width: 100%; background: center center / cover no-repeat url('{{ .Site.Params.cdn }}/archives/{{ .Params.Title | urlize }}/images/banner.png'); height: 300px;">
 
             </div>
-            <div style="display: flex; flex-direction: row;width: 100%;">
+            <div style="display: flex; flex-direction: row; width: 100%;">
                 <div style="margin-right: 2rem;">
 
                     <p><h1 style="margin-top:-1rem;padding:0;">Library</h1> 
@@ -236,21 +228,20 @@
                                             {{ $processedImage := .Fill "300x200 center" }} <!-- Adjust dimensions as needed -->
                                             {{ $thumbnail = $processedImage.RelPermalink }}
                                         {{ end }}
-                            
                                         <a href="{{ .RelPermalink }}">
-                                            <img src="{{ $thumbnail }}" alt="{{ .LinkTitle }}">
+                                            <img src="{{ $.Site.Params.cdn }}{{ $thumbnail }}" alt="{{ .LinkTitle }}">
                                         </a>
                                     </div>
                                     <div class="box-card-mods-content">
                                             <p>
                                             {{ if eq .Params.game "Zoo Tycoon 1" }}
-                                                <a href="mods/zt1">{{ .Params.game }}</a>
+                                                <a href="{{ .Site.BaseURL }}/mods/zt1/tags/all">{{ .Params.game }}</a>
                                             {{ else if eq .Params.game "Zoo Tycoon 2" }}
-                                                <a href="mods/zt2">{{ .Params.game }}</a>
+                                                <a href="{{ .Site.BaseURL }}/mods/zt2/tags/all">{{ .Params.game }}</a>
                                             {{ else }}
-                                                {{ .Params.game }}
+                                                <a href="{{ .Site.BaseURL }}mods/assets">Assets</a>
                                             {{ end }}
-                                            </p>
+                                                                        </p>
                                         <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
                                         <p>by 
                                             {{ $authors := .Params.author }}
@@ -285,30 +276,15 @@
                 </div>
                 <div class="sidebar_r">
                     <div class="sidebar_r-inner">
-                        <span class="sidebar_r-title">Description</span>
-                        <p style="padding: 0 2rem 0 2rem;">{{ .Params.description }}</p>
-                        <span class="sidebar_r-title">Languages</span>
-                        <div class="side-ul filter-tags">
-                            {{ range $languagesByAuthor }}
-                                <a class="badge-default" href="/languages/{{ . | urlize }}">{{ . }}</a>
-                            {{ end }}
-                        </div>
-                        <span class="sidebar_r-title">Members</span>
-                        <div class="side-ul filter-tags">
-                            {{ range .Params.members }}
-                                <a class="badge-default" href="/authors/{{ . | urlize }}">{{ . }}</a>
-                            {{ end }}
-                        </div>
+                        {{ if .Params.Description }}
+                            <span class="sidebar_r-title">Description</span>
+                            <p style="padding: 0 2rem 0 2rem;">{{ .Params.description }}</p>
+                        {{ end }}
                         <span class="sidebar_r-title">Years Active</span>
                         <div class="side-ul filter-tags">
+                            {{ $yearsActive = sort $yearsActive }}
                             {{ range $yearsActive }}
-                                <a class="badge-default" href="/years/{{ . | urlize }}">{{ . }}</a>
-                            {{ end }}
-                        </div>
-                        <span class="sidebar_r-title">Tags</span>
-                        <div class="side-ul filter-tags">
-                            {{ range $allTagsAssociated }}
-                                <a class="badge-default" href="/tags/{{ . | urlize }}">{{ . }}</a>
+                                <span class="badge-default" href="/years/{{ . | urlize }}" style="margin-right: 0.2rem">{{ . }}</span>
                             {{ end }}
                         </div>
                     </div>

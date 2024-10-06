@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reptiles on ZooBerry</title>
+    <link>http://localhost:1313/mods/zt2/tags/reptiles/</link>
+    <description>Recent content in Reptiles on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 19:40:23 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mods/zt2/tags/reptiles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Island Excursions</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/island-excursions/</link>
+      <pubDate>Fri, 04 Oct 2024 19:40:23 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/island-excursions/</guid>
+      <description>Embark upon an excursion to travel the oceans in search of tropical paradise! Discover the isles hiding within the Hawaiian Islands and Papua New Guinea, seeing such animals as the Hawaiian Monk Seal and the Northern Cassowary as they live in their lush and vibrant homes.</description>
+    </item>
+    <item>
+      <title>Pterosaur Pack North America</title>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/pterosaur-pack-na/</link>
+      <pubDate>Tue, 25 Jun 2024 09:09:08 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/pterosaur-pack-na/</guid>
+      <description>A collection of pterosaurs from North America.</description>
+    </item>
+    <item>
+      <title>Pterosaur Remakes Pack 1</title>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/pterosaur-pack-1/</link>
+      <pubDate>Thu, 20 Jun 2024 18:36:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/pterosaur-pack-1/</guid>
+      <description>Two pterosaurs by Andrew12 and PrimevalRaptor, and a remake of the Quetzalcoatlus by Hendrix.</description>
+    </item>
+    <item>
+      <title>Pterosaur Remakes Pack 2</title>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/pterosaur-pack-2/</link>
+      <pubDate>Thu, 20 Jun 2024 18:36:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/pterosaur-pack-2/</guid>
+      <description>Six pterosaurs by Andrew12.</description>
+    </item>
+    <item>
+      <title>South America Pack</title>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/south-america-pack/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/south-america-pack/</guid>
+      <description>This pack contains six animals from South America and is downloaded in one file.</description>
+    </item>
+    <item>
+      <title>Africa&#39;s Spitters &#43; Mini Snake Pack</title>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/africas-spitters-mini-snake-pack/</link>
+      <pubDate>Wed, 15 Nov 2023 19:10:13 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/africas-spitters-mini-snake-pack/</guid>
+      <description>A pack containing several cobras from Africa, perfect for your reptile houses.</description>
+    </item>
+    <item>
+      <title>African Safari Pack</title>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/african-safari-pack/</link>
+      <pubDate>Mon, 24 Jul 2023 18:31:26 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/african-safari-pack/</guid>
+      <description>Summary of the African Safari Pack project</description>
+    </item>
+  </channel>
+</rss>

@@ -18,6 +18,7 @@ alt_text:
 summary: "A collection of pterosaurs from North America."
 languages:
 - English
+zt2tags: ["All", "Animals", "Animal Bundles", "Prehistoric", "Reptiles"]
 ---
 
 

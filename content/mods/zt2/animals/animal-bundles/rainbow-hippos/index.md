@@ -19,6 +19,15 @@ alt_text:
 languages: 
 - English
 summary: "An adorable pygmy hippo for every color of the rainbow!"
+zt2tags: [
+  "All",
+  "Animals",
+  "Animal Bundles",
+  "Mammals",
+  "Ungulates",
+  "Aquatic",
+  "Fictional"
+]
 ---
 An adorable pygmy hippo for every color of the rainbow! Maybe you like cute things or maybe you want some pride in your zoo, but either way, show your guests something they've never seen anywhere else.
 

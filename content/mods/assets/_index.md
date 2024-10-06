@@ -11,6 +11,7 @@ cascade:
     - "all"
     - "assets"
     - "assets"
+    subcat: "Assets"
 ---
 
 Art assets anyone can use for their own mod projects.

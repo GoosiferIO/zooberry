@@ -2,7 +2,7 @@
 alt_text: null
 author:
 - Penguinman
-- Harlequinz eg0
+- "Harlequinz eg0"
 date: '2024-01-14T01:51:12'
 draft: false
 exp_req:

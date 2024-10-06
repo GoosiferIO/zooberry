@@ -8,7 +8,7 @@ cascade:
     zt1tags: ["All", "ZT1", "Packs" ]
     subcat: "Packs"
 is_category: true
-
+redirect: mods/zt1/tags/packs/
 ---
 
 Bundled packs of mods with similar themes.

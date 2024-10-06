@@ -16,11 +16,10 @@
     display: grid;
     /* 3 columns */
     grid-template-columns: repeat(3, 1fr);
-    gap: 1rem;    width: 92%;
-    background-color: var(--secondary-bg);
+    gap: 1rem;    
+    width: 92%;
+    background-color: var(--tbody-bg);
     padding: 2rem;
-    border-radius: 20px;
-    border: 1px solid var(--secondary-border);
     margin-top: 2rem;
 }
 
@@ -52,11 +51,10 @@
 .filter-bar-button {
     display: flex; 
     align-items: center; 
-    background: var(--tbody-bg);
+    background: var(--thead-bg-alt);
     padding: 0.5rem 0 0.5rem 2rem;
-    border-radius: 20px;
     text-align: center;
-    border: 2px solid var(--secondary-bg);
+    border: 2px solid var(--thead-bg-alt);
     vertical-align: middle;
     i {
         margin-right: 0.5rem;
@@ -66,9 +64,9 @@
 }
 
 .filter-bar-button:hover {
-    background: var(--primary-bg-hover);
-    transition: ease-in-out 0.3s;
-    border: 2px solid var(--accent-bg);
+    filter: brightness(0.8);
+    transition: filter ease-in-out 0.4s;
+    color: var(--link-color);
 }
 
 a.filter-bar-active {
@@ -85,15 +83,28 @@ a.filter-bar-active {
     flex-direction: column;
     justify-content: space-between;
     background-color: var(--secondary-bg);
-    border-radius: 20px;
-    border: 1px solid var(--secondary-border);
     margin-top: 2rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .cat-card:hover {
     background-color: var(--primary-bg);
-    transition: ease-in-out 0.3s;
-    border: 1px solid var(--accent-bg);
+    overflow: hidden;
+    transition: transform 0.5s ease-in-out, filter 0.5s ease-in-out;
+
+    img {
+        transform: scale(1);
+        transition: transform 0.35s ease-in-out;
+    }
+
+    &:hover {
+        filter: brightness(1.2);
+        transition: filter 0.5s ease-in-out, transform 0.5s ease-in-out;
+
+        img {
+            transform: scale(1.05);
+        }
+    }
 }
 
 .cat-card-title {
@@ -111,8 +122,8 @@ a.filter-bar-active {
     width: 100%;
     height: 200px;
     object-fit: cover;
-    border-radius: 0 0 20px 20px;
     background-color: var(--secondary-bg);
     background-image: url('https://ladygeekgirl.wordpress.com/wp-content/uploads/2015/06/zoo-tycoon-1.jpg');
     background-position: center;
 }
+

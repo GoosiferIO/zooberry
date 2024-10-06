@@ -19,6 +19,16 @@ alt_text:
 languages:
 - English
 summary: "Three extinct hippopotamids from the genus Hexaprotodon."
+zt2tags: [
+  "All",
+  "Animals",
+  "Animal Bundles",
+  "Prehistoric",
+  "Aquatic",
+  "Mammals",
+  "Therapsids",
+    "Ungulates" 
+]
 ---
 Three extinct hippopotamids from the genus *Hexaprotodon*. The name *Hexaprotodon* was often applied to the pygmy hippopotamus before its reclassification into the genus *Choeropsis*. The genus has been historically applied to numerous fossil hippopotamus species spanning Asia, Africa and Europe.
 

@@ -19,6 +19,7 @@ summary: "A collection of stingrays for your marine parks."
 languages:
 - English
 - German
+zt2tags: ["All", "Animals", "Animal Bundles", "Aquatic"]
 ---
 
 A collection of stingrays for your marine parks. Tiger Claw Designs' debut project.

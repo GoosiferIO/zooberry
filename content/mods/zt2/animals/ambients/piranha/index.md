@@ -18,6 +18,7 @@ license: 'Yes'
 alt_text: 
 languages: 
 summary: "These piranhas will form interesting schools in your jungle tanks."
+zt2tags: ["All", "Ambients", "Animals", "Fish"]
 ---
 Note: this is an ambient, not an adoptable animal. This means it will spawn in the environment at random intervals.
 

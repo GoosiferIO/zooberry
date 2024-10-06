@@ -1,0 +1,3 @@
+{{ $cdn := .Site.Params.cdnURL }}
+{{ $path := .Get 0 }}
+{{ printf "%s%s" $cdn $path }}

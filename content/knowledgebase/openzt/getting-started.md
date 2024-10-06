@@ -46,26 +46,26 @@ Lets break this file down
 
 #### meta.toml
 
-| Field Name   | Purpose                                                                                                                                                                                                         | Example                          | Mandatory                                          |
-|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|----------------------------------------------------|
-| name         | This is the mod name displayed to the user                                                                                                                                                                      | "My example mod"                 | Yes, cannot be empty                               |
-| description  | A short description of what your mod does                                                                                                                                                                       | "Adds a Dodo to the game"        | Yes, cannot be empty                               |
-| authors      | A list of authors                                                                                                                                                                                               | ["Finn", Goosifer"]              | Yes, must contain at least one author              |
-| mod_id       | A short unique string for your mod, generally in the form "author.mod_name" or "author.project.mod_name", used to make sure two versions of the same mod aren't loaded and to resolve dependencies between mods | "finn.my_mod"                    | Yes, cannot be empty or contain spaces             |
-| version      | Used to differentiate different versions of the same mod, must be 3 numbers separated by periods                                                                                                                | "1.0.4"                          | Yes, cannot be empty, must contain a valid version |
-| link         | An optional link for the author to advertise themselves                                                                                                                                                         | "https://www.mywebsite.com/mods" | No                                                 |
+| Field Name   | Purpose | Example                          | Mandatory                                          |
+|--------------|---------|----------------------------------|----------------------------------------------------|
+| name         | This is the mod name displayed to the user  | "My example mod" | Yes, cannot be empty |
+| description  | A short description of what your mod does | "Adds a Dodo to the game" | Yes, cannot be empty |
+| authors      | A list of authors | ["Finn", Goosifer"] | Yes, must contain at least one author  |
+| mod_id       | A short unique string for your mod, generally in the form "author.mod_name" or "author.project.mod_name", used to make sure two versions of the same mod aren't loaded and to resolve dependencies between mods | "finn.my_mod" | Yes, cannot be empty or contain spaces |
+| version      | Used to differentiate different versions of the same mod, must be 3 numbers separated by periods | "1.0.4" | Yes, cannot be empty, must contain a valid version |
+| link         | An optional link for the author to advertise themselves | "https://www.mywebsite.com/mods" | No |
 | ztd_type     | The type of mod, can be "legacy" for a vanilla Zoo Tycoon mod, "openzt" for an OpenZT mod or "combined" if it contains files from both vanilla Zoo Tycoon and OpenZT | "combined"| No, defaults to "openzt" if left empty |
-| dependencies | A list of dependencies that this mod requires or is usually used with.                                                                                                                                          |                                  | No                                                 |
+| dependencies | A list of dependencies that this mod requires or is usually used with. | | No  |
 
 ##### Dependencies
 
-| Field Name  | Purpose                                                                                                                              | Example             | Mandatory                             |
-|-------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------------|---------------------------------------|
-| mod_id      | mod_id of the dependency                                                                                                             | "finn.my_other_mod" | Yes                                   |
-| name        | Name of the dependency                                                                                                               | "My other mod"      | Yes                                   |
-| min_version | Minimum version of the dependency if required                                                                                        | "1.1.4"             | No, must be valid version if supplied |
-| optional    | Whether the dependency is required for this mod to function                                                                          | true                | No, defaults to false                 |
-| ordering    | Indicates whether the dependency should be loaded before or after the current mod, acceptable values are "before" "after" and "none" | "before"            | No, defaults to "none"                |
+| Field Name  | Purpose | Example             | Mandatory                             |
+|-------------|---------|---------------------|---------------------------------------|
+| mod_id      | mod_id of the dependency | "finn.my_other_mod" | Yes |
+| name        | Name of the dependency | "My other mod"      | Yes |
+| min_version | Minimum version of the dependency if required  | "1.1.4" | No, must be valid version if supplied |
+| optional    | Whether the dependency is required for this mod to function | true | No, defaults to false |
+| ordering    | Indicates whether the dependency should be loaded before or after the current mod, acceptable values are "before" "after" and "none" | "before" | No, defaults to "none" |
 
 
 ### Defs

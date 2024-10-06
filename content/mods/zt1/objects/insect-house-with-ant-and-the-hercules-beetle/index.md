@@ -17,6 +17,7 @@ alt_text:
 summary: "Scenery Objects, Tile:4x5, Water placeable, Exhibit placeable(Animals don't feel happy or unhappy)"
 languages:
 - English
+zt1tags: ["All", "Objects", "ZT1", "Buildings"]
 ---
 
 Scenery Objects, Tile:4x5, Water placeable, Exhibit placeable (Animals don't feel happy or unhappy)

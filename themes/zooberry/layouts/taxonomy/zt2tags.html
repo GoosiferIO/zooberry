@@ -3,7 +3,7 @@
     <div class="body-content">
         {{/*  Title and blurb  */}}
         <h1>{{ .Title }}</h1>
-        <div class="cat-blurb">{{ .Content }}</div>
+        <div class="cat-blurb">{{ .Content }}Browse mods by category or use the tags on the sidebar to narrow down your search.</div>
 
 
         {{/* Get list of categories from top level taxonomy */}}
@@ -34,7 +34,6 @@
             </div>  
         {{ end }}
 
-        
         {{/*  Generate category buttons  */}}
         {{ if eq .Params.mainModCat "Mods" }}
             {{ range .Params.submenu }}
@@ -51,7 +50,7 @@
             <div class="filter-bar-content">
                 {{ $major := .Params.major }}
                 {{ $layout := .Params.layout }}
-                {{ with or (.Params.zt2tags) (.Params.zt2tags) }}
+                {{ with or (.Params.zt1tags) (.Params.zt2tags) }}
                     <a class="filter-bar-button filter-bar-active" href="/mods/{{$major}}"><i class="material-icons">all_inclusive</i>All</a>
                 {{ else }}
                     <a class="filter-bar-button" href="/mods/{{$major}}"><i class="material-icons">all_inclusive</i>All</a>
@@ -68,10 +67,13 @@
             </div>  
         {{ end }}
         
-        {{ template "_internal/pagination.html" (dict "paginator" .Pages "page" .) }}
+        {{ $removeCategories := where .Pages "Params.is_category" "!=" true }}
+        {{ $removeZt1 := where $removeCategories "Params.major" "!=" "zt1" }}
+        {{ $paginator := .Paginate $removeZt1 }}
 
+        {{ template "_internal/pagination.html" (dict "Paginator" $paginator "page" .) }}
         <ul class="box-card-list">
-            {{ range .Pages.ByTitle }}
+            {{ range $paginator.Pages }}
                 {{ if not (.Params.is_category) }}
                     <li class="box-card-mods">
                         <div class="box-card-mods-img">
@@ -81,24 +83,22 @@
                                 {{ $processedImage := .Fill "300x200 center" }} <!-- Adjust dimensions as needed -->
                                 {{ $thumbnail = $processedImage.RelPermalink }}
                             {{ end }}
-
                             <a href="{{ .RelPermalink }}">
-                                <img src="{{ $thumbnail }}" alt="{{ .LinkTitle }}">
+                                <img src="{{ .Site.Params.cdn }}{{ $thumbnail }}" alt="{{ .LinkTitle }}">
                             </a>
                         </div>
                         <div class="box-card-mods-content">
                             <p>
                             {{ if eq .Params.game "Zoo Tycoon 1" }}
-                                <a href="{{ .Site.BaseURL }}mods/zt2">{{ .Params.game }}</a>
+                                <a href="{{ .Site.BaseURL }}/mods/zt1/tags/all">{{ .Params.game }}</a>
                             {{ else if eq .Params.game "Zoo Tycoon 2" }}
-                                <a href="{{ .Site.BaseURL }}mods/zt2">{{ .Params.game }}</a>
+                                <a href="{{ .Site.BaseURL }}/mods/zt2/tags/all">{{ .Params.game }}</a>
                             {{ else }}
                                 <a href="{{ .Site.BaseURL }}mods/assets">Assets</a>
                             {{ end }}
                             </p>
                         <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-                        <p>by
-
+                        <p>by                                     
                             {{ $authors := .Params.author }}
                             {{ $siteBaseURL := .Site.BaseURL }}    
                             {{ with .Params.team }}
@@ -115,6 +115,7 @@
                                     {{ end }}
                                 {{ end }}
                             {{ end }}
+
                         </p>
                         <span class="box-card-bottom">
                             {{ partial "class-badges.html" . }}
@@ -126,13 +127,12 @@
             {{ end }}
         </ul>
 
-        {{ template "_internal/pagination.html" (dict "paginator" .Pages "page" .) }}
+        {{ template "_internal/pagination.html" (dict "Paginator" $paginator "page" .) }}
 
 
     </div>
     {{/*  Generate the sidebar filters */}}
-
-    {{ .Scratch.Set "game" .Params.major }}
     {{ .Scratch.Set "category" .Title }}
+    {{ .Scratch.Set "game" .Params.major }}
     {{ partial "sidebar-r/filter-root.html" . }}
 {{ end }}

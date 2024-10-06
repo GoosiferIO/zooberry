@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "Six statues: 4x Brown Bear, 2x Lion Statues"
-
+zt1tags: ["All", "Objects", "ZT1", "Statues"]
 ---
 
 Simple objects~ :D

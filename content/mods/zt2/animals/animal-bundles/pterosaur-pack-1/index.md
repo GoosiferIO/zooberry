@@ -22,6 +22,7 @@ alt_text:
 languages:
 - English
 summary: "Two pterosaurs by Andrew12 and PrimevalRaptor, and a remake of the Quetzalcoatlus by Hendrix."
+zt2tags: ["All", "Animals", "Animal Bundles", "Prehistoric", "Reptiles"]
 ---
 
  From the Zoopedia 

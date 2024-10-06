@@ -1,29 +1,29 @@
 <nav aria-label="breadcrumbs">
-    <ul class="breadcrumbs">
-      <!-- Build the breadcrumb trail -->
-      {{ $breadcrumb := slice }}
-      {{ $page := . }}
-      {{ $parent := $page.Parent }}
-  
-      {{ range $i, $e := (seq 1 10) }}
-        {{ if $parent }}
-          {{ $breadcrumb = $breadcrumb | append $parent }}
-          {{ $parent = $parent.Parent }}
-        {{ else }}
-          {{ break }}
-        {{ end }}
+  <div class="breadcrumbs">
+    <!-- Build the breadcrumb trail -->
+    {{ $breadcrumb := slice }}
+    {{ $page := . }}
+    {{ $parent := $page.Parent }}
+
+    {{ range $i, $e := (seq 1 10) }}
+      {{ if $parent }}
+        {{ $breadcrumb = $breadcrumb | append $parent }}
+        {{ $parent = $parent.Parent }}
+      {{ else }}
+        {{ break }}
       {{ end }}
-  
-      <!-- Reverse breadcrumb to get correct order -->
-      {{ $breadcrumb = $breadcrumb.Reverse }}
-  
-      <!-- Output the breadcrumbs -->
-      {{ range $breadcrumb }}
-        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-      {{ end }}
-  
-      <!-- Current page -->
-      <li class="active">{{ .Title }}</li>
-    </ul>
-  </nav>
+    {{ end }}
+
+    <!-- Reverse breadcrumb to get correct order -->
+    {{ $breadcrumb = $breadcrumb.Reverse }}
+
+    <!-- Output the breadcrumbs -->
+    {{ range $breadcrumb }}
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    {{ end }}
+
+    <!-- Current page -->
+    <span class="active">{{ .Title }}</span>
+  </div>
+</nav>
   

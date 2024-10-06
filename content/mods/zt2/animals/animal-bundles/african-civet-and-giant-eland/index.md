@@ -20,7 +20,7 @@ alt_text:
 languages:
 - English
 summary: "A Civet from the tropics of Africa, Biome is Tropical Rainforest and Savannah. Giant Eland is one of the largest antelope in the world, lives in the Savannahs of East Africa."
-
+zt2tags: ["All", "Animals", "Mammals", "Savannah", "Tropical Rainforest", "Ungulates", "Animal Bundles"]
 ---
 
 Included: 2 Animals, Civet has new model, both have non-photosourced textures. Civet has 3 variants. Extract zip file to `C:\\Program Files\\Microsoft Games\\Zoo Tycoon 2` to install.

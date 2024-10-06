@@ -2,7 +2,6 @@
     background-color: var(--shade-bg);
     color: var(--link-color);
     padding: 0.2rem 0.5rem;
-    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
     width: max-content;
@@ -12,7 +11,6 @@
     background-color: var(--animals);
     color: var(--contrast-font);
     padding: 0.2rem 0.5rem;
-    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
 }
@@ -21,7 +19,6 @@
     background-color: var(--objects);
     color: var(--contrast-font);
     padding: 0.2rem 0.5rem;
-    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
 }
@@ -30,7 +27,6 @@
     background-color: var(--maps);
     color: var(--contrast-font);
     padding: 0.2rem 0.5rem;
-    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
 }
@@ -39,7 +35,6 @@
     background-color: var(--expansive-packs);
     color: var(--contrast-font);
     padding: 0.2rem 0.5rem;
-    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
 }
@@ -48,7 +43,6 @@
     background-color: var(--packs);
     color: var(--contrast-font);
     padding: 0.2rem 0.5rem;
-    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
 }
@@ -57,7 +51,6 @@
     background-color: var(--assets);
     color: var(--contrast-font);
     padding: 0.2rem 0.5rem;
-    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
 }
@@ -66,7 +59,6 @@
     background-color: var(--hacks);
     color: var(--contrast-font);
     padding: 0.2rem 0.5rem;
-    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
 }
@@ -75,7 +67,6 @@
     background-color: var(--tools-utilities);
     color: var(--contrast-font);
     padding: 0.2rem 0.5rem;
-    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
 }
@@ -84,7 +75,6 @@
     background-color: var(--texture-mods);
     color: var(--contrast-font);
     padding: 0.2rem 0.5rem;
-    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
 }
@@ -93,7 +83,6 @@
     background-color: var(--remakes);
     color: var(--contrast-font);
     padding: 0.2rem 0.5rem;
-    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
 }
@@ -102,7 +91,6 @@
     background-color: var(--biomes);
     color: var(--contrast-font);
     padding: 0.2rem 0.5rem;
-    border-radius: 10px;
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
 }

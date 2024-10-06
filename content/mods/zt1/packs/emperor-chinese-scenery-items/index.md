@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "UCS File fixed, Water placeable, Exhibit placeable(Animals don't feel happy or unhappy)"
-
+zt1tags: ["All", "Objects", "ZT1", "Scenery", "Buildings"]
 ---
 
 UCS File fixed, Water placeable, Exhibit placeable(Animals don't feel happy or unhappy)

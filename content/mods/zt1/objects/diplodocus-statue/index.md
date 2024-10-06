@@ -17,6 +17,6 @@ alt_text:
 languages:
 - English
 summary: "2x4, Water placeable, Exhibit placeable (Animals don't feel happy or unhappy)"
-
+zt1tags: ["All", "Objects", "ZT1", "Statues"]
 ---
 Tile: 2x4, Water placeable, Exhibit placeable (Animals don't feel happy or unhappy) 

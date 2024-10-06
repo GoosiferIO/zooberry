@@ -10,7 +10,6 @@
                         <tr>
                             <th>Website</th>
                             <th>File Count</th>
-                            <th>Known For</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -33,13 +32,6 @@
                                     <td class="tb-td">
                                         {{ $modCount }}
                                     </td>
-                                    <td class="tb-td">
-                                        <div class="filter-tags">
-                                            {{ range $knownFor }}
-                                                <a class="badge-default" href="/tags/{{ . | urlize }}">{{ . }}</a>
-                                            {{ end }}                                   
-                                        </div>
-                                    </td>
                                 </tr>
                             {{ end }}
                         {{ end }}
@@ -51,12 +43,6 @@
                 <div class="sidebar_r-inner">
                     <span class="sidebar_r-title">Description</span>
                     <p style="padding: 0 2rem 0 2rem;">{{ .Params.description }}</p>
-                    <span class="sidebar_r-title">Languages</span>
-                    <div class="side-ul filter-tags">
-                        {{/*  {{ range $languagesByAuthor }}
-                            <a class="badge-default" href="/languages/{{ . | urlize }}">{{ . }}</a>
-                        {{ end }}  */}}                    
-                    </div>
                 </div>
             </div>
         </div>

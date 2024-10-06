@@ -5,8 +5,8 @@ author:
 - Longisquama
 - Hendrix
 - Iben
-- ZT ABC
 game: Zoo Tycoon 2
+team: ZT ABC Team
 exp_req: 
 - ES
 - AA

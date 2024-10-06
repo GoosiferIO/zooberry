@@ -1,12 +1,19 @@
 {{ define "main" }}
-  <div class="body-content">
+  <div class="body-content blog-ctr">
     <h1>{{ .Title }}</h1>
     <p class="cat-blurb">{{ .Description }}</p>
+
+    {{/* Pagination */}}
+    {{ $onlyBlogs := where .Site.RegularPages "Type" "blog" }}
+    {{ $sortedBlogs := $onlyBlogs.ByDate.Reverse }}
+    {{ $paginator := .Paginate $sortedBlogs 12 }}
+    {{ template "_internal/pagination.html" (dict "paginator" $paginator "page" .) }}
+
     {{/*  {{ .Content }}  */}}
         <div class="blog-card-list">
-        {{ range .Pages }}
+        {{ range $paginator.Pages }}
             <div class="box-card-blogs">
-                <a href="{{.RelPermalink}}"><img src="{{ .RelPermalink }}images/{{ .Params.image }}" alt="{{ .Params.image }}" class="blog-card-img"></a>
+                <a href="{{.RelPermalink}}"><img src="{{ .Site.Params.cdn }}blog/{{ path.Base .File.Dir | urlize }}/images/{{ .Params.image }}" alt="{{ .Params.image }}" class="blog-card-img"></a>
                 <div class="blog-card-content">
                     <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
                     <p class="blog-card-date">{{ .Date.Format "2 Jan 2006" }}</p>
@@ -15,7 +22,8 @@
             </div>
         {{ end }}
         </div>
+        {{ template "_internal/pagination.html" (dict "paginator" $paginator "page" .) }}
+
   </div>
-  {{ partial "sidebar_r.html" . }}
 
 {{ end }}

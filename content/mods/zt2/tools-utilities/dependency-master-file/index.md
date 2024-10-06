@@ -4,11 +4,11 @@ has_author: true
 author: 
 - Lgcfm
 - Hendrix
-- ZT ABC
 - zerosvalmont
-- Harlequinz eg0
+- "Harlequinz eg0"
 - Bill
 game: Zoo Tycoon 2
+team: ZT ABC Team
 exp_req:
 file_size: 27.6 MB
 orig_rel_date: 2022-01-28

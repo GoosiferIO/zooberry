@@ -18,7 +18,16 @@ alt_text:
 languages:
 - English
 summary: "A balloon animal stand with custom vendor animations made by Goosifer."
-
+dependencies:
+- title: LANG--ZTCDD.dll
+  link: http://www.lunamanar.com/zklounge/viewtopic.php?f=8&t=816
+  external: true
+  description: Provides UI strings for the mod.
+- title: LANG--ZKL.dll
+  link: http://www.ztcdd.org/DG/index.php?topic=3734.0
+  external: true
+  description: Provides additional UI strings for the mod.
+zt1tags: ["All", "Objects", "ZT1", "Carnival", "Buildings"]
 ---
 A balloon animal stand with custom vendor animations made by Goosifer. Fits in with the in-game carnival theme.
 

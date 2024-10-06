@@ -1,19 +1,9 @@
 {{ define "main" }}
-  {{/*  <h1>{{ .Title }}</h1>
-
-  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-  {{ $dateHuman := .Date | time.Format ":date_long" }}
-  <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-
-  {{ .Content }}
-  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}  */}}
-
-    {{/*  breadcrumbs  */}}
   <div class="article-container" id="TableOfContents">
     <div class="article">
       {{ partial "breadcrumbs.html" . }}
       <h1>{{.Title}}</h1>
-      <div class="post-subheader">
+      <div class="blog-subheader">
         <span>
               <strong>Published by </strong> <a href="/authors/">{{ .Params.author }}</a>
               <strong> on </strong><span class="post-date">{{ .Date.Format "2 Jan 2006" }}</span>

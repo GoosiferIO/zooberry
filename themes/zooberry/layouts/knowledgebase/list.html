@@ -1,40 +1,24 @@
 {{ define "main" }}
-  {{/*  <h1>{{ .Title }}</h1>
+  <div class="body-content">
+    <h1>{{ .Title }}</h1>
+    <img class="k-banner" src="{{ .RelPermalink }}images/banner.jpg" alt="{{ .Params.image }}" />
+    <p class="cat-blurb">{{ .Description }}</p>
+    {{/*  {{ .Content }}  */}}
 
-  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-  {{ $dateHuman := .Date | time.Format ":date_long" }}
-  <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-
-  {{ .Content }}
-  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}  */}}
-
-    {{/*  breadcrumbs  */}}
-
-    <div class="article">
-    <div class="article-post">
-        <h1>{{.Title}}</h1>
-        {{ if .Params.meta }}
-            <div class="post-subheader">
-                <span><i class="material-icons icon">person</i> 
-                        <a class="badge-default" href="/authors/">{{ .Params.author }}</a>
-                    <i class="material-icons icon">calendar_month</i> {{ .Date.Format "2 Jan 2006" }}
-                </span>
+    <div class="k-grid">
+        {{/* For each section in the main 'knowledgebase section', list their top level pages */}}
+        {{ range .Sections }}
+            <div class="k-section">
+                <h2>{{ .Title }}</h2>
+                {{ range .Pages }}
+                    <ul class="k-list">
+                        <li><a href="{{.RelPermalink}}">{{ .LinkTitle }}</a></li>
+                    </ul>
+                {{ end}}
             </div>
         {{ end }}
-        {{ .Content }}
+        </div>
+  </div>
+  {{ partial "sidebar_r.html" . }}
 
-        {{ if .Params.main }}
-        {{ end }}
-    </div>
-    {{ if .Params.toc }}
-    <div class="article-toc">
-        <h2>Table of Contents</h2>
-            {{ .TableOfContents }}
-    </div>
-    {{ else }}
-        {{ partial "sidebar_r.html" . }}
-    {{ end }}
-
-
-    </div>
 {{ end }}

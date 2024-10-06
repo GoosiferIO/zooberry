@@ -3,7 +3,7 @@
     <div class="body-content">
         {{/*  Title and blurb  */}}
         <h1>{{ .Title }}</h1>
-        <div class="cat-blurb">{{ .Content }}</div>
+        <div class="cat-blurb">{{ .Content }}Browse mods by category or use the tags on the sidebar to narrow down your search.</div>
 
 
         {{/* Get list of categories from top level taxonomy */}}
@@ -68,10 +68,13 @@
             </div>  
         {{ end }}
         
-        {{ template "_internal/pagination.html" (dict "paginator" .Pages "page" .) }}
+        {{ $paginator := .Paginate .Pages }}
+        {{ $pagination := dict "Paginator" $paginator "page" . }}
+
+        {{ template "_internal/pagination.html" $pagination }}
 
         <ul class="box-card-list">
-            {{ range .Pages.ByTitle }}
+            {{ range $paginator.Pages.ByTitle }}
                 {{ if not (.Params.is_category) }}
                     <li class="box-card-mods">
                         <div class="box-card-mods-img">
@@ -83,15 +86,15 @@
                             {{ end }}
 
                             <a href="{{ .RelPermalink }}">
-                                <img src="{{ $thumbnail }}" alt="{{ .LinkTitle }}">
+                                <img src="{{ .Site.Params.cdn }}{{ $thumbnail }}" alt="{{ .LinkTitle }}">
                             </a>
                         </div>
                         <div class="box-card-mods-content">
                             <p>
                             {{ if eq .Params.game "Zoo Tycoon 1" }}
-                                <a href="{{ .Site.BaseURL }}mods/zt1">{{ .Params.game }}</a>
+                                <a href="{{ .Site.BaseURL }}/mods/zt1/tags/all">{{ .Params.game }}</a>
                             {{ else if eq .Params.game "Zoo Tycoon 2" }}
-                                <a href="{{ .Site.BaseURL }}mods/zt2">{{ .Params.game }}</a>
+                                <a href="{{ .Site.BaseURL }}/mods/zt2/tags/all">{{ .Params.game }}</a>
                             {{ else }}
                                 <a href="{{ .Site.BaseURL }}mods/assets">Assets</a>
                             {{ end }}
@@ -126,7 +129,7 @@
             {{ end }}
         </ul>
 
-        {{ template "_internal/pagination.html" (dict "paginator" .Pages "page" .) }}
+        {{ template "_internal/pagination.html" $pagination }}
 
 
     </div>

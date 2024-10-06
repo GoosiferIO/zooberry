@@ -18,6 +18,7 @@ alt_text:
 summary: "A collection of animals from the Carboniferous period."
 languages:
 - English
+zt2tags: ["All", "Animals", "Animal Bundles", "Prehistoric", "Aquatic", "Arthropods", "Amphibians", "Reptiles"]
 ---
 
 

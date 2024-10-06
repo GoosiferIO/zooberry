@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Land-Foliage on ZooBerry</title>
+    <link>http://localhost:1313/tags/land-foliage/</link>
+    <description>Recent content in Land-Foliage on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Oct 2024 17:09:23 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/land-foliage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Endless Ocean: Luminous</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/endless-ocean-luminous/</link>
+      <pubDate>Sat, 05 Oct 2024 17:09:23 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/endless-ocean-luminous/</guid>
+      <description>A pack containing a plethora of aquatic animals created by Buffzoo, majorgalah, and gamevideosforlife.</description>
+    </item>
+    <item>
+      <title>Bog Pack</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/bog-pack/</link>
+      <pubDate>Fri, 21 Jun 2024 21:51:34 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/bog-pack/</guid>
+      <description>A Bog Pack made by Hendrix with new animals, objects, and a new biome.</description>
+    </item>
+    <item>
+      <title>Alpine Pack</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/alpine-pack/</link>
+      <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/alpine-pack/</guid>
+      <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
+    </item>
+    <item>
+      <title>Boreal Forest Pack</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/boreal-forest-pack/</link>
+      <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/boreal-forest-pack/</guid>
+      <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
+    </item>
+    <item>
+      <title>American Alligator Pack</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/american-alligator-pack/</link>
+      <pubDate>Tue, 02 Jan 2024 16:25:55 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/american-alligator-pack/</guid>
+      <description>American alligators are usually found in freshwater swamps, marshes, rivers, lakes, and occasionally smaller bodies of water.</description>
+    </item>
+    <item>
+      <title>Dorcas Gazelle and Adonis Dentata</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/dorcas-gazelle-adonis-dentata/</link>
+      <pubDate>Mon, 01 Jan 2024 15:26:52 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/dorcas-gazelle-adonis-dentata/</guid>
+      <description>The dorcas gazelle is highly adapted to the desert. They can go their entire lives without drinking.</description>
+    </item>
+    <item>
+      <title>Amur Leopard Mini Pack</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/amur-leopard-mini-pack/</link>
+      <pubDate>Sat, 30 Dec 2023 00:52:38 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/amur-leopard-mini-pack/</guid>
+      <description>The Amur leopard is one of nine recognised subspecies of leopard.</description>
+    </item>
+    <item>
+      <title>AVES</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/aves/</link>
+      <pubDate>Wed, 15 Nov 2023 20:41:59 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/aves/</guid>
+      <description>An expansive user-made expansion pack made by the ZT ABC Team!</description>
+    </item>
+    <item>
+      <title>Arabia Pack</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/arabia-pack/</link>
+      <pubDate>Mon, 24 Jul 2023 17:43:25 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/arabia-pack/</guid>
+      <description>A Pack containing four Arabian animals and Plants.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,35 +1,47 @@
 {{ define "main" }}
-    {{ $author := .Title }}
+    {{ $author := .Title | urlize }}
 
     {{/*  Author meta data  */}}
     {{ $modCount := 0 }}
-    {{ $allTagsAssociated := slice }}
+    {{ $allTagsAssociatedZT1 := slice }}
+    {{ $allTagsAssociatedZT2 := slice }}
     {{ $languagesByAuthor := slice }}
     {{ $websitesPublishedOn := slice }}
     {{ $collaborators := slice }}
     {{ $yearsActive := slice }}
     {{ $modsByAuthor := slice }}
-
     {{ $mods := where .Site.RegularPages "Type" "mods" }}
 
     {{/*  Populate meta data  */}}
     {{ range $mods }}
         {{ $curentMod := . }}
         {{ $authors := .Params.author }}
-        {{ $tags := .Params.tags }}
+        {{ $zt1tags := .Params.zt1tags }}
+        {{ $zt2tags := .Params.zt2tags }}
         {{ $languages := .Params.languages }}
         {{ $websites := .Params.orig_rel_at }}
         {{ $years := .Params.orig_rel_date }}
         {{ range $authors }}
-            {{ if eq . $author }}
+            {{ $curAuthor := . | urlize}}
+            {{ if eq $curAuthor $author }}
                 {{ $modCount = add $modCount 1 }}
 
                 {{/*  Grab all tags published by author (if any)  */}}
-                {{ with $tags }}
+                {{ with $zt1tags }}
                     {{ range . }}
-                        {{ if not (in $allTagsAssociated .) }}
-                            {{ if not (eq . "all") }}
-                                {{ $allTagsAssociated = $allTagsAssociated | append . }}
+                        {{ if not (in $allTagsAssociatedZT1 .) }}
+                            {{ if not (or (eq . "All") (eq . "ZT1")) }}
+                                {{ $allTagsAssociatedZT1 = $allTagsAssociatedZT1 | append . }}
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+
+                {{ with $zt2tags }}
+                    {{ range . }}
+                        {{ if not (in $allTagsAssociatedZT2 .) }}
+                            {{ if not (or (eq . "All") (eq . "ZT2")) }}
+                                {{ $allTagsAssociatedZT2 = $allTagsAssociatedZT2 | append . }}
                             {{ end }}
                         {{ end }}
                     {{ end }}
@@ -82,20 +94,22 @@
     {{ end }}
 
     {{/*  Get the latest mod's image  */}}
-    {{ $latestMod := index $modsByAuthor 0 }}
-    {{ $imageFromLatestMod := "" }}
+    {{ $shuffledMods := shuffle $modsByAuthor }}
+    {{ $shuffledMod := index $shuffledMods 0 }}
+    {{ $imageFromShuffledMod := "" }}
 
-    {{ if $latestMod }}
-        {{ $image := $latestMod.Resources.GetMatch "images/*" }}
+    {{ if $shuffledMod }}
+        {{ $image := $shuffledMod.Resources.GetMatch "images/*" }}
         {{ if $image }}
-            {{ $imageFromLatestMod = $image.RelPermalink }}
+            {{ $imageFromShuffledMod = $image.RelPermalink }}
         {{ end }}
     {{ end }}
 <div style="display: flex; flex-direction: column; margin: 2rem 0; width:100%;">
+    {{ partial "breadcrumbs.html" . }}
     <h1 style="margin:0;">{{ .Title }}</h1>
     <p style="margin:0;padding:0;"><i class="material-icons icon">extension</i> {{ $modCount }} Mods Published</p>
 
-    <div class="banner-box" style="margin: 2rem 0; width: 100%; background: center center / cover no-repeat url('{{ $imageFromLatestMod }}'); border-radius: 20px; height: 300px;">
+    <div class="banner-box" style="margin: 2rem 0; width: 100%; background: center center / cover no-repeat url('{{ $imageFromShuffledMod }}'); height: 300px;">
 
     </div>
     <div style="display: flex; flex-direction: row;width: 100%;">
@@ -123,13 +137,13 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     {{ if eq .Params.game "Zoo Tycoon 1" }}
-                                        <a href="mods/zt1">{{ .Params.game }}</a>
+                                        <a href="{{ .Site.BaseURL }}/mods/zt1/tags/all">{{ .Params.game }}</a>
                                     {{ else if eq .Params.game "Zoo Tycoon 2" }}
-                                        <a href="mods/zt2">{{ .Params.game }}</a>
+                                        <a href="{{ .Site.BaseURL }}/mods/zt2/tags/all">{{ .Params.game }}</a>
                                     {{ else }}
-                                        {{ .Params.game }}
+                                        <a href="{{ .Site.BaseURL }}mods/assets">Assets</a>
                                     {{ end }}
-                                    </p>
+                                                        </p>
                                 <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
                                 <p>by 
                                     {{ $authors := .Params.author }}
@@ -162,36 +176,49 @@
         </div>
         <div class="sidebar_r">
             <div class="sidebar_r-inner">
-                <span class="sidebar_r-title">Languages</span>
-                <div class="side-ul filter-tags">
-                    {{ range $languagesByAuthor }}
-                        <a class="badge-default" href="/languages/{{ . | urlize }}">{{ . }}</a>
-                    {{ end }}
-                </div>
+                {{ if not (eq (len $languagesByAuthor) 0) }}
+                    <span class="sidebar_r-title">Languages</span>
+                    <div class="side-ul filter-tags">
+                            {{ partial "class-languages.html" . }}
+                    </div>
+                {{ end }}
                 <span class="sidebar_r-title">Published On</span>
                 <div class="side-ul filter-tags">
                     {{ range $websitesPublishedOn }}
                         <a class="badge-default" href="{{ . }}">{{ . }}</a>
                     {{ end }}
                 </div>
-                <span class="sidebar_r-title">Previous Collaborators</span>
-                <div class="side-ul filter-tags">
-                    {{ range $collaborators }}
-                        <a class="badge-default" href="/authors/{{ . | urlize }}">{{ . }}</a>
-                    {{ end }}
-                </div>
+                {{ if not (eq (len $collaborators) 0) }}
+                    <span class="sidebar_r-title">Previous Collaborators</span>
+                    <div class="side-ul filter-tags">
+                        {{ range $collaborators }}
+                            <a class="badge-default" href="/authors/{{ . | urlize }}">{{ . }}</a>
+                        {{ end }}
+                    </div>
+                {{ end }}
                 <span class="sidebar_r-title">Years Active</span>
                 <div class="side-ul filter-tags">
+                    {{ $yearsActive = sort $yearsActive }}
                     {{ range $yearsActive }}
-                        <a class="badge-default" href="/years/{{ . | urlize }}">{{ . }}</a>
+                        <span class="badge-default" href="/years/{{ . | urlize }}">{{ . }}</span>
                     {{ end }}
                 </div>
-                <span class="sidebar_r-title">Tags</span>
-                <div class="side-ul filter-tags">
-                    {{ range $allTagsAssociated }}
-                        <a class="badge-default" href="/tags/{{ . | urlize }}">{{ . }}</a>
-                    {{ end }}
-                </div>
+                {{ with $allTagsAssociatedZT1 }}
+                    <span class="sidebar_r-title">Zoo Tycoon 1 Tags</span>
+                    <div class="side-ul filter-tags">
+                        {{ range . }}
+                            <a class="badge-default" href="/tags/{{ . | urlize }}">{{ . }}</a>
+                        {{ end }}
+                    </div>
+                {{ end }}
+                {{ with $allTagsAssociatedZT2 }}
+                    <span class="sidebar_r-title">Zoo Tycoon 2 Tags</span>
+                    <div class="side-ul filter-tags">
+                        {{ range . }}
+                            <a class="badge-default" href="/tags/{{ . | urlize }}">{{ . }}</a>
+                        {{ end }}
+                    </div>
+                {{ end }}
             </div>
         </div>
         

@@ -4,15 +4,17 @@
     background: var(--accent-bg);
     color: var(--font-color);
     padding: 0.5rem 1rem;
-    border-radius: 20px;
     transition: all 0.3s ease 0s;
     margin: 1rem 0;
     width: max-content;
+    white-space: nowrap;
+    flex-shrink: 0;
   }
   
   .button-dft:hover {
     background: var(--accent-bg-alt);
     color: var(--font-color);
+    transition: background 0.3s ease-in-out;
   }
   
   .button-dft:active {

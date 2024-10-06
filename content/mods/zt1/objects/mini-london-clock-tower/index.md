@@ -17,6 +17,6 @@ alt_text:
 languages:
 - English
 summary: "Imported from Gardens of Time."
-
+zt1tags: ["All", "Objects", "ZT1", "Buildings"]
 ---
 Imported from Gardens of Time. Guest will know what time is it ha ha :D
