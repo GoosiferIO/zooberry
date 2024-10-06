@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gymnasiast on ZooBerry</title>
-    <link>https://feature-knowledgebase-refact.zooberry.pages.dev/authors/gymnasiast/</link>
+    <link>https://www.zooberry.org/authors/gymnasiast/</link>
     <description>Recent content in Gymnasiast on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Sep 2023 13:36:15 -0700</lastBuildDate>
-    <atom:link href="https://feature-knowledgebase-refact.zooberry.pages.dev/authors/gymnasiast/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.zooberry.org/authors/gymnasiast/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>233x233 Enlarged Map</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/maps/233x233-map/</link>
+      <link>https://www.zooberry.org/mods/zt1/maps/233x233-map/</link>
       <pubDate>Sun, 24 Sep 2023 13:36:15 -0700</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/maps/233x233-map/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/maps/233x233-map/</guid>
       <description>A map larger than ZT1 will let you!</description>
     </item>
   </channel>

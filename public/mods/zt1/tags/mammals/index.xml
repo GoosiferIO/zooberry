@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mammals on ZooBerry</title>
-    <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/tags/mammals/</link>
+    <link>https://www.zooberry.org/mods/zt1/tags/mammals/</link>
     <description>Recent content in Mammals on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 May 2024 09:34:23 -0700</lastBuildDate>
-    <atom:link href="https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/tags/mammals/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.zooberry.org/mods/zt1/tags/mammals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hamadryas Baboon</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/animals/hamadryas/</link>
+      <link>https://www.zooberry.org/mods/zt1/animals/hamadryas/</link>
       <pubDate>Sat, 18 May 2024 09:34:23 -0700</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/animals/hamadryas/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/animals/hamadryas/</guid>
       <description>Adds the striking and unique looking Hamadryas baboon for adoption.</description>
     </item>
     <item>
       <title>Saola</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/animals/saola/</link>
+      <link>https://www.zooberry.org/mods/zt1/animals/saola/</link>
       <pubDate>Sat, 18 May 2024 09:34:23 -0700</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/animals/saola/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/animals/saola/</guid>
       <description>Adds the rare and elusive Saola for adoption in your zoo.</description>
     </item>
   </channel>

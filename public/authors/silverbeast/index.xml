@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Silverbeast on ZooBerry</title>
-    <link>https://feature-knowledgebase-refact.zooberry.pages.dev/authors/silverbeast/</link>
+    <link>https://www.zooberry.org/authors/silverbeast/</link>
     <description>Recent content in Silverbeast on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Nov 2023 04:01:47 -0800</lastBuildDate>
-    <atom:link href="https://feature-knowledgebase-refact.zooberry.pages.dev/authors/silverbeast/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.zooberry.org/authors/silverbeast/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Phoenix</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/animals/fictional/phoenix/</link>
+      <link>https://www.zooberry.org/mods/zt2/animals/fictional/phoenix/</link>
       <pubDate>Fri, 24 Nov 2023 04:01:47 -0800</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/animals/fictional/phoenix/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/phoenix/</guid>
       <description>The phoenix was originally believed to be a myth, until a group of American scientists discovered a large flock several hundred miles south of Egypt.</description>
     </item>
   </channel>

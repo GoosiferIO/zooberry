@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Borsato on ZooBerry</title>
-    <link>https://feature-knowledgebase-refact.zooberry.pages.dev/authors/borsato/</link>
+    <link>https://www.zooberry.org/authors/borsato/</link>
     <description>Recent content in Borsato on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Oct 2024 01:09:23 +0000</lastBuildDate>
-    <atom:link href="https://feature-knowledgebase-refact.zooberry.pages.dev/authors/borsato/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.zooberry.org/authors/borsato/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LANG-ZBorsato.dll</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/tools-utilities/lang-zborsato/</link>
+      <link>https://www.zooberry.org/mods/zt1/tools-utilities/lang-zborsato/</link>
       <pubDate>Thu, 03 Oct 2024 01:09:23 +0000</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/tools-utilities/lang-zborsato/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/tools-utilities/lang-zborsato/</guid>
       <description>A language file for Zoo Tycoon 1 that adds new text strings to the game. This file is required for some mods to work properly.</description>
     </item>
     <item>
       <title>ui99</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/tools-utilities/ui99/</link>
+      <link>https://www.zooberry.org/mods/zt1/tools-utilities/ui99/</link>
       <pubDate>Thu, 03 Oct 2024 01:09:23 +0000</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/tools-utilities/ui99/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/tools-utilities/ui99/</guid>
       <description>Adds new location graphics and configurations to Zoo Tycoon 1.</description>
     </item>
   </channel>

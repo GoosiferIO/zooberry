@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Finn on ZooBerry</title>
-    <link>https://feature-knowledgebase-refact.zooberry.pages.dev/authors/finn/</link>
+    <link>https://www.zooberry.org/authors/finn/</link>
     <description>Recent content in Finn on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://feature-knowledgebase-refact.zooberry.pages.dev/authors/finn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.zooberry.org/authors/finn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Habitats and Locations</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/knowledgebase/openzt/habitats-and-locations/</link>
+      <link>https://www.zooberry.org/knowledgebase/openzt/habitats-and-locations/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/knowledgebase/openzt/habitats-and-locations/</guid>
+      <guid>https://www.zooberry.org/knowledgebase/openzt/habitats-and-locations/</guid>
       <description>Habitats and Locations Habitats and locations appear in the animal buy window below the animal name as show in the picture below.&#xA;Zoo Tycoon comes with many inbuilt habitats and locations which can be referenced when making an animal, but prior to OpenZT modded locations or habitats were particularly hard to make. With OpenZT habitats and locations can be made and used with ease. They have a very similar config (in Vanilla ZT they are actually interchangeable, minus the UI looking wrong)</description>
     </item>
     <item>
       <title>Getting Started</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/knowledgebase/openzt/getting-started/</link>
+      <link>https://www.zooberry.org/knowledgebase/openzt/getting-started/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/knowledgebase/openzt/getting-started/</guid>
+      <guid>https://www.zooberry.org/knowledgebase/openzt/getting-started/</guid>
       <description>Getting Started This page will lay out the basics of OpenZT modding, including filetypes, folder layout and meta info&#xA;Filetypes All config files use the toml format, which looks very similar to the INI-like format the Zoo Tycoon uses, but with much better support and an official spec.&#xA;Toml files should always have the .toml file type, regardless of use.&#xA;Currently all graphics files remain the same as in Zoo Tycoon, new formats will likely be added in the future to make creating mods easier.</description>
     </item>
     <item>
       <title>OpenZT Modding</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/knowledgebase/openzt/openzt-modding/</link>
+      <link>https://www.zooberry.org/knowledgebase/openzt/openzt-modding/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/knowledgebase/openzt/openzt-modding/</guid>
+      <guid>https://www.zooberry.org/knowledgebase/openzt/openzt-modding/</guid>
       <description>OpenZT Modding !!! warning WIP OpenZT is a work in progress, every effort is being made to minimize changes to how modding works&#xA;OpenZT modding extends and simplifies the capabilities of vanilla Zoo Tycoon modding with an end goal of being able to mod all aspects of Zoo Tycoon and add custom scripts.&#xA;Zoo Tycoon Limitations If you are an experienced Zoo Tycoon modder you will be familiar with the limitations on certain aspects of modding.</description>
     </item>
   </channel>
