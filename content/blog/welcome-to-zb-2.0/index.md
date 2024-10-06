@@ -13,7 +13,7 @@ Over the past few months, we've been working hard to bring you a new and improve
 
 ## New Design
 
-![New Design](/blog/welcome-to-zb-2.0/images/zb1.jpg)
+![New Design]({{<cdn>}}blog/welcome-to-zb-2.0/images/zb1.jpg)
 
 We've given the site a fresh coat of paint with a new design that's cleaner and more modern. The new layout makes it easier to find what you're looking for and hopefully offers a better reading experience.
 
@@ -21,15 +21,15 @@ We've given the site a fresh coat of paint with a new design that's cleaner and 
 
 ### Team Pages
 
-![Contributor Lists](/blog/welcome-to-zb-2.0/images/zb2.jpg)
+![Contributor Lists]({{<cdn>}}blog/welcome-to-zb-2.0/images/zb2.jpg)
 
 Not completely unfamiliar to the old site, but we've added a team page to list all design teams and their files. From there you can find brand new design team pages that list all of their mods in one place along with some quick stats.
 
-![Contributor Pages](/blog/welcome-to-zb-2.0/images/zb3.jpg)
+![Contributor Pages]({{<cdn>}}blog/welcome-to-zb-2.0/images/zb3.jpg)
 
 ### Author Pages
 
-![Author Pages](/blog/welcome-to-zb-2.0/images/zb4.jpg)
+![Author Pages]({{<cdn>}}blog/welcome-to-zb-2.0/images/zb4.jpg)
 
 Every author gets a dedicated space that enumerates all of their mods along with some quick stats. This is a great way to find all of the mods from your favorite creators in one place.
 
@@ -44,19 +44,19 @@ Additionally, every author page gets a banner. By default all banners are random
 
 ### Website Pages
 
-![Website Pages](/blog/welcome-to-zb-2.0/images/zb5.jpg)
+![Website Pages]({{<cdn>}}blogwelcome-to-zb-2.0/images/zb5.jpg)
 
 Each website page has a bit of a nostalgiac flaire to keep the spirit of their original website alive. These pages list all of the mods that were originally published on the website along with some quick stats.
 
 ## Mod Navigation
 
-![Mod Navigation](/blog/welcome-to-zb-2.0/images/zb6.jpg)
+![Mod Navigation]({{<cdn>}}blogwelcome-to-zb-2.0/images/zb6.jpg)
 
 We've added a new mod navigation system that makes it easier to find mods using tags. You can filter mods by a major category, just as before, but any mod can now have multiple tags associated with it. This makes it easier to find mods that fit your specific interests instead of wondering wether the animal you want is in the packs section or in the animals section.
 
 ### Tags
 
-![Tags](/blog/welcome-to-zb-2.0/images/zb7.jpg)
+![Tags]({{<cdn>}}/blogwelcome-to-zb-2.0/images/zb7.jpg)
 
 As you click through the different major categories, you'll notice that the tags change to reflect the mods that are available in that category.
 
@@ -68,11 +68,11 @@ ZooBerry now has a blog: [ZooBerry Blog](/blog/). We'll be using the blog to kee
 
 ## Light Theme
 
-![Light Theme](/blog/welcome-to-zb-2.0/images/zb8.jpg)
+![Light Theme]({{<cdn>}}blog/welcome-to-zb-2.0/images/zb8.jpg)
 
 We now have a light theme for you crazy people who like to burn your retinas. You can switch between the light and dark themes using the toggle in the top left corner of the left sidebar.
 
-![Light Theme](/blog/welcome-to-zb-2.0/images/zb9.jpg)
+![Light Theme]({{<cdn>}}blog/welcome-to-zb-2.0/images/zb9.jpg)
 
 ## What's Next?
 
