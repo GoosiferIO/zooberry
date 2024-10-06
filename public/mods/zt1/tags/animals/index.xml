@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Animals on ZooBerry</title>
-    <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/tags/animals/</link>
+    <link>http://localhost:1313/mods/zt1/tags/animals/</link>
     <description>Recent content in Animals on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Oct 2024 01:09:23 +0000</lastBuildDate>
-    <atom:link href="https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/tags/animals/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mods/zt1/tags/animals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unlimited Feather Overload (U.F.O.)</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/packs/ufo/</link>
+      <link>http://localhost:1313/mods/zt1/packs/ufo/</link>
       <pubDate>Sat, 05 Oct 2024 01:09:23 +0000</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/packs/ufo/</guid>
+      <guid>http://localhost:1313/mods/zt1/packs/ufo/</guid>
       <description>A new expansion pack full of prehistoric fluffy pals!!</description>
     </item>
     <item>
       <title>Toadally Batrocious Land Invaders</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/packs/toadallly-batrocious/</link>
+      <link>http://localhost:1313/mods/zt1/packs/toadallly-batrocious/</link>
       <pubDate>Fri, 04 Oct 2024 01:09:23 +0000</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/packs/toadallly-batrocious/</guid>
+      <guid>http://localhost:1313/mods/zt1/packs/toadallly-batrocious/</guid>
       <description>A pack full of ancient amphibians for your zoos! This pack is a Halloween gift for all of you! Toadally Batrocious (TB) is the third of the &amp;ldquo;Works on Lacking Stuff&amp;rdquo; projects.</description>
     </item>
     <item>
       <title>Mischievous Erradicators of Outside Wildlife (M.E.O.W.)</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/packs/meow/</link>
+      <link>http://localhost:1313/mods/zt1/packs/meow/</link>
       <pubDate>Thu, 03 Oct 2024 01:09:23 +0000</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/packs/meow/</guid>
+      <guid>http://localhost:1313/mods/zt1/packs/meow/</guid>
       <description>Dedicated to my two cat sisters, Vega &amp;amp; Rigel, whose birthday is on September 7th. Also dedicated to all cat lovers!</description>
     </item>
     <item>
       <title>Animals</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/animals/</link>
+      <link>http://localhost:1313/mods/zt1/animals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/animals/</guid>
+      <guid>http://localhost:1313/mods/zt1/animals/</guid>
       <description>Adopt new animals to share with your guests at home!</description>
     </item>
     <item>
       <title>Ussuri Dhole</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/animals/ussuri-dhole/</link>
+      <link>http://localhost:1313/mods/zt1/animals/ussuri-dhole/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/animals/ussuri-dhole/</guid>
+      <guid>http://localhost:1313/mods/zt1/animals/ussuri-dhole/</guid>
       <description>Adds the temperate dhole subspecies to your zoo, with a fox-like appearence and unique cooing sounds.</description>
     </item>
     <item>
       <title>Bug Mayhem</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/packs/bug-mayhem/</link>
+      <link>http://localhost:1313/mods/zt1/packs/bug-mayhem/</link>
       <pubDate>Mon, 30 Sep 2024 11:15:53 -0700</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/packs/bug-mayhem/</guid>
+      <guid>http://localhost:1313/mods/zt1/packs/bug-mayhem/</guid>
       <description>A little expansion pack containing items for a full terrarium of arthropods!</description>
     </item>
     <item>
       <title>Eoraptor</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/animals/eoraptor/</link>
+      <link>http://localhost:1313/mods/zt1/animals/eoraptor/</link>
       <pubDate>Mon, 30 Sep 2024 09:34:23 -0700</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/animals/eoraptor/</guid>
+      <guid>http://localhost:1313/mods/zt1/animals/eoraptor/</guid>
       <description>The Eoraptor is a small dinosaur from the Late Triassic period. It is one of the earliest dinosaurs known to science, and it is a basal sauropodomorph.</description>
     </item>
     <item>
       <title>Peryton</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/animals/peryton/</link>
+      <link>http://localhost:1313/mods/zt1/animals/peryton/</link>
       <pubDate>Mon, 30 Sep 2024 09:34:23 -0700</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/animals/peryton/</guid>
+      <guid>http://localhost:1313/mods/zt1/animals/peryton/</guid>
       <description>Adds the striking and unique looking Hamadryas baboon for adoption.</description>
     </item>
     <item>
       <title>Hamadryas Baboon</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/animals/hamadryas/</link>
+      <link>http://localhost:1313/mods/zt1/animals/hamadryas/</link>
       <pubDate>Sat, 18 May 2024 09:34:23 -0700</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/animals/hamadryas/</guid>
+      <guid>http://localhost:1313/mods/zt1/animals/hamadryas/</guid>
       <description>Adds the striking and unique looking Hamadryas baboon for adoption.</description>
     </item>
     <item>
       <title>Saola</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/animals/saola/</link>
+      <link>http://localhost:1313/mods/zt1/animals/saola/</link>
       <pubDate>Sat, 18 May 2024 09:34:23 -0700</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/animals/saola/</guid>
+      <guid>http://localhost:1313/mods/zt1/animals/saola/</guid>
       <description>Adds the rare and elusive Saola for adoption in your zoo.</description>
     </item>
     <item>
       <title>Perentie</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/animals/perentie/</link>
+      <link>http://localhost:1313/mods/zt1/animals/perentie/</link>
       <pubDate>Sat, 22 Jul 2023 09:34:23 -0700</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/animals/perentie/</guid>
+      <guid>http://localhost:1313/mods/zt1/animals/perentie/</guid>
       <description>Perenties are fairly large lizards in the monitor family.</description>
     </item>
     <item>
       <title>Nile Monitor</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/animals/nile-monitor/</link>
+      <link>http://localhost:1313/mods/zt1/animals/nile-monitor/</link>
       <pubDate>Sat, 22 Jul 2023 09:31:25 -0700</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/animals/nile-monitor/</guid>
+      <guid>http://localhost:1313/mods/zt1/animals/nile-monitor/</guid>
       <description>The Nile Monitor is a large, fast, and agile lizard from the rainforest outskirts and grasslands of Africa.</description>
     </item>
   </channel>

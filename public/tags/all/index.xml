@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>All on ZooBerry</title>
-    <link>https://feature-knowledgebase-refact.zooberry.pages.dev/tags/all/</link>
+    <link>http://localhost:1313/tags/all/</link>
     <description>Recent content in All on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Feb 2024 02:40:37 -0800</lastBuildDate>
-    <atom:link href="https://feature-knowledgebase-refact.zooberry.pages.dev/tags/all/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/all/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Art Assets</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/assets/</link>
+      <link>http://localhost:1313/mods/assets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/assets/</guid>
+      <guid>http://localhost:1313/mods/assets/</guid>
       <description>Art assets anyone can use for their own mod projects.</description>
     </item>
     <item>
       <title>UFO Ride Asset Pack</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/assets/ufo-ride-assets-gs/</link>
+      <link>http://localhost:1313/mods/assets/ufo-ride-assets-gs/</link>
       <pubDate>Tue, 27 Feb 2024 02:40:37 -0800</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/assets/ufo-ride-assets-gs/</guid>
+      <guid>http://localhost:1313/mods/assets/ufo-ride-assets-gs/</guid>
       <description>UFO Ride asset pack by Goosifer</description>
     </item>
     <item>
       <title>Balloon Animal Stand Asset Pack</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/assets/bln-animal-stnd-assets-gs/</link>
+      <link>http://localhost:1313/mods/assets/bln-animal-stnd-assets-gs/</link>
       <pubDate>Wed, 17 Jan 2024 16:06:05 +0000</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/assets/bln-animal-stnd-assets-gs/</guid>
+      <guid>http://localhost:1313/mods/assets/bln-animal-stnd-assets-gs/</guid>
       <description>This bundle includes all assets used in the creation of the Zoo Tycoon 1 Balloon Animal Stand mod by Goosifer.</description>
     </item>
     <item>
       <title>Alpine Pack</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/expansive-packs/alpine-pack/</link>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/alpine-pack/</link>
       <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/expansive-packs/alpine-pack/</guid>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/alpine-pack/</guid>
       <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
     </item>
     <item>
       <title>Boreal Forest Pack</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/expansive-packs/boreal-forest-pack/</link>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/boreal-forest-pack/</link>
       <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/expansive-packs/boreal-forest-pack/</guid>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/boreal-forest-pack/</guid>
       <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
     </item>
     <item>
       <title>Desert Pack</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/expansive-packs/desert-pack/</link>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/desert-pack/</link>
       <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/expansive-packs/desert-pack/</guid>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/desert-pack/</guid>
       <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
     </item>
     <item>
       <title>Atlantean Fountain Asset Pack</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/assets/atl-ftn-3d-model/</link>
+      <link>http://localhost:1313/mods/assets/atl-ftn-3d-model/</link>
       <pubDate>Tue, 15 Aug 2023 02:49:24 -0700</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/assets/atl-ftn-3d-model/</guid>
+      <guid>http://localhost:1313/mods/assets/atl-ftn-3d-model/</guid>
       <description>This bundle includes all assets used in the creation of the Zoo Tycoon 1 Atlantean Fountain mod by Goosifer.</description>
     </item>
     <item>
       <title>Hotdog Stand Assets</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/assets/hotdog-stand/</link>
+      <link>http://localhost:1313/mods/assets/hotdog-stand/</link>
       <pubDate>Fri, 11 Aug 2023 16:59:15 -0700</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/assets/hotdog-stand/</guid>
+      <guid>http://localhost:1313/mods/assets/hotdog-stand/</guid>
       <description>Summary of the Hotdog Stand project</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maks on ZooBerry</title>
-    <link>https://feature-knowledgebase-refact.zooberry.pages.dev/authors/maks/</link>
+    <link>http://localhost:1313/authors/maks/</link>
     <description>Recent content in Maks on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Nov 2023 04:21:07 -0800</lastBuildDate>
-    <atom:link href="https://feature-knowledgebase-refact.zooberry.pages.dev/authors/maks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/authors/maks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Koi Carp</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/animals/living/koi-carp/</link>
+      <link>http://localhost:1313/mods/zt2/animals/living/koi-carp/</link>
       <pubDate>Sat, 18 Nov 2023 04:21:07 -0800</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/animals/living/koi-carp/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/living/koi-carp/</guid>
       <description>A domesticated cyprinid known for their wide range of color morphs.</description>
     </item>
   </channel>

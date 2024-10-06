@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LookOut21 on ZooBerry</title>
-    <link>https://feature-knowledgebase-refact.zooberry.pages.dev/authors/lookout21/</link>
+    <link>http://localhost:1313/authors/lookout21/</link>
     <description>Recent content in LookOut21 on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 23 Jun 2024 01:02:27 -0700</lastBuildDate>
-    <atom:link href="https://feature-knowledgebase-refact.zooberry.pages.dev/authors/lookout21/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/authors/lookout21/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reptilia Part 1 Space Hack</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/hacks/reptilia-space-hack-p1/</link>
+      <link>http://localhost:1313/mods/zt2/hacks/reptilia-space-hack-p1/</link>
       <pubDate>Sun, 23 Jun 2024 01:02:27 -0700</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/hacks/reptilia-space-hack-p1/</guid>
+      <guid>http://localhost:1313/mods/zt2/hacks/reptilia-space-hack-p1/</guid>
       <description>Reduces the space requirements for some reptiles in ZT ABC&amp;rsquo;s REPTILIA user-made expansion.</description>
     </item>
     <item>
       <title>AVES Part 1 Space Hack</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/hacks/aves-space-hack-p1/</link>
+      <link>http://localhost:1313/mods/zt2/hacks/aves-space-hack-p1/</link>
       <pubDate>Sat, 22 Jun 2024 02:04:31 -0700</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/hacks/aves-space-hack-p1/</guid>
+      <guid>http://localhost:1313/mods/zt2/hacks/aves-space-hack-p1/</guid>
       <description>AVES Space Hack P1 reduces the space requirements for several animals in the AVES expansion pack listed below.</description>
     </item>
   </channel>

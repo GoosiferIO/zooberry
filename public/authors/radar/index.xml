@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Radar on ZooBerry</title>
-    <link>https://feature-knowledgebase-refact.zooberry.pages.dev/authors/radar/</link>
+    <link>http://localhost:1313/authors/radar/</link>
     <description>Recent content in Radar on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2024 15:26:52 +0000</lastBuildDate>
-    <atom:link href="https://feature-knowledgebase-refact.zooberry.pages.dev/authors/radar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/authors/radar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nubian Ibex</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/animals/living/nubian-ibex/</link>
+      <link>http://localhost:1313/mods/zt2/animals/living/nubian-ibex/</link>
       <pubDate>Mon, 01 Jan 2024 15:26:52 +0000</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/animals/living/nubian-ibex/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/living/nubian-ibex/</guid>
       <description>The Nubian ibex is relatively small compared to other ibexes.</description>
     </item>
     <item>
       <title>Red Wolf</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/animals/living/red-wolf/</link>
+      <link>http://localhost:1313/mods/zt2/animals/living/red-wolf/</link>
       <pubDate>Sun, 12 Nov 2023 02:04:07 -0800</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/animals/living/red-wolf/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/living/red-wolf/</guid>
       <description>A wolf made by Radar and koala komander.</description>
     </item>
     <item>
       <title>Dhole</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/animals/living/dhole/</link>
+      <link>http://localhost:1313/mods/zt2/animals/living/dhole/</link>
       <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/animals/living/dhole/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/living/dhole/</guid>
       <description>Resized bigger than the wolf</description>
     </item>
   </channel>

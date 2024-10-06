@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Penguino on ZooBerry</title>
-    <link>https://feature-knowledgebase-refact.zooberry.pages.dev/authors/penguino/</link>
+    <link>http://localhost:1313/authors/penguino/</link>
     <description>Recent content in Penguino on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Aug 2023 15:41:09 -0700</lastBuildDate>
-    <atom:link href="https://feature-knowledgebase-refact.zooberry.pages.dev/authors/penguino/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/authors/penguino/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guest Limit Hack</title>
-      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/hacks/guest-limit-hack/</link>
+      <link>http://localhost:1313/mods/zt2/hacks/guest-limit-hack/</link>
       <pubDate>Sat, 05 Aug 2023 15:41:09 -0700</pubDate>
-      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/hacks/guest-limit-hack/</guid>
+      <guid>http://localhost:1313/mods/zt2/hacks/guest-limit-hack/</guid>
       <description>Increases the guest limit.</description>
     </item>
   </channel>
