@@ -33,4 +33,4 @@ Feel free to attach any files to the email. If you have multiple files, please c
 
 The Google Forms option is self-explanatory. Click the button below to be redirected to the form. Note that you will need a Google account to submit this way.
 
-<a href="#" class="button-dft margin-rt">Google Forms</a>
+<a href="https://forms.gle/V9A7MgUQMw7Fc2Ea8" class="button-dft margin-rt">Google Forms</a>
