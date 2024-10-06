@@ -155,8 +155,10 @@
         </div>
         <div class="sidebar_r">
             <div class="sidebar_r-inner">
-                <span class="sidebar_r-title">Description</span>
-                <p style="padding: 0 2rem 0 2rem;">{{ .Params.description }}</p>
+                {{ if .Params.description }}
+                    <span class="sidebar_r-title">Description</span>
+                    <p style="padding: 0 2rem 0 2rem;">{{ .Params.description }}</p>
+                {{ end }}
                 <span class="sidebar_r-title">Languages</span>
                 <div class="side-ul filter-tags">
                     {{ range $languagesByAuthor }}
