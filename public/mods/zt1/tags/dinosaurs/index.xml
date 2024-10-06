@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dinosaurs on ZooBerry</title>
-    <link>http://localhost:1313/mods/zt1/tags/dinosaurs/</link>
+    <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/tags/dinosaurs/</link>
     <description>Recent content in Dinosaurs on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Oct 2024 01:09:23 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/mods/zt1/tags/dinosaurs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/tags/dinosaurs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unlimited Feather Overload (U.F.O.)</title>
-      <link>http://localhost:1313/mods/zt1/packs/ufo/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/packs/ufo/</link>
       <pubDate>Sat, 05 Oct 2024 01:09:23 +0000</pubDate>
-      <guid>http://localhost:1313/mods/zt1/packs/ufo/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/packs/ufo/</guid>
       <description>A new expansion pack full of prehistoric fluffy pals!!</description>
     </item>
     <item>
       <title>Mischievous Erradicators of Outside Wildlife (M.E.O.W.)</title>
-      <link>http://localhost:1313/mods/zt1/packs/meow/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/packs/meow/</link>
       <pubDate>Thu, 03 Oct 2024 01:09:23 +0000</pubDate>
-      <guid>http://localhost:1313/mods/zt1/packs/meow/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/packs/meow/</guid>
       <description>Dedicated to my two cat sisters, Vega &amp;amp; Rigel, whose birthday is on September 7th. Also dedicated to all cat lovers!</description>
     </item>
     <item>
       <title>Eoraptor</title>
-      <link>http://localhost:1313/mods/zt1/animals/eoraptor/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/animals/eoraptor/</link>
       <pubDate>Mon, 30 Sep 2024 09:34:23 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/animals/eoraptor/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/animals/eoraptor/</guid>
       <description>The Eoraptor is a small dinosaur from the Late Triassic period. It is one of the earliest dinosaurs known to science, and it is a basal sauropodomorph.</description>
     </item>
   </channel>

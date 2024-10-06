@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Buildings on ZooBerry</title>
-    <link>http://localhost:1313/mods/zt1/tags/buildings/</link>
+    <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/tags/buildings/</link>
     <description>Recent content in Buildings on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2023 19:32:19 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/mods/zt1/tags/buildings/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/tags/buildings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Balloon Animal Stand</title>
-      <link>http://localhost:1313/mods/zt1/objects/balloon-animal-stand-gs/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/objects/balloon-animal-stand-gs/</link>
       <pubDate>Tue, 31 Oct 2023 19:32:19 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/objects/balloon-animal-stand-gs/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/objects/balloon-animal-stand-gs/</guid>
       <description>A balloon animal stand with custom vendor animations made by Goosifer.</description>
     </item>
     <item>
       <title>Hotdog Stand</title>
-      <link>http://localhost:1313/mods/zt1/objects/hotdog-stand/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/objects/hotdog-stand/</link>
       <pubDate>Wed, 09 Aug 2023 21:12:56 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/objects/hotdog-stand/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/objects/hotdog-stand/</guid>
       <description>Pictured is a hotdog stand, conqueror of all lands before lands were even lands.</description>
     </item>
     <item>
       <title>Emperor Chinese Scenery Items</title>
-      <link>http://localhost:1313/mods/zt1/packs/emperor-chinese-scenery-items/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/packs/emperor-chinese-scenery-items/</link>
       <pubDate>Mon, 24 Jul 2023 11:49:57 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/packs/emperor-chinese-scenery-items/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/packs/emperor-chinese-scenery-items/</guid>
       <description>UCS File fixed, Water placeable, Exhibit placeable(Animals don&amp;rsquo;t feel happy or unhappy)</description>
     </item>
     <item>
       <title>AOE2 World Wonders</title>
-      <link>http://localhost:1313/mods/zt1/packs/aoe2-world-wonders/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/packs/aoe2-world-wonders/</link>
       <pubDate>Mon, 24 Jul 2023 11:37:37 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/packs/aoe2-world-wonders/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/packs/aoe2-world-wonders/</guid>
       <description>Scenery pack with buildings from around the world.</description>
     </item>
     <item>
       <title>AOE2 Houses</title>
-      <link>http://localhost:1313/mods/zt1/packs/aoe2-houses/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/packs/aoe2-houses/</link>
       <pubDate>Mon, 24 Jul 2023 11:27:57 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/packs/aoe2-houses/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/packs/aoe2-houses/</guid>
       <description>Scenery buildings from AOE2. Eastern European, East Asia, Middle Eastern, New World and Western European</description>
     </item>
     <item>
       <title>Gardens of Time Mini London Clock Tower</title>
-      <link>http://localhost:1313/mods/zt1/objects/mini-london-clock-tower/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/objects/mini-london-clock-tower/</link>
       <pubDate>Mon, 24 Jul 2023 10:51:30 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/objects/mini-london-clock-tower/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/objects/mini-london-clock-tower/</guid>
       <description>Imported from Gardens of Time.</description>
     </item>
     <item>
       <title>Insect House With Ant and the Hercules Beetle</title>
-      <link>http://localhost:1313/mods/zt1/objects/insect-house-with-ant-and-the-hercules-beetle/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/objects/insect-house-with-ant-and-the-hercules-beetle/</link>
       <pubDate>Mon, 24 Jul 2023 10:44:47 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/objects/insect-house-with-ant-and-the-hercules-beetle/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/objects/insect-house-with-ant-and-the-hercules-beetle/</guid>
       <description>Scenery Objects, Tile:4x5, Water placeable, Exhibit placeable(Animals don&amp;rsquo;t feel happy or unhappy)</description>
     </item>
     <item>
       <title>Emperor Chinese Magnificent Palace</title>
-      <link>http://localhost:1313/mods/zt1/objects/emperor-chinese-magnificent-palace/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/objects/emperor-chinese-magnificent-palace/</link>
       <pubDate>Sun, 23 Jul 2023 18:14:10 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/objects/emperor-chinese-magnificent-palace/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt1/objects/emperor-chinese-magnificent-palace/</guid>
       <description>A big scenery building imported from Emperor. Water placeable, exhibit placeable. Animals don&amp;rsquo;t feel happy or unhappy.</description>
     </item>
   </channel>

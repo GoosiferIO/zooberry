@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ZooBerry</title>
-    <link>http://localhost:1313/archives/zooberry/</link>
+    <link>https://feature-knowledgebase-refact.zooberry.pages.dev/archives/zooberry/</link>
     <description>Recent content on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/archives/zooberry/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://feature-knowledgebase-refact.zooberry.pages.dev/archives/zooberry/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

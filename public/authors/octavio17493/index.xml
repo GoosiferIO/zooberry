@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Octavio17493 on ZooBerry</title>
-    <link>http://localhost:1313/authors/octavio17493/</link>
+    <link>https://feature-knowledgebase-refact.zooberry.pages.dev/authors/octavio17493/</link>
     <description>Recent content in Octavio17493 on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Jul 2023 17:14:54 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/authors/octavio17493/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://feature-knowledgebase-refact.zooberry.pages.dev/authors/octavio17493/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spanish Broom Hare</title>
-      <link>http://localhost:1313/mods/zt2/animals/living/spanish-broom-hare/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/animals/living/spanish-broom-hare/</link>
       <pubDate>Fri, 21 Jul 2023 17:14:54 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/animals/living/spanish-broom-hare/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/animals/living/spanish-broom-hare/</guid>
       <description>A plant and animal both from northern Spain.</description>
     </item>
     <item>
       <title>Animal Creation Tutorial</title>
-      <link>http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/animal-creation-tutorial/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/knowledgebase/zoo-tycoon-2/coding-tutorials/animal-creation-tutorial/</link>
       <pubDate>Sun, 26 Aug 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/animal-creation-tutorial/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/knowledgebase/zoo-tycoon-2/coding-tutorials/animal-creation-tutorial/</guid>
       <description>Animal Creation Tutorial Hi future designer! I’m Belgian Shepard also knowed as Octavio17493 and ill teach u how to code with this tutorial, hope you can make your animals with my help, so lets go with basic things first.&#xA;1 – Basic things Ok, before coding ill say u what do u need:&#xA;Choose a codename for your animal. This codename mustn’t have spaces, -, ? or rare characters, only letters.</description>
     </item>
   </channel>

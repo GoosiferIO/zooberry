@@ -11,9 +11,14 @@
 
 <!-- css stylesheets minify -->
 {{ $allStyles := resources.Match "css/*.css" }}
-{{ $style := $allStyles | resources.Concat "css/styles.css"  | fingerprint }}
+{{ $style := $allStyles | resources.Concat "css/styles.css" | fingerprint }}
 {{ $galleriaPath := printf "/css/galleria.%s.css" $theme }}
 {{ $galleria := resources.Get $galleriaPath | fingerprint }}
+
+{{ $cdn := .Site.Params.cdn }}
+
+{{ $styleCDN := printf "%s%s" $cdn $style.RelPermalink }}
+{{ $galleriaCDN := printf "%s%s" $cdn $galleria.RelPermalink }}
 
 {{/*  {{ $allStyles := resources.Match "css/*.css" }}
 {{ $style := $allStyles | resources.Concat "css/styles.css"  | fingerprint }}  */}}
@@ -31,8 +36,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}" media="screen">
-<link rel="stylesheet" href="{{ $galleria.Permalink }}">
+<link rel="preload" rel="stylesheet" href="{{ $styleCDN }}" type="text/css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" rel="stylesheet" href="{{ $galleriaCDN }}" type="text/css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" />
 <script src="{{ .Site.Params.cdn }}js/jquery.js"></script>
