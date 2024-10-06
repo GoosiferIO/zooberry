@@ -19,12 +19,12 @@ languages:
 summary: "A new expansion pack full of prehistoric fluffy pals!!"
 zt1tags: ["All", "Animals", "ZT1", "Dinosaurs", "Packs", "Prehistoric"]
 mod_list: 
-  - name: ZwUFOCombV4
+  - name: ZwUFOv5Comb
     title: UFO Combined Files
     category: Combined Files
     description: "Stop here if you just want the whole mod, no need to go further! This is the combined file for the UFO pack. It includes all the animals in one file. For single files, see below."
     file_size: 41.4 MB
-    uploaded: 2024-10-05
+    uploaded: 2024-10-06
   - name: ZwAgentavisV3
     title: Argentavis
     category: Animals
@@ -55,11 +55,11 @@ mod_list:
     category: Animals
     file_size: 681 KB
     uploaded: 2024-10-05
-  - name: ZwDromaeoV5
+  - name: ZwDromaeoV6
     title: Dromaeosaurus
     category: Animals
     file_size: 641 KB
-    uploaded: 2024-10-05
+    uploaded: 2024-10-06
   - name: ZwGigantoV3
     title: Gigantoraptor
     category: Animals
@@ -190,16 +190,21 @@ No bonus items this time :c Stay tunned for new projects!
 
 # Changelog!! 
 
+## Oct 5th, 2024
+- Fixed bug where female Dromaeosaurus gets stuck and doesn't grow.
+
+## Apr 20th, 2024
+- Graphic improvement to recover most shadows. File screenshots not updated.
+
+## Feb 19th, 2024
+- Aditions: Pelagornis.
+
 ## Aug 9th, 2023
 - Baptornis resized as suggested by Hawkkeye.
 - Quetzalcoatlus pref icon corrected as reported by YoungPrinceLothric.
 - Cuban Giant Owl reworked to be louder.
 - Correction of several bugs.
 - Aditions: Megaraptor & Floofy Tyrannoes.
-- Changelog!! Feb 19th, 2024
-- Aditions: Pelagornis.
-- Changelog!! Apr 20th, 2024
-- Graphic improvement to recover most shadows. File screenshots not updated.
 
 # Compatibility Guide
 
