@@ -46,3 +46,53 @@
 <script src="{{ .Site.Params.cdn }}{{ $galleriaJSPath }}"></script>
 <script src="{{ .Site.Params.cdn }}js/main.js"></script>
 
+{{ if eq .Kind "home" }}
+<meta property="og:title" content="{{ .Site.Title }}" >
+<meta property="og:type" content="website" >
+<meta property="og:description" content="{{ $.Content }}" >
+<meta property="og:url" content="{{ .Permalink }}" >
+<meta property="og:image" content="{{ .Site.Params.cdn }}images/logo.png" >
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="zooberry.org">
+<meta property="twitter:url" content="{{ .Permalink }}">
+<meta name="twitter:title" content="{{ .Site.Title }}">
+<meta name="twitter:description" content="{{ .Content }}">
+<meta name="twitter:image" content="{{ .Site.Params.cdn }}images/logo.png">
+
+{{ else }}
+<meta property="og:title" content="{{ .Title }}" >
+<meta property="og:type" content="article" >
+
+<meta property="og:site_name" content="{{ .Site.Title }}" >
+<meta property="og:description" content="{{ .Content }}" >
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="zooberry.org">
+<meta property="twitter:url" content="{{ .Permalink }}">
+<meta name="twitter:title" content="{{ .Site.Title }}">
+<meta name="twitter:description" content="{{ .Content }}">
+
+{{ if .Params.team }}
+    <meta property="article:author" content="{{ .Params.team }}" >
+{{ else }}
+    {{ if reflect.IsSlice .Params.author }}
+        {{ range .Params.author }}
+            {{ $author :=  . | strings.ToLower }}
+            <meta property="article:author" content="{{ . }}" >
+        {{ end }}
+    {{ else }}
+        <meta property="article:author" content="{{ .Params.author }}" >
+    {{ end }}
+{{ end }}
+<meta property="og:url" content="{{ .Permalink }}" >
+
+{{ $images := .Resources.Match "images/*" }}
+{{ if gt (len $images) 0 }}
+  {{ $thumbnailResource := index $images 0 }}
+  <meta property="og:image" content="{{ .Site.Params.cdn }}{{ $thumbnailResource.RelPermalink }}" >
+  <meta name="twitter:image" content="{{ .Site.Params.cdn }}{{ $thumbnailResource.RelPermalink }}" >
+{{ end }}
+
+{{ end }}
+
+
+

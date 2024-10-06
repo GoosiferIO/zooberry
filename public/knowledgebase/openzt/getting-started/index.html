@@ -30,6 +30,7 @@
 
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="icon" href="https://cdn.goosifer.io/2.0/images/favicon.png" type="image/x-icon">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -43,6 +44,296 @@
 <script src="https://cdn.goosifer.io/2.0/js/galleria.js"></script>
 <script src="https://cdn.goosifer.io/2.0/js/galleria.classic.js"></script>
 <script src="https://cdn.goosifer.io/2.0/js/main.js"></script>
+
+
+<meta property="og:title" content="Getting Started" >
+<meta property="og:type" content="article" >
+
+<meta property="og:site_name" content="ZooBerry" >
+<meta property="og:description" content="Getting Started
+This page will lay out the basics of OpenZT modding, including filetypes, folder layout and meta info
+Filetypes
+All config files use the toml format, which looks very similar to the INI-like format the Zoo Tycoon uses, but with much better support and an official spec.
+Toml files should always have the .toml file type, regardless of use.
+Currently all graphics files remain the same as in Zoo Tycoon, new formats will likely be added in the future to make creating mods easier.
+File/Folder structure
+The following top level structure is mandatory (unused folders can be left out, but definitions must be in a folders called Defs, resources in a folder called Resources etc)
+Defs
+Resources
+meta.toml
+meta.toml
+meta.toml contains all the meta information about your mod.
+name=&#34;my example mod&#34;
+description=&#34;a mod full of examples&#34;
+authors=[&#34;Finn&#34;]
+mod_id=&#34;finn.my_example_mod&#34;
+version=&#34;1.0.0&#34;
+link=&#34;https://myexamplewebsite.com/myexamplemod&#34;
+ztd_type=&#34;openzt&#34;
+dependencies=[
+    {mod_id=&#34;finn.my_other_example_mod&#34;, name=&#34;my example mod&#34;, min_version=&#34;1.1.2&#34;, optional=true, ordering=&#34;before&#34;}
+]
+Lets break this file down
+meta.toml
+
+
+
+Field Name
+Purpose
+Example
+Mandatory
+
+
+
+
+name
+This is the mod name displayed to the user
+&ldquo;My example mod&rdquo;
+Yes, cannot be empty
+
+
+description
+A short description of what your mod does
+&ldquo;Adds a Dodo to the game&rdquo;
+Yes, cannot be empty
+
+
+authors
+A list of authors
+[&ldquo;Finn&rdquo;, Goosifer&quot;]
+Yes, must contain at least one author
+
+
+mod_id
+A short unique string for your mod, generally in the form &ldquo;author.mod_name&rdquo; or &ldquo;author.project.mod_name&rdquo;, used to make sure two versions of the same mod aren&rsquo;t loaded and to resolve dependencies between mods
+&ldquo;finn.my_mod&rdquo;
+Yes, cannot be empty or contain spaces
+
+
+version
+Used to differentiate different versions of the same mod, must be 3 numbers separated by periods
+&ldquo;1.0.4&rdquo;
+Yes, cannot be empty, must contain a valid version
+
+
+link
+An optional link for the author to advertise themselves
+&ldquo;https://www.mywebsite.com/mods&quot;
+No
+
+
+ztd_type
+The type of mod, can be &ldquo;legacy&rdquo; for a vanilla Zoo Tycoon mod, &ldquo;openzt&rdquo; for an OpenZT mod or &ldquo;combined&rdquo; if it contains files from both vanilla Zoo Tycoon and OpenZT
+&ldquo;combined&rdquo;
+No, defaults to &ldquo;openzt&rdquo; if left empty
+
+
+dependencies
+A list of dependencies that this mod requires or is usually used with.
+
+No
+
+
+
+Dependencies
+
+
+
+Field Name
+Purpose
+Example
+Mandatory
+
+
+
+
+mod_id
+mod_id of the dependency
+&ldquo;finn.my_other_mod&rdquo;
+Yes
+
+
+name
+Name of the dependency
+&ldquo;My other mod&rdquo;
+Yes
+
+
+min_version
+Minimum version of the dependency if required
+&ldquo;1.1.4&rdquo;
+No, must be valid version if supplied
+
+
+optional
+Whether the dependency is required for this mod to function
+true
+No, defaults to false
+
+
+ordering
+Indicates whether the dependency should be loaded before or after the current mod, acceptable values are &ldquo;before&rdquo; &ldquo;after&rdquo; and &ldquo;none&rdquo;
+&ldquo;before&rdquo;
+No, defaults to &ldquo;none&rdquo;
+
+
+
+Defs
+Defs are where Mod definitions go, these are `.toml`` files organised however you want, in as many subfolders as you want. Types of definitions can be mixed within the same file, partitioned into seperate files, however you wish, OpenZT does not care.
+Resources
+Similar to the defs folder, you may organise resources however you please, the filepath is taken from the .toml file in defs that is using the resource. There is also no restriction on how many .toml files in defs can reference a specific resource.
+" >
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="zooberry.org">
+<meta property="twitter:url" content="http://localhost:1313/knowledgebase/openzt/getting-started/">
+<meta name="twitter:title" content="ZooBerry">
+<meta name="twitter:description" content="Getting Started
+This page will lay out the basics of OpenZT modding, including filetypes, folder layout and meta info
+Filetypes
+All config files use the toml format, which looks very similar to the INI-like format the Zoo Tycoon uses, but with much better support and an official spec.
+Toml files should always have the .toml file type, regardless of use.
+Currently all graphics files remain the same as in Zoo Tycoon, new formats will likely be added in the future to make creating mods easier.
+File/Folder structure
+The following top level structure is mandatory (unused folders can be left out, but definitions must be in a folders called Defs, resources in a folder called Resources etc)
+Defs
+Resources
+meta.toml
+meta.toml
+meta.toml contains all the meta information about your mod.
+name=&#34;my example mod&#34;
+description=&#34;a mod full of examples&#34;
+authors=[&#34;Finn&#34;]
+mod_id=&#34;finn.my_example_mod&#34;
+version=&#34;1.0.0&#34;
+link=&#34;https://myexamplewebsite.com/myexamplemod&#34;
+ztd_type=&#34;openzt&#34;
+dependencies=[
+    {mod_id=&#34;finn.my_other_example_mod&#34;, name=&#34;my example mod&#34;, min_version=&#34;1.1.2&#34;, optional=true, ordering=&#34;before&#34;}
+]
+Lets break this file down
+meta.toml
+
+
+
+Field Name
+Purpose
+Example
+Mandatory
+
+
+
+
+name
+This is the mod name displayed to the user
+&ldquo;My example mod&rdquo;
+Yes, cannot be empty
+
+
+description
+A short description of what your mod does
+&ldquo;Adds a Dodo to the game&rdquo;
+Yes, cannot be empty
+
+
+authors
+A list of authors
+[&ldquo;Finn&rdquo;, Goosifer&quot;]
+Yes, must contain at least one author
+
+
+mod_id
+A short unique string for your mod, generally in the form &ldquo;author.mod_name&rdquo; or &ldquo;author.project.mod_name&rdquo;, used to make sure two versions of the same mod aren&rsquo;t loaded and to resolve dependencies between mods
+&ldquo;finn.my_mod&rdquo;
+Yes, cannot be empty or contain spaces
+
+
+version
+Used to differentiate different versions of the same mod, must be 3 numbers separated by periods
+&ldquo;1.0.4&rdquo;
+Yes, cannot be empty, must contain a valid version
+
+
+link
+An optional link for the author to advertise themselves
+&ldquo;https://www.mywebsite.com/mods&quot;
+No
+
+
+ztd_type
+The type of mod, can be &ldquo;legacy&rdquo; for a vanilla Zoo Tycoon mod, &ldquo;openzt&rdquo; for an OpenZT mod or &ldquo;combined&rdquo; if it contains files from both vanilla Zoo Tycoon and OpenZT
+&ldquo;combined&rdquo;
+No, defaults to &ldquo;openzt&rdquo; if left empty
+
+
+dependencies
+A list of dependencies that this mod requires or is usually used with.
+
+No
+
+
+
+Dependencies
+
+
+
+Field Name
+Purpose
+Example
+Mandatory
+
+
+
+
+mod_id
+mod_id of the dependency
+&ldquo;finn.my_other_mod&rdquo;
+Yes
+
+
+name
+Name of the dependency
+&ldquo;My other mod&rdquo;
+Yes
+
+
+min_version
+Minimum version of the dependency if required
+&ldquo;1.1.4&rdquo;
+No, must be valid version if supplied
+
+
+optional
+Whether the dependency is required for this mod to function
+true
+No, defaults to false
+
+
+ordering
+Indicates whether the dependency should be loaded before or after the current mod, acceptable values are &ldquo;before&rdquo; &ldquo;after&rdquo; and &ldquo;none&rdquo;
+&ldquo;before&rdquo;
+No, defaults to &ldquo;none&rdquo;
+
+
+
+Defs
+Defs are where Mod definitions go, these are `.toml`` files organised however you want, in as many subfolders as you want. Types of definitions can be mixed within the same file, partitioned into seperate files, however you wish, OpenZT does not care.
+Resources
+Similar to the defs folder, you may organise resources however you please, the filepath is taken from the .toml file in defs that is using the resource. There is also no restriction on how many .toml files in defs can reference a specific resource.
+">
+
+
+    
+        <meta property="article:author" content="Finn" >
+    
+
+<meta property="og:url" content="http://localhost:1313/knowledgebase/openzt/getting-started/" >
+
+
+
+
+
+
+
 
 
   </head>
@@ -675,7 +966,7 @@ meta.toml
         <h3>ZooBerry</h3>
         <ul>
             <li>Copyright 2024 Goosifer.IO</li>
-            <li>ZooBerry 2.0.0 last updated on 5 Oct 2024</li>
+            <li>ZooBerry 2.0.0 last updated on 6 Oct 2024</li>
             <li>ZooBerry Theme by Goosifer.IO</li>
             <li>Strawberry icon in logo and favicon by <a href="https://icons8.com/" title="Icons8">Icons8</a></li>
         </ul>

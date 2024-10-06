@@ -30,6 +30,7 @@
 
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="icon" href="https://cdn.goosifer.io/2.0/images/favicon.png" type="image/x-icon">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -43,6 +44,68 @@
 <script src="https://cdn.goosifer.io/2.0/js/galleria.js"></script>
 <script src="https://cdn.goosifer.io/2.0/js/galleria.classic.js"></script>
 <script src="https://cdn.goosifer.io/2.0/js/main.js"></script>
+
+
+<meta property="og:title" content="Variant Assembly Tutorial" >
+<meta property="og:type" content="article" >
+
+<meta property="og:site_name" content="ZooBerry" >
+<meta property="og:description" content="Variant Assembly Tutorial
+Welcome to VAT, a guide made by penguinman to help you create a variant skin for an animal in ZT2. This will only work for members with the Endangered Species (ES) expansion pack.
+Before we begin, there are some programs you will want. One thing you must have is an extracting program. WinRar and WinZip are highly recommended free downloads which serve this purpose. The second one is called DxtBmp and it is so useful during the re-coloring stage. It is a free download here: http://www.mnwright.btinternet.co.uk/pr &hellip; dxtbmp.htm The download is at the bottom of the page. (And yes, its an aircraft site).
+This tutorial contains all the folders you will need so place everything in the entities folder that is included.
+Part 1: Getting the files
+To begin, go to C:\Program Files\Microsoft Games\Zoo Tycoon 2. If you cannot find this file, you must find the folder named Zoo Tycoon 2 in the location where you installed the game. Now you must decide which animal you want the variant to be for. If it is for an ES animal, open the file called x100_000 using the extracting program (WinRar or WinZip). If the animal is from original ZT2 then open the file called entities in the same way.
+In either of these files go to: entities/units/animals. Inside that folder you will see many other folders, each with an animal related to it. The folder name will often be the animal&rsquo;s name backwards, such as BearPolar or WolfGray. It will be easy to locate the folder of your animal.
+Inside that folder find the _Adult.dds file, the Adult_Sick.dds file, the Adult_Dirty.dds file and the Adult_Sick_Dirty.dds file. The names will vary between animals but it generally has something similar to that. It may contain an F or M in it as well. Copy and paste those into your entities/units/animals/codename file (the one included with this tutorial).
+Now in your entities file, included with the tutorial, go to entities/units/animals and rename the folder called codename to match the name of the folder for your animal exactly as the original, such as BearPolar or WolfGray.
+Part 2: Re-coloring
+Next open DxtBmp. Go to File &gt; Open and then browse until you find the first .dds file in your entities folder.
+Now go to &ldquo;Prefs&rdquo; and choose what editor you want to use (such as PSP, Adobe, or MS Paint) to recolor with. Now double click on the image in the center. DO NOT CLOSE DXTBMP
+Now edit (color) the skin in your editor of choice and save it in that editor, but DO NOT use Save As. Now exit the file and close the editor.
+Go back to DXTBMP and click on the &ldquo;Refresh After Edit&rdquo; button on the bottom. The new and edited skin should appear.
+Now click File &gt; Save As, and select .dds texture. In the save menu at the bottom there is a drop down menu. Select DXT1 in the drop down menu and then save the file.
+In order to name the file, you must select a number and add an underscore plus a number to the end of each of the 4 .dds files. If the game already uses _1 for a variant, then you should use another number such as _2, _3, or _4. You can only use numbers up to 5. The re-named files will be something like: WolfGray_Adult_F_4, WolfGray_Adult_Sick_4, WolfGray_Adult_Dirty_4 and WolfGray_Adult_Sick_Dirty_4 depending on what your animal is.
+Part 3: Making it work
+Now right click on the entities folder and select Add To Archive. If using WinRar make sure that .zip is selected and not .rar. Then name it in the renaming box, making sure it ends with .z2f instead of .zip. Then select ok and you are done!
+" >
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="zooberry.org">
+<meta property="twitter:url" content="http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/variant-assembly-tutorial/">
+<meta name="twitter:title" content="ZooBerry">
+<meta name="twitter:description" content="Variant Assembly Tutorial
+Welcome to VAT, a guide made by penguinman to help you create a variant skin for an animal in ZT2. This will only work for members with the Endangered Species (ES) expansion pack.
+Before we begin, there are some programs you will want. One thing you must have is an extracting program. WinRar and WinZip are highly recommended free downloads which serve this purpose. The second one is called DxtBmp and it is so useful during the re-coloring stage. It is a free download here: http://www.mnwright.btinternet.co.uk/pr &hellip; dxtbmp.htm The download is at the bottom of the page. (And yes, its an aircraft site).
+This tutorial contains all the folders you will need so place everything in the entities folder that is included.
+Part 1: Getting the files
+To begin, go to C:\Program Files\Microsoft Games\Zoo Tycoon 2. If you cannot find this file, you must find the folder named Zoo Tycoon 2 in the location where you installed the game. Now you must decide which animal you want the variant to be for. If it is for an ES animal, open the file called x100_000 using the extracting program (WinRar or WinZip). If the animal is from original ZT2 then open the file called entities in the same way.
+In either of these files go to: entities/units/animals. Inside that folder you will see many other folders, each with an animal related to it. The folder name will often be the animal&rsquo;s name backwards, such as BearPolar or WolfGray. It will be easy to locate the folder of your animal.
+Inside that folder find the _Adult.dds file, the Adult_Sick.dds file, the Adult_Dirty.dds file and the Adult_Sick_Dirty.dds file. The names will vary between animals but it generally has something similar to that. It may contain an F or M in it as well. Copy and paste those into your entities/units/animals/codename file (the one included with this tutorial).
+Now in your entities file, included with the tutorial, go to entities/units/animals and rename the folder called codename to match the name of the folder for your animal exactly as the original, such as BearPolar or WolfGray.
+Part 2: Re-coloring
+Next open DxtBmp. Go to File &gt; Open and then browse until you find the first .dds file in your entities folder.
+Now go to &ldquo;Prefs&rdquo; and choose what editor you want to use (such as PSP, Adobe, or MS Paint) to recolor with. Now double click on the image in the center. DO NOT CLOSE DXTBMP
+Now edit (color) the skin in your editor of choice and save it in that editor, but DO NOT use Save As. Now exit the file and close the editor.
+Go back to DXTBMP and click on the &ldquo;Refresh After Edit&rdquo; button on the bottom. The new and edited skin should appear.
+Now click File &gt; Save As, and select .dds texture. In the save menu at the bottom there is a drop down menu. Select DXT1 in the drop down menu and then save the file.
+In order to name the file, you must select a number and add an underscore plus a number to the end of each of the 4 .dds files. If the game already uses _1 for a variant, then you should use another number such as _2, _3, or _4. You can only use numbers up to 5. The re-named files will be something like: WolfGray_Adult_F_4, WolfGray_Adult_Sick_4, WolfGray_Adult_Dirty_4 and WolfGray_Adult_Sick_Dirty_4 depending on what your animal is.
+Part 3: Making it work
+Now right click on the entities folder and select Add To Archive. If using WinRar make sure that .zip is selected and not .rar. Then name it in the renaming box, making sure it ends with .z2f instead of .zip. Then select ok and you are done!
+">
+
+
+    
+        <meta property="article:author" content="Penguinman" >
+    
+
+<meta property="og:url" content="http://localhost:1313/knowledgebase/zoo-tycoon-2/coding-tutorials/variant-assembly-tutorial/" >
+
+
+
+
+
+
+
 
 
   </head>
@@ -555,7 +618,7 @@
         <h3>ZooBerry</h3>
         <ul>
             <li>Copyright 2024 Goosifer.IO</li>
-            <li>ZooBerry 2.0.0 last updated on 5 Oct 2024</li>
+            <li>ZooBerry 2.0.0 last updated on 6 Oct 2024</li>
             <li>ZooBerry Theme by Goosifer.IO</li>
             <li>Strawberry icon in logo and favicon by <a href="https://icons8.com/" title="Icons8">Icons8</a></li>
         </ul>
