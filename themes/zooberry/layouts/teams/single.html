@@ -160,7 +160,7 @@
                 <span class="sidebar_r-title">Languages</span>
                 <div class="side-ul filter-tags">
                     {{ range $languagesByAuthor }}
-                        <span class="badge-default" style="margin-right:1.2rem">{{ . }}</span>
+                        <span class="badge-default" style="margin-right:0.4rem">{{ . }}</span>
                     {{ end }}
                 </div>
                 <span class="sidebar_r-title">Published On</span>
@@ -177,8 +177,9 @@
                 </div>
                 <span class="sidebar_r-title">Years Active</span>
                 <div class="side-ul filter-tags">
+                    {{ $yearsActive = sort $yearsActive }}
                     {{ range $yearsActive }}
-                        <span class="badge-default" style="margin-right:1.2rem">{{ . }}</span>
+                        <span class="badge-default" style="margin-right:0.4rem">{{ . }}</span>
                     {{ end }}
                 </div>
             </div>
