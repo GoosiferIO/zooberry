@@ -4,6 +4,12 @@
     {{ partial "head.html" . }}
   </head>
   <body>
+    <style>
+      :root {
+        /* Logo */
+        --logo: url('{{ .Site.Params.cdn }}images/logo.png') no-repeat !important;
+      }
+    </style>
     {{ if .Params.blog }}
       <div class="content" id="overlay">
     {{ else }}

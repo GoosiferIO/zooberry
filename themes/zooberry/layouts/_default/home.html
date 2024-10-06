@@ -1,4 +1,14 @@
 {{ define "main" }}
+<style>
+  .box-frontpage {
+    border: 1px solid var(--secondary-border);
+    padding: 2rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background: url({{.Params.Site.cdn}}images/bear.webp) no-repeat top -2rem right -6rem / 50%;
+    text-shadow: 0 0 10px var(--primary-bg);
+  }
+  
+</style>
 <div class="body-content">
   <div class="box-frontpage">
       {{ .Content }}

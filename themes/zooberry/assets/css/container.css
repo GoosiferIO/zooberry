@@ -55,9 +55,6 @@
   /* Misc Badges */
   --alert: var(--accent-bg);
 
-  /* Images */
-  --logo: url('/logo.png') no-repeat !important;
-
   /* Code Blocks */
   --code: var(--thead-bg);
   --codeblock: var(--thead-bg);
@@ -153,14 +150,6 @@ main {
 .body-content {
   margin-right: 2rem;
   width: 70%;
-}
-
-.box-frontpage {
-  border: 1px solid var(--secondary-border);
-  padding: 2rem;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  background: url(/bear.webp) no-repeat top -2rem right -6rem / 50%;
-  text-shadow: 0 0 10px var(--primary-bg);
 }
 
 .box-frontpage p {
