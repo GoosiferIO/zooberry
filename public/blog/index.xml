@@ -6,8 +6,15 @@
     <description>Recent content in Blog on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Feb 2024 10:34:38 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 00:05:23 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to the new ZooBerry!</title>
+      <link>http://localhost:1313/blog/welcome-to-zb-2.0/</link>
+      <pubDate>Sun, 06 Oct 2024 00:05:23 +0000</pubDate>
+      <guid>http://localhost:1313/blog/welcome-to-zb-2.0/</guid>
+      <description>Welcome to the new ZooBerry! Over the past few months, we&amp;rsquo;ve been working hard to bring you a new and improved ZooBerry experience. We&amp;rsquo;ve updated the site to freshen up the look and make it easier to navigate. We&amp;rsquo;ve also added new features and content to help you get the most out of your Zoo Tycoon experience. Here&amp;rsquo;s a quick rundown of what&amp;rsquo;s new:&#xA;New Design We&amp;rsquo;ve given the site a fresh coat of paint with a new design that&amp;rsquo;s cleaner and more modern.</description>
+    </item>
     <item>
       <title>January 2024 - Mod Backup Summary</title>
       <link>http://localhost:1313/blog/mbs-jan-24/</link>

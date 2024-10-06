@@ -160,7 +160,7 @@
                 <span class="sidebar_r-title">Languages</span>
                 <div class="side-ul filter-tags">
                     {{ range $languagesByAuthor }}
-                        <a class="badge-default" href="/languages/{{ . | urlize }}">{{ . }}</a>
+                        <span class="badge-default" style="margin-right:1.2rem">{{ . }}</span>
                     {{ end }}
                 </div>
                 <span class="sidebar_r-title">Published On</span>
@@ -178,13 +178,7 @@
                 <span class="sidebar_r-title">Years Active</span>
                 <div class="side-ul filter-tags">
                     {{ range $yearsActive }}
-                        <a class="badge-default" href="/years/{{ . | urlize }}">{{ . }}</a>
-                    {{ end }}
-                </div>
-                <span class="sidebar_r-title">Tags</span>
-                <div class="side-ul filter-tags">
-                    {{ range $allTagsAssociated }}
-                        <a class="badge-default" href="/tags/{{ . | urlize }}">{{ . }}</a>
+                        <span class="badge-default" style="margin-right:1.2rem">{{ . }}</span>
                     {{ end }}
                 </div>
             </div>
