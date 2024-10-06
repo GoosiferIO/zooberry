@@ -44,19 +44,19 @@ Additionally, every author page gets a banner. By default all banners are random
 
 ### Website Pages
 
-![Website Pages]({{<cdn>}}blogwelcome-to-zb-2.0/images/zb5.jpg)
+![Website Pages]({{<cdn>}}blog/welcome-to-zb-2.0/images/zb5.jpg)
 
 Each website page has a bit of a nostalgiac flaire to keep the spirit of their original website alive. These pages list all of the mods that were originally published on the website along with some quick stats.
 
 ## Mod Navigation
 
-![Mod Navigation]({{<cdn>}}blogwelcome-to-zb-2.0/images/zb6.jpg)
+![Mod Navigation]({{<cdn>}}blog/welcome-to-zb-2.0/images/zb6.jpg)
 
 We've added a new mod navigation system that makes it easier to find mods using tags. You can filter mods by a major category, just as before, but any mod can now have multiple tags associated with it. This makes it easier to find mods that fit your specific interests instead of wondering wether the animal you want is in the packs section or in the animals section.
 
 ### Tags
 
-![Tags]({{<cdn>}}/blogwelcome-to-zb-2.0/images/zb7.jpg)
+![Tags]({{<cdn>}}/blog/welcome-to-zb-2.0/images/zb7.jpg)
 
 As you click through the different major categories, you'll notice that the tags change to reflect the mods that are available in that category.
 
