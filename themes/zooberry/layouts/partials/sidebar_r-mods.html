@@ -36,7 +36,7 @@
       {{ if gt $fileCount 1 }}
         <a class="button-dft" href="#files" onclick="openTab('tab-files')">
       {{ else if eq $fileCount 1 }}
-        <a class="button-dft" href="{{ index $files 0 }}">
+        <a class="button-dft" href="{{ .Site.Params.cdn }}{{.RelPermalink}}{{ index $files 0 }}">
       {{ end }}
             <i class="material-icons icon">download</i>
             Download

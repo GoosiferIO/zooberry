@@ -254,93 +254,93 @@ mod_list:
 
 > We are preparing to embark upon an excursion to travel the oceans in search of tropical paradise! We hope to sail away into the tropics and discover the isles hiding within. The Hawaiian Islands and Papua New Guinea are just a few of the places we plan to explore, seeing such animals as the Hawaiian Monk Seal and the Northern Cassowary as they live in their lush and vibrant homes. We will be documenting our trips and showing you all of the wondrous plants and animals we see.
 
-![Island Excursions]({{<cdn>}}desc/BoxArtBig.webp)
+![Island Excursions]({{<cdn>}}images/desc/BoxArtBig.webp)
 
-![Animals]({{<cdn>}}desc/banners/AnimalsBanner.webp)
+![Animals]({{<cdn>}}images/desc/banners/AnimalsBanner.webp)
 
 # Animals
 
 Channel Island Fox  
-![Channel Island Fox]({{<cdn>}}desc/animals/ChannelIslandsFoxAvatar.gif)
+![Channel Island Fox]({{<cdn>}}images/desc/animals/ChannelIslandsFoxAvatar.gif)
 
 Hawaiian Monk Seal  
-![Hawaiian Monk Seal]({{<cdn>}}desc/animals/HawaiianMonkSeal.webp)
+![Hawaiian Monk Seal]({{<cdn>}}images/desc/animals/HawaiianMonkSeal.webp)
 
 Spotted Eagle Ray  
-![Spotted Eagle Ray]({{<cdn>}}desc/animals/SpottedEagleRay.webp)
+![Spotted Eagle Ray]({{<cdn>}}images/desc/animals/SpottedEagleRay.webp)
 
 Javan Langur  
-![Javan Langur]({{<cdn>}}desc/animals/JavanLangurAvatar.webp)
+![Javan Langur]({{<cdn>}}images/desc/animals/JavanLangurAvatar.webp)
 
 Southern Minke Whale  
-![Southern Minke Whale]({{<cdn>}}desc/animals/SouthernMinkeWhaleAvatar.webp)
+![Southern Minke Whale]({{<cdn>}}images/desc/animals/SouthernMinkeWhaleAvatar.webp)
 
 Sumatran Striped Rabbit  
-![Sumatran Striped Rabbit]({{<cdn>}}desc/animals/StripedRabbitAvatar.webp)
+![Sumatran Striped Rabbit]({{<cdn>}}images/desc/animals/StripedRabbitAvatar.webp)
 
 Visayan Warty Pig  
-![Visayan Warty Pig]({{<cdn>}}desc/animals/WartyPigAvatar.webp)
+![Visayan Warty Pig]({{<cdn>}}images/desc/animals/WartyPigAvatar.webp)
 
 Visayan Spotted Deer  
-![Visayan Spotted Deer]({{<cdn>}}desc/animals/VisayanSpottedDeer.webp)
+![Visayan Spotted Deer]({{<cdn>}}images/desc/animals/VisayanSpottedDeer.webp)
 
 Tamaraw  
-![Tamaraw]({{<cdn>}}desc/animals/TamarawAvatar.webp)
+![Tamaraw]({{<cdn>}}images/desc/animals/TamarawAvatar.webp)
 
 Sulawesi Ground Dove  
-![Sulawesi Ground Dove]({{<cdn>}}desc/animals/SulawesiGroundDove.webp)
+![Sulawesi Ground Dove]({{<cdn>}}images/desc/animals/SulawesiGroundDove.webp)
 
 Sulawesi Palm Civet  
-![Sulawesi Palm Civet]({{<cdn>}}desc/animals/SulawesiCivet.webp)
+![Sulawesi Palm Civet]({{<cdn>}}images/desc/animals/SulawesiCivet.webp)
 
 Bornean Clouded Leopard  
-![Bornean Clouded Leopard]({{<cdn>}}desc/animals/BorneoLeo.webp)
+![Bornean Clouded Leopard]({{<cdn>}}images/desc/animals/BorneoLeo.webp)
 
 Borneo River Shark  
-![Borneo River Shark]({{<cdn>}}desc/animals/BorShark.webp)
+![Borneo River Shark]({{<cdn>}}images/desc/animals/BorShark.webp)
 
 Flatback Turtle  
-![Flatback Turtle]({{<cdn>}}desc/animals/FlatbackTurtle.webp)
+![Flatback Turtle]({{<cdn>}}images/desc/animals/FlatbackTurtle.webp)
 
 Spotted Cuscus  
-![Spotted Cuscus]({{<cdn>}}desc/animals/SpottedCuscus.gif)
+![Spotted Cuscus]({{<cdn>}}images/desc/animals/SpottedCuscus.gif)
 
 Northern Cassowary  
-![Northern Cassowary]({{<cdn>}}desc/animals/Cassow.gif)
+![Northern Cassowary]({{<cdn>}}images/desc/animals/Cassow.gif)
 
 Hector's Dolphin  
-![Hector's Dolphin]({{<cdn>}}desc/animals/hectorsavy.png)
+![Hector's Dolphin]({{<cdn>}}images/desc/animals/hectorsavy.png)
 
 Takahe  
-![Takahe]({{<cdn>}}desc/animals/Takahe.webp)
+![Takahe]({{<cdn>}}images/desc/animals/Takahe.webp)
 
 Speckled Longfin Eel  
-![Speckled Longfin Eel]({{<cdn>}}desc/animals/SpeckledEelAvatar.webp)
+![Speckled Longfin Eel]({{<cdn>}}images/desc/animals/SpeckledEelAvatar.webp)
 
 Sri Lankan Axis Deer  
-![Sri Lankan Axis Deer]({{<cdn>}}desc/animals/AxisDeer.gif)
+![Sri Lankan Axis Deer]({{<cdn>}}images/desc/animals/AxisDeer.gif)
 
 Aye-Aye  
-![Aye-Aye]({{<cdn>}}desc/animals/AyeAyeAvatar.webp)
+![Aye-Aye]({{<cdn>}}images/desc/animals/AyeAyeAvatar.webp)
 
 Dingiso  
-![Dingiso]({{<cdn>}}desc/animals/DingisoAvatar.webp)
+![Dingiso]({{<cdn>}}images/desc/animals/DingisoAvatar.webp)
 
 Falanouc  
-![Falanouc]({{<cdn>}}desc/animals/FalanoucAvatar.webp)
+![Falanouc]({{<cdn>}}images/desc/animals/FalanoucAvatar.webp)
 
 Lowland Streaked Tenrec  
-![Lowland Streaked Tenrec]({{<cdn>}}desc/animals/TenrecAvatar.webp)
+![Lowland Streaked Tenrec]({{<cdn>}}images/desc/animals/TenrecAvatar.webp)
 
 Cozumel Island Coati  
-![Cozumel Island Raccoon]({{<cdn>}}desc/animals/CoatiAvatar.webp)
+![Cozumel Island Raccoon]({{<cdn>}}images/desc/animals/CoatiAvatar.webp)
 
 Mahi-Mahi  
-![Mahi-Mahi]({{<cdn>}}desc/animals/MahiMahi.webp)
+![Mahi-Mahi]({{<cdn>}}images/desc/animals/MahiMahi.webp)
 
 # Foliage
 
-![Foliage]({{<cdn>}}desc/banners/FoliageBanner.webp)
+![Foliage]({{<cdn>}}images/desc/banners/FoliageBanner.webp)
 
 - Staghorn Coral
 - California Fan Palm
@@ -390,7 +390,7 @@ Mahi-Mahi
 
 # Scenery 
 
-![Scenery]({{<cdn>}}desc/banners/SceneryBanner.webp)
+![Scenery]({{<cdn>}}images/desc/banners/SceneryBanner.webp)
 
 Two new themes are included in this pack: Paradise and Underwater and include the following items:
 
