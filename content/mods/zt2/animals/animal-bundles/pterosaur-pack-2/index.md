@@ -19,6 +19,7 @@ alt_text:
 languages:
 - English
 summary: "Six pterosaurs by Andrew12."
+zt2tags: ["All", "Animals", "Animal Bundles", "Prehistoric", "Reptiles"]
 ---
 
  Included in the Pack 

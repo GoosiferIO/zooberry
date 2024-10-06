@@ -1,15 +1,16 @@
 
 <div class="galleria">
     {{ $images := .Resources.Match "images/*.{jpg,png,webp,gif}" }}
+    {{ $cdn := .Site.Params.cdn }}
     {{ range $images }}
         {{ if not (strings.Contains .Name "_thumb.jpg") }}
             {{ $imageURL := path.Join $.Site.Params.cdnfs $.RelPermalink "" (. | relURL) }}
-            <a href="{{ $imageURL }}"><img src="{{ $imageURL }}" data-title="{{ $.Params.Title }}" data-description="{{ $.Params.summary }}"></a>
+            <a href="{{ $cdn }}{{ $imageURL }}"><img src="{{ $imageURL }}" data-title="{{ $.Params.Title }}" data-description="{{ $.Params.summary }}"></a>
         {{ end }}
     {{ end }}
     <script>
         (function() {
-            Galleria.loadTheme('{{ .Site.BaseURL }}js/galleria.{{ .Site.Params.galleriaTheme }}.js');
+            Galleria.loadTheme('{{ $cdn }}js/galleria.{{ .Site.Params.galleriaTheme }}.js');
             Galleria.run('.galleria');
         }());
     </script>

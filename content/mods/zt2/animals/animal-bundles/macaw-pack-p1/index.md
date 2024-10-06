@@ -19,6 +19,7 @@ alt_text:
 summary: "A pack of macaws, including the Red-Fronted Macaw, Military Macaw, Hyacinth Macaw, Cuban Macaw, Blue-Winged Macaw, Blue-Throated Macaw, Blue-Headed Macaw, and Blue and Gold Macaw."
 languages:
 - English
+zt2tags: ["All", "Animals", "Animal Bundles", "Birds"]
 ---
 
 

@@ -20,6 +20,7 @@ orig_rel_date: 2008-09-08
 summary: This pack contains six animals from South America and is downloaded in one
   file.
 title: South America Pack
+zt2tags: ["All", "Animals", "Animal Bundles", "Mammals", "Reptiles", "Ungulates"]
 ---
 This pack contains six animals from South America and is downloaded in one file.
 

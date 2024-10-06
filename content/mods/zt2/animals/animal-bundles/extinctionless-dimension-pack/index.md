@@ -20,6 +20,7 @@ orig_rel_date: 2009-05-25
 summary: These three animals have been brought from the fictional Extinctionless Dimension
   to be adoptable in your zoo!
 title: Extinctionless Dimension Pack
+zt2tags: ["All", "Animals", "Animal Bundles", "Dinosaurs", "Fictional"]
 ---
 The Fankola, a carnosaur from the island of Madagascar; the Ciote, a desert tyrannosaur from North America; and Polaris, a Siberian ceratopsian on the brink of extinction -- these three animals have been brought from the fictional 'Extinctionless Dimension' to be adoptable in your zoo!
 

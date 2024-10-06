@@ -16,6 +16,7 @@ license: 'Yes'
 alt_text: 
 languages: 
 summary: "The Douglas squirrel lives from the Sierra Nevada mountains north through coastal British Colombia."
+zt2tags: ["All", "Ambients", "Animals", "Mammals", "Rodents"]
 ---
 Note: this is an ambient, not an adoptable animal. This means it will spawn in the environment at random intervals.
 

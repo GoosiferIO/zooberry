@@ -19,10 +19,8 @@ alt_text:
 languages:
 - English
 summary: "A megafauna pack made by Zooasaurus."
-
+zt2tags: ["All", "Animals", "Animal Bundles", "Prehistoric", "Mammals", "Birds"]
 ---
-Note *07-24-2023*: The compatibility is an estimate and may not be accurate. The original instructions that came with this file are long gone. Feel free to give it a spin and see if it works on your version of the game. :) - *Goosifer*
-
 Includes the following:
 
 **Inside of Titanus.z2f:**  
@@ -41,10 +39,8 @@ Includes the following:
 - Andrewsarchus (animal)
 - Andrewsarchus gift
 
-**Known  issues *(07-24-2023)*: **  
+## Known issues (07-24-2023)
 
 - There is a bug in the zoopedia that prevents the Indricothere from showing up as a zoopedia entry or as a purchasable animal. I noticed many named entries in the xml files do not match up which could be causing the problem. 
 - Same deal with the Andrewsarchus. Titanus seems to work fine though. Unsure about Argentavius.
 - Compatibility determination could be innacurate; original post with instructions is long gone.
-
-\- *Goosifer*

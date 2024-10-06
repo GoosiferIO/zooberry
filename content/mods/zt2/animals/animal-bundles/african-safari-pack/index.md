@@ -19,20 +19,20 @@ alt_text:
 languages:
 - English
 summary: "Summary of the African Safari Pack project"
-
+zt2tags: ["All", "Animals", "Animal Bundles", "Mammals", "Reptiles"]
 ---
 
 Black-Backed Jackal Zoopedia entries by Burnt_Gecko.
 
 Included:
 
-**Animals**
+# Animals
 - Black-Backed Jackal
 - Spotted Hyena
 - West African Dwarf Crocodile
 - Banded Mongoose
 
-**Gifts**
+# Gifts
 - Black-Backed Jackal Toy
 - Spotted Hyena Toy
 - West African Dwarf Crocodile Hat

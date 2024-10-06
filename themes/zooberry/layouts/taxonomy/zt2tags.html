@@ -72,7 +72,6 @@
         {{ $paginator := .Paginate $removeZt1 }}
 
         {{ template "_internal/pagination.html" (dict "Paginator" $paginator "page" .) }}
-
         <ul class="box-card-list">
             {{ range $paginator.Pages }}
                 {{ if not (.Params.is_category) }}
@@ -84,9 +83,8 @@
                                 {{ $processedImage := .Fill "300x200 center" }} <!-- Adjust dimensions as needed -->
                                 {{ $thumbnail = $processedImage.RelPermalink }}
                             {{ end }}
-
                             <a href="{{ .RelPermalink }}">
-                                <img src="{{ $thumbnail }}" alt="{{ .LinkTitle }}">
+                                <img src="{{ .Site.Params.cdn }}{{ $thumbnail }}" alt="{{ .LinkTitle }}">
                             </a>
                         </div>
                         <div class="box-card-mods-content">

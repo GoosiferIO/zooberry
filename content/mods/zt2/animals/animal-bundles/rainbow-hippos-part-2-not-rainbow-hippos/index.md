@@ -19,6 +19,15 @@ alt_text:
 languages: 
 - English
 summary: "What comes after the colors of the rainbow? The colors of the not rainbow apparently."
+zt2tags: [
+  "All",
+  "Animals",
+  "Animal Bundles",
+  "Mammals",
+  "Ungulates",
+  "Aquatic",
+  "Fictional"
+]
 ---
 What comes after the colors of the rainbow? The colors of the not rainbow apparently. These pygmy hippo recolors are just as cute as the rainbow hippos, and they're just as unique.
 

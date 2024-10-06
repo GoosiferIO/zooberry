@@ -19,6 +19,7 @@ summary: "A pair  of lovebirds, the Yellow-collared Lovebird and the Black-winge
 languages:
 - English
 - German
+zt2tags: ["All", "Animals", "Animal Bundles", "Birds"]
 ---
 
 

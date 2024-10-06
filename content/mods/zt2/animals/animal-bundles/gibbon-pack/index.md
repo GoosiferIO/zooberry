@@ -20,6 +20,7 @@ orig_rel_date: 2005-12-20
 summary: A pack of three different gibbons to bring some variety to your zoos' primate
   sections.
 title: Gibbon Pack
+zt2tags: ["All", "Animals", "Animal Bundles", "Mammals", "Primates"]
 ---
 A pack of three different gibbons to bring some variety to your zoos' primate sections.
 

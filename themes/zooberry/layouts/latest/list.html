@@ -22,7 +22,7 @@
                     {{ end }}
         
                     <a href="{{ .RelPermalink }}">
-                        <img src="{{ $thumbnail }}" alt="{{ .LinkTitle }}">
+                        <img src="{{ .Site.Params.cdn }}{{ $thumbnail }}" alt="{{ .LinkTitle }}">
                     </a>
                 </div>
                 <div class="box-card-mods-content">

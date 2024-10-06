@@ -19,6 +19,7 @@ alt_text:
 summary: "A pack of macaws, including the Martinique Macaw, Lesser Antillean Macaw, Red Jamaican Macaw, Indigo Macaw, Great Green Macaw, Golden Collared Macaw, Fronted-Chestnut Macaw, and Onécouli Macaw."
 languages:
 - English
+zt2tags: ["All", "Animals", "Animal Bundles", "Birds"]
 ---
 
 

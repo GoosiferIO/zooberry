@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amphibians on ZooBerry</title>
+    <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/tags/amphibians/</link>
+    <description>Recent content in Amphibians on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Nov 2023 02:12:58 -0800</lastBuildDate>
+    <atom:link href="https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/tags/amphibians/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>African Bullfrog</title>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/animals/ambients/african-bullfrog/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/animals/ambients/african-bullfrog/</guid>
+      <description>A large species of frog from over a dozen African countries.</description>
+    </item>
+  </channel>
+</rss>

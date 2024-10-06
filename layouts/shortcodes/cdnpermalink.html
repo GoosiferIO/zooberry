@@ -1,0 +1,4 @@
+{{- $cdn := .Site.Params.cdnURL -}}
+{{- $path := .RelPermalink -}}
+{{- $url := printf "%s%s" $cdn $path -}}
+{{- return $url -}}

@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maps on ZooBerry</title>
-    <link>http://localhost:1313/mods/zt2/tags/maps/</link>
+    <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/tags/maps/</link>
     <description>Recent content in Maps on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jun 2024 18:33:48 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/mods/zt2/tags/maps/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Lavender Fields</title>
-      <link>http://localhost:1313/mods/zt2/maps/lavender-fields/</link>
-      <pubDate>Tue, 25 Jun 2024 18:33:48 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/maps/lavender-fields/</guid>
-      <description>Lavender Fields is a map for Zoo Tycoon 2 created by Wiene.</description>
-    </item>
+    <lastBuildDate>Tue, 25 Jun 2024 18:36:52 -0700</lastBuildDate>
+    <atom:link href="https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/tags/maps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Maps</title>
-      <link>http://localhost:1313/mods/zt2/maps/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/maps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mods/zt2/maps/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/maps/</guid>
       <description>Experience new zoos created from other master zoo-builders.</description>
     </item>
     <item>
+      <title>Lavender Fields</title>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/maps/lavender-fields/</link>
+      <pubDate>Tue, 25 Jun 2024 18:33:48 -0700</pubDate>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/maps/lavender-fields/</guid>
+      <description>Lavender Fields is a map for Zoo Tycoon 2 created by Wiene.</description>
+    </item>
+    <item>
       <title>Paranoia Graveyard</title>
-      <link>http://localhost:1313/mods/zt2/maps/paranoia-graveyard/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/maps/paranoia-graveyard/</link>
       <pubDate>Tue, 25 Jun 2024 18:26:09 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/maps/paranoia-graveyard/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/maps/paranoia-graveyard/</guid>
       <description>Paranoia Graveyard is a map for Zoo Tycoon 2 created by PrimevalRaptor.</description>
     </item>
     <item>
       <title>Temperate Bridges</title>
-      <link>http://localhost:1313/mods/zt2/maps/temperate-bridges/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/maps/temperate-bridges/</link>
       <pubDate>Sun, 23 Jun 2024 12:32:16 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/maps/temperate-bridges/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/maps/temperate-bridges/</guid>
       <description>Temperate Bridges is a map for Zoo Tycoon 2 created by ceej12.</description>
     </item>
     <item>
       <title>Tropical Coast</title>
-      <link>http://localhost:1313/mods/zt2/maps/tropical-coast/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/maps/tropical-coast/</link>
       <pubDate>Sun, 23 Jun 2024 01:16:53 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/maps/tropical-coast/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/maps/tropical-coast/</guid>
       <description>A blank tropical coast map for Zoo Tycoon 2, created by Super Utah Thief.</description>
     </item>
     <item>
       <title>Blank Tropical Rainforest Zoo</title>
-      <link>http://localhost:1313/mods/zt2/maps/blank-tropical-rainforest/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/maps/blank-tropical-rainforest/</link>
       <pubDate>Sun, 23 Jun 2024 01:10:06 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/maps/blank-tropical-rainforest/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/maps/blank-tropical-rainforest/</guid>
       <description>A blank tropical rainforest zoo map for Zoo Tycoon 2, created by NicolasZoo.</description>
     </item>
     <item>
       <title>Sonoharan Desert</title>
-      <link>http://localhost:1313/mods/zt2/maps/sonoran-desert/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/maps/sonoran-desert/</link>
       <pubDate>Fri, 21 Jun 2024 23:24:22 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/maps/sonoran-desert/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/maps/sonoran-desert/</guid>
       <description>A desert map made by Raja Harimau.</description>
     </item>
     <item>
       <title>Zoo Irvine</title>
-      <link>http://localhost:1313/mods/zt2/maps/zoo-irvine/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/maps/zoo-irvine/</link>
       <pubDate>Fri, 21 Jun 2024 23:24:22 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/maps/zoo-irvine/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/maps/zoo-irvine/</guid>
       <description>This zoo has 7 different sections.</description>
     </item>
     <item>
       <title>Hedge Maze</title>
-      <link>http://localhost:1313/mods/zt2/maps/hedge-maze/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/maps/hedge-maze/</link>
       <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
-      <guid>http://localhost:1313/mods/zt2/maps/hedge-maze/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/maps/hedge-maze/</guid>
       <description>My ultimate uber hedge maze</description>
     </item>
     <item>
       <title>Himalayan Mountain Range</title>
-      <link>http://localhost:1313/mods/zt2/maps/himalayan-mountain-range/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/maps/himalayan-mountain-range/</link>
       <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
-      <guid>http://localhost:1313/mods/zt2/maps/himalayan-mountain-range/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/maps/himalayan-mountain-range/</guid>
       <description>All the foliage is from Artifex&amp;rsquo;s Arabian Nights.</description>
     </item>
     <item>
       <title>Volcanoes National Park</title>
-      <link>http://localhost:1313/mods/zt2/maps/volcanoes-national-park/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/maps/volcanoes-national-park/</link>
       <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
-      <guid>http://localhost:1313/mods/zt2/maps/volcanoes-national-park/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/maps/volcanoes-national-park/</guid>
       <description>All the foliage in the map is from Artifex&amp;rsquo;s Arabian Nights.</description>
     </item>
   </channel>
