@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sim&#39;Z on ZooBerry</title>
-    <link>http://localhost:1313/authors/simz/</link>
+    <link>https://feature-knowledgebase-refact.zooberry.pages.dev/authors/simz/</link>
     <description>Recent content in Sim&#39;Z on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Nov 2023 17:30:46 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/authors/simz/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://feature-knowledgebase-refact.zooberry.pages.dev/authors/simz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Puma/Cougar</title>
-      <link>http://localhost:1313/mods/zt2/animals/living/puma-cougar/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/animals/living/puma-cougar/</link>
       <pubDate>Wed, 15 Nov 2023 17:30:46 -0800</pubDate>
-      <guid>http://localhost:1313/mods/zt2/animals/living/puma-cougar/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/animals/living/puma-cougar/</guid>
       <description>A large American cat that goes by many other names.</description>
     </item>
     <item>
       <title>Indian Hyena</title>
-      <link>http://localhost:1313/mods/zt2/animals/living/indian-hyena/</link>
+      <link>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/animals/living/indian-hyena/</link>
       <pubDate>Wed, 15 Nov 2023 16:30:46 -0800</pubDate>
-      <guid>http://localhost:1313/mods/zt2/animals/living/indian-hyena/</guid>
+      <guid>https://feature-knowledgebase-refact.zooberry.pages.dev/mods/zt2/animals/living/indian-hyena/</guid>
       <description>A population of hyena from India.</description>
     </item>
   </channel>

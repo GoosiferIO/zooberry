@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meshing Tutorials on ZooBerry</title>
-    <link>http://localhost:1313/knowledgebase/zoo-tycoon-2/meshing-tutorials/</link>
+    <link>https://feature-knowledgebase-refact.zooberry.pages.dev/knowledgebase/zoo-tycoon-2/meshing-tutorials/</link>
     <description>Recent content in Meshing Tutorials on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/knowledgebase/zoo-tycoon-2/meshing-tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://feature-knowledgebase-refact.zooberry.pages.dev/knowledgebase/zoo-tycoon-2/meshing-tutorials/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
