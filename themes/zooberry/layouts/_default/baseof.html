@@ -9,6 +9,15 @@
         /* Logo */
         --logo: url('{{ .Site.Params.cdn }}images/logo.png') no-repeat !important;
       }
+
+      .box-frontpage {
+        border: 1px solid var(--secondary-border);
+        padding: 2rem;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        background: url('{{.Site.Params.cdn}}images/bear.webp') no-repeat top -2rem right -6rem / 50% !important;
+        text-shadow: 0 0 10px var(--primary-bg);
+      }
+    
     </style>
     {{ if .Params.blog }}
       <div class="content" id="overlay">

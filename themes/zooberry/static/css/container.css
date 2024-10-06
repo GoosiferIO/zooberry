@@ -122,13 +122,6 @@ main {
   width: 70%;
 }
 
-.box-frontpage {
-  border: 1px solid var(--secondary-border);
-  padding: 1rem;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  background: url(/bear.webp) no-repeat top -2rem right -6rem / 50%;
-}
-
 .box-frontpage p {
   width: 70%;
 }
