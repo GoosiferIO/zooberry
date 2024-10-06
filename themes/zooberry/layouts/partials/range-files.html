@@ -13,7 +13,7 @@
 
 {{ $fileSize := .Params.file_size }}
 {{ $date := .Date.Format "2 Jan 2006" }}
-
+{{ $cdn := .Site.Params.cdn }}
 {{ if gt $fileCount 1 }}
     {{ range $categories }}
         {{ $curCategory := . }}
@@ -84,7 +84,7 @@
                 {{ $date }}
             </td>
             <td class="mod-list-item" style="text-align: center;">
-                <a class="button-dft margin-top" href="{{ .RelPermalink }}"><i class="material-icons icon">download</i> Download</a>
+                <a class="button-dft margin-top" href="{{$cdn}}{{ .RelPermalink }}"><i class="material-icons icon">download</i> Download</a>
             </td>
         </tr>
     {{ end }}
