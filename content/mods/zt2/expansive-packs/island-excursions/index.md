@@ -52,6 +52,11 @@ mod_list:
     category: Animals
     file_size: 1.52 MB
     uploaded: 2024-10-04
+  - name: Island Fox
+    title: Channel Islands Fox
+    category: Animals
+    file_size: 3.98 MB
+    uploaded: 2024-10-04
   - name: Cozumel Island Raccoon
     title: Cozumel Island Coati
     category: Animals
@@ -77,20 +82,20 @@ mod_list:
     category: Animals
     file_size: 2.57 MB
     uploaded: 2024-10-04
-  - name: Hector's Dolphin
+  - name: Hectors Dolphin
     title: Hector's Dolphin
     category: Animals
     file_size: 1.10 MB
-    uploaded: 2024-10-04
-  - name: Channel Islands Fox
-    title: Channel Islands Fox
-    category: Animals
-    file_size: 3.98 MB
     uploaded: 2024-10-04
   - name: Javan Langur
     title: Javan Langur
     category: Animals
     file_size: 3.70 MB
+    uploaded: 2024-10-04
+  - name: Streaked Tenrec
+    title: Lowland Streaked Tenrec
+    category: Animals
+    file_size: 2.86 MB
     uploaded: 2024-10-04
   - name: Mahi-Mahi
     title: Mahi-Mahi
@@ -124,11 +129,6 @@ mod_list:
     uploaded: 2024-10-04
   - name: Sri Lankan Axis Deer
     title: Sri Lankan Axis Deer
-    category: Animals
-    file_size: 2.86 MB
-    uploaded: 2024-10-04
-  - name: Lowland Streaked Tenrec
-    title: Lowland Streaked Tenrec
     category: Animals
     file_size: 2.86 MB
     uploaded: 2024-10-04
