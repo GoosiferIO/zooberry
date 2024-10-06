@@ -95,9 +95,6 @@
   --thead-bg: #bace9c;
   --thead-bg-alt: #cbd9b6;
 
-  /* Images */
-  --logo: url('/logo-lt.png') no-repeat !important;
-
   /* Code Blocks */
   --code: #c7d5b2;
   --codeblock: #778269;
