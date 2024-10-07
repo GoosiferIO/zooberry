@@ -16,8 +16,8 @@ orig_rel_at:
 alt_text: 
 languages:
 - English
-summary: "A pack containing five new animals, five new foliage items, and five new animated scenery items."
-zt1tags: ["All", "Animals", "ZT1", "Dinosaurs"]
+summary: "A pack that converts content from the Dinosaur Digs marketing beta to the retail version of the game."
+zt1tags: ["All", "Animals", "ZT1", "Dinosaur Digs", "Packs"]
 mod_list: 
   - name: SerpyDDBetaPack
     title: Beta Iguanodon + Base Iguanodon
