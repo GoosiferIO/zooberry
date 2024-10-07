@@ -26,22 +26,17 @@ dependencies:
 zt1tags: ["All", "Objects", "ZT1", "Rides", "Carnival"]
 ---
 
-==
- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zYzZtw0-LVM?si=4q83XEyXEXVzrxQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 A gravitron ride styled after a fun UFO theme! Fits in with the in-game carnival theme.
 
-=
-Credits
-=
+# Credits
 
 - Graphics, design, animations made by Goosifer.
 - Configuration by Goosifer with lots of help from Jay and Fern.
 - Tools: Blender 3.6, Photoshop, GIMP, ZooT.
 
-=
-Installation
-=
+# Installation
  
 To install, drop the containing .ztd file in the following directory:
 

@@ -6,20 +6,13 @@
     <description>Recent content in ZT2 Tags on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Oct 2024 17:09:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 01:09:23 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/zt2tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>All</title>
       <link>https://www.zooberry.org/mods/zt2/tags/all/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/tags/all/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Packs</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/packs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/packs/</guid>
       <description></description>
     </item>
     <item>
@@ -34,6 +27,27 @@
       <link>https://www.zooberry.org/mods/zt2/tags/animals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/tags/animals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aquatic</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/aquatic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/aquatic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Living</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/living/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/living/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Packs</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/packs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/packs/</guid>
       <description></description>
     </item>
     <item>
@@ -149,13 +163,6 @@
       <description></description>
     </item>
     <item>
-      <title>Living</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/living/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/living/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Biome Reskins</title>
       <link>https://www.zooberry.org/mods/zt2/tags/biome-reskins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -209,13 +216,6 @@
       <link>https://www.zooberry.org/mods/zt2/tags/prehistoric/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/tags/prehistoric/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Aquatic</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/aquatic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/aquatic/</guid>
       <description></description>
     </item>
     <item>
