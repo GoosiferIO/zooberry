@@ -1,6 +1,5 @@
 ---
 title: "Peryton"
-has_author: true
 author: 
 - Zarawatto
 game: Zoo Tycoon 1
@@ -15,19 +14,30 @@ orig_rel_at:
 alt_text: 
 languages:
 - English
-summary: "Adds the striking and unique looking Hamadryas baboon for adoption."
-zt1tags: ["All", "Animals", "ZT1", "Cryptids", "Fictional"]
+summary: "Add the Peryton, a mythical creature that is part deer and part bird, to your zoo."
+zt1tags: ["All", "Animals", "ZT1", "Mythological", "Fictional"]
 ---
-Adds the striking and unique looking Hamadryas baboon for adoption. They are a social and fun species to have in your zoo, just remember to keep their numbers in check! Should be compatible with most versions of the game, although their preferred foliage, the Doum palm, was included with the North African theme pack, as well as Complete Collection, so you need either one of these for that to work properly.
 
-Credits
+Add the Peryton, a mythical creature that is part deer and part bird, to your zoo. This creature is known for its striking appearance and unique design. The Peryton is a great addition to any zoo and will surely attract visitors with its mysterious and magical presence.
 
-- Original model and textures by KING Art.
-- Zoo Tycoon 2 for the rig, animations and sounds.
-- Serpyderpy for importing, rigging and editing the model, editing the textures, creating the animal, icons and plaques."
+The Peryton is compatible with the following Atlantean scenery items:
 
+- [Goosifer's Atlantean Fountain](https://www.zooberry.org/mods/zt1/objects/atlantean-fountain/)
+- [Dr Rick's Large Atlantean Arch](https://www.ztcdd.org/DG/index.php?topic=5083.0)
+- [Dr Rick's Atlantean Aquarium](https://www.ztcdd.org/DG/index.php?topic=5080.0)
+- [African Raptor's Atlantean Viewing Area](https://zootekphoenix.com/forums/files/file/3133-african-raptors-around-the-world-pack/)
+- [Genki's Antlantean Lamps](https://zootekphoenix.com/forums/files/file/1278-genkis-lamp-mini-pack-by-genkicoll/)
+- [Lierin's Blue Pack Items](https://zootekphoenix.com/forums/files/file/1574-atlantis-blue-pack-by-lw/)
+- [Atlantean Queen's Evil Mermaid Pool](https://zootekphoenix.com/forums/files/file/2291-evil-mermaid-pool-by-atlantean-queen/)
+- [Atlantean Queen's Mini Mermaid Pool](https://zootekphoenix.com/forums/files/file/2394-mini-mermaid-pool-by-atlantean-queen/)
+- [Genki's Atlantean Columns](https://zootekphoenix.com/forums/files/file/943-atlantis-theme-columns-by-genkicoll/)
+- [Genki's Atlantean Fountain](https://zootekphoenix.com/forums/files/file/1238-atlantis-water-fountain-by-genkicoll/)
+- [Genki's Atlantis Tiered Fountains](https://zootekphoenix.com/forums/files/file/1269-atlantis-two-tiered-fountains-by-genkicoll/)
+- [Gem, Brandi & Cricket's Atlantis items](https://zootekphoenix.com/forums/files/file/1284-gemdiket-pack-by-gem-brandi-and-cricket/)
+- [ZZ's Sand Castle ](https://zootekphoenix.com/forums/files/file/3545-zz-rocks-mermaids-sand-castle-by-zz/)
 
-Compatibility
+# Changelog
 
+## October 6, 2024
 
-Requires the official North African Theme Pack by Blue Fang or the Complete Collection.
+- File updated to version 5 to be compatible with several atlantean user made items in addition to in game ones
