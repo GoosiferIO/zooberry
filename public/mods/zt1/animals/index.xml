@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Animals on ZooBerry</title>
-    <link>http://localhost:1313/mods/zt1/animals/</link>
+    <link>https://www.zooberry.org/mods/zt1/animals/</link>
     <description>Recent content in Animals on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Oct 2024 01:34:23 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/mods/zt1/animals/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.zooberry.org/mods/zt1/animals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leatherback Turtle</title>
-      <link>http://localhost:1313/mods/zt1/animals/leatherback-turtle/</link>
+      <link>https://www.zooberry.org/mods/zt1/animals/leatherback-turtle/</link>
       <pubDate>Sun, 06 Oct 2024 01:34:23 +0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/animals/leatherback-turtle/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/animals/leatherback-turtle/</guid>
       <description>Adds the leatherback turtle (Dermochelys coriacea) to your aquariums and marine parks.</description>
     </item>
     <item>
       <title>Ussuri Dhole</title>
-      <link>http://localhost:1313/mods/zt1/animals/ussuri-dhole/</link>
+      <link>https://www.zooberry.org/mods/zt1/animals/ussuri-dhole/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mods/zt1/animals/ussuri-dhole/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/animals/ussuri-dhole/</guid>
       <description>Adds the temperate dhole subspecies to your zoo, with a fox-like appearence and unique cooing sounds.</description>
     </item>
     <item>
       <title>Eoraptor</title>
-      <link>http://localhost:1313/mods/zt1/animals/eoraptor/</link>
+      <link>https://www.zooberry.org/mods/zt1/animals/eoraptor/</link>
       <pubDate>Mon, 30 Sep 2024 09:34:23 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/animals/eoraptor/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/animals/eoraptor/</guid>
       <description>The Eoraptor is a small dinosaur from the Late Triassic period. It is one of the earliest dinosaurs known to science, and it is a basal sauropodomorph.</description>
     </item>
     <item>
       <title>Peryton</title>
-      <link>http://localhost:1313/mods/zt1/animals/peryton/</link>
+      <link>https://www.zooberry.org/mods/zt1/animals/peryton/</link>
       <pubDate>Mon, 30 Sep 2024 09:34:23 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/animals/peryton/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/animals/peryton/</guid>
       <description>Add the Peryton, a mythical creature that is part deer and part bird, to your zoo.</description>
     </item>
     <item>
       <title>Hamadryas Baboon</title>
-      <link>http://localhost:1313/mods/zt1/animals/hamadryas/</link>
+      <link>https://www.zooberry.org/mods/zt1/animals/hamadryas/</link>
       <pubDate>Sat, 18 May 2024 09:34:23 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/animals/hamadryas/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/animals/hamadryas/</guid>
       <description>Adds the striking and unique looking Hamadryas baboon for adoption.</description>
     </item>
     <item>
       <title>Saola</title>
-      <link>http://localhost:1313/mods/zt1/animals/saola/</link>
+      <link>https://www.zooberry.org/mods/zt1/animals/saola/</link>
       <pubDate>Sat, 18 May 2024 09:34:23 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/animals/saola/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/animals/saola/</guid>
       <description>Adds the rare and elusive Saola for adoption in your zoo.</description>
     </item>
     <item>
       <title>Perentie</title>
-      <link>http://localhost:1313/mods/zt1/animals/perentie/</link>
+      <link>https://www.zooberry.org/mods/zt1/animals/perentie/</link>
       <pubDate>Sat, 22 Jul 2023 09:34:23 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/animals/perentie/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/animals/perentie/</guid>
       <description>Perenties are fairly large lizards in the monitor family.</description>
     </item>
     <item>
       <title>Nile Monitor</title>
-      <link>http://localhost:1313/mods/zt1/animals/nile-monitor/</link>
+      <link>https://www.zooberry.org/mods/zt1/animals/nile-monitor/</link>
       <pubDate>Sat, 22 Jul 2023 09:31:25 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/animals/nile-monitor/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/animals/nile-monitor/</guid>
       <description>The Nile Monitor is a large, fast, and agile lizard from the rainforest outskirts and grasslands of Africa.</description>
     </item>
   </channel>

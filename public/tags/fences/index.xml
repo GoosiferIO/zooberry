@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fences on ZooBerry</title>
-    <link>http://localhost:1313/tags/fences/</link>
+    <link>https://www.zooberry.org/tags/fences/</link>
     <description>Recent content in Fences on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jan 2024 13:28:26 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/fences/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.zooberry.org/tags/fences/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alpine Pack</title>
-      <link>http://localhost:1313/mods/zt2/expansive-packs/alpine-pack/</link>
+      <link>https://www.zooberry.org/mods/zt2/expansive-packs/alpine-pack/</link>
       <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
-      <guid>http://localhost:1313/mods/zt2/expansive-packs/alpine-pack/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/alpine-pack/</guid>
       <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
     </item>
     <item>
       <title>Boreal Forest Pack</title>
-      <link>http://localhost:1313/mods/zt2/expansive-packs/boreal-forest-pack/</link>
+      <link>https://www.zooberry.org/mods/zt2/expansive-packs/boreal-forest-pack/</link>
       <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
-      <guid>http://localhost:1313/mods/zt2/expansive-packs/boreal-forest-pack/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/boreal-forest-pack/</guid>
       <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
     </item>
   </channel>

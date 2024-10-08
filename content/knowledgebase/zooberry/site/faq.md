@@ -59,7 +59,7 @@ These individuals are not associated with any particular website, but have given
 
 ## I'm a current Zoo Tycoon modder. May I submit files to ZooBerry for hosting?
 
-Absolutely. Although mod archival is the main motivation behind ZooBerry's creation, we host mods for current teams and modders as well. Please check out the [Submit a File](/submit) page for more information.
+Absolutely. Although mod archival is the main motivation behind ZooBerry's creation, we host mods for current teams and modders as well. Please check out the [Submit a File](/knowledgebase/zooberry/site/submit) page for more information.
 
 ## What is your stance on mod ownership?
 
@@ -71,4 +71,4 @@ ZooBerry believes in mod ownership and therefore if you are an author to a mod h
 
 We used to, but it's quite expensive and frankly they're just not as popular as they used to be. Since ZooBerry is one of our main projects at OpenZT, you are welcome to communicate with us on the [OpenZT Discord](https://discord.gg/ATqFYVsjkc).
 
-For other ZT forum communities around the internet, please see the [Other Websites](/knowledgebase/zooberry/other-websites) page.
+For other ZT forum communities around the internet, please see the [Other Websites](/knowledgebase/zooberry/community/other-websites) page.

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Expansive Packs on ZooBerry</title>
-    <link>http://localhost:1313/mods/zt1/expansive-packs/</link>
+    <link>https://www.zooberry.org/mods/zt1/expansive-packs/</link>
     <description>Recent content in Expansive Packs on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Oct 2024 01:09:23 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/mods/zt1/expansive-packs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.zooberry.org/mods/zt1/expansive-packs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dinosaur Digs Marketing Beta Pack</title>
-      <link>http://localhost:1313/mods/zt1/expansive-packs/dinosaur-digs-marketing-beta-pack/</link>
+      <link>https://www.zooberry.org/mods/zt1/expansive-packs/dinosaur-digs-marketing-beta-pack/</link>
       <pubDate>Mon, 07 Oct 2024 01:09:23 +0000</pubDate>
-      <guid>http://localhost:1313/mods/zt1/expansive-packs/dinosaur-digs-marketing-beta-pack/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/expansive-packs/dinosaur-digs-marketing-beta-pack/</guid>
       <description>A pack that converts content from the Dinosaur Digs marketing beta to the retail version of the game.</description>
     </item>
     <item>
       <title>Mexico Natural Icons Pack</title>
-      <link>http://localhost:1313/mods/zt1/expansive-packs/mexico-natural-icons/</link>
+      <link>https://www.zooberry.org/mods/zt1/expansive-packs/mexico-natural-icons/</link>
       <pubDate>Sun, 06 Oct 2024 01:09:23 +0000</pubDate>
-      <guid>http://localhost:1313/mods/zt1/expansive-packs/mexico-natural-icons/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/expansive-packs/mexico-natural-icons/</guid>
       <description>A pack containing five new animals, five new foliage items, and five new animated scenery items.</description>
     </item>
   </channel>

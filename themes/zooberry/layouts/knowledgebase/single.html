@@ -45,7 +45,7 @@
     </div>
       <div class="post-subheader">
         <span>
-              <strong>Published by </strong> <a href="/authors/">{{ .Params.author }}</a>
+              <strong>Published by </strong> <a href="/authors/{{ .Params.author | urlize}}">{{ .Params.author }}</a>
               <strong> on </strong><span class="post-date">{{ .Date.Format "2 Jan 2006" }}</span>
         </span>
       </div>
