@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Packs on ZooBerry</title>
-    <link>https://www.zooberry.org/mods/zt1/tags/packs/</link>
+    <link>http://localhost:1313/mods/zt1/tags/packs/</link>
     <description>Recent content in Packs on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Oct 2024 01:09:23 +0000</lastBuildDate>
-    <atom:link href="https://www.zooberry.org/mods/zt1/tags/packs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mods/zt1/tags/packs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dinosaur Digs Marketing Beta Pack</title>
-      <link>https://www.zooberry.org/mods/zt1/expansive-packs/dinosaur-digs-marketing-beta-pack/</link>
+      <link>http://localhost:1313/mods/zt1/expansive-packs/dinosaur-digs-marketing-beta-pack/</link>
       <pubDate>Mon, 07 Oct 2024 01:09:23 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/expansive-packs/dinosaur-digs-marketing-beta-pack/</guid>
+      <guid>http://localhost:1313/mods/zt1/expansive-packs/dinosaur-digs-marketing-beta-pack/</guid>
       <description>A pack that converts content from the Dinosaur Digs marketing beta to the retail version of the game.</description>
     </item>
     <item>
       <title>Expansive Packs</title>
-      <link>https://www.zooberry.org/mods/zt1/expansive-packs/</link>
+      <link>http://localhost:1313/mods/zt1/expansive-packs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/expansive-packs/</guid>
+      <guid>http://localhost:1313/mods/zt1/expansive-packs/</guid>
       <description>Expansive packs are collections of mods that add a large number of mods from various ZT1 categories.</description>
     </item>
     <item>
       <title>Packs</title>
-      <link>https://www.zooberry.org/mods/zt1/packs/</link>
+      <link>http://localhost:1313/mods/zt1/packs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/packs/</guid>
+      <guid>http://localhost:1313/mods/zt1/packs/</guid>
       <description>Bundled packs of mods with similar themes.</description>
     </item>
     <item>
       <title>Unlimited Feather Overload (U.F.O.)</title>
-      <link>https://www.zooberry.org/mods/zt1/packs/ufo/</link>
+      <link>http://localhost:1313/mods/zt1/packs/ufo/</link>
       <pubDate>Sat, 05 Oct 2024 01:09:23 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/packs/ufo/</guid>
+      <guid>http://localhost:1313/mods/zt1/packs/ufo/</guid>
       <description>A new expansion pack full of prehistoric fluffy pals!!</description>
     </item>
     <item>
       <title>Toadally Batrocious Land Invaders</title>
-      <link>https://www.zooberry.org/mods/zt1/packs/toadallly-batrocious/</link>
+      <link>http://localhost:1313/mods/zt1/packs/toadallly-batrocious/</link>
       <pubDate>Fri, 04 Oct 2024 01:09:23 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/packs/toadallly-batrocious/</guid>
+      <guid>http://localhost:1313/mods/zt1/packs/toadallly-batrocious/</guid>
       <description>A pack full of ancient amphibians for your zoos! This pack is a Halloween gift for all of you! Toadally Batrocious (TB) is the third of the &amp;ldquo;Works on Lacking Stuff&amp;rdquo; projects.</description>
     </item>
     <item>
       <title>Bug Mayhem</title>
-      <link>https://www.zooberry.org/mods/zt1/packs/bug-mayhem/</link>
+      <link>http://localhost:1313/mods/zt1/packs/bug-mayhem/</link>
       <pubDate>Mon, 30 Sep 2024 11:15:53 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/packs/bug-mayhem/</guid>
+      <guid>http://localhost:1313/mods/zt1/packs/bug-mayhem/</guid>
       <description>A little expansion pack containing items for a full terrarium of arthropods!</description>
     </item>
     <item>
       <title>Wolves and Panthera Hunting Statues</title>
-      <link>https://www.zooberry.org/mods/zt1/packs/wolves-and-panthera-hunting-statues/</link>
+      <link>http://localhost:1313/mods/zt1/packs/wolves-and-panthera-hunting-statues/</link>
       <pubDate>Mon, 24 Jul 2023 12:50:54 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/packs/wolves-and-panthera-hunting-statues/</guid>
+      <guid>http://localhost:1313/mods/zt1/packs/wolves-and-panthera-hunting-statues/</guid>
       <description>Water placeable, Exhibit placeable(Animals don&amp;rsquo;t feel happy or unhappy)</description>
     </item>
     <item>
       <title>WLP1 Scenery</title>
-      <link>https://www.zooberry.org/mods/zt1/packs/wlp1-scenery/</link>
+      <link>http://localhost:1313/mods/zt1/packs/wlp1-scenery/</link>
       <pubDate>Mon, 24 Jul 2023 12:46:44 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/packs/wlp1-scenery/</guid>
+      <guid>http://localhost:1313/mods/zt1/packs/wlp1-scenery/</guid>
       <description>Scenery, UCS File fixed, Water placeable, Exhibit placeable(Animals don&amp;rsquo;t feel happy or unhappy)</description>
     </item>
     <item>
       <title>WLP1 Foliage Pack Part 6</title>
-      <link>https://www.zooberry.org/mods/zt1/packs/wlp1-foliage-pack-part-6/</link>
+      <link>http://localhost:1313/mods/zt1/packs/wlp1-foliage-pack-part-6/</link>
       <pubDate>Mon, 24 Jul 2023 12:43:02 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/packs/wlp1-foliage-pack-part-6/</guid>
+      <guid>http://localhost:1313/mods/zt1/packs/wlp1-foliage-pack-part-6/</guid>
       <description>Imported from Wildlife Park 1.</description>
     </item>
     <item>
       <title>WLP1 Foliage Pack Part 5</title>
-      <link>https://www.zooberry.org/mods/zt1/packs/wlp1-foliage-pack-part-5/</link>
+      <link>http://localhost:1313/mods/zt1/packs/wlp1-foliage-pack-part-5/</link>
       <pubDate>Mon, 24 Jul 2023 12:38:01 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/packs/wlp1-foliage-pack-part-5/</guid>
+      <guid>http://localhost:1313/mods/zt1/packs/wlp1-foliage-pack-part-5/</guid>
       <description>Summary of the Wlp1 Foliage Pack Part 5 project</description>
     </item>
     <item>
       <title>WLP1 Foliage Pack Part 4</title>
-      <link>https://www.zooberry.org/mods/zt1/packs/wlp1-foliage-pack-part-4/</link>
+      <link>http://localhost:1313/mods/zt1/packs/wlp1-foliage-pack-part-4/</link>
       <pubDate>Mon, 24 Jul 2023 12:33:19 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/packs/wlp1-foliage-pack-part-4/</guid>
+      <guid>http://localhost:1313/mods/zt1/packs/wlp1-foliage-pack-part-4/</guid>
       <description>A pack of trees.</description>
     </item>
     <item>
       <title>WLP1 Foliage Pack Part 3</title>
-      <link>https://www.zooberry.org/mods/zt1/packs/wlp1-foliage-pack-part-3/</link>
+      <link>http://localhost:1313/mods/zt1/packs/wlp1-foliage-pack-part-3/</link>
       <pubDate>Mon, 24 Jul 2023 12:29:24 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/packs/wlp1-foliage-pack-part-3/</guid>
+      <guid>http://localhost:1313/mods/zt1/packs/wlp1-foliage-pack-part-3/</guid>
       <description>A pack of trees.</description>
     </item>
     <item>
       <title>WLP1 Foliage Pack Part 2</title>
-      <link>https://www.zooberry.org/mods/zt1/packs/wlp1-foliage-pack-part-2/</link>
+      <link>http://localhost:1313/mods/zt1/packs/wlp1-foliage-pack-part-2/</link>
       <pubDate>Mon, 24 Jul 2023 12:19:30 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/packs/wlp1-foliage-pack-part-2/</guid>
+      <guid>http://localhost:1313/mods/zt1/packs/wlp1-foliage-pack-part-2/</guid>
       <description>A pack of trees.</description>
     </item>
     <item>
       <title>WLP1 Foliage Pack Part 1</title>
-      <link>https://www.zooberry.org/mods/zt1/packs/wlp1-foliage-pack-part-1/</link>
+      <link>http://localhost:1313/mods/zt1/packs/wlp1-foliage-pack-part-1/</link>
       <pubDate>Mon, 24 Jul 2023 12:15:38 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/packs/wlp1-foliage-pack-part-1/</guid>
+      <guid>http://localhost:1313/mods/zt1/packs/wlp1-foliage-pack-part-1/</guid>
       <description>A pack of trees.</description>
     </item>
     <item>
       <title>AOE2 New World Pile Walls</title>
-      <link>https://www.zooberry.org/mods/zt1/packs/pile-walls/</link>
+      <link>http://localhost:1313/mods/zt1/packs/pile-walls/</link>
       <pubDate>Mon, 24 Jul 2023 12:05:31 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/packs/pile-walls/</guid>
+      <guid>http://localhost:1313/mods/zt1/packs/pile-walls/</guid>
       <description>UCS File fixed, Water placeable, Exhibit placeable(Animals don&amp;rsquo;t feel happy or unhappy)</description>
     </item>
     <item>
       <title>Emperor Watercourse</title>
-      <link>https://www.zooberry.org/mods/zt1/packs/emperor-watercourse/</link>
+      <link>http://localhost:1313/mods/zt1/packs/emperor-watercourse/</link>
       <pubDate>Mon, 24 Jul 2023 11:59:37 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/packs/emperor-watercourse/</guid>
+      <guid>http://localhost:1313/mods/zt1/packs/emperor-watercourse/</guid>
       <description>A pack of components that let you build water channels.</description>
     </item>
     <item>
       <title>Emperor Heavenly Compound Luxury Apt</title>
-      <link>https://www.zooberry.org/mods/zt1/packs/emperor-heavenly-compound-luxury-apt/</link>
+      <link>http://localhost:1313/mods/zt1/packs/emperor-heavenly-compound-luxury-apt/</link>
       <pubDate>Mon, 24 Jul 2023 11:56:18 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/packs/emperor-heavenly-compound-luxury-apt/</guid>
+      <guid>http://localhost:1313/mods/zt1/packs/emperor-heavenly-compound-luxury-apt/</guid>
       <description>Tile:Heavenly Compound:5x5,Luxury Apartment:3x3, Water placeable, Exhibit placeable(Animals don&amp;rsquo;t feel happy or unhappy)</description>
     </item>
   </channel>

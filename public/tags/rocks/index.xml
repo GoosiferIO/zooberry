@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rocks on ZooBerry</title>
-    <link>https://www.zooberry.org/tags/rocks/</link>
+    <link>http://localhost:1313/tags/rocks/</link>
     <description>Recent content in Rocks on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Jun 2024 21:51:34 -0700</lastBuildDate>
-    <atom:link href="https://www.zooberry.org/tags/rocks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/rocks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bog Pack</title>
-      <link>https://www.zooberry.org/mods/zt2/expansive-packs/bog-pack/</link>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/bog-pack/</link>
       <pubDate>Fri, 21 Jun 2024 21:51:34 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/bog-pack/</guid>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/bog-pack/</guid>
       <description>A Bog Pack made by Hendrix with new animals, objects, and a new biome.</description>
     </item>
     <item>
       <title>Desert Pack</title>
-      <link>https://www.zooberry.org/mods/zt2/expansive-packs/desert-pack/</link>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/desert-pack/</link>
       <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/desert-pack/</guid>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/desert-pack/</guid>
       <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
     </item>
     <item>
       <title>Amur Leopard Mini Pack</title>
-      <link>https://www.zooberry.org/mods/zt2/expansive-packs/amur-leopard-mini-pack/</link>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/amur-leopard-mini-pack/</link>
       <pubDate>Sat, 30 Dec 2023 00:52:38 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/amur-leopard-mini-pack/</guid>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/amur-leopard-mini-pack/</guid>
       <description>The Amur leopard is one of nine recognised subspecies of leopard.</description>
     </item>
   </channel>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fish on ZooBerry</title>
-    <link>https://www.zooberry.org/mods/zt2/tags/fish/</link>
+    <link>http://localhost:1313/mods/zt2/tags/fish/</link>
     <description>Recent content in Fish on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Oct 2024 19:40:23 +0000</lastBuildDate>
-    <atom:link href="https://www.zooberry.org/mods/zt2/tags/fish/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mods/zt2/tags/fish/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Island Excursions</title>
-      <link>https://www.zooberry.org/mods/zt2/expansive-packs/island-excursions/</link>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/island-excursions/</link>
       <pubDate>Fri, 04 Oct 2024 19:40:23 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/island-excursions/</guid>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/island-excursions/</guid>
       <description>Embark upon an excursion to travel the oceans in search of tropical paradise! Discover the isles hiding within the Hawaiian Islands and Papua New Guinea, seeing such animals as the Hawaiian Monk Seal and the Northern Cassowary as they live in their lush and vibrant homes.</description>
     </item>
     <item>
       <title>Piranha</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/ambients/piranha/</link>
+      <link>http://localhost:1313/mods/zt2/animals/ambients/piranha/</link>
       <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/piranha/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/ambients/piranha/</guid>
       <description>These piranhas will form interesting schools in your jungle tanks.</description>
     </item>
     <item>
       <title>Wahoo Ambient</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/ambients/wahoo/</link>
+      <link>http://localhost:1313/mods/zt2/animals/ambients/wahoo/</link>
       <pubDate>Sun, 12 Nov 2023 02:07:38 -0800</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/wahoo/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/ambients/wahoo/</guid>
       <description>The Wahoo is a game fish, found in the open see, and is related to the Marlin and Mackerel.</description>
     </item>
   </channel>

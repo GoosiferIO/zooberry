@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Remakes on ZooBerry</title>
-    <link>https://www.zooberry.org/mods/zt2/remakes/</link>
+    <link>http://localhost:1313/mods/zt2/remakes/</link>
     <description>Recent content in Remakes on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://www.zooberry.org/mods/zt2/remakes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mods/zt2/remakes/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

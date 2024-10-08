@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mammals on ZooBerry</title>
-    <link>https://www.zooberry.org/mods/zt2/tags/mammals/</link>
+    <link>http://localhost:1313/mods/zt2/tags/mammals/</link>
     <description>Recent content in Mammals on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Oct 2024 19:40:23 +0000</lastBuildDate>
-    <atom:link href="https://www.zooberry.org/mods/zt2/tags/mammals/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mods/zt2/tags/mammals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Island Excursions</title>
-      <link>https://www.zooberry.org/mods/zt2/expansive-packs/island-excursions/</link>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/island-excursions/</link>
       <pubDate>Fri, 04 Oct 2024 19:40:23 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/island-excursions/</guid>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/island-excursions/</guid>
       <description>Embark upon an excursion to travel the oceans in search of tropical paradise! Discover the isles hiding within the Hawaiian Islands and Papua New Guinea, seeing such animals as the Hawaiian Monk Seal and the Northern Cassowary as they live in their lush and vibrant homes.</description>
     </item>
     <item>
       <title>European Pack I</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/european-pack-i/</link>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/european-pack-i/</link>
       <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/european-pack-i/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/european-pack-i/</guid>
       <description>The first part of our little project, contains the European Mouflon, the Highland Cow and the Shire Horse!</description>
     </item>
     <item>
       <title>South America Pack</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/south-america-pack/</link>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/south-america-pack/</link>
       <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/south-america-pack/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/south-america-pack/</guid>
       <description>This pack contains six animals from South America and is downloaded in one file.</description>
     </item>
     <item>
       <title>Gibbon Pack</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/gibbon-pack/</link>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/gibbon-pack/</link>
       <pubDate>Sat, 30 Dec 2023 17:10:39 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/gibbon-pack/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/gibbon-pack/</guid>
       <description>A pack of three different gibbons to bring some variety to your zoos&amp;rsquo; primate sections.</description>
     </item>
     <item>
       <title>Douglas Squirrel</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/ambients/douglas-squirrel/</link>
+      <link>http://localhost:1313/mods/zt2/animals/ambients/douglas-squirrel/</link>
       <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/douglas-squirrel/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/ambients/douglas-squirrel/</guid>
       <description>The Douglas squirrel lives from the Sierra Nevada mountains north through coastal British Colombia.</description>
     </item>
     <item>
       <title>Hexaprotodon Pack</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/hexaprotodon-pack/</link>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/hexaprotodon-pack/</link>
       <pubDate>Sat, 18 Nov 2023 18:09:48 -0800</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/hexaprotodon-pack/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/hexaprotodon-pack/</guid>
       <description>Three extinct hippopotamids from the genus Hexaprotodon.</description>
     </item>
     <item>
       <title>Rainbow Hippos</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/rainbow-hippos/</link>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/rainbow-hippos/</link>
       <pubDate>Sat, 18 Nov 2023 18:09:48 -0800</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/rainbow-hippos/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/rainbow-hippos/</guid>
       <description>An adorable pygmy hippo for every color of the rainbow!</description>
     </item>
     <item>
       <title>Rainbow Hippos Part 2: NOT Rainbow Hippos</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/rainbow-hippos-part-2-not-rainbow-hippos/</link>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/rainbow-hippos-part-2-not-rainbow-hippos/</link>
       <pubDate>Sat, 18 Nov 2023 18:09:48 -0800</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/rainbow-hippos-part-2-not-rainbow-hippos/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/rainbow-hippos-part-2-not-rainbow-hippos/</guid>
       <description>What comes after the colors of the rainbow? The colors of the not rainbow apparently.</description>
     </item>
     <item>
       <title>African Safari Pack</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/african-safari-pack/</link>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/african-safari-pack/</link>
       <pubDate>Mon, 24 Jul 2023 18:31:26 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/african-safari-pack/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/african-safari-pack/</guid>
       <description>Summary of the African Safari Pack project</description>
     </item>
     <item>
       <title>Megafauna Pack</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/megafauna-pack/</link>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/megafauna-pack/</link>
       <pubDate>Mon, 24 Jul 2023 18:26:34 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/megafauna-pack/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/megafauna-pack/</guid>
       <description>A megafauna pack made by Zooasaurus.</description>
     </item>
     <item>
       <title>African Civet and Giant Eland</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/african-civet-and-giant-eland/</link>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/african-civet-and-giant-eland/</link>
       <pubDate>Sat, 22 Jul 2023 09:11:31 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/african-civet-and-giant-eland/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/african-civet-and-giant-eland/</guid>
       <description>A Civet from the tropics of Africa, Biome is Tropical Rainforest and Savannah. Giant Eland is one of the largest antelope in the world, lives in the Savannahs of East Africa.</description>
     </item>
   </channel>

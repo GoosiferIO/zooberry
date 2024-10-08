@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fences on ZooBerry</title>
-    <link>https://www.zooberry.org/mods/zt2/objects/fences/</link>
+    <link>http://localhost:1313/mods/zt2/objects/fences/</link>
     <description>Recent content in Fences on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Jun 2024 18:12:43 -0700</lastBuildDate>
-    <atom:link href="https://www.zooberry.org/mods/zt2/objects/fences/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mods/zt2/objects/fences/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Iron Tunnel</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/fences/iron-tunnel/</link>
+      <link>http://localhost:1313/mods/zt2/objects/fences/iron-tunnel/</link>
       <pubDate>Tue, 25 Jun 2024 18:12:43 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/fences/iron-tunnel/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/iron-tunnel/</guid>
       <description>This dinosaur fence is perfect for large dinosaurs. There are also two smaller dinosaur fences, a vehicle gate and placeable cables. With these objects you can make a gate construction for Jeeps or zookeepers.</description>
     </item>
     <item>
       <title>Peach Railing Fence</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/fences/peach-rail-fence/</link>
+      <link>http://localhost:1313/mods/zt2/objects/fences/peach-rail-fence/</link>
       <pubDate>Sat, 22 Jun 2024 21:35:14 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/fences/peach-rail-fence/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/peach-rail-fence/</guid>
       <description>Originally released as a teaser for The CRG Problem&amp;rsquo;s upcoming Barn Pack.</description>
     </item>
     <item>
       <title>Indoor Fences</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/fences/indoor-fences/</link>
+      <link>http://localhost:1313/mods/zt2/objects/fences/indoor-fences/</link>
       <pubDate>Thu, 20 Jun 2024 18:43:14 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/fences/indoor-fences/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/indoor-fences/</guid>
       <description>Indoor Fence made by Felipeepilef.</description>
     </item>
     <item>
       <title>Green Fence</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/fences/green-fence/</link>
+      <link>http://localhost:1313/mods/zt2/objects/fences/green-fence/</link>
       <pubDate>Thu, 20 Jun 2024 18:42:53 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/fences/green-fence/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/green-fence/</guid>
       <description>Green Fence made by Felipeepilef.</description>
     </item>
     <item>
       <title>Massai Fence</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/fences/massai-fence/</link>
+      <link>http://localhost:1313/mods/zt2/objects/fences/massai-fence/</link>
       <pubDate>Fri, 22 Mar 2024 06:35:13 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/fences/massai-fence/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/massai-fence/</guid>
       <description>A massai fence for your zoo!</description>
     </item>
     <item>
       <title>Stony Fence</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/fences/stony-fence/</link>
+      <link>http://localhost:1313/mods/zt2/objects/fences/stony-fence/</link>
       <pubDate>Fri, 22 Mar 2024 06:30:27 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/fences/stony-fence/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/stony-fence/</guid>
       <description>A stony fence for your zoo!</description>
     </item>
     <item>
       <title>Rusty Fences</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/fences/shens-rusty-fences/</link>
+      <link>http://localhost:1313/mods/zt2/objects/fences/shens-rusty-fences/</link>
       <pubDate>Wed, 10 Jan 2024 09:26:07 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/fences/shens-rusty-fences/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/shens-rusty-fences/</guid>
       <description>A pair of rusting metal fences, complete with chains and portholes! Perfect for placing alongside benthic animals!</description>
     </item>
     <item>
       <title>White Salt Fence</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/fences/white-salt-fence/</link>
+      <link>http://localhost:1313/mods/zt2/objects/fences/white-salt-fence/</link>
       <pubDate>Fri, 10 Nov 2023 03:29:25 -0800</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/fences/white-salt-fence/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/white-salt-fence/</guid>
       <description>White salt fence made by Robert.</description>
     </item>
     <item>
       <title>Glass Fence</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/fences/glass-fence/</link>
+      <link>http://localhost:1313/mods/zt2/objects/fences/glass-fence/</link>
       <pubDate>Thu, 03 Aug 2023 06:34:32 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/fences/glass-fence/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/glass-fence/</guid>
       <description>This is the an all glass fence created by Gibbon-Fanatic with help from Penguinman. Enjoy!</description>
     </item>
     <item>
       <title>Shen&#39;s Fences Pack</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/fences/fences-pack/</link>
+      <link>http://localhost:1313/mods/zt2/objects/fences/fences-pack/</link>
       <pubDate>Thu, 03 Aug 2023 06:34:32 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/fences/fences-pack/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/fences-pack/</guid>
       <description>10 new fences!</description>
     </item>
   </channel>

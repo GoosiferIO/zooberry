@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Birds on ZooBerry</title>
-    <link>https://www.zooberry.org/mods/zt2/tags/birds/</link>
+    <link>http://localhost:1313/mods/zt2/tags/birds/</link>
     <description>Recent content in Birds on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Oct 2024 19:40:23 +0000</lastBuildDate>
-    <atom:link href="https://www.zooberry.org/mods/zt2/tags/birds/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mods/zt2/tags/birds/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Island Excursions</title>
-      <link>https://www.zooberry.org/mods/zt2/expansive-packs/island-excursions/</link>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/island-excursions/</link>
       <pubDate>Fri, 04 Oct 2024 19:40:23 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/island-excursions/</guid>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/island-excursions/</guid>
       <description>Embark upon an excursion to travel the oceans in search of tropical paradise! Discover the isles hiding within the Hawaiian Islands and Papua New Guinea, seeing such animals as the Hawaiian Monk Seal and the Northern Cassowary as they live in their lush and vibrant homes.</description>
     </item>
     <item>
       <title>Macaw Pack P2</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/macaw-pack-p2/</link>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/macaw-pack-p2/</link>
       <pubDate>Sat, 22 Jun 2024 17:48:52 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/macaw-pack-p2/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/macaw-pack-p2/</guid>
       <description>A pack of macaws, including the Martinique Macaw, Lesser Antillean Macaw, Red Jamaican Macaw, Indigo Macaw, Great Green Macaw, Golden Collared Macaw, Fronted-Chestnut Macaw, and Onécouli Macaw.</description>
     </item>
     <item>
       <title>Macaw Pack P1</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/macaw-pack-p1/</link>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/macaw-pack-p1/</link>
       <pubDate>Sat, 22 Jun 2024 17:48:45 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/macaw-pack-p1/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/macaw-pack-p1/</guid>
       <description>A pack of macaws, including the Red-Fronted Macaw, Military Macaw, Hyacinth Macaw, Cuban Macaw, Blue-Winged Macaw, Blue-Throated Macaw, Blue-Headed Macaw, and Blue and Gold Macaw.</description>
     </item>
     <item>
       <title>Lovely Lovebirds 1</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/lovely-lovebirds-1/</link>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/lovely-lovebirds-1/</link>
       <pubDate>Sat, 22 Jun 2024 17:43:56 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/lovely-lovebirds-1/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/lovely-lovebirds-1/</guid>
       <description>A pair  of lovebirds, the Yellow-collared Lovebird and the Black-winged Lovebird.</description>
     </item>
     <item>
       <title>Megafauna Pack</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/megafauna-pack/</link>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/megafauna-pack/</link>
       <pubDate>Mon, 24 Jul 2023 18:26:34 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/megafauna-pack/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/megafauna-pack/</guid>
       <description>A megafauna pack made by Zooasaurus.</description>
     </item>
   </channel>

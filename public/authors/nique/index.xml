@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nique on ZooBerry</title>
-    <link>https://www.zooberry.org/authors/nique/</link>
+    <link>http://localhost:1313/authors/nique/</link>
     <description>Recent content in Nique on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Oct 2024 19:40:23 +0000</lastBuildDate>
-    <atom:link href="https://www.zooberry.org/authors/nique/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/authors/nique/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Island Excursions</title>
-      <link>https://www.zooberry.org/mods/zt2/expansive-packs/island-excursions/</link>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/island-excursions/</link>
       <pubDate>Fri, 04 Oct 2024 19:40:23 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/island-excursions/</guid>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/island-excursions/</guid>
       <description>Embark upon an excursion to travel the oceans in search of tropical paradise! Discover the isles hiding within the Hawaiian Islands and Papua New Guinea, seeing such animals as the Hawaiian Monk Seal and the Northern Cassowary as they live in their lush and vibrant homes.</description>
     </item>
     <item>
       <title>Cannonball Jellyfish</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/cannonball-jellyfish/</link>
+      <link>http://localhost:1313/mods/zt2/animals/living/cannonball-jellyfish/</link>
       <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/cannonball-jellyfish/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/living/cannonball-jellyfish/</guid>
       <description>The cannonball jellyfish, also known as the cabbagehead jellyfish, is a species of jellyfish in the family Stomolophidae.</description>
     </item>
   </channel>

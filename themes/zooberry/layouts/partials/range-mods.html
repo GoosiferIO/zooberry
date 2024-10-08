@@ -44,7 +44,7 @@
                 {{ end }}
 </p>
             <span class="box-card-bottom">
-                <span class="badge-animals">Animals</span>
+                {{ partial "class-badges.html" . }}
                 <span class="box-card-date">{{ .Date.Format "2 Jan 2006" }}</span>
             </span>
         </div>
