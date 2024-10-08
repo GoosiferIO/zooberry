@@ -200,7 +200,7 @@
                 <div class="side-ul filter-tags">
                     {{ $yearsActive = sort $yearsActive }}
                     {{ range $yearsActive }}
-                        <span class="badge-default" href="/years/{{ . | urlize }}">{{ . }}</span>
+                        <span class="badge-default" href="/years/{{ . | urlize }}" style="margin: 0 0.18rem;">{{ . }}</span>
                     {{ end }}
                 </div>
                 {{ with $allTagsAssociatedZT1 }}
