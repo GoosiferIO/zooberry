@@ -6,7 +6,7 @@
     <description>Recent content in ZT1 Tags on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Oct 2024 01:09:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 09:34:23 -0700</lastBuildDate>
     <atom:link href="https://www.zooberry.org/zt1tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>All</title>
@@ -20,6 +20,76 @@
       <link>https://www.zooberry.org/mods/zt1/tags/animals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt1/tags/animals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Birds</title>
+      <link>https://www.zooberry.org/mods/zt1/tags/birds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt1/tags/birds/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cattle</title>
+      <link>https://www.zooberry.org/mods/zt1/tags/cattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt1/tags/cattle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crocodiles</title>
+      <link>https://www.zooberry.org/mods/zt1/tags/crocodiles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt1/tags/crocodiles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Extinct</title>
+      <link>https://www.zooberry.org/mods/zt1/tags/extinct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt1/tags/extinct/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Horses</title>
+      <link>https://www.zooberry.org/mods/zt1/tags/horses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt1/tags/horses/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Living</title>
+      <link>https://www.zooberry.org/mods/zt1/tags/living/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt1/tags/living/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mammals</title>
+      <link>https://www.zooberry.org/mods/zt1/tags/mammals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt1/tags/mammals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reptiles</title>
+      <link>https://www.zooberry.org/mods/zt1/tags/reptiles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt1/tags/reptiles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ungulates</title>
+      <link>https://www.zooberry.org/mods/zt1/tags/ungulates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt1/tags/ungulates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ZT1</title>
+      <link>https://www.zooberry.org/mods/zt1/tags/zt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt1/tags/zt1/</guid>
       <description></description>
     </item>
     <item>
@@ -37,13 +107,6 @@
       <description></description>
     </item>
     <item>
-      <title>ZT1</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/zt1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/zt1/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Dinosaurs</title>
       <link>https://www.zooberry.org/mods/zt1/tags/dinosaurs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -55,20 +118,6 @@
       <link>https://www.zooberry.org/mods/zt1/tags/aquatic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt1/tags/aquatic/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Living</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/living/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/living/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reptiles</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/reptiles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/reptiles/</guid>
       <description></description>
     </item>
     <item>
@@ -142,13 +191,6 @@
       <description></description>
     </item>
     <item>
-      <title>Mammals</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/mammals/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/mammals/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>North African</title>
       <link>https://www.zooberry.org/mods/zt1/tags/north-african/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -160,13 +202,6 @@
       <link>https://www.zooberry.org/mods/zt1/tags/primates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt1/tags/primates/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ungulates</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/ungulates/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/ungulates/</guid>
       <description></description>
     </item>
     <item>

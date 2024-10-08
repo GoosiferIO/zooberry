@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crocodiles on ZooBerry</title>
+    <link>https://www.zooberry.org/mods/zt1/tags/crocodiles/</link>
+    <description>Recent content in Crocodiles on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Oct 2024 09:34:23 -0700</lastBuildDate>
+    <atom:link href="https://www.zooberry.org/mods/zt1/tags/crocodiles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abanda Cave Crocodile</title>
+      <link>https://www.zooberry.org/mods/zt1/animals/abanda-cave-crocodile/</link>
+      <pubDate>Mon, 07 Oct 2024 09:34:23 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt1/animals/abanda-cave-crocodile/</guid>
+      <description>These dwarf crocodiles, native to the Abanda Caves in Gabon, Africa, have adapted to life in dark caves, feeding on cave-dwelling fish and bats.</description>
+    </item>
+  </channel>
+</rss>

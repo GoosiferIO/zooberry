@@ -2,14 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.zooberry.org/mods/zt1/animals/abaco-barb/</loc>
+    <lastmod>2024-10-07T09:34:23-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt1/animals/abanda-cave-crocodile/</loc>
+    <lastmod>2024-10-07T09:34:23-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt1/animals/abbots-duiker/</loc>
+    <lastmod>2024-10-07T09:34:23-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt1/animals/abdims-stork/</loc>
+    <lastmod>2024-10-07T09:34:23-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt1/animals/aberdeen-angus/</loc>
+    <lastmod>2024-10-07T09:34:23-07:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/all/</loc>
-    <lastmod>2024-10-07T01:09:23+00:00</lastmod>
+    <lastmod>2024-10-07T09:34:23-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt1/tags/all/</loc>
-    <lastmod>2024-10-07T01:09:23+00:00</lastmod>
+    <lastmod>2024-10-07T09:34:23-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt1/tags/animals/</loc>
-    <lastmod>2024-10-07T01:09:23+00:00</lastmod>
+    <lastmod>2024-10-07T09:34:23-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt1/animals/</loc>
+    <lastmod>2024-10-07T09:34:23-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt1/tags/birds/</loc>
+    <lastmod>2024-10-07T09:34:23-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt1/tags/cattle/</loc>
+    <lastmod>2024-10-07T09:34:23-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt1/tags/crocodiles/</loc>
+    <lastmod>2024-10-07T09:34:23-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt1/tags/extinct/</loc>
+    <lastmod>2024-10-07T09:34:23-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/authors/hawkkeye666/</loc>
+    <lastmod>2024-10-07T09:34:23-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt1/tags/horses/</loc>
+    <lastmod>2024-10-07T09:34:23-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt1/tags/living/</loc>
+    <lastmod>2024-10-07T09:34:23-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt1/tags/mammals/</loc>
+    <lastmod>2024-10-07T09:34:23-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt1/tags/reptiles/</loc>
+    <lastmod>2024-10-07T09:34:23-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt1/tags/ungulates/</loc>
+    <lastmod>2024-10-07T09:34:23-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt1/</loc>
+    <lastmod>2024-10-07T09:34:23-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt1/tags/zt1/</loc>
+    <lastmod>2024-10-07T09:34:23-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/zt2/</loc>
+    <lastmod>2024-10-07T09:34:23-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/blue-fang/</loc>
     <lastmod>2024-10-07T01:09:23+00:00</lastmod>
@@ -32,15 +89,6 @@
     <loc>https://www.zooberry.org/authors/serpyderpy/</loc>
     <lastmod>2024-10-07T01:09:23+00:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt1/</loc>
-    <lastmod>2024-10-07T01:09:23+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt1/tags/zt1/</loc>
-    <lastmod>2024-10-07T01:09:23+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/zt2/</loc>
-    <lastmod>2024-10-07T01:09:23+00:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/mods/zt1/tags/dinosaurs/</loc>
     <lastmod>2024-10-06T01:09:23+00:00</lastmod>
   </url><url>
@@ -56,9 +104,6 @@
     <loc>https://www.zooberry.org/blog/welcome-to-zb-2.0/</loc>
     <lastmod>2024-10-06T00:05:23+00:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt1/animals/</loc>
-    <lastmod>2024-10-06T01:34:23+07:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/mods/zt1/tags/aquatic/</loc>
     <lastmod>2024-10-06T01:34:23+07:00</lastmod>
   </url><url>
@@ -66,12 +111,6 @@
     <lastmod>2024-10-06T01:34:23+07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt1/animals/leatherback-turtle/</loc>
-    <lastmod>2024-10-06T01:34:23+07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt1/tags/living/</loc>
-    <lastmod>2024-10-06T01:34:23+07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt1/tags/reptiles/</loc>
     <lastmod>2024-10-06T01:34:23+07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/animals/</loc>
@@ -860,9 +899,6 @@
     <loc>https://www.zooberry.org/mods/zt1/animals/hamadryas/</loc>
     <lastmod>2024-05-18T09:34:23-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt1/tags/mammals/</loc>
-    <lastmod>2024-05-18T09:34:23-07:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/mods/zt1/tags/north-african/</loc>
     <lastmod>2024-05-18T09:34:23-07:00</lastmod>
   </url><url>
@@ -870,9 +906,6 @@
     <lastmod>2024-05-18T09:34:23-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt1/animals/saola/</loc>
-    <lastmod>2024-05-18T09:34:23-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt1/tags/ungulates/</loc>
     <lastmod>2024-05-18T09:34:23-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/roosevelt-elk/</loc>
