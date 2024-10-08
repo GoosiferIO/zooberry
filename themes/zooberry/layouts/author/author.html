@@ -185,7 +185,7 @@
                 <span class="sidebar_r-title">Published On</span>
                 <div class="side-ul filter-tags">
                     {{ range $websitesPublishedOn }}
-                        <a class="badge-default" href="{{ . }}">{{ . }}</a>
+                        <a class="badge-default" href="/archives/{{ . | urlize }}">{{ . }}</a>
                     {{ end }}
                 </div>
                 {{ if not (eq (len $collaborators) 0) }}
