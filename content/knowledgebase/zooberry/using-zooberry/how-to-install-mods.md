@@ -56,6 +56,62 @@ If your mod requires a lang file, simply download the referenced version of the 
 
 > Note: Not all ZT1 mods make use of lang files. 
 
+# Zoo Tycoon 2
+
+## Method 1
+
+Method 1 is the easiest way to install mods and amounts to a simple drag and drop. If your .zip bundle contains folders and something with a .dl extension, simply discard everything and keep the .z2f file. Place your extracted `.z2f` files in here:
+
+`C:/Program Files (x86)/Microsoft Games/Zoo Tycoon 2`
+
+## Method 2
+
+Many legacy mods from ZooMania and the Zoo Tycoon 2 Design Centre contain `.dl` files alongside the main mod files. These files were usually included because they credited the mod author and allowed for the mod to appear as a 'download' within Zoo Tycoon 2. This section is a bit more involved, but is still worth understanding if you wish to have the original mods set up the way they were originally meant to be seen. It is also a great method because it allows to organize your mods a bit more within subdirectories. See ahead for details.
+
+Please note that this does require displaying hidden files on Windows, so if this is a non-negotiable option to you, feel free to stick to the above install method.
+
+### Step 1
+
+Folders are hidden on Windows by default. We need to make them visible to see the install directory.
+
+**To display hidden files and folders on Windows XP, Windows 7**
+
+- Open Folder Options in Control Panel.
+- Click Start, and then click Control Panel.
+- Click Appearance and Themes, and then click Folder Options.
+- On the View tab, under Hidden files and folders, click Show hidden files and folders.
+
+**To display hidden files and folders on modern Windows systems**
+
+- Open a File Explorer window
+- In the submenu up top, click on `View` > `Show` > `Hidden Items`
+
+### Step 2
+
+Drop your `.dl` files inside of the following directory:
+
+`C:\Documents and Settings\All Users\Application Data\Microsoft Games\Zoo Tycoon 2\downloads\zootycoon_com_zt2_1033`
+
+This directory should already be populated if you have official DLC installed.
+
+### Step 3
+
+Drop your `.z2f` files into any one of the folders denoted by a four-digit number.
+
+## Installing Zoos and Maps
+
+Zoos and maps are essentially save files and will go into the save folder. Open up a File Explorer on Windows and enter the following line into the address bar:
+
+`%appdata%`
+
+This will convert into a proper file-system address that will have several folders named after applications installed on your computer. From here, go to the following path:
+
+`Microsoft Games > Zoo Tycoon 2 > Default Profile > Saved`
+
+This is where you will drop your `.z2f` save file.
+
 # Questions?
 
-ZooBerry doesn't have a discussion community of its own. Please visit the [links](/knowledgebase/zooberry/other-websites) page for other Zoo Tycoon websites that can help with installation problems or shoot me an email if you would like to report a bug.
+ZooBerry doesn't have a discussion community of its own. Join our [Discord](https://discord.gg/ATqFYVsjkc).
+
+You can also visit the [Other Websites](/knowledgebase/zooberry/community/other-websites) page for other Zoo Tycoon websites that can help with installation problems or shoot me an email if you would like to report a bug.
