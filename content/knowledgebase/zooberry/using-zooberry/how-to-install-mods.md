@@ -98,18 +98,6 @@ This directory should already be populated if you have official DLC installed.
 
 Drop your `.z2f` files into any one of the folders denoted by a four-digit number.
 
-## Installing Zoos and Maps
-
-Zoos and maps are essentially save files and will go into the save folder. Open up a File Explorer on Windows and enter the following line into the address bar:
-
-`%appdata%`
-
-This will convert into a proper file-system address that will have several folders named after applications installed on your computer. From here, go to the following path:
-
-`Microsoft Games > Zoo Tycoon 2 > Default Profile > Saved`
-
-This is where you will drop your `.z2f` save file.
-
 # Questions?
 
 ZooBerry doesn't have a discussion community of its own. Join our [Discord](https://discord.gg/ATqFYVsjkc).
