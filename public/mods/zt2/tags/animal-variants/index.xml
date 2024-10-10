@@ -6,7 +6,7 @@
     <description>Recent content in Animal Variants on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jun 2024 15:02:20 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 00:12:58 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/animal-variants/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Animal Variants</title>
@@ -14,6 +14,34 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/</guid>
       <description>Variant skins usually keep the original base skins but add new ones that can spawn in for additional variety.</description>
+    </item>
+    <item>
+      <title>Black Lion Variant</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/black-lion-variant/</link>
+      <pubDate>Thu, 10 Oct 2024 00:12:58 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/black-lion-variant/</guid>
+      <description>A black variant of the Lion. Contains a variant for both male and female lions.</description>
+    </item>
+    <item>
+      <title>Camo Manta Ray</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/camo-manta-ray/</link>
+      <pubDate>Thu, 10 Oct 2024 00:12:58 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/camo-manta-ray/</guid>
+      <description>Adorn your manta rays with a camouflage pattern. Made by dood10125.</description>
+    </item>
+    <item>
+      <title>Colorful Manta Ray</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/colorful-manta-ray/</link>
+      <pubDate>Thu, 10 Oct 2024 00:12:58 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/colorful-manta-ray/</guid>
+      <description>A bright blue coat for your manta rays. Made by dood10125.</description>
+    </item>
+    <item>
+      <title>Striped Deinonychus Variant</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/deino-stripes-variant/</link>
+      <pubDate>Thu, 10 Oct 2024 00:12:58 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/deino-stripes-variant/</guid>
+      <description>A striped variant of the Deinonychus. Made by Galleytrotter.</description>
     </item>
     <item>
       <title>Reindeer Variants</title>

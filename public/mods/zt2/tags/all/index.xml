@@ -6,8 +6,78 @@
     <description>Recent content in All on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Oct 2024 09:34:23 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 00:12:58 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animal Variants</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/</guid>
+      <description>Variant skins usually keep the original base skins but add new ones that can spawn in for additional variety.</description>
+    </item>
+    <item>
+      <title>Animals</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/</guid>
+      <description>Adopt new animals to share with your guests at home!</description>
+    </item>
+    <item>
+      <title>Black Lion Variant</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/black-lion-variant/</link>
+      <pubDate>Thu, 10 Oct 2024 00:12:58 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/black-lion-variant/</guid>
+      <description>A black variant of the Lion. Contains a variant for both male and female lions.</description>
+    </item>
+    <item>
+      <title>Camo Manta Ray</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/camo-manta-ray/</link>
+      <pubDate>Thu, 10 Oct 2024 00:12:58 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/camo-manta-ray/</guid>
+      <description>Adorn your manta rays with a camouflage pattern. Made by dood10125.</description>
+    </item>
+    <item>
+      <title>Colorful Manta Ray</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/colorful-manta-ray/</link>
+      <pubDate>Thu, 10 Oct 2024 00:12:58 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/colorful-manta-ray/</guid>
+      <description>A bright blue coat for your manta rays. Made by dood10125.</description>
+    </item>
+    <item>
+      <title>Extinct</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/extinct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/</guid>
+      <description>Prehistoric, ice age, recently-extinct all go here.</description>
+    </item>
+    <item>
+      <title>Ichthyosaurus</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/extinct/ichthyosaurus/</link>
+      <pubDate>Thu, 10 Oct 2024 00:12:58 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/ichthyosaurus/</guid>
+      <description>The ICHTHYOSAURUS is a marine lizard from Early Jurassic era. It almost resembles a dolphin but the tail is vertical and it has a big sclerotic ring around its eyes.</description>
+    </item>
+    <item>
+      <title>Striped Deinonychus Variant</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/deino-stripes-variant/</link>
+      <pubDate>Thu, 10 Oct 2024 00:12:58 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/deino-stripes-variant/</guid>
+      <description>A striped variant of the Deinonychus. Made by Galleytrotter.</description>
+    </item>
+    <item>
+      <title>Texture Mods</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/</guid>
+      <description>Mods that simply modify in-game textures in any capacity.</description>
+    </item>
+    <item>
+      <title>Zoo Tycoon 2</title>
+      <link>https://www.zooberry.org/mods/zt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/</guid>
+      <description>Mods for the Zoo Tycoon sequel released in 2004.</description>
+    </item>
     <item>
       <title>Abyssinian Ground Hornbill</title>
       <link>https://www.zooberry.org/mods/zt1/animals/abyssinian-ground-hornbill/</link>
@@ -135,13 +205,6 @@
       <description>These mods feel like unofficial expansion packs and mini DLC with mods from mixed categories.</description>
     </item>
     <item>
-      <title>Zoo Tycoon 2</title>
-      <link>https://www.zooberry.org/mods/zt2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/</guid>
-      <description>Mods for the Zoo Tycoon sequel released in 2004.</description>
-    </item>
-    <item>
       <title>Packs</title>
       <link>https://www.zooberry.org/mods/zt1/packs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -261,13 +324,6 @@
       <description>Files or tools that extend game functionality, add features to the player&amp;rsquo;s benefit, or expand modding capabilities.</description>
     </item>
     <item>
-      <title>Animals</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/</guid>
-      <description>Adopt new animals to share with your guests at home!</description>
-    </item>
-    <item>
       <title>Living</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -322,13 +378,6 @@
       <pubDate>Tue, 25 Jun 2024 19:46:50 -0700</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/texture-mods/biome-reskins/grassland-reskin-pack/</guid>
       <description>Grassland Reskin Pack is a texture mod for Zoo Tycoon 2 created by Fauna.</description>
-    </item>
-    <item>
-      <title>Texture Mods</title>
-      <link>https://www.zooberry.org/mods/zt2/texture-mods/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/texture-mods/</guid>
-      <description>Mods that simply modify in-game textures in any capacity.</description>
     </item>
     <item>
       <title>Animal Reskins</title>
@@ -462,13 +511,6 @@
       <pubDate>Tue, 25 Jun 2024 09:02:03 -0700</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/ray-pack/</guid>
       <description>A collection of stingrays for your marine parks.</description>
-    </item>
-    <item>
-      <title>Animal Variants</title>
-      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/</guid>
-      <description>Variant skins usually keep the original base skins but add new ones that can spawn in for additional variety.</description>
     </item>
     <item>
       <title>Reindeer Variants</title>
@@ -665,13 +707,6 @@
       <pubDate>Sat, 22 Jun 2024 18:02:13 -0700</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/extinct/archaeopteryx/</guid>
       <description>This download adds the Archaeopteryx to your Zoo Tycoon 2 game.</description>
-    </item>
-    <item>
-      <title>Extinct</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/extinct/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/</guid>
-      <description>Prehistoric, ice age, recently-extinct all go here.</description>
     </item>
     <item>
       <title>Macaw Pack P2</title>
