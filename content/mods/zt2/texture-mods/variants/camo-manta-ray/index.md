@@ -1,5 +1,5 @@
 ---
-title: "Camo Manta Ray"
+title: "Camo Manta Ray Variant"
 author: 
 - dood10125
 game: Zoo Tycoon 2

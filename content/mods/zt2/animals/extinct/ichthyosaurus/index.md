@@ -17,5 +17,6 @@ alt_text:
 languages:
 - English
 summary: "The ICHTHYOSAURUS is a marine lizard from Early Jurassic era. It almost resembles a dolphin but the tail is vertical and it has a big sclerotic ring around its eyes."
+zt2tags: ["All", "Animals", "Extinct", "Aquatic"]
 ---
 The ICHTHYOSAURUS is a marine lizard from Early Jurassic era. It almost resembles a dolphin but the tail is vertical and it has a big sclerotic ring around its eyes.

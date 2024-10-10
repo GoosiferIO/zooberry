@@ -1,5 +1,5 @@
 ---
-title: "Colorful Manta Ray"
+title: "Colorful Manta Ray Variant"
 author: 
 - dood10125
 game: Zoo Tycoon 2
