@@ -4,6 +4,7 @@ author:
 - Galleytrotter
 game: Zoo Tycoon 2
 exp_req: 
+- EA
 file_size: 337 KB
 orig_rel_date: 2008-07-26
 date: 2024-10-10T00:12:58
