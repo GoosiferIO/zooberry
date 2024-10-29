@@ -191,7 +191,7 @@ No bonus items this time :c Stay tunned for new projects!
 # Changelog!! 
 
 ## Oct 27th, 2024
-- Fixes animations for Tyrannosaurus.
+- Fixes animations for all Tyrannoes.
 
 ## Oct 5th, 2024
 - Fixed bug where female Dromaeosaurus gets stuck and doesn't grow.
