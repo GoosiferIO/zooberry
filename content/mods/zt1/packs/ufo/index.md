@@ -24,7 +24,7 @@ mod_list:
     category: Combined Files
     description: "Stop here if you just want the whole mod, no need to go further! This is the combined file for the UFO pack. It includes all the animals in one file. For single files, see below."
     file_size: 41.4 MB
-    uploaded: 2024-10-06
+    uploaded: 2024-10-28
   - name: ZwAgentavisV3
     title: Argentavis
     category: Animals
@@ -34,7 +34,7 @@ mod_list:
     title: Albertosaurus
     category: Animals
     file_size: 2.44 MB
-    uploaded: 2024-10-05
+    uploaded: 2024-10-28
   - name: ZwBaptornisV4
     title: Baptornis
     category: Animals
@@ -49,7 +49,7 @@ mod_list:
     title: Daspletosaurus
     category: Animals
     file_size: 2.40 MB
-    uploaded: 2024-10-05
+    uploaded: 2024-10-28
   - name: ZwDaustroV4
     title: Pterodaustro
     category: Animals
@@ -69,12 +69,12 @@ mod_list:
     title: Gorgosaurus
     category: Animals
     file_size: 2.54 MB
-    uploaded: 2024-10-05
+    uploaded: 2024-10-28
   - name: ZwGuanlongV3
     title: Guanlong
     category: Animals
     file_size: 2.70 MB
-    uploaded: 2024-10-05
+    uploaded: 2024-10-28
   - name: ZwMegarapV1
     title: Megaraptor
     category: Animals
@@ -84,7 +84,7 @@ mod_list:
     title: Nanuqsaurus
     category: Animals
     file_size: 1.21 MB
-    uploaded: 2024-10-05
+    uploaded: 2024-10-28
   - name: ZwNyctoV9
     title: Nyctosaurus
     category: Animals
@@ -104,12 +104,12 @@ mod_list:
     title: Tarbosaurus
     category: Animals
     file_size: 2.76 MB
-    uploaded: 2024-10-05
+    uploaded: 2024-10-28
   - name: ZwThanosV2
     title: Thanatotheristes
     category: Animals
     file_size: 2.93 MB
-    uploaded: 2024-10-05
+    uploaded: 2024-10-28
   - name: ZwTitanisV4
     title: Titanis
     category: Animals
@@ -129,7 +129,7 @@ mod_list:
     title: Yutyrannus
     category: Animals
     file_size: 2.62 MB
-    uploaded: 2024-10-05
+    uploaded: 2024-10-28
 dependencies:
 - title: LANG-ZBorsato.dll
   url: /mods/zt1/tools-utilities/lang-zborsato/
@@ -189,6 +189,9 @@ However, it will work correctly even if you don't use these patches.
 No bonus items this time :c Stay tunned for new projects!
 
 # Changelog!! 
+
+## Oct 27th, 2024
+- Fixes animations for Tyrannosaurus.
 
 ## Oct 5th, 2024
 - Fixed bug where female Dromaeosaurus gets stuck and doesn't grow.
