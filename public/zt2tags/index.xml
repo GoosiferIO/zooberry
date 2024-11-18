@@ -6,13 +6,20 @@
     <description>Recent content in ZT2 Tags on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Oct 2024 01:09:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 11:25:55 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/zt2tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>All</title>
       <link>https://www.zooberry.org/mods/zt2/tags/all/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/tags/all/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Packs</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/packs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/packs/</guid>
       <description></description>
     </item>
     <item>
@@ -62,13 +69,6 @@
       <link>https://www.zooberry.org/mods/zt2/tags/living/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/tags/living/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Packs</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/packs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/packs/</guid>
       <description></description>
     </item>
     <item>
