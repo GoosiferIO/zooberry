@@ -6,83 +6,13 @@
     <description>Recent content in Tags on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Nov 2024 11:25:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 21:51:34 -0700</lastBuildDate>
     <atom:link href="https://www.zooberry.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>All</title>
-      <link>https://www.zooberry.org/tags/all/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/all/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ambients</title>
-      <link>https://www.zooberry.org/tags/ambients/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/ambients/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Animals</title>
       <link>https://www.zooberry.org/tags/animals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/tags/animals/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Birds</title>
-      <link>https://www.zooberry.org/tags/birds/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/birds/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Expansive Packs</title>
-      <link>https://www.zooberry.org/tags/expansive-packs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/expansive-packs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fences</title>
-      <link>https://www.zooberry.org/tags/fences/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/fences/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Foliage</title>
-      <link>https://www.zooberry.org/tags/foliage/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/foliage/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Packs</title>
-      <link>https://www.zooberry.org/tags/packs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/packs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reptiles</title>
-      <link>https://www.zooberry.org/tags/reptiles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/reptiles/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rocks</title>
-      <link>https://www.zooberry.org/tags/rocks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/rocks/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ZT2</title>
-      <link>https://www.zooberry.org/tags/zt2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/zt2/</guid>
       <description></description>
     </item>
     <item>
@@ -100,10 +30,24 @@
       <description></description>
     </item>
     <item>
+      <title>Foliage</title>
+      <link>https://www.zooberry.org/tags/foliage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/tags/foliage/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Land-Foliage</title>
       <link>https://www.zooberry.org/tags/land-foliage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/tags/land-foliage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rocks</title>
+      <link>https://www.zooberry.org/tags/rocks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/tags/rocks/</guid>
       <description></description>
     </item>
     <item>
@@ -118,6 +62,13 @@
       <link>https://www.zooberry.org/tags/trees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/tags/trees/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>All</title>
+      <link>https://www.zooberry.org/tags/all/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/tags/all/</guid>
       <description></description>
     </item>
     <item>
@@ -149,6 +100,13 @@
       <description></description>
     </item>
     <item>
+      <title>Fences</title>
+      <link>https://www.zooberry.org/tags/fences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/tags/fences/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Ground-Paths</title>
       <link>https://www.zooberry.org/tags/ground-paths/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -160,6 +118,13 @@
       <link>https://www.zooberry.org/tags/objects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/tags/objects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Packs</title>
+      <link>https://www.zooberry.org/tags/packs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/tags/packs/</guid>
       <description></description>
     </item>
     <item>
@@ -181,6 +146,13 @@
       <link>https://www.zooberry.org/tags/transportation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/tags/transportation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zt2</title>
+      <link>https://www.zooberry.org/tags/zt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/tags/zt2/</guid>
       <description></description>
     </item>
     <item>
