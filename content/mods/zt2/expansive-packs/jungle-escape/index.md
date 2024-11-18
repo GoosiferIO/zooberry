@@ -20,7 +20,7 @@ orig_rel_date: 2024-11-18
 summary: American alligators are usually found in freshwater swamps, marshes, rivers,
   lakes, and occasionally smaller bodies of water.
 title: Jungle Escape
-tags: ["All", "Animals", "Ambients", "Foliage", "Rocks", "Birds", "Reptiles", "Expansive Packs", "Packs", "ZT2", "Fences"]
+zt2tags: ["All", "Animals", "Ambients", "Foliage", "Rocks", "Birds", "Reptiles", "Expansive Packs", "Packs", "ZT2", "Fences"]
 ---
 # Content
 
