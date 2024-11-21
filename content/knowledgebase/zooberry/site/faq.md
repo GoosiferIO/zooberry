@@ -27,6 +27,8 @@ The current list of websites whose mods and tutorials we are committed to archiv
 - Hispa Designs
 - Dannybob's Forum
 - Stalker's Ranch
+- ZooTek Phoenix (Zoo Tycoon 2 Library)
+- Zoo Admin (Zoo Tycoon 2 Library)
 
 ## How did you get permission to host mods from these websites?
 
@@ -45,6 +47,8 @@ Below is a list of individuals and their relation to the websites whose mods we 
 | Z-Studio | AubreyKitsune | Team Member, Current Leader |
 | Bunyupy's Projects, Hispa Designs | Bunyupy | Owner, Founder, Team Member |
 | Dannybob's Forum, Stalker's Ranch | Dannybob | Owner, Founder |
+| ZooTek Phoenix | SavannahJan, Cricket | Owners |
+| Zoo Admin | Yellowrose | Owner |
 
 *Note: roles in parantheses are not in any particular order.*
 
