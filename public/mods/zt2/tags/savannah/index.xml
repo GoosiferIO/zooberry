@@ -6,14 +6,28 @@
     <description>Recent content in Savannah on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jul 2023 09:11:31 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 21 Nov 2023 02:12:58 -0800</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/savannah/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bat Eared Fox</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/bat-eared-fox/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/bat-eared-fox/</guid>
+      <description>These foxes live in the scrub, savannah and grasslands of Africa.</description>
+    </item>
     <item>
       <title>African Civet and Giant Eland</title>
       <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/african-civet-and-giant-eland/</link>
       <pubDate>Sat, 22 Jul 2023 09:11:31 -0700</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/african-civet-and-giant-eland/</guid>
       <description>A Civet from the tropics of Africa, Biome is Tropical Rainforest and Savannah. Giant Eland is one of the largest antelope in the world, lives in the Savannahs of East Africa.</description>
+    </item>
+    <item>
+      <title>Fringe Eared Oryx</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/fringe-eared-oryx/</link>
+      <pubDate>Fri, 21 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/fringe-eared-oryx/</guid>
+      <description>The Fringe-Eared Oryx is a scrub dwelling antelope. It is a subspecies of gemsbok native to southern Africa.</description>
     </item>
   </channel>
 </rss>

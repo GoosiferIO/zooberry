@@ -6,7 +6,7 @@
     <description>Recent content in ZT2 on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Nov 2024 11:25:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 11:25:55 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/zt2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Expansive Packs</title>
@@ -18,7 +18,7 @@
     <item>
       <title>Jungle Escape</title>
       <link>https://www.zooberry.org/mods/zt2/expansive-packs/jungle-escape/</link>
-      <pubDate>Mon, 18 Nov 2024 11:25:55 +0000</pubDate>
+      <pubDate>Sun, 24 Nov 2024 11:25:55 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/expansive-packs/jungle-escape/</guid>
       <description>Add an UXP containing several birds from different tropical regions. Objects fit perfectly with the default jungle theme.</description>
     </item>
@@ -28,6 +28,90 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/</guid>
       <description>Mods for the Zoo Tycoon sequel released in 2004.</description>
+    </item>
+    <item>
+      <title>African Crowned Crane</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/african-crowned-crane/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/african-crowned-crane/</guid>
+      <description>A crane with recolored skins and a nest, inspired by the Secretary Bird.</description>
+    </item>
+    <item>
+      <title>African Golden Cat</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/african-golden-cat/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/african-golden-cat/</guid>
+      <description>A medium-sized cat with polymorphic coat colors found in tropical rainforests.</description>
+    </item>
+    <item>
+      <title>Animals</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/</guid>
+      <description>Adopt new animals to share with your guests at home!</description>
+    </item>
+    <item>
+      <title>Blackbuck</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/black-buck/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/black-buck/</guid>
+      <description>An Indian antelope. Note: the blackbuck has no thirst need.</description>
+    </item>
+    <item>
+      <title>Coyote</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/coyote/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/coyote/</guid>
+      <description>A smaller relative of the wolf, the adaptable coyote thrives in all biomes.</description>
+    </item>
+    <item>
+      <title>European Unicorn</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/fictional/european-unicorn/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/european-unicorn/</guid>
+      <description>A medieval-style unicorn with biome-specific behavior and multiple skins.</description>
+    </item>
+    <item>
+      <title>Fenris Wolf</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/fictional/fenris-wolf/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/fenris-wolf/</guid>
+      <description>Fenrir’s descendants are larger than normal wolves and feature multiple skins.</description>
+    </item>
+    <item>
+      <title>Fictional</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/fictional/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/</guid>
+      <description>Animals that only exist in the depths our imaginations.</description>
+    </item>
+    <item>
+      <title>Fishing Cat</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/fishing-cat/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/fishing-cat/</guid>
+      <description>Fishing cats are solitary and found in a variety of watery habitats. Includes skins, icons, and sound files.</description>
+    </item>
+    <item>
+      <title>Klipspringer</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/klipspringer/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/klipspringer/</guid>
+      <description>An antelope that bounds from rock to rock.</description>
+    </item>
+    <item>
+      <title>Living</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/</guid>
+      <description>Animals that still roam the Earth today.</description>
+    </item>
+    <item>
+      <title>Norwegian Fjord Pony</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/norwegian-fjord-pony/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/norwegian-fjord-pony/</guid>
+      <description>A domesticated pony, one of the oldest horse breeds known to mankind.</description>
     </item>
     <item>
       <title>Expansive Packs</title>
@@ -63,13 +147,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/</guid>
       <description>Variant skins usually keep the original base skins but add new ones that can spawn in for additional variety.</description>
-    </item>
-    <item>
-      <title>Animals</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/</guid>
-      <description>Adopt new animals to share with your guests at home!</description>
     </item>
     <item>
       <title>Black Lion Variant</title>
@@ -336,13 +413,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/tools-utilities/</guid>
       <description>Files or tools that extend game functionality, add features to the player&amp;rsquo;s benefit, or expand modding capabilities.</description>
-    </item>
-    <item>
-      <title>Living</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/</guid>
-      <description>Animals that still roam the Earth today.</description>
     </item>
     <item>
       <title>Nilgiri Tahr</title>
@@ -1008,13 +1078,6 @@
       <pubDate>Fri, 22 Mar 2024 13:15:04 -0700</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/texture-mods/reskins/albertosaurus-reskin/</guid>
       <description>Reskin of the Albertosaurus from the ZT2: Operation Genesis user-made expansion pack.</description>
-    </item>
-    <item>
-      <title>Fictional</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/fictional/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/</guid>
-      <description>Animals that only exist in the depths our imaginations.</description>
     </item>
     <item>
       <title>Killer Penguin</title>
@@ -1878,13 +1941,6 @@
       <description>The Asian golden cat is a very mystical looking creature. Many Asian groups also have mystical stories and legends about this cat.</description>
     </item>
     <item>
-      <title>Box Turtle</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/box-turtle/</link>
-      <pubDate>Sat, 30 Dec 2023 17:10:39 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/box-turtle/</guid>
-      <description>The ornate box turtle is one of two turtle species on the Great Plains that are terrestrial.</description>
-    </item>
-    <item>
       <title>EA Biome Objects Hack</title>
       <link>https://www.zooberry.org/mods/zt2/hacks/ea-biome-objects-hack/</link>
       <pubDate>Sat, 30 Dec 2023 17:10:39 +0000</pubDate>
@@ -1904,6 +1960,13 @@
       <pubDate>Sat, 30 Dec 2023 17:10:39 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/lesser-flamingo/</guid>
       <description>The lesser flamingo is herbivorous, feeding solely on a blue-green algae growing within a very limited range of pH.</description>
+    </item>
+    <item>
+      <title>Ornate Box Turtle</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/box-turtle/</link>
+      <pubDate>Sat, 30 Dec 2023 17:10:39 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/box-turtle/</guid>
+      <description>The ornate box turtle is one of two turtle species on the Great Plains that are terrestrial.</description>
     </item>
     <item>
       <title>Penguin Fountain</title>

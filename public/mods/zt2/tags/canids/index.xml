@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Canids on ZooBerry</title>
+    <link>https://www.zooberry.org/mods/zt2/tags/canids/</link>
+    <description>Recent content in Canids on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Nov 2023 02:12:58 -0800</lastBuildDate>
+    <atom:link href="https://www.zooberry.org/mods/zt2/tags/canids/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bat Eared Fox</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/bat-eared-fox/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/bat-eared-fox/</guid>
+      <description>These foxes live in the scrub, savannah and grasslands of Africa.</description>
+    </item>
+  </channel>
+</rss>

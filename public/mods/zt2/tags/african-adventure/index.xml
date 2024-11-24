@@ -6,14 +6,35 @@
     <description>Recent content in African Adventure on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jul 2023 08:16:07 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 01:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/african-adventure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>African Crowned Crane</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/african-crowned-crane/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/african-crowned-crane/</guid>
+      <description>A crane with recolored skins and a nest, inspired by the Secretary Bird.</description>
+    </item>
+    <item>
+      <title>Blackbuck</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/black-buck/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/black-buck/</guid>
+      <description>An Indian antelope. Note: the blackbuck has no thirst need.</description>
+    </item>
     <item>
       <title>AA Photo Stand</title>
       <link>https://www.zooberry.org/mods/zt2/objects/zootilities/aa-photo-stand/</link>
       <pubDate>Sat, 22 Jul 2023 08:16:07 -0700</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/aa-photo-stand/</guid>
       <description>This stand contains photos of each of the 20 animals featured in the African Adventures expansion pack.</description>
+    </item>
+    <item>
+      <title>Yellow Mongoose</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/yellow-mongoose/</link>
+      <pubDate>Fri, 21 Jul 2023 17:41:54 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/yellow-mongoose/</guid>
+      <description>An African mongoose. Its main biome is scrub. Will not dig under chain link fences!</description>
     </item>
   </channel>
 </rss>

@@ -464,13 +464,6 @@
       <description>This wonderful tree will be great in Scrub and Tropical Rainforest exhibits with animals from Asia, Africa or Central America..</description>
     </item>
     <item>
-      <title>Box Turtle</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/box-turtle/</link>
-      <pubDate>Sat, 30 Dec 2023 17:10:39 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/box-turtle/</guid>
-      <description>The ornate box turtle is one of two turtle species on the Great Plains that are terrestrial.</description>
-    </item>
-    <item>
       <title>Fire Pack</title>
       <link>https://www.zooberry.org/mods/zt2/expansive-packs/fire-pack/</link>
       <pubDate>Sat, 30 Dec 2023 17:10:39 +0000</pubDate>
@@ -490,6 +483,13 @@
       <pubDate>Sat, 30 Dec 2023 17:10:39 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/lesser-flamingo/</guid>
       <description>The lesser flamingo is herbivorous, feeding solely on a blue-green algae growing within a very limited range of pH.</description>
+    </item>
+    <item>
+      <title>Ornate Box Turtle</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/box-turtle/</link>
+      <pubDate>Sat, 30 Dec 2023 17:10:39 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/box-turtle/</guid>
+      <description>The ornate box turtle is one of two turtle species on the Great Plains that are terrestrial.</description>
     </item>
     <item>
       <title>Red Deer</title>

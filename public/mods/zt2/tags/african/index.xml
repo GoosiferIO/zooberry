@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>African on ZooBerry</title>
+    <link>https://www.zooberry.org/mods/zt2/tags/african/</link>
+    <description>Recent content in African on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Nov 2023 02:12:58 -0800</lastBuildDate>
+    <atom:link href="https://www.zooberry.org/mods/zt2/tags/african/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bat Eared Fox</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/bat-eared-fox/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/bat-eared-fox/</guid>
+      <description>These foxes live in the scrub, savannah and grasslands of Africa.</description>
+    </item>
+    <item>
+      <title>Fringe Eared Oryx</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/fringe-eared-oryx/</link>
+      <pubDate>Fri, 21 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/fringe-eared-oryx/</guid>
+      <description>The Fringe-Eared Oryx is a scrub dwelling antelope. It is a subspecies of gemsbok native to southern Africa.</description>
+    </item>
+    <item>
+      <title>Yellow Mongoose</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/yellow-mongoose/</link>
+      <pubDate>Fri, 21 Jul 2023 17:41:54 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/yellow-mongoose/</guid>
+      <description>An African mongoose. Its main biome is scrub. Will not dig under chain link fences!</description>
+    </item>
+  </channel>
+</rss>

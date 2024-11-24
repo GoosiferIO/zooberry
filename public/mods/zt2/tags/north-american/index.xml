@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>North American on ZooBerry</title>
+    <link>https://www.zooberry.org/mods/zt2/tags/north-american/</link>
+    <description>Recent content in North American on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Dec 2023 17:10:39 +0000</lastBuildDate>
+    <atom:link href="https://www.zooberry.org/mods/zt2/tags/north-american/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ornate Box Turtle</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/box-turtle/</link>
+      <pubDate>Sat, 30 Dec 2023 17:10:39 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/box-turtle/</guid>
+      <description>The ornate box turtle is one of two turtle species on the Great Plains that are terrestrial.</description>
+    </item>
+    <item>
+      <title>Long-Tailed Weasel</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/long-tailed-weasel/</link>
+      <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/long-tailed-weasel/</guid>
+      <description>This is a North American weasel for ZT2. It contains 2 variants (not shown) - white and brown with light facial markings.</description>
+    </item>
+  </channel>
+</rss>
