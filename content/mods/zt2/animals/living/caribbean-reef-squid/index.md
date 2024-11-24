@@ -20,6 +20,7 @@ orig_rel_date: 2009-08-06
 summary: The Caribbean reef squid is found throughout the Caribbean Sea as well as
   off the coast of Florida.
 title: Caribbean Reef Squid
+zt2tags: ["All", "ZT2", "Animals", "Living", "Marine Mania 2", "Invertebrates", "Cephalopods", "Aquatic"]
 ---
 The Caribbean reef squid is found throughout the Caribbean Sea as well as off the coast of Florida, commonly in small schools of 4-30 in the shallows associated with reefs. The habitat of the reef squid changes according to the squid's stage of life and size. The Caribbean reef squid is the only squid species commonly sighted by divers over inshore reefs in the Florida, Bahamas and Caribbean region.
 

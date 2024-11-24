@@ -19,6 +19,7 @@ alt_text:
 languages:
 - English
 summary: "Generally arboreal, or tree dwelling. Crocodile monitors inhabit rainforests and adjacent savannas."
+zt2tags: ["All", "ZT2", "Animals", "Living", "Reptiles", "Endangered Species"]
 ---
 Generally arboreal, or tree dwelling. Crocodile monitors inhabit rainforests and adjacent savannas. These reptiles are also called Papua monitors because they only live on the island of Papua New Guinea.
 

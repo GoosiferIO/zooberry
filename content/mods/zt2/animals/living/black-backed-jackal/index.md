@@ -20,6 +20,7 @@ orig_rel_date: 2005-12-03
 summary: These animals are omnivorous and will eat carrion, as well as plants such
   as grass, fruit, berries and seed.
 title: Black-Backed Jackal
+zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "Endangered Species", "Canids"]
 ---
 These animals are omnivorous and will eat carrion, as well as plants such as grass, fruit, berries and seed. They will also eat spiders, insects, rodents, reptiles, hares, birds and frogs- in fact just about anything that they can overpower. They are to be found in open grasslands and in lightly wooded areas, as long as they have burrows or some form of shelter available to them. Both the male and the female will establish a territory which the male will defend against other males and the female against other females.
 

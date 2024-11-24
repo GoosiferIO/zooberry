@@ -18,6 +18,7 @@ alt_text:
 languages:
 - English
 summary: "The North American black bear is the best known and most widespread of the North American bears."
+zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "North American", "Ursids"]
 ---
 The North American black bear is the best known and most widespread of the North American bears. It is of medium size among bears, averaging 135 to 350 pounds, although individuals over 600 pounds have been found. Adult black bears, standing slightly over three feet at the shoulders, have a predominately black coat which is smooth and short haired, compared to the brown bears.
 
