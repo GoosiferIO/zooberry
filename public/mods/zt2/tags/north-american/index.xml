@@ -6,14 +6,28 @@
     <description>Recent content in North American on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Dec 2023 17:10:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 01:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/north-american/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coyote</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/coyote/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/coyote/</guid>
+      <description>A smaller relative of the wolf, the adaptable coyote thrives in all biomes.</description>
+    </item>
     <item>
       <title>Ornate Box Turtle</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/box-turtle/</link>
       <pubDate>Sat, 30 Dec 2023 17:10:39 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/box-turtle/</guid>
       <description>The ornate box turtle is one of two turtle species on the Great Plains that are terrestrial.</description>
+    </item>
+    <item>
+      <title>Black Bear</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/black-bear/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/black-bear/</guid>
+      <description>The North American black bear is the best known and most widespread of the North American bears.</description>
     </item>
     <item>
       <title>Long-Tailed Weasel</title>

@@ -51,11 +51,25 @@
       <description>A pair  of lovebirds, the Yellow-collared Lovebird and the Black-winged Lovebird.</description>
     </item>
     <item>
+      <title>Cassowary</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/cassowary/</link>
+      <pubDate>Sat, 30 Dec 2023 00:33:45 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/cassowary/</guid>
+      <description>Cassowaries are very large flightless birds native to the tropical forests of New Guinea and northeastern Australia.</description>
+    </item>
+    <item>
       <title>Megafauna Pack</title>
       <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/megafauna-pack/</link>
       <pubDate>Mon, 24 Jul 2023 18:26:34 -0700</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/megafauna-pack/</guid>
       <description>A megafauna pack made by Zooasaurus.</description>
+    </item>
+    <item>
+      <title>Brown Pelican</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/brown-pelican/</link>
+      <pubDate>Tue, 18 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/brown-pelican/</guid>
+      <description>A large, colourful Pelican found in South and Central America. Has 2 varients, biome is Reef.</description>
     </item>
   </channel>
 </rss>
