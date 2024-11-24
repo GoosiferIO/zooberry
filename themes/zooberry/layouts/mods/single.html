@@ -59,7 +59,7 @@
             </td>
             <td>
               {{ range .Params.orig_rel_at }}
-                {{ . }}
+                <a href="/archives/{{ . }}" class="badge-default">{{ . }}</a>
               {{ end }}
             </td>
           </tr>
