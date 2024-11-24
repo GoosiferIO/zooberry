@@ -20,7 +20,7 @@ languages:
 - Dutch
 - English
 summary: "A freshwater fish from various types of waterways in Europe."
-zt2tags: ["All", "Animals", "Living", "Fishes", "Marine Mania 2", "Aquatic"] 
+zt2tags: ["All", "Animals", "Living", "Fish", "Marine Mania 2", "Aquatic"] 
 ---
 The common bream is a freshwater fish from various types of waterways in Europe. It generally lives in rivers, and in nutrient-rich lakes and ponds with muddy bottoms and plenty of algae. Although adopted and viewed by guests as a normal animal, many older fish mods such as this one are coded to also resemble ambients in some ways. In particular, this animal won't eat or reproduce by design.
 
