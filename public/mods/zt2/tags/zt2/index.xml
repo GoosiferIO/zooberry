@@ -6,8 +6,43 @@
     <description>Recent content in ZT2 on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2024 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 12:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/zt2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animals</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/</guid>
+      <description>Adopt new animals to share with your guests at home!</description>
+    </item>
+    <item>
+      <title>European Beaver</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/european-beaver/</link>
+      <pubDate>Mon, 25 Nov 2024 12:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/european-beaver/</guid>
+      <description>European Beaver (Eurasian Beaver), the first animal created by Panda11.</description>
+    </item>
+    <item>
+      <title>Fallow Deer</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/fallow-deer/</link>
+      <pubDate>Mon, 25 Nov 2024 12:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/fallow-deer/</guid>
+      <description>Here is the Fallow Deer. It is coded by Penguinman and beautifully recolored by Exitree. I hope you enjoy this European animal!</description>
+    </item>
+    <item>
+      <title>Living</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/</guid>
+      <description>Animals that still roam the Earth today.</description>
+    </item>
+    <item>
+      <title>Zoo Tycoon 2</title>
+      <link>https://www.zooberry.org/mods/zt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/</guid>
+      <description>Mods for the Zoo Tycoon sequel released in 2004.</description>
+    </item>
     <item>
       <title>Albino Animal Variant Pack</title>
       <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-animal-variant-pack/</link>
@@ -35,13 +70,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/</guid>
       <description>Variant skins usually keep the original base skins but add new ones that can spawn in for additional variety.</description>
-    </item>
-    <item>
-      <title>Animals</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/</guid>
-      <description>Adopt new animals to share with your guests at home!</description>
     </item>
     <item>
       <title>Black Wolf Variant</title>
@@ -93,13 +121,6 @@
       <description>The Lemon Shark features two variations, with the darker variation as the default skin. Requires MM2 to use.</description>
     </item>
     <item>
-      <title>Living</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/</guid>
-      <description>Animals that still roam the Earth today.</description>
-    </item>
-    <item>
       <title>Pale Wolf Variant</title>
       <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/pale-wolf-variant/</link>
       <pubDate>Mon, 25 Nov 2024 04:00:00 +0000</pubDate>
@@ -119,13 +140,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/texture-mods/</guid>
       <description>Mods that simply modify in-game textures in any capacity.</description>
-    </item>
-    <item>
-      <title>Zoo Tycoon 2</title>
-      <link>https://www.zooberry.org/mods/zt2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/</guid>
-      <description>Mods for the Zoo Tycoon sequel released in 2004.</description>
     </item>
     <item>
       <title>King Cheetah</title>
@@ -1917,7 +1931,7 @@
       <link>https://www.zooberry.org/mods/zt2/animals/living/eastern-cougar/</link>
       <pubDate>Mon, 08 Jan 2024 01:26:36 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/eastern-cougar/</guid>
-      <description>Cougars have been extirpated from much of their former range, especially in the east.</description>
+      <description>Here is the Eastern Cougar. This cat is colored by August and coded by Penguinman! Enjoy!</description>
     </item>
     <item>
       <title>Japanese Macaque Pack</title>
@@ -3849,7 +3863,7 @@
       <link>https://www.zooberry.org/mods/zt2/animals/fictional/fantasy-wolf/</link>
       <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/fictional/fantasy-wolf/</guid>
-      <description>Here&amp;rsquo;s a colorful wolf that eats almost anything.</description>
+      <description>These boreal forest wolves enjoy eating a variety of foods including bananas, berries, insects, fish, and meat.</description>
     </item>
     <item>
       <title>Giant Eland</title>

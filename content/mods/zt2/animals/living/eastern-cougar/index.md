@@ -16,14 +16,10 @@ languages:
 license: 'Yes'
 orig_rel_at:
 - Penguin's Peak
+- ZooAdmin
 orig_rel_date: 2006-03-06
-summary: Cougars have been extirpated from much of their former range, especially
-  in the east.
+summary: Here is the Eastern Cougar. This cat is colored by August and coded by Penguinman! Enjoy!
 title: Eastern Cougar
-zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "Felids", "North American"]
+zt2tags: ["All", "Living", "Mammals", "Felids", "North American", "ZT2", "Endangered Species"]
 ---
-The original distribution of the cougar made it the most widely distributed land mammal in the Western Hemisphere. Cougars have been extirpated from much of their former range, especially in the east. Florida has cougars in the Everglades and Big Cypress Swamp. With the exception of Florida, the cougar has been extirpated from east of the Mississippi River since 1900. Individuals are still occasionally seen as vagrants in eastern North America.
-
-Although the eastern cougar subspecies as described in 1946 is presumed extinct, this download has been classified as 'Living' on ZooBerry due to the previously mentioned vagrants in the context of modern taxonomy, which posits North American cougars as just one subspecies. It is treated as a living endangered animal in-game as well.
-
-Includes a gift for guests to purchase.
+Here is the Eastern Cougar. This cat is colored by August and coded by Penguinman! Enjoy!

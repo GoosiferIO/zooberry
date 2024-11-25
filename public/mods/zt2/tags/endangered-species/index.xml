@@ -6,8 +6,15 @@
     <description>Recent content in Endangered Species on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2024 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 12:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/endangered-species/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fallow Deer</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/fallow-deer/</link>
+      <pubDate>Mon, 25 Nov 2024 12:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/fallow-deer/</guid>
+      <description>Here is the Fallow Deer. It is coded by Penguinman and beautifully recolored by Exitree. I hope you enjoy this European animal!</description>
+    </item>
     <item>
       <title>Albino Tapir Variant</title>
       <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-tapir-variant/</link>
@@ -289,6 +296,20 @@
       <description>Also known as the South American red-footed tortoise, the males grow up to 13.5 inches (30.4 cm) and are somewhat larger than females.</description>
     </item>
     <item>
+      <title>Eurasian Badger</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/eurasian-badger/</link>
+      <pubDate>Tue, 09 Jan 2024 07:53:14 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/eurasian-badger/</guid>
+      <description>Eurasian badgers are easily recognisable by the conspicuous black and white stripes running from the nose to the shoulders.</description>
+    </item>
+    <item>
+      <title>Eastern Cougar</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/eastern-cougar/</link>
+      <pubDate>Mon, 08 Jan 2024 01:26:36 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/eastern-cougar/</guid>
+      <description>Here is the Eastern Cougar. This cat is colored by August and coded by Penguinman! Enjoy!</description>
+    </item>
+    <item>
       <title>Japanese Serow</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/japanese-serow/</link>
       <pubDate>Mon, 08 Jan 2024 01:26:36 +0000</pubDate>
@@ -413,6 +434,13 @@
       <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/dhole/</guid>
       <description>Resized bigger than the wolf</description>
+    </item>
+    <item>
+      <title>Fantasy Wolf</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/fictional/fantasy-wolf/</link>
+      <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/fantasy-wolf/</guid>
+      <description>These boreal forest wolves enjoy eating a variety of foods including bananas, berries, insects, fish, and meat.</description>
     </item>
     <item>
       <title>Giant Eland</title>

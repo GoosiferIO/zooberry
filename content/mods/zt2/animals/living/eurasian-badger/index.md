@@ -16,15 +16,14 @@ languages:
 license: 'Yes'
 orig_rel_at:
 - Penguin's Peak
+- ZooAdmin
 orig_rel_date: 2005-11-27
 summary: Eurasian badgers are easily recognisable by the conspicuous black and white
   stripes running from the nose to the shoulders.
 title: Eurasian Badger
-zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "Mustelids", "European"]
+zt2tags: ["All", "Living", "Mammals", "Mustelids", "European", "Eurasian", "ZT2", "Endangered Species"]
 ---
-Eurasian badgers are easily recognisable by the conspicuous black and white stripes running from the nose to the shoulders. They are stocky animals with short black legs and silvery grey backs. Badgers range from Europe to Japan and south China. In Britain, badgers are most abundant in south west England, Wales and small areas of north east England. They generally prefer forest and grassland. Badgers feed on earthworms, frogs, rodents, birds, eggs, lizards, insects, bulbs, seeds and berries.
+A cute little temperate forest animal that lives in Eurasia. It is coded by Penguinman and recolored by Exitree. It contains one variant skin and must have ES to run. Thanks! Variant skins updated 12-4-05. Baby skin updated 12-11-05. Alphabetized on 12-21-05.
 
-Like many other downloads of its time, this was a collaboration that Penguinman created with another user. It includes a gift for guests to purchase.
-
-**This download has one known issue:**
+## Known Issues
 - It has no map location in-game. This animal is otherwise functional from a gameplay perspective and can fulfill its needs, breed, and give birth.
