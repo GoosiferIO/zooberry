@@ -9,6 +9,13 @@
     <lastBuildDate>Mon, 25 Nov 2024 04:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/zt2/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Albino Animal Variant Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-animal-variant-pack/</link>
+      <pubDate>Mon, 25 Nov 2024 04:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-animal-variant-pack/</guid>
+      <description>Three great albino animal variants for your zoo.</description>
+    </item>
+    <item>
       <title>Albino Manta Ray</title>
       <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-manta-ray/</link>
       <pubDate>Mon, 25 Nov 2024 04:00:00 +0000</pubDate>
@@ -30,6 +37,13 @@
       <description>Variant skins usually keep the original base skins but add new ones that can spawn in for additional variety.</description>
     </item>
     <item>
+      <title>Animals</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/</guid>
+      <description>Adopt new animals to share with your guests at home!</description>
+    </item>
+    <item>
       <title>Black Wolf Variant</title>
       <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/black-wolf-variant/</link>
       <pubDate>Mon, 25 Nov 2024 04:00:00 +0000</pubDate>
@@ -44,6 +58,27 @@
       <description>A dark wolf variant for the Endangered Species expansion Gray Wolf.</description>
     </item>
     <item>
+      <title>Eurasian Wolf</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/eurasian-wolf/</link>
+      <pubDate>Mon, 25 Nov 2024 04:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/eurasian-wolf/</guid>
+      <description>The Eurasian Wolf features two variants, with the lighter one as the default.</description>
+    </item>
+    <item>
+      <title>Extinct</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/extinct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/</guid>
+      <description>Prehistoric, ice age, recently-extinct all go here.</description>
+    </item>
+    <item>
+      <title>Fenris Wolf</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/extinct/fenris-wolf/</link>
+      <pubDate>Mon, 25 Nov 2024 04:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/fenris-wolf/</guid>
+      <description>This dark, mythical wolf will frighten and amaze your guests, perfect for Halloween zoos.</description>
+    </item>
+    <item>
       <title>Golden Tabby Variant</title>
       <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/golden-tabby-variant/</link>
       <pubDate>Mon, 25 Nov 2024 04:00:00 +0000</pubDate>
@@ -51,11 +86,32 @@
       <description>A golden tabby variant for the base game Bengal Tiger.</description>
     </item>
     <item>
+      <title>Lemon Shark</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/lemon-shark/</link>
+      <pubDate>Mon, 25 Nov 2024 04:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/lemon-shark/</guid>
+      <description>The Lemon Shark features two variations, with the darker variation as the default skin. Requires MM2 to use.</description>
+    </item>
+    <item>
+      <title>Living</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/</guid>
+      <description>Animals that still roam the Earth today.</description>
+    </item>
+    <item>
       <title>Pale Wolf Variant</title>
       <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/pale-wolf-variant/</link>
       <pubDate>Mon, 25 Nov 2024 04:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/pale-wolf-variant/</guid>
       <description>A pale wolf variant for the Endangered Species expansion Gray Wolf.</description>
+    </item>
+    <item>
+      <title>Spotted Hyena II</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/spotted-hyena-ii/</link>
+      <pubDate>Mon, 25 Nov 2024 04:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/spotted-hyena-ii/</guid>
+      <description>The Spotted Hyena requires the Endangered Species and African Adventure expansions to use.</description>
     </item>
     <item>
       <title>Texture Mods</title>
@@ -70,13 +126,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/</guid>
       <description>Mods for the Zoo Tycoon sequel released in 2004.</description>
-    </item>
-    <item>
-      <title>Animals</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/</guid>
-      <description>Adopt new animals to share with your guests at home!</description>
     </item>
     <item>
       <title>Fictional</title>
@@ -105,20 +154,6 @@
       <pubDate>Sun, 24 Nov 2024 03:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/king-penguin/</guid>
       <description>A large penguin species with fixed alphabetical issues and fame stars in the mod.</description>
-    </item>
-    <item>
-      <title>Living</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/</guid>
-      <description>Animals that still roam the Earth today.</description>
-    </item>
-    <item>
-      <title>Extinct</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/extinct/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/</guid>
-      <description>Prehistoric, ice age, recently-extinct all go here.</description>
     </item>
     <item>
       <title>Kodiak Bear</title>
@@ -175,13 +210,6 @@
       <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/african-golden-cat/</guid>
       <description>A medium-sized cat with polymorphic coat colors found in tropical rainforests.</description>
-    </item>
-    <item>
-      <title>Albino Animal Variant Pack</title>
-      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-animal-variant-pack/</link>
-      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-animal-variant-pack/</guid>
-      <description>Three great albino animal variants for your zoo.</description>
     </item>
     <item>
       <title>Ambient Peafowl</title>
@@ -254,25 +282,11 @@
       <description>A scavenging bird that flies over your zoo, famous for using stones to break eggs.</description>
     </item>
     <item>
-      <title>Eurasian Wolf</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/eurasian-wolf/</link>
-      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/eurasian-wolf/</guid>
-      <description>The Eurasian Wolf features two variants, with the lighter one as the default.</description>
-    </item>
-    <item>
       <title>European Unicorn</title>
       <link>https://www.zooberry.org/mods/zt2/animals/fictional/european-unicorn/</link>
       <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/fictional/european-unicorn/</guid>
       <description>A medieval-style unicorn with biome-specific behavior and multiple skins.</description>
-    </item>
-    <item>
-      <title>Fenris Wolf</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/extinct/fenris-wolf/</link>
-      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/fenris-wolf/</guid>
-      <description>This dark, mythical wolf will frighten and amaze your guests, perfect for Halloween zoos.</description>
     </item>
     <item>
       <title>Fenris Wolf</title>
@@ -331,13 +345,6 @@
       <description>An antelope that bounds from rock to rock.</description>
     </item>
     <item>
-      <title>Lemon Shark</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/lemon-shark/</link>
-      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/lemon-shark/</guid>
-      <description>The Lemon Shark features two variations, with the darker variation as the default skin. Requires MM2 to use.</description>
-    </item>
-    <item>
       <title>Malachite Butterfly</title>
       <link>https://www.zooberry.org/mods/zt2/animals/ambients/malachite-butterfly/</link>
       <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
@@ -378,13 +385,6 @@
       <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/ambients/rice-paper-butterfly/</guid>
       <description>A butterfly that appears randomly in your zoo, often seen in forests and grasslands.</description>
-    </item>
-    <item>
-      <title>Spotted Hyena II</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/spotted-hyena-ii/</link>
-      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/spotted-hyena-ii/</guid>
-      <description>The Spotted Hyena requires the Endangered Species and African Adventure expansions to use.</description>
     </item>
     <item>
       <title>Sun Conure</title>
