@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-manta-ray/</loc>
+    <lastmod>2024-11-25T04:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-tapir-variant/</loc>
+    <lastmod>2024-11-25T04:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/all/</loc>
     <lastmod>2024-11-25T04:00:00+00:00</lastmod>
   </url><url>
@@ -11,13 +17,31 @@
     <loc>https://www.zooberry.org/mods/zt2/texture-mods/variants/</loc>
     <lastmod>2024-11-25T04:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/texture-mods/variants/black-wolf-variant/</loc>
+    <lastmod>2024-11-25T04:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/texture-mods/variants/dark-wolf-variant/</loc>
+    <lastmod>2024-11-25T04:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/endangered-species/</loc>
     <lastmod>2024-11-25T04:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/galleytrotter/</loc>
     <lastmod>2024-11-25T04:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/texture-mods/variants/golden-tabby-variant/</loc>
+    <lastmod>2024-11-25T04:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/authors/lady-alesandra/</loc>
+    <lastmod>2024-11-25T04:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/marine-mania-2/</loc>
+    <lastmod>2024-11-25T04:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/texture-mods/variants/pale-wolf-variant/</loc>
+    <lastmod>2024-11-25T04:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/authors/pink-zebra/</loc>
     <lastmod>2024-11-25T04:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/texture-mods/</loc>
@@ -27,6 +51,9 @@
     <lastmod>2024-11-25T04:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/</loc>
+    <lastmod>2024-11-25T04:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/authors/zoo-tycoon-rocks/</loc>
     <lastmod>2024-11-25T04:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/zt2/</loc>
@@ -164,6 +191,9 @@
     <loc>https://www.zooberry.org/authors/aim/</loc>
     <lastmod>2024-11-24T01:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-animal-variant-pack/</loc>
+    <lastmod>2024-11-24T01:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/ambients/ambient-peafowl/</loc>
     <lastmod>2024-11-24T01:00:00+00:00</lastmod>
   </url><url>
@@ -272,9 +302,6 @@
     <loc>https://www.zooberry.org/mods/zt2/animals/ambients/malachite-butterfly/</loc>
     <lastmod>2024-11-24T01:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/marine-mania-2/</loc>
-    <lastmod>2024-11-24T01:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/authors/mikaboshi/</loc>
     <lastmod>2024-11-24T01:00:00+00:00</lastmod>
   </url><url>
@@ -285,6 +312,9 @@
     <lastmod>2024-11-24T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/norwegian-fjord-pony/</loc>
+    <lastmod>2024-11-24T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/packs/</loc>
     <lastmod>2024-11-24T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/ambients/peacock-butterfly/</loc>
@@ -339,9 +369,6 @@
     <lastmod>2024-11-18T11:25:55+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/maks/</loc>
-    <lastmod>2024-11-18T11:25:55+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/packs/</loc>
     <lastmod>2024-11-18T11:25:55+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/rocks/</loc>
