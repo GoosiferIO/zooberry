@@ -9,6 +9,20 @@
     <lastBuildDate>Sun, 24 Nov 2024 01:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/all/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Abisara Geza Niya Butterfly for MM</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/ambients/abisara-geza-niya-butterfly/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/abisara-geza-niya-butterfly/</guid>
+      <description>This is a Temperate Forest and Wetlands butterfly, named Abisara geza niya (it has no &amp;lsquo;common&amp;rsquo; name). She&amp;rsquo;s found mostly in the Far and Middle East (Singapore, Malaysia, Afghanistan). She&amp;rsquo;s brown with a lovely marked back.</description>
+    </item>
+    <item>
+      <title>African Butterfly</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/ambients/african-butterfly/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/african-butterfly/</guid>
+      <description>An ambient African Sangrias butterfly. She is the only blood-red butterfly in the world and lives in the Savannah, Desert and Grassland. Requires ES to work.</description>
+    </item>
+    <item>
       <title>African Crowned Crane</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/african-crowned-crane/</link>
       <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
@@ -21,6 +35,27 @@
       <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/african-golden-cat/</guid>
       <description>A medium-sized cat with polymorphic coat colors found in tropical rainforests.</description>
+    </item>
+    <item>
+      <title>Ambient Peafowl</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/ambients/ambient-peafowl/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/ambient-peafowl/</guid>
+      <description>An ambient peafowl that randomly appears in your zoo.</description>
+    </item>
+    <item>
+      <title>Ambient Sheep</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/ambients/ambient-sheep/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/ambient-sheep/</guid>
+      <description>An ambient sheep that randomly appears and moves through obstructions in your zoo.</description>
+    </item>
+    <item>
+      <title>Ambients</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/ambients/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/</guid>
+      <description>These are not adoptable but do appear in the environment at random intervals to add ambiance!</description>
     </item>
     <item>
       <title>Animals</title>
@@ -37,11 +72,46 @@
       <description>An Indian antelope. Note: the blackbuck has no thirst need.</description>
     </item>
     <item>
+      <title>Blue Jay</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/ambients/blue-jay/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/blue-jay/</guid>
+      <description>A blue jay that flies over your zoo, commonly found in boreal and temperate forests.</description>
+    </item>
+    <item>
+      <title>Cairns Birdwing Butterfly</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/ambients/cairns-birdwing-butterfly/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/cairns-birdwing-butterfly/</guid>
+      <description>Australia&amp;rsquo;s largest butterfly, commonly seen in rainforests and suburban areas.</description>
+    </item>
+    <item>
+      <title>Cardinal</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/ambients/cardinal/images/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/cardinal/images/</guid>
+      <description>A cardinal that flies over your zoo, commonly found in North America.</description>
+    </item>
+    <item>
       <title>Coyote</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/coyote/</link>
       <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/coyote/</guid>
       <description>A smaller relative of the wolf, the adaptable coyote thrives in all biomes.</description>
+    </item>
+    <item>
+      <title>Eclectus Parrot</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/ambients/eclectus-parrot/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/eclectus-parrot/</guid>
+      <description>A bird that flies over your zoo. Parrots are brightly colored birds, with males and females displaying distinct plumage.</description>
+    </item>
+    <item>
+      <title>Egyptian Vulture</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/ambients/egyptian-vulture/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/egyptian-vulture/</guid>
+      <description>A scavenging bird that flies over your zoo, famous for using stones to break eggs.</description>
     </item>
     <item>
       <title>European Unicorn</title>
@@ -86,11 +156,60 @@
       <description>Animals that still roam the Earth today.</description>
     </item>
     <item>
+      <title>Malachite Butterfly</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/ambients/malachite-butterfly/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/malachite-butterfly/</guid>
+      <description>A bright green butterfly with shiny copper trimmings, often seen flying over MM waters.</description>
+    </item>
+    <item>
+      <title>Mourning Cloak Butterfly</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/ambients/mourning-clock-butterfly/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/mourning-clock-butterfly/</guid>
+      <description>A butterfly that appears randomly in your zoo, found near rivers and wetlands.</description>
+    </item>
+    <item>
       <title>Norwegian Fjord Pony</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/norwegian-fjord-pony/</link>
       <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/norwegian-fjord-pony/</guid>
       <description>A domesticated pony, one of the oldest horse breeds known to mankind.</description>
+    </item>
+    <item>
+      <title>Peacock Butterfly</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/ambients/peacock-butterfly/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/peacock-butterfly/</guid>
+      <description>A butterfly that appears randomly in your zoo, commonly found in grasslands and forests.</description>
+    </item>
+    <item>
+      <title>Rainbow Lorikeet</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/ambients/rainbow-lorikeet/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/rainbow-lorikeet/</guid>
+      <description>A bird that flies over your zoo. Rainbow lorikeets are active, noisy, and gregarious birds.</description>
+    </item>
+    <item>
+      <title>Rice Paper Butterfly</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/ambients/rice-paper-butterfly/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/rice-paper-butterfly/</guid>
+      <description>A butterfly that appears randomly in your zoo, often seen in forests and grasslands.</description>
+    </item>
+    <item>
+      <title>Sun Conure</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/ambients/sun-conure/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/sun-conure/</guid>
+      <description>Golden-feathered birds with green wing tips, Sun Conures are playful and colorful.</description>
+    </item>
+    <item>
+      <title>Yellow Clouded Sulphur Butterfly</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/ambients/yellow-clouded-sulphur-butterfly/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/yellow-clouded-sulphur-butterfly/</guid>
+      <description>A butterfly that appears randomly in your zoo, found worldwide.</description>
     </item>
     <item>
       <title>Zoo Tycoon 2</title>
@@ -2282,13 +2401,6 @@
       <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/ambients/african-bullfrog/</guid>
       <description>A large species of frog from over a dozen African countries.</description>
-    </item>
-    <item>
-      <title>Ambients</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/ambients/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/</guid>
-      <description>These are not adoptable but do appear in the environment at random intervals to add ambiance!</description>
     </item>
     <item>
       <title>Bat Eared Fox</title>
