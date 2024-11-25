@@ -1,6 +1,6 @@
 ---
 author:
-- penguinman
+- Penguinman
 - Acapella
 date: '2024-11-24T01:00:00'
 draft: false

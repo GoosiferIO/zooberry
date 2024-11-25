@@ -58,6 +58,13 @@
       <description>Mods for the Zoo Tycoon sequel released in 2004.</description>
     </item>
     <item>
+      <title>Extinct</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/extinct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/</guid>
+      <description>Prehistoric, ice age, recently-extinct all go here.</description>
+    </item>
+    <item>
       <title>Kodiak Bear</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/kodiak-bear/</link>
       <pubDate>Sun, 24 Nov 2024 02:00:00 +0000</pubDate>
@@ -94,9 +101,9 @@
     </item>
     <item>
       <title>Woolly Rhinoceros</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/woolly-rhinoceros/</link>
+      <link>https://www.zooberry.org/mods/zt2/animals/extinct/woolly-rhinoceros/</link>
       <pubDate>Sun, 24 Nov 2024 02:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/woolly-rhinoceros/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/woolly-rhinoceros/</guid>
       <description>A large extinct mammal from Eurasia, primarily compatible with Snow and Boreal Forest biomes.</description>
     </item>
     <item>
@@ -385,13 +392,6 @@
       <pubDate>Thu, 10 Oct 2024 00:12:58 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/colorful-manta-ray/</guid>
       <description>A bright blue coat for your manta rays. Made by dood10125.</description>
-    </item>
-    <item>
-      <title>Extinct</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/extinct/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/</guid>
-      <description>Prehistoric, ice age, recently-extinct all go here.</description>
     </item>
     <item>
       <title>Ichthyosaurus</title>
