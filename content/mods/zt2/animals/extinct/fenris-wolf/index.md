@@ -20,3 +20,27 @@ title: Fenris Wolf
 zt2tags: ["All", "Fictional", "Mammals", "Canids", "Animals", "ZT2", "Endangered Species"]
 ---
 This dark, mythical wolf will frighten and amaze your guests, perfect for Halloween zoos.
+
+
+Archived Zoo Tycoon Unleashed mods.
+
+Zoo Tycoon 2:
+
+## Animals
+
+### Living
+- [Eurasian Wolf](https://www.zooberry.org/mods/zt2/animals/living/eurasian-wolf/) by Stormy
+- [Spotted Hyena II](https://www.zooberry.org/mods/zt2/animals/living/spotted-hyena-ii/) by Stormy
+
+### Fictional
+- [Fenris Wolf](https://www.zooberry.org/mods/zt2/animals/fictional/fenris-wolf-ii/) by Lupin12
+
+## Variants
+
+- [Albino Manta Ray](https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-manta-ray/) by Zoo Tycoon Rocks
+- [Dark Wolf Variant](https://www.zooberry.org/mods/zt2/texture-mods/variants/dark-wolf-variant/) by Galleytrotter
+- [Pale Wolf Variant](https://www.zooberry.org/mods/zt2/texture-mods/variants/pale-wolf-variant/) by Galleytrotter
+- [Black Wolf Variant](https://www.zooberry.org/mods/zt2/texture-mods/variants/black-wolf-variant/) by Galleytrotter
+- [Albino Tapir Variant](https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-tapir-variant/) by Pink Zebra
+- [Golden Tabby Variant](https://www.zooberry.org/mods/zt2/texture-mods/variants/golden-tabby-variant/) by Lady Alesandra
+- [Albino Animal Variant Pack](https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-animal-variant-pack/) by Lupin12
