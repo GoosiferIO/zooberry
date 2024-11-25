@@ -331,6 +331,34 @@
       <description></description>
     </item>
     <item>
+      <title>Africa</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/africa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/africa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Herpestids</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/herpestids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/herpestids/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AA</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/aa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/aa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Primates</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/primates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/primates/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>All Remakes</title>
       <link>https://www.zooberry.org/mods/zt2/tags/all-remakes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -352,6 +380,13 @@
       <description></description>
     </item>
     <item>
+      <title>Asia</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/asia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/asia/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Biomes</title>
       <link>https://www.zooberry.org/mods/zt2/tags/biomes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -363,6 +398,13 @@
       <link>https://www.zooberry.org/mods/zt2/tags/jellyfish/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/tags/jellyfish/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oceania</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/oceania/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/oceania/</guid>
       <description></description>
     </item>
     <item>
@@ -394,10 +436,10 @@
       <description></description>
     </item>
     <item>
-      <title>Primates</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/primates/</link>
+      <title>Sirenians</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/sirenians/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/primates/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/tags/sirenians/</guid>
       <description></description>
     </item>
     <item>
@@ -443,13 +485,6 @@
       <description></description>
     </item>
     <item>
-      <title>Rodents</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/rodents/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/rodents/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Savannah</title>
       <link>https://www.zooberry.org/mods/zt2/tags/savannah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -489,6 +524,13 @@
       <link>https://www.zooberry.org/mods/zt2/tags/equids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/tags/equids/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>North America</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/north-america/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/north-america/</guid>
       <description></description>
     </item>
   </channel>

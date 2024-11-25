@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Africa on ZooBerry</title>
+    <link>https://www.zooberry.org/mods/zt2/tags/africa/</link>
+    <description>Recent content in Africa on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Jun 2024 21:17:15 -0700</lastBuildDate>
+    <atom:link href="https://www.zooberry.org/mods/zt2/tags/africa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dwarf Mongoose</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/dwarf-mongoose/</link>
+      <pubDate>Sat, 22 Jun 2024 21:17:15 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/dwarf-mongoose/</guid>
+      <description>A small, social mongoose species native to Africa. Mod by DutchDesigns.</description>
+    </item>
+    <item>
+      <title>Diana Monkey</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/diana-monkey/</link>
+      <pubDate>Sat, 22 Jun 2024 21:12:37 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/diana-monkey/</guid>
+      <description>The Diana Monkey (Cercopithecus diana) is an Old World monkey found in West Africa.</description>
+    </item>
+    <item>
+      <title>Dik-Dik</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/dik-dik/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/dik-dik/</guid>
+      <description>The coat of Kirk&amp;rsquo;s dik-dik is an overall grizzled grey-brown to reddish brown, while the head and legs are tawny in colour.</description>
+    </item>
+  </channel>
+</rss>

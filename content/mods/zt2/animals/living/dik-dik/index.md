@@ -19,6 +19,7 @@ orig_rel_date: 2006-01-21
 summary: The coat of Kirk's dik-dik is an overall grizzled grey-brown to reddish brown,
   while the head and legs are tawny in colour.
 title: Dik-Dik
+zt2tags: ["All", "Animals", "ZT2", "Living", "Mammals", "Africa", "Ungulates"]
 ---
 The coat (of Kirk's dik-dik) is an overall grizzled grey-brown to reddish brown, while the head and legs are tawny in colour. The undersides, including the insides of the legs and bottom of the chin, are white. Around the large eye is a bright ring of white hair. One of the most humorous features of this small antelope is the elongated, prehensile nose. Only males bear the corrugated horns, which may grow up to 11.4 cm / 4.5 inches long. These may be slightly hidden by the erectile forelock.
 

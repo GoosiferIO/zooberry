@@ -17,7 +17,7 @@ license: 'Yes'
 alt_text: 
 languages: 
 summary: "A large species of frog from over a dozen African countries."
-zt2tags: ["All", "Ambients", "Animals", "Amphibians"]
+zt2tags: ["All", "Ambients", "Animals", "ZT2"]
 ---
 Note: this is an ambient, not an adoptable animal. This means it will spawn in the environment at random intervals.
 

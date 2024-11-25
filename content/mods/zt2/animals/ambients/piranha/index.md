@@ -6,7 +6,7 @@ author:
 - Samemo
 game: Zoo Tycoon 2
 exp_req:
-- MM
+- MM2
 file_size: 85.4 KB
 file_date: 2007-07-28
 orig_rel_date: 2007-08-26
@@ -18,7 +18,7 @@ license: 'Yes'
 alt_text: 
 languages: 
 summary: "These piranhas will form interesting schools in your jungle tanks."
-zt2tags: ["All", "Ambients", "Animals", "Fish"]
+zt2tags: ["All", "Ambients", "Animals", "Fish", "Marine Mania 2"]
 ---
 Note: this is an ambient, not an adoptable animal. This means it will spawn in the environment at random intervals.
 

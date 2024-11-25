@@ -18,7 +18,7 @@ alt_text:
 languages:
 - English
 summary: "The Wahoo is a game fish, found in the open see, and is related to the Marlin and Mackerel."
-zt2tags: ["All", "Ambients", "Animals", "Fish"]
+zt2tags: ["All", "Ambients", "Animals", "Marine Mania 2", "ZT2"]
 ---
 
 Note: this is an ambient, not an adoptable animal. This means it will spawn in the environment at random intervals.

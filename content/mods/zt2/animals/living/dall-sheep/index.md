@@ -18,7 +18,7 @@ alt_text:
 languages:
 - English
 summary: "First animal Ive ever made"
-
+zt2tags: ["All", "Animals", "Endangered Species", "ZT2", "Living", "Mammals", "North America", "Ungulates"]
 ---
 
 A relative of the Bighorn sheep

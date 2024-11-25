@@ -20,6 +20,7 @@ orig_rel_date: 2007-03-03
 summary: Benthocodon pedunculata is found in deep water habitats like Monterey Canyon
   and San Clemente Basin on the West Coast.
 title: Deepwater Trachymedusa
+zt2tags: ["All", "Animals", "Living", "Marine Mania 2", "ZT2", "Invertebrates"]
 ---
 You're unlikely to encounter this little beauty while boating or diving. *Benthocodon pedunculata* is found in deep water habitats like Monterey Canyon and San Clemente Basin on the West Coast. A strong swimmer, it is usually associated with the bottom, where it feeds on crustaceans and foraminiferans. Numerous fine red tentacles (1000 to 2000) line the margin of the bell, which may be up to 4 cm diameter but is usually smaller. Also near the margin are furrows that extend toward the apex of the bell.
 

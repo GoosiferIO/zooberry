@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asia on ZooBerry</title>
+    <link>https://www.zooberry.org/mods/zt2/tags/asia/</link>
+    <description>Recent content in Asia on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2024 01:51:12 +0000</lastBuildDate>
+    <atom:link href="https://www.zooberry.org/mods/zt2/tags/asia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dhole II</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/dhole-ii/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/dhole-ii/</guid>
+      <description>The dhole is a species of canid native to Southeast Asia. It is the only extant member of the genus Cuon.</description>
+    </item>
+    <item>
+      <title>Domesticated Silver Fox (Siberian Fox)</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/domesticated-silver-fox-siberian-fox/</link>
+      <pubDate>Sat, 18 Nov 2023 04:22:30 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/domesticated-silver-fox-siberian-fox/</guid>
+      <description>A domesticated form of the silver morph of the red fox.</description>
+    </item>
+    <item>
+      <title>Dhole</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/dhole/</link>
+      <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/dhole/</guid>
+      <description>Resized bigger than the wolf</description>
+    </item>
+  </channel>
+</rss>

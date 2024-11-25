@@ -19,7 +19,7 @@ alt_text:
 languages:
 - English
 summary: "Resized bigger than the wolf"
-
+zt2tags: ["All", "Animals", "Endangered Species", "ZT2", "Living", "Mammals", "Asia", "Canids"]
 ---
 
 This dhole is mainly tropical rainforest.  It is bigger than the wolf.  Enjoy. 

@@ -156,6 +156,13 @@
       <description>These animals are omnivorous and will eat carrion, as well as plants such as grass, fruit, berries and seed.</description>
     </item>
     <item>
+      <title>Dhole II</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/dhole-ii/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/dhole-ii/</guid>
+      <description>The dhole is a species of canid native to Southeast Asia. It is the only extant member of the genus Cuon.</description>
+    </item>
+    <item>
       <title>Red-Footed Tortoise</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/red-footed-tortoise/</link>
       <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
@@ -233,11 +240,32 @@
       <description>The yacare caiman is found in a variety of habitat types, often associated with floating mats of vegetation.</description>
     </item>
     <item>
+      <title>Domesticated Silver Fox (Siberian Fox)</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/domesticated-silver-fox-siberian-fox/</link>
+      <pubDate>Sat, 18 Nov 2023 04:22:30 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/domesticated-silver-fox-siberian-fox/</guid>
+      <description>A domesticated form of the silver morph of the red fox.</description>
+    </item>
+    <item>
       <title>Fringe Eared Oryx</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/fringe-eared-oryx/</link>
       <pubDate>Fri, 21 Jul 2023 23:04:46 -0800</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/fringe-eared-oryx/</guid>
       <description>The Fringe-Eared Oryx is a scrub dwelling antelope. It is a subspecies of gemsbok native to southern Africa.</description>
+    </item>
+    <item>
+      <title>Dall Sheep</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/dall-sheep/</link>
+      <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/dall-sheep/</guid>
+      <description>First animal Ive ever made</description>
+    </item>
+    <item>
+      <title>Dhole</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/dhole/</link>
+      <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/dhole/</guid>
+      <description>Resized bigger than the wolf</description>
     </item>
   </channel>
 </rss>
