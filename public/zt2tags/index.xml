@@ -163,6 +163,13 @@
       <description></description>
     </item>
     <item>
+      <title>Asian</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/asian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/asian/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Canids</title>
       <link>https://www.zooberry.org/mods/zt2/tags/canids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -188,13 +195,6 @@
       <link>https://www.zooberry.org/mods/zt2/tags/ungulates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/tags/ungulates/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wetlands</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/wetlands/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/wetlands/</guid>
       <description></description>
     </item>
     <item>
@@ -394,6 +394,20 @@
       <description></description>
     </item>
     <item>
+      <title>Equids</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/equids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/equids/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Extinct Animals</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/extinct-animals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/extinct-animals/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Herpestids</title>
       <link>https://www.zooberry.org/mods/zt2/tags/herpestids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -415,10 +429,24 @@
       <description></description>
     </item>
     <item>
+      <title>Pilosans</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/pilosans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/pilosans/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Biomes</title>
       <link>https://www.zooberry.org/mods/zt2/tags/biomes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/tags/biomes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>European</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/european/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/european/</guid>
       <description></description>
     </item>
     <item>
@@ -436,17 +464,10 @@
       <description></description>
     </item>
     <item>
-      <title>Asian</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/asian/</link>
+      <title>North America</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/north-america/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/asian/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>European</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/european/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/european/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/tags/north-america/</guid>
       <description></description>
     </item>
     <item>
@@ -520,17 +541,10 @@
       <description></description>
     </item>
     <item>
-      <title>Equids</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/equids/</link>
+      <title>Euplerids</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/euplerids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/equids/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>North America</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/north-america/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/north-america/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/tags/euplerids/</guid>
       <description></description>
     </item>
   </channel>

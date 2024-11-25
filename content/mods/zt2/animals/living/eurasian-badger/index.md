@@ -20,6 +20,7 @@ orig_rel_date: 2005-11-27
 summary: Eurasian badgers are easily recognisable by the conspicuous black and white
   stripes running from the nose to the shoulders.
 title: Eurasian Badger
+zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "Mustelids", "European"]
 ---
 Eurasian badgers are easily recognisable by the conspicuous black and white stripes running from the nose to the shoulders. They are stocky animals with short black legs and silvery grey backs. Badgers range from Europe to Japan and south China. In Britain, badgers are most abundant in south west England, Wales and small areas of north east England. They generally prefer forest and grassland. Badgers feed on earthworms, frogs, rodents, birds, eggs, lizards, insects, bulbs, seeds and berries.
 

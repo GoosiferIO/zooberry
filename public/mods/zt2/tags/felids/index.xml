@@ -16,6 +16,13 @@
       <description>The white version of the Bengal Tiger, released before the official XP version.</description>
     </item>
     <item>
+      <title>Fishing Cat</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/fishing-cat/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/fishing-cat/</guid>
+      <description>Fishing cats are solitary and found in a variety of watery habitats. Includes skins, icons, and sound files.</description>
+    </item>
+    <item>
       <title>King Cheetah</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/king-cheetah/</link>
       <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
@@ -28,6 +35,13 @@
       <pubDate>Tue, 09 Jan 2024 07:53:14 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/clouded-leopard/</guid>
       <description>The clouded leopard is sufficiently distinct from other members of the Felidae family to be placed in a separate genus.</description>
+    </item>
+    <item>
+      <title>Eastern Cougar</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/eastern-cougar/</link>
+      <pubDate>Mon, 08 Jan 2024 01:26:36 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/eastern-cougar/</guid>
+      <description>Cougars have been extirpated from much of their former range, especially in the east.</description>
     </item>
   </channel>
 </rss>

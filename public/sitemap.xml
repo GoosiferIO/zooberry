@@ -131,6 +131,9 @@
     <loc>https://www.zooberry.org/mods/zt2/tags/aquatic/</loc>
     <lastmod>2024-11-24T01:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/asian/</loc>
+    <lastmod>2024-11-24T01:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/authors/badisbadis101/</loc>
     <lastmod>2024-11-24T01:00:00+00:00</lastmod>
   </url><url>
@@ -231,9 +234,6 @@
     <lastmod>2024-11-24T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/ungulates/</loc>
-    <lastmod>2024-11-24T01:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/wetlands/</loc>
     <lastmod>2024-11-24T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/ambients/yellow-clouded-sulphur-butterfly/</loc>
@@ -935,6 +935,12 @@
     <loc>https://www.zooberry.org/mods/zt2/objects/fences/peach-rail-fence/</loc>
     <lastmod>2024-06-22T21:35:14-07:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/equids/</loc>
+    <lastmod>2024-06-22T21:28:07-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/extinct-animals/</loc>
+    <lastmod>2024-06-22T21:28:07-07:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/grants-zebra/</loc>
     <lastmod>2024-06-22T21:28:07-07:00</lastmod>
   </url><url>
@@ -1158,6 +1164,9 @@
     <lastmod>2024-06-20T18:40:57-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/giant-anteater-ii/</loc>
+    <lastmod>2024-06-20T18:40:57-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/pilosans/</loc>
     <lastmod>2024-06-20T18:40:57-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/emperor-tamarin/</loc>
@@ -1436,6 +1445,9 @@
     <loc>https://www.zooberry.org/mods/zt2/animals/living/dwarf-cassowary/</loc>
     <lastmod>2024-01-14T01:51:12+00:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/european/</loc>
+    <lastmod>2024-01-14T01:51:12+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/animal-bundles/european-pack-i/</loc>
     <lastmod>2024-01-14T01:51:12+00:00</lastmod>
   </url><url>
@@ -1583,9 +1595,6 @@
     <loc>https://www.zooberry.org/mods/zt2/animals/extinct/yunnan-white-handed-gibbon/</loc>
     <lastmod>2024-01-09T07:53:14+00:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/asian/</loc>
-    <lastmod>2024-01-08T01:26:36+00:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/chamois/</loc>
     <lastmod>2024-01-08T01:26:36+00:00</lastmod>
   </url><url>
@@ -1595,9 +1604,6 @@
     <loc>https://www.zooberry.org/mods/zt2/animals/living/eastern-cougar/</loc>
     <lastmod>2024-01-08T01:26:36+00:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/european/</loc>
-    <lastmod>2024-01-08T01:26:36+00:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/expansive-packs/japanese-macaque-pack/</loc>
     <lastmod>2024-01-08T01:26:36+00:00</lastmod>
   </url><url>
@@ -1605,6 +1611,9 @@
     <lastmod>2024-01-08T01:26:36+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/extinct/laughing-owl/</loc>
+    <lastmod>2024-01-08T01:26:36+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/north-america/</loc>
     <lastmod>2024-01-08T01:26:36+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/expansive-packs/vicu%C3%B1a-pack/</loc>
@@ -2810,7 +2819,7 @@
     <loc>https://www.zooberry.org/mods/zt2/animals/extinct/dwarf-panda/</loc>
     <lastmod>2023-07-20T23:04:46-08:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/equids/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/tags/euplerids/</loc>
     <lastmod>2023-07-20T23:04:46-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/fanaloka/</loc>
@@ -2850,9 +2859,6 @@
     <lastmod>2023-07-20T23:04:46-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/miniature-pony/</loc>
-    <lastmod>2023-07-20T23:04:46-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/north-america/</loc>
     <lastmod>2023-07-20T23:04:46-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/risingsun/</loc>

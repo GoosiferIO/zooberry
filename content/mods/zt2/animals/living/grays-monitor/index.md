@@ -20,12 +20,14 @@ orig_rel_date: 2006-07-30
 summary: Gray's monitor gets its common name from its previous scientific name of
   Varanus grayi.
 title: Gray's Monitor
+zt2tags: ["All", "Animals", "Living", "Reptiles", "ZT2", "Asian"]
+
 ---
 Gray's monitor gets its common name from its previous scientific name of *Varanus grayi*. It is found only on southern Luzon and Catanduanes Island in the Philippines, where it inhabits the forested slopes of low mountains. Possibly its range was much larger in the past, but the development of agriculture has removed its habitat from most valleys. The hillsides frequented by the lizard are covered with thick rainforest and have many cliffs and rock outcrops.
 
-Like many other downloads of its time, this was a collaboration that Penguinman created with another user. It includes a gift for guests to purchase.
+It includes a gift for guests to purchase.
 
-**This download has one known issue:**
+## Known Issues
 - The eggs took exceptionally long to hatch during testing. Although they did eventually hatch, it was well after the hatch timer had turned red.
 
 **Other downloads in Penguinman and TurtleStork's reptile set:**

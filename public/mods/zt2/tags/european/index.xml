@@ -6,8 +6,22 @@
     <description>Recent content in European on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jan 2024 01:26:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jan 2024 01:51:12 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/european/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exmoor Pony</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/exmoor-pony/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/exmoor-pony/</guid>
+      <description>The Exmoor Pony is a hardy, sturdy breed of semi-feral pony, one of many of the mountain and moorland ponies of the British Isles.</description>
+    </item>
+    <item>
+      <title>Eurasian Badger</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/eurasian-badger/</link>
+      <pubDate>Tue, 09 Jan 2024 07:53:14 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/eurasian-badger/</guid>
+      <description>Eurasian badgers are easily recognisable by the conspicuous black and white stripes running from the nose to the shoulders.</description>
+    </item>
     <item>
       <title>Chamois</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/chamois/</link>
@@ -21,6 +35,13 @@
       <pubDate>Fri, 24 Nov 2023 04:01:47 -0800</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/wisent/</guid>
       <description>This ungulate is also known as the European bison. Some authors consider it and the American bison to be conspecific.</description>
+    </item>
+    <item>
+      <title>European Badger</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/european-badger/</link>
+      <pubDate>Sun, 19 Nov 2023 00:16:46 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/european-badger/</guid>
+      <description>European Badger skinned and coded by ShenTirag, with the model created by SilesianTomcat.</description>
     </item>
   </channel>
 </rss>

@@ -15,5 +15,19 @@
       <guid>https://www.zooberry.org/mods/zt2/animals/living/zorilla/</guid>
       <description>The zorilla is a skunk-like mammal that lives in African savannas. It is also called the striped polecat.</description>
     </item>
+    <item>
+      <title>Eurasian Badger</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/eurasian-badger/</link>
+      <pubDate>Tue, 09 Jan 2024 07:53:14 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/eurasian-badger/</guid>
+      <description>Eurasian badgers are easily recognisable by the conspicuous black and white stripes running from the nose to the shoulders.</description>
+    </item>
+    <item>
+      <title>European Badger</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/european-badger/</link>
+      <pubDate>Sun, 19 Nov 2023 00:16:46 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/european-badger/</guid>
+      <description>European Badger skinned and coded by ShenTirag, with the model created by SilesianTomcat.</description>
+    </item>
   </channel>
 </rss>

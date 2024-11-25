@@ -18,6 +18,8 @@ summary: "The Giant Eland is a large antelope species native to the savannas of 
 languages:
 - English
 - Dutch
+zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "Ungulates", "Africa"]
+
 ---
 
 The Giant Eland is a large antelope species native to the savannas of Africa. This mod was made by DutchDesigns.

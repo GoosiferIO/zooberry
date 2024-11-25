@@ -19,6 +19,7 @@ summary: "The Emperor Tamarin (Saguinus imperator) is a tamarin allegedly named 
 languages:
 - English
 - German
+zt2tags: ["All", "Animals", "Living", "Primates", "ZT2", "South American"]
 ---
 
  From the Zoopedia 

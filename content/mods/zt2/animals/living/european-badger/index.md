@@ -17,6 +17,7 @@ alt_text:
 summary: "European Badger skinned and coded by ShenTirag, with the model created by SilesianTomcat."
 languages:
 - English
+zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "Mustelids", "European"]
 ---
 
 

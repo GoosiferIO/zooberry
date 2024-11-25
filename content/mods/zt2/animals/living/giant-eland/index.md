@@ -18,6 +18,7 @@ alt_text:
 languages:
 - English
 summary: "The Largest Species of Antelope - Now Available to Adopt in Your Zoo! Comes with 3 Variant Skins! "
+zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "Ungulates", "Africa", "Endangered Species"]
 
 ---
 

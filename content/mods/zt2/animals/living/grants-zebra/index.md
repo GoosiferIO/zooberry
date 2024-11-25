@@ -19,6 +19,8 @@ summary: "This is a Grant's Zebra mod for Zoo Tycoon 2, created by DutchDesigns.
 languages:
 - English
 - Dutch
+zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "Ungulates", "Africa", "Equids", "Extinct Animals"]
+
 ---
 
 This is a Grant's Zebra mod for Zoo Tycoon 2, created by DutchDesigns.

@@ -19,6 +19,8 @@ orig_rel_date: 2009-10-07
 summary: The Exmoor Pony is a hardy, sturdy breed of semi-feral pony, one of many
   of the mountain and moorland ponies of the British Isles.
 title: Exmoor Pony
+zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "Ungulates", "European", "Endangered Species", "Equids"]
+
 ---
 =
 From the Zoopedia
