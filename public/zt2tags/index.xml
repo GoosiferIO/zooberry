@@ -6,20 +6,13 @@
     <description>Recent content in ZT2 Tags on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Nov 2024 02:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 03:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/zt2tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Africa</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/africa/</link>
+      <title>African</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/african/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/africa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>African Adventure</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/african-adventure/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/african-adventure/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/tags/african/</guid>
       <description></description>
     </item>
     <item>
@@ -37,10 +30,10 @@
       <description></description>
     </item>
     <item>
-      <title>Asia</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/asia/</link>
+      <title>Aquatic</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/aquatic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/asia/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/tags/aquatic/</guid>
       <description></description>
     </item>
     <item>
@@ -48,6 +41,69 @@
       <link>https://www.zooberry.org/mods/zt2/tags/birds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/tags/birds/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Felids</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/felids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/felids/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fictional</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/fictional/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/fictional/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Living</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/living/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/living/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mammals</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/mammals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/mammals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Primates</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/primates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/primates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ZT2</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/zt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/zt2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Africa</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/africa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/africa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>African Adventure</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/african-adventure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/african-adventure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Asia</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/asia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/asia/</guid>
       <description></description>
     </item>
     <item>
@@ -72,27 +128,6 @@
       <description></description>
     </item>
     <item>
-      <title>Felids</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/felids/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/felids/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Living</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/living/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/living/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mammals</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/mammals/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/mammals/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>North American</title>
       <link>https://www.zooberry.org/mods/zt2/tags/north-american/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -104,13 +139,6 @@
       <link>https://www.zooberry.org/mods/zt2/tags/oceania/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/tags/oceania/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Primates</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/primates/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/primates/</guid>
       <description></description>
     </item>
     <item>
@@ -135,31 +163,10 @@
       <description></description>
     </item>
     <item>
-      <title>ZT2</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/zt2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/zt2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>African</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/african/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/african/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Ambients</title>
       <link>https://www.zooberry.org/mods/zt2/tags/ambients/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/tags/ambients/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Aquatic</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/aquatic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/aquatic/</guid>
       <description></description>
     </item>
     <item>
@@ -174,13 +181,6 @@
       <link>https://www.zooberry.org/mods/zt2/tags/canids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/tags/canids/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fictional</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/fictional/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/fictional/</guid>
       <description></description>
     </item>
     <item>

@@ -6,8 +6,15 @@
     <description>Recent content in Fictional on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Nov 2024 01:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 03:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/animals/fictional/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>King Kong</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/fictional/king-kong/</link>
+      <pubDate>Sun, 24 Nov 2024 03:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/king-kong/</guid>
+      <description>A giant fictional gorilla from Skull Island, with no gift items or donation mechanics.</description>
+    </item>
     <item>
       <title>European Unicorn</title>
       <link>https://www.zooberry.org/mods/zt2/animals/fictional/european-unicorn/</link>
@@ -21,13 +28,6 @@
       <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/fictional/fenris-wolf/</guid>
       <description>Fenrir’s descendants are larger than normal wolves and feature multiple skins.</description>
-    </item>
-    <item>
-      <title>King Kong</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/fictional/king-kong/</link>
-      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/king-kong/</guid>
-      <description>A giant fictional gorilla from Skull Island, with no gift items or donation mechanics.</description>
     </item>
     <item>
       <title>Killer Penguin</title>

@@ -6,8 +6,15 @@
     <description>Recent content in Felids on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Nov 2024 02:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 03:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/felids/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>King Cheetah</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/king-cheetah/</link>
+      <pubDate>Sun, 24 Nov 2024 03:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/king-cheetah/</guid>
+      <description>A unique cheetah variant with elongated and merged spots.</description>
+    </item>
     <item>
       <title>White Tiger</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/white-tiger/</link>
@@ -21,13 +28,6 @@
       <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/fishing-cat/</guid>
       <description>Fishing cats are solitary and found in a variety of watery habitats. Includes skins, icons, and sound files.</description>
-    </item>
-    <item>
-      <title>King Cheetah</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/king-cheetah/</link>
-      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/king-cheetah/</guid>
-      <description>A unique cheetah variant with elongated and merged spots.</description>
     </item>
     <item>
       <title>Clouded Leopard</title>

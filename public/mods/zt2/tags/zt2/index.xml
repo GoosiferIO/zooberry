@@ -6,7 +6,7 @@
     <description>Recent content in ZT2 on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Nov 2024 02:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 03:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/zt2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Animals</title>
@@ -16,11 +16,46 @@
       <description>Adopt new animals to share with your guests at home!</description>
     </item>
     <item>
+      <title>Fictional</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/fictional/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/</guid>
+      <description>Animals that only exist in the depths our imaginations.</description>
+    </item>
+    <item>
+      <title>King Cheetah</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/king-cheetah/</link>
+      <pubDate>Sun, 24 Nov 2024 03:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/king-cheetah/</guid>
+      <description>A unique cheetah variant with elongated and merged spots.</description>
+    </item>
+    <item>
+      <title>King Kong</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/fictional/king-kong/</link>
+      <pubDate>Sun, 24 Nov 2024 03:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/king-kong/</guid>
+      <description>A giant fictional gorilla from Skull Island, with no gift items or donation mechanics.</description>
+    </item>
+    <item>
+      <title>King Penguin</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/king-penguin/</link>
+      <pubDate>Sun, 24 Nov 2024 03:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/king-penguin/</guid>
+      <description>A large penguin species with fixed alphabetical issues and fame stars in the mod.</description>
+    </item>
+    <item>
       <title>Living</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/</guid>
       <description>Animals that still roam the Earth today.</description>
+    </item>
+    <item>
+      <title>Zoo Tycoon 2</title>
+      <link>https://www.zooberry.org/mods/zt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/</guid>
+      <description>Mods for the Zoo Tycoon sequel released in 2004.</description>
     </item>
     <item>
       <title>White Tiger</title>
@@ -42,13 +77,6 @@
       <pubDate>Sun, 24 Nov 2024 02:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/woolly-rhinoceros/</guid>
       <description>A large extinct mammal from Eurasia, primarily compatible with Snow and Boreal Forest biomes.</description>
-    </item>
-    <item>
-      <title>Zoo Tycoon 2</title>
-      <link>https://www.zooberry.org/mods/zt2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/</guid>
-      <description>Mods for the Zoo Tycoon sequel released in 2004.</description>
     </item>
     <item>
       <title>Abisara Geza Niya Butterfly for MM</title>
@@ -163,39 +191,11 @@
       <description>Fenrir’s descendants are larger than normal wolves and feature multiple skins.</description>
     </item>
     <item>
-      <title>Fictional</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/fictional/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/</guid>
-      <description>Animals that only exist in the depths our imaginations.</description>
-    </item>
-    <item>
       <title>Fishing Cat</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/fishing-cat/</link>
       <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/fishing-cat/</guid>
       <description>Fishing cats are solitary and found in a variety of watery habitats. Includes skins, icons, and sound files.</description>
-    </item>
-    <item>
-      <title>King Cheetah</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/king-cheetah/</link>
-      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/king-cheetah/</guid>
-      <description>A unique cheetah variant with elongated and merged spots.</description>
-    </item>
-    <item>
-      <title>King Kong</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/fictional/king-kong/</link>
-      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/king-kong/</guid>
-      <description>A giant fictional gorilla from Skull Island, with no gift items or donation mechanics.</description>
-    </item>
-    <item>
-      <title>King Penguin</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/king-penguin/</link>
-      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/king-penguin/</guid>
-      <description>A large penguin species with fixed alphabetical issues and fame stars in the mod.</description>
     </item>
     <item>
       <title>Klipspringer</title>
