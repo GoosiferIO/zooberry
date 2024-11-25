@@ -14,13 +14,14 @@ languages:
 license: 'Yes'
 orig_rel_at:
 - Penguin's Peak
+- ZooAdmin
 orig_rel_date: 2006-01-26
-summary: Unlike its relatives, the Japanese serow's upper coat not uniform in colour.
-  Rather, it is mottled.
+summary: A single-horned Asian rhinoceros, coded by Penguinman and skinned by Koala Komander.
 title: Japanese Serow
+zt2tags: ["All", "Animals", "Living", "Mammals", "Ungulates", "Asian", "ZT2", "Endangered Species"]
 ---
-Unlike its relatives, the Japanese serow's upper coat not uniform in colour. Rather, it is mottled - made of long hairs varying from white to purplish black in colour. The legs are dark brown or black in colour, and there may be a dark "collar" encircling the lower neck. There is a white "beard" under the chin which extends down the throat and up along the jowls. The long ears are pointed and covered in brown hair, while the bridge of the nose is dark and naked. The underparts are light.
+A single-horned Asian rhinoceros, coded by Penguinman and skinned by Koala Komander.
 
-Unlike most other downloads by Penguinman, this one was created solely by himself. It has no known issues and includes a gift for guests to purchase.
+Includes a gift for guests to purchase.
 
 Additionally, this animal was originally created for a pack known as the Everything Pack. It is unknown if any other creatures were ever shown or released for it.
