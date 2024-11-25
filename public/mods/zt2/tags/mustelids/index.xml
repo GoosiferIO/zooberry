@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mustelids on ZooBerry</title>
+    <link>https://www.zooberry.org/mods/zt2/tags/mustelids/</link>
+    <description>Recent content in Mustelids on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2024 01:51:12 +0000</lastBuildDate>
+    <atom:link href="https://www.zooberry.org/mods/zt2/tags/mustelids/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zorilla</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/zorilla/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/zorilla/</guid>
+      <description>The zorilla is a skunk-like mammal that lives in African savannas. It is also called the striped polecat.</description>
+    </item>
+  </channel>
+</rss>
