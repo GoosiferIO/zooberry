@@ -6,8 +6,15 @@
     <description>Recent content in Ungulates on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2024 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 13:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/ungulates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dama Gazelle (ES Version)</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/dama-gazelle/</link>
+      <pubDate>Mon, 25 Nov 2024 13:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/dama-gazelle/</guid>
+      <description>The ES version of one of the gazelles in the Gazelle Pack by SilesianTomcat.</description>
+    </item>
     <item>
       <title>Fallow Deer</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/fallow-deer/</link>
@@ -21,6 +28,20 @@
       <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/black-buck/</guid>
       <description>An Indian antelope. Note: the blackbuck has no thirst need.</description>
+    </item>
+    <item>
+      <title>Domestic Donkey</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/domestic-donkey/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/domestic-donkey/</guid>
+      <description>Domestic Donkey</description>
+    </item>
+    <item>
+      <title>Domestic Donkey (ES Version)</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/domestic-donkey-es/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/domestic-donkey-es/</guid>
+      <description>Domestic Donkey: 100% Endangered Species design. Includes new skin, sound, food, and enrichment.</description>
     </item>
     <item>
       <title>Klipspringer</title>

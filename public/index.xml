@@ -6,8 +6,22 @@
     <description>Recent content in Home on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2024 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 13:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Caribbean Flamingo</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/caribbean-flamingo/</link>
+      <pubDate>Mon, 25 Nov 2024 13:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/caribbean-flamingo/</guid>
+      <description>The brightest Caribbean flamingos, showing true red, pink, or orange colors on their legs, bills, and faces.</description>
+    </item>
+    <item>
+      <title>Dama Gazelle (ES Version)</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/dama-gazelle/</link>
+      <pubDate>Mon, 25 Nov 2024 13:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/dama-gazelle/</guid>
+      <description>The ES version of one of the gazelles in the Gazelle Pack by SilesianTomcat.</description>
+    </item>
     <item>
       <title>European Beaver</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/european-beaver/</link>
@@ -238,6 +252,20 @@
       <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/coyote/</guid>
       <description>A smaller relative of the wolf, the adaptable coyote thrives in all biomes.</description>
+    </item>
+    <item>
+      <title>Domestic Donkey</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/domestic-donkey/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/domestic-donkey/</guid>
+      <description>Domestic Donkey</description>
+    </item>
+    <item>
+      <title>Domestic Donkey (ES Version)</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/domestic-donkey-es/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/domestic-donkey-es/</guid>
+      <description>Domestic Donkey: 100% Endangered Species design. Includes new skin, sound, food, and enrichment.</description>
     </item>
     <item>
       <title>Eclectus Parrot</title>
