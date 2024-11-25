@@ -19,11 +19,10 @@ languages:
 license: 'Yes'
 orig_rel_at:
 - Penguin's Peak
+- ZooAdmin
 orig_rel_date: 2005-12-04
-summary: The maned wolf appears as a cross among different species. Some think it
-  looks like a mix between a wolf and a fox.
+summary: A South American savannah-dwelling canid with one variant skin.
 title: Maned Wolf
+zt2tags: ["All", "Animals", "Living", "Mammals", "Canids", "South American", "Endangered Species"]
 ---
-The maned wolf appears as a cross among different species: the head and coloring of a wolf, the large ears of an African hunting dog and the body of a hyena. Some think the maned wolf looks like a mix between a wolf and a fox. What do you think? Maned wolves are about 3 feet tall at shoulder height and weigh 50 pounds. Their body is covered with golden-red fur, and has black legs and a black mane.
-
-Like many other downloads of its time, this was a collaboration that Penguinman created with another user. It has no known issues and includes a gift for guests to purchase.
+A South American savannah-dwelling canid with one variant skin.

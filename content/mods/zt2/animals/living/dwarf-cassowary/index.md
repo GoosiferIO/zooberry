@@ -41,7 +41,7 @@ mod_list:
     description: Works with the user-made Montane Forest biome and places the dwarf cassowary in that biome. See below for a link to download it.
 dependencies:
   - title: Montane Forest Biome
-    link: https://www.zooberry.org/mods/zt2/biomes/montane-forest/
+    url: /mods/zt2/biomes/montane-forest/
     external: false
     description: Required for the alternative version of this download.
 

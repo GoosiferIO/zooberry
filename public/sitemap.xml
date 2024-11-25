@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/africa/</loc>
+    <lastmod>2024-11-24T02:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/african-adventure/</loc>
+    <lastmod>2024-11-24T02:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/all/</loc>
     <lastmod>2024-11-24T02:00:00+00:00</lastmod>
   </url><url>
@@ -35,6 +41,12 @@
     <loc>https://www.zooberry.org/mods/zt2/tags/felids/</loc>
     <lastmod>2024-11-24T02:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/authors/karlhall-39/</loc>
+    <lastmod>2024-11-24T02:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/living/kodiak-bear/</loc>
+    <lastmod>2024-11-24T02:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/living/</loc>
     <lastmod>2024-11-24T02:00:00+00:00</lastmod>
   </url><url>
@@ -44,10 +56,34 @@
     <loc>https://www.zooberry.org/mods/zt2/tags/mammals/</loc>
     <lastmod>2024-11-24T02:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/north-american/</loc>
+    <lastmod>2024-11-24T02:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/oceania/</loc>
     <lastmod>2024-11-24T02:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/penguinman/</loc>
+    <lastmod>2024-11-24T02:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/primates/</loc>
+    <lastmod>2024-11-24T02:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/living/red-ruffed-lemur/</loc>
+    <lastmod>2024-11-24T02:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/living/rhea/</loc>
+    <lastmod>2024-11-24T02:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/authors/silesiantomcat/</loc>
+    <lastmod>2024-11-24T02:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/south-american/</loc>
+    <lastmod>2024-11-24T02:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/tropical-rainforest/</loc>
+    <lastmod>2024-11-24T02:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/ursids/</loc>
     <lastmod>2024-11-24T02:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/white-tiger/</loc>
@@ -66,9 +102,6 @@
     <lastmod>2024-11-24T02:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/ambients/abisara-geza-niya-butterfly/</loc>
-    <lastmod>2024-11-24T01:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/african-adventure/</loc>
     <lastmod>2024-11-24T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/ambients/african-butterfly/</loc>
@@ -158,9 +191,6 @@
     <loc>https://www.zooberry.org/mods/zt2/animals/ambients/mourning-clock-butterfly/</loc>
     <lastmod>2024-11-24T01:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/north-american/</loc>
-    <lastmod>2024-11-24T01:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/norwegian-fjord-pony/</loc>
     <lastmod>2024-11-24T01:00:00+00:00</lastmod>
   </url><url>
@@ -177,9 +207,6 @@
     <lastmod>2024-11-24T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/ambients/sun-conure/</loc>
-    <lastmod>2024-11-24T01:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/tropical-rainforest/</loc>
     <lastmod>2024-11-24T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/ungulates/</loc>
@@ -489,9 +516,6 @@
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/shentirag/</loc>
-    <lastmod>2024-10-04T19:40:23+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/authors/silesiantomcat/</loc>
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/steenbok28/</loc>
@@ -899,9 +923,6 @@
     <loc>https://www.zooberry.org/mods/zt2/animals/living/giant-eland-ii/</loc>
     <lastmod>2024-06-22T21:20:46-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/africa/</loc>
-    <lastmod>2024-06-22T21:17:15-07:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/dwarf-mongoose/</loc>
     <lastmod>2024-06-22T21:17:15-07:00</lastmod>
   </url><url>
@@ -912,9 +933,6 @@
     <lastmod>2024-06-22T21:12:37-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/diana-monkey/</loc>
-    <lastmod>2024-06-22T21:12:37-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/primates/</loc>
     <lastmod>2024-06-22T21:12:37-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/scenery/hanging-whale-skeleton/</loc>
@@ -1059,9 +1077,6 @@
     <lastmod>2024-06-21T21:21:30-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/blesbok/</loc>
-    <lastmod>2024-06-21T21:16:28-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/bovids/</loc>
     <lastmod>2024-06-21T21:16:28-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/jannick/</loc>
@@ -1479,9 +1494,6 @@
     <lastmod>2024-01-14T01:51:12+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/animal-bundles/south-america-pack/</loc>
-    <lastmod>2024-01-14T01:51:12+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/south-american/</loc>
     <lastmod>2024-01-14T01:51:12+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/turtlestork/</loc>
@@ -2007,9 +2019,6 @@
     <lastmod>2023-11-21T02:12:58-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/texture-mods/variants/styracosaurus-variant-by-exitree/</loc>
-    <lastmod>2023-11-21T02:12:58-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/ursids/</loc>
     <lastmod>2023-11-21T02:12:58-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/yacare-caiman/</loc>

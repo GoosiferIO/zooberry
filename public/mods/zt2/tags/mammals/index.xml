@@ -9,6 +9,20 @@
     <lastBuildDate>Sun, 24 Nov 2024 02:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/mammals/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Kodiak Bear</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/kodiak-bear/</link>
+      <pubDate>Sun, 24 Nov 2024 02:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/kodiak-bear/</guid>
+      <description>The Kodiak bear is a recolored grizzly bear adapted to tundra environments.</description>
+    </item>
+    <item>
+      <title>Red Ruffed Lemur</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/red-ruffed-lemur/</link>
+      <pubDate>Sun, 24 Nov 2024 02:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/red-ruffed-lemur/</guid>
+      <description>The red ruffed lemur is one of the largest primates of Madagascar, with thick red and black fur.</description>
+    </item>
+    <item>
       <title>White Tiger</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/white-tiger/</link>
       <pubDate>Sun, 24 Nov 2024 02:00:00 +0000</pubDate>
@@ -119,6 +133,13 @@
       <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/european-pack-i/</guid>
       <description>The first part of our little project, contains the European Mouflon, the Highland Cow and the Shire Horse!</description>
+    </item>
+    <item>
+      <title>Maned Wolf</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/maned-wolf/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/maned-wolf/</guid>
+      <description>A South American savannah-dwelling canid with one variant skin.</description>
     </item>
     <item>
       <title>South America Pack</title>

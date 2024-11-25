@@ -16,11 +16,32 @@
       <description>Adopt new animals to share with your guests at home!</description>
     </item>
     <item>
+      <title>Kodiak Bear</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/kodiak-bear/</link>
+      <pubDate>Sun, 24 Nov 2024 02:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/kodiak-bear/</guid>
+      <description>The Kodiak bear is a recolored grizzly bear adapted to tundra environments.</description>
+    </item>
+    <item>
       <title>Living</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/</guid>
       <description>Animals that still roam the Earth today.</description>
+    </item>
+    <item>
+      <title>Red Ruffed Lemur</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/red-ruffed-lemur/</link>
+      <pubDate>Sun, 24 Nov 2024 02:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/red-ruffed-lemur/</guid>
+      <description>The red ruffed lemur is one of the largest primates of Madagascar, with thick red and black fur.</description>
+    </item>
+    <item>
+      <title>Rhea</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/rhea/</link>
+      <pubDate>Sun, 24 Nov 2024 02:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/rhea/</guid>
+      <description>A large, flightless bird of South America with new skin, sound, and enrichment.</description>
     </item>
     <item>
       <title>White Tiger</title>
@@ -1644,7 +1665,7 @@
       <link>https://www.zooberry.org/mods/zt2/animals/living/maned-wolf/</link>
       <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/maned-wolf/</guid>
-      <description>The maned wolf appears as a cross among different species. Some think it looks like a mix between a wolf and a fox.</description>
+      <description>A South American savannah-dwelling canid with one variant skin.</description>
     </item>
     <item>
       <title>Mauve Stinger</title>
@@ -2344,7 +2365,7 @@
       <link>https://www.zooberry.org/mods/zt2/animals/living/red-eyed-tree-frog/</link>
       <pubDate>Sat, 30 Dec 2023 00:33:45 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/red-eyed-tree-frog/</guid>
-      <description>The first thing you are bound to notice on this amphibian are the bold, bright red eyes.</description>
+      <description>A vibrant tree frog native to Central and South America, known for its bright red eyes.</description>
     </item>
     <item>
       <title>Ribbon Eel</title>
