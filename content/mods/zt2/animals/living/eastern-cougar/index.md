@@ -20,7 +20,7 @@ orig_rel_date: 2006-03-06
 summary: Cougars have been extirpated from much of their former range, especially
   in the east.
 title: Eastern Cougar
-zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "Felids", "North America"]
+zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "Felids", "North American"]
 ---
 The original distribution of the cougar made it the most widely distributed land mammal in the Western Hemisphere. Cougars have been extirpated from much of their former range, especially in the east. Florida has cougars in the Everglades and Big Cypress Swamp. With the exception of Florida, the cougar has been extirpated from east of the Mississippi River since 1900. Individuals are still occasionally seen as vagrants in eastern North America.
 

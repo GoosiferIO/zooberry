@@ -18,7 +18,7 @@ summary: "The Giant Eland is a large antelope species native to the savannas of 
 languages:
 - English
 - Dutch
-zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "Ungulates", "Africa"]
+zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "Ungulates", "African"]
 
 ---
 

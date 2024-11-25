@@ -20,6 +20,8 @@ summary: "The Indian Rhinoceros (Rhinoceros unicornis), also called Greater one-
 languages:
 - English
 - Dutch
+zt2tags: ["All", "Animals", "Living", "Mammals", "Ungulates", "Asian", "ZT2", "Endangered Species"]
+
 ---
 
  From the Zoopedia 

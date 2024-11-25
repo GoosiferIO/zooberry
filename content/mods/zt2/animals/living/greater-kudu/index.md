@@ -20,7 +20,7 @@ orig_rel_at:
 orig_rel_date: 2006-11-10
 summary: This is the Greater Kudu, the second largest antelope in Africa.
 title: Greater Kudu
-zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "Ungulates", "Africa", "Endangered Species"]
+zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "Ungulates", "African", "Endangered Species"]
 
 ---
 This is the Greater Kudu, the second largest antelope in Africa. Must have the Addax download to work.

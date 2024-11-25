@@ -19,6 +19,7 @@ license: Unknown
 languages:
 - English
 summary: "This Asian equid lives in the desert biome, and is a light sandy colour."
+zt2tags: ["All", "Animals", "Living", "Mammals", "Ungulates", "Asian", "Equids", "ZT2"]
 
 ---
 

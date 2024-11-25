@@ -37,6 +37,13 @@
       <description>Boer Goat is an animal for Zoo Tycoon 2 created by Slice.</description>
     </item>
     <item>
+      <title>Impala</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/impala/</link>
+      <pubDate>Tue, 25 Jun 2024 09:26:13 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/impala/</guid>
+      <description>The Impala is a small antelope that lives in the savannahs of Africa.</description>
+    </item>
+    <item>
       <title>Grant&#39;s Zebra</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/grants-zebra/</link>
       <pubDate>Sat, 22 Jun 2024 21:28:07 -0700</pubDate>
@@ -63,6 +70,13 @@
       <pubDate>Fri, 21 Jun 2024 21:16:28 -0700</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/blesbok/</guid>
       <description>A blesbok made by Gerben and Jannick.</description>
+    </item>
+    <item>
+      <title>Indian Rhinoceros III</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/indian-rhinoceros-iii/</link>
+      <pubDate>Thu, 20 Jun 2024 18:41:17 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/indian-rhinoceros-iii/</guid>
+      <description>The Indian Rhinoceros (Rhinoceros unicornis), also called Greater one-horned rhinoceros, can be found in parts of north-eastern India and in protected areas in the Terai of Nepal.</description>
     </item>
     <item>
       <title>Dik-Dik</title>
@@ -191,11 +205,32 @@
       <description>The Largest Species of Antelope - Now Available to Adopt in Your Zoo! Comes with 3 Variant Skins!</description>
     </item>
     <item>
+      <title>Himalayan Tahr</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/himalayan-tahr/</link>
+      <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/himalayan-tahr/</guid>
+      <description>A large goat from the Himalayas.</description>
+    </item>
+    <item>
       <title>Indian Rhinoceros I</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/indian-rhinoceros-i/</link>
       <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/indian-rhinoceros-i/</guid>
       <description>An Indian rhino for your zoo.  Recolored from the Javan rhino.</description>
+    </item>
+    <item>
+      <title>Indian Rhinoceros II</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/indian-rhinoceros-ii/</link>
+      <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/indian-rhinoceros-ii/</guid>
+      <description>A large, endangered species of rhino from Northern India.</description>
+    </item>
+    <item>
+      <title>Kiang</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/kiang/</link>
+      <pubDate>Tue, 18 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/kiang/</guid>
+      <description>This Asian equid lives in the desert biome, and is a light sandy colour.</description>
     </item>
   </channel>
 </rss>

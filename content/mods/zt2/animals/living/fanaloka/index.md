@@ -18,7 +18,7 @@ alt_text:
 languages:
 - English
 summary: "New and improved, with 4 different skins and a new model for both adult and baby!"
-zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "Africa", "Euplerids"]
+zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "African", "Euplerids"]
 
 ---
 

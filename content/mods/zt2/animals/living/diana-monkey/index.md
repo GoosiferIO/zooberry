@@ -20,7 +20,7 @@ summary: "The Diana Monkey (Cercopithecus diana) is an Old World monkey found in
 languages:
 - English
 - Dutch
-zt2tags: ["Africa", "Animals", "Living", "Mammals", "ZT2", "Primates", "African Adventure", "All"]
+zt2tags: ["African", "Animals", "Living", "Mammals", "ZT2", "Primates", "African Adventure", "All"]
 ---
 
 

@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2006-01-03
 summary: The red ruffed lemur is one of the largest primates of Madagascar, with thick red and black fur.
 title: Red Ruffed Lemur
-zt2tags: ["All", "Animals", "Living", "Mammals", "Primates", "Tropical Rainforest", "Endangered Species", "African Adventure", "Africa"]
+zt2tags: ["All", "Animals", "Living", "Mammals", "Primates", "Tropical Rainforest", "Endangered Species", "African Adventure", "African"]
 ---
 The red ruffed lemur is one of the largest primates of Madagascar, with thick red and black fur.

@@ -29,5 +29,12 @@
       <guid>https://www.zooberry.org/mods/zt2/animals/living/bream/</guid>
       <description>A freshwater fish from various types of waterways in Europe.</description>
     </item>
+    <item>
+      <title>Koi Carp</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/koi-carp/</link>
+      <pubDate>Sat, 18 Nov 2023 04:21:07 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/koi-carp/</guid>
+      <description>A domesticated cyprinid known for their wide range of color morphs.</description>
+    </item>
   </channel>
 </rss>

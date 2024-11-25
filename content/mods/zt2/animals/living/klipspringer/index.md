@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2007-01-01
 summary: An antelope that bounds from rock to rock.
 title: Klipspringer
-zt2tags: ["All", "Animals", "Ungulates", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Animals", "Living", "Mammals", "Ungulates", "African", "Savannah", "ZT2"]
 ---
 An antelope that bounds from rock to rock.

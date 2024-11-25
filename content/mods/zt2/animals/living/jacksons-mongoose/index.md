@@ -21,6 +21,12 @@ orig_rel_date: 2009-09-10
 summary: Jackson's mongooses are typically a greyish or dull brownish in color, with
   the legs being black.
 title: Jackson's Mongoose
+zt2tags: ["All", "Animals", "Living", "Mammals", "Herpestids", "African", "ZT2", "African Adventure"]
+dependencies:
+  - title: Montane Forest
+    url: /mods/zt2/biomes/montane-forest/
+    external: false
+    description: "This mod is required for the Jackson's Mongoose to work properly."
 ---
 Jackson's mongooses are typically a greyish or dull brownish in color, with the legs being black. Young Jackson's mongooses have longer and lighter fur than adults. They closely resemble the Ichneumon mongoose, except *Bdeogale* lack dewclaws and have larger premolars. The groove between their nose and upper lip is devoid of hair. Their front paws are also devoid of hair, but the back paws are furred.
 

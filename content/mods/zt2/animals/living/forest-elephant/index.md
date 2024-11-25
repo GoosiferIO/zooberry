@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2005-06-04
 summary: A species of elephant native to African rainforests.
 title: Forest Elephant
-zt2tags: ["All", "Animals", "Living", "Mammals", "Africa", "Elephants", "ZT2"]
+zt2tags: ["All", "Animals", "Living", "Mammals", "African", "Elephants", "ZT2"]
 ---
 A species of elephant native to African rainforests.
 

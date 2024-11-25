@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2005-06-31
 summary: The Kodiak bear is a recolored grizzly bear adapted to tundra environments.
 title: Kodiak Bear
-zt2tags: ["All", "Animals", "Living", "Mammals", "Ursids", "North American"]
+zt2tags: ["All", "Animals", "Living", "Mammals", "Ursids", "North American", "ZT2"]
 ---
 The Kodiak bear is a recolored grizzly bear adapted to tundra environments.
