@@ -23,18 +23,18 @@
       <description>The Eurasian Wolf features two variants, with the lighter one as the default.</description>
     </item>
     <item>
-      <title>Extinct</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/extinct/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/</guid>
-      <description>Prehistoric, ice age, recently-extinct all go here.</description>
+      <title>Fenris Wolf II</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/fictional/fenris-wolf-ii/</link>
+      <pubDate>Mon, 25 Nov 2024 04:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/fenris-wolf-ii/</guid>
+      <description>This dark, mythical wolf will frighten and amaze your guests, perfect for Halloween zoos.</description>
     </item>
     <item>
-      <title>Fenris Wolf</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/extinct/fenris-wolf/</link>
-      <pubDate>Mon, 25 Nov 2024 04:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/fenris-wolf/</guid>
-      <description>This dark, mythical wolf will frighten and amaze your guests, perfect for Halloween zoos.</description>
+      <title>Fictional</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/fictional/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/</guid>
+      <description>Animals that only exist in the depths our imaginations.</description>
     </item>
     <item>
       <title>Lemon Shark</title>
@@ -58,13 +58,6 @@
       <description>The Spotted Hyena requires the Endangered Species and African Adventure expansions to use.</description>
     </item>
     <item>
-      <title>Fictional</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/fictional/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/</guid>
-      <description>Animals that only exist in the depths our imaginations.</description>
-    </item>
-    <item>
       <title>King Cheetah</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/king-cheetah/</link>
       <pubDate>Sun, 24 Nov 2024 03:00:00 +0000</pubDate>
@@ -84,6 +77,13 @@
       <pubDate>Sun, 24 Nov 2024 03:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/king-penguin/</guid>
       <description>A large penguin species with fixed alphabetical issues and fame stars in the mod.</description>
+    </item>
+    <item>
+      <title>Extinct</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/extinct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/</guid>
+      <description>Prehistoric, ice age, recently-extinct all go here.</description>
     </item>
     <item>
       <title>Kodiak Bear</title>
@@ -238,13 +238,6 @@
       <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/fictional/fenris-wolf/</guid>
       <description>Fenrir’s descendants are larger than normal wolves and feature multiple skins.</description>
-    </item>
-    <item>
-      <title>Fenris Wolf II</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/fictional/fenris-wolf-ii/</link>
-      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/fenris-wolf-ii/</guid>
-      <description>This dark, mythical wolf will frighten and amaze your guests, perfect for Halloween zoos.</description>
     </item>
     <item>
       <title>Fishing Cat</title>
