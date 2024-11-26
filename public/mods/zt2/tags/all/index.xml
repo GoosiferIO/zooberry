@@ -6,7 +6,7 @@
     <description>Recent content in All on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2024 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 01:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/all/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Animal Variants</title>
@@ -14,6 +14,139 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/</guid>
       <description>Variant skins usually keep the original base skins but add new ones that can spawn in for additional variety.</description>
+    </item>
+    <item>
+      <title>Komodo Dragon Variant Skin</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/komodo-dragon-variant-skin/</link>
+      <pubDate>Tue, 26 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/komodo-dragon-variant-skin/</guid>
+      <description>A brown variant skin for the Komodo Dragon, the author&amp;rsquo;s first download.</description>
+    </item>
+    <item>
+      <title>Komodo Dragon Variants</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/komodo-dragon-variants/</link>
+      <pubDate>Tue, 26 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/komodo-dragon-variants/</guid>
+      <description>Three variants for Komodo Dragons, featuring unique skin variations.</description>
+    </item>
+    <item>
+      <title>Light Bongo Variant</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/light-bongo-variant/</link>
+      <pubDate>Tue, 26 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/light-bongo-variant/</guid>
+      <description>A lighter, more orange variation for the Bongo.</description>
+    </item>
+    <item>
+      <title>Manta Ray Variants</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/manta-ray-variants/</link>
+      <pubDate>Tue, 26 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/manta-ray-variants/</guid>
+      <description>Three Manta Ray variants with varying brightnesses of blue.</description>
+    </item>
+    <item>
+      <title>Realistic Nile Monitor Variant Skin</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/nile-monitor-variant-skin/</link>
+      <pubDate>Tue, 26 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/nile-monitor-variant-skin/</guid>
+      <description>A more realistic variant skin for the Nile Monitor Lizard.</description>
+    </item>
+    <item>
+      <title>Secretary Bird Variants</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/secretary-bird-variants/</link>
+      <pubDate>Tue, 26 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/secretary-bird-variants/</guid>
+      <description>Two grey variants for the Secretary Bird.</description>
+    </item>
+    <item>
+      <title>Texture Mods</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/</guid>
+      <description>Mods that simply modify in-game textures in any capacity.</description>
+    </item>
+    <item>
+      <title>Two Gerenuk Variants</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/gerenuk-variants/</link>
+      <pubDate>Tue, 26 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/gerenuk-variants/</guid>
+      <description>Two variant skins for the Gerenuk, orangish and dull brown.</description>
+    </item>
+    <item>
+      <title>Two Ratel Variants</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/ratel-variants/</link>
+      <pubDate>Tue, 26 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/ratel-variants/</guid>
+      <description>Two variants of the Ratel, featuring different back colors.</description>
+    </item>
+    <item>
+      <title>Warthog Variants</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/warthog-variants/</link>
+      <pubDate>Tue, 26 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/warthog-variants/</guid>
+      <description>Three variant skins for both male and female warthogs.</description>
+    </item>
+    <item>
+      <title>Whale Shark Variants</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/whale-shark-variants/</link>
+      <pubDate>Tue, 26 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/whale-shark-variants/</guid>
+      <description>One lighter and one darker variant for the Whale Shark.</description>
+    </item>
+    <item>
+      <title>White Jaguar Skins</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/white-jaguar-skins/</link>
+      <pubDate>Tue, 26 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/white-jaguar-skins/</guid>
+      <description>A couple of white jaguar skins, requiring medium or high graphics settings.</description>
+    </item>
+    <item>
+      <title>White Lion Variant</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/white-lion-variant-skin/</link>
+      <pubDate>Tue, 26 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/white-lion-variant-skin/</guid>
+      <description>A white lion variant skin, the author&amp;rsquo;s first download.</description>
+    </item>
+    <item>
+      <title>White Rhino Variants</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/white-rhino-variants/</link>
+      <pubDate>Tue, 26 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/white-rhino-variants/</guid>
+      <description>Two variant skins for the White Rhinoceros.</description>
+    </item>
+    <item>
+      <title>White Wolf Variant</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/white-wolf-variant-skin/</link>
+      <pubDate>Tue, 26 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/white-wolf-variant-skin/</guid>
+      <description>A white wolf variant skin created by Acapella.</description>
+    </item>
+    <item>
+      <title>Wildebeest Variants</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/wildebeest-variants/</link>
+      <pubDate>Tue, 26 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/wildebeest-variants/</guid>
+      <description>Two wildebeest variants, one tannish and one grey with tan legs.</description>
+    </item>
+    <item>
+      <title>Wolverine Variants</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/wolverine-variants/</link>
+      <pubDate>Tue, 26 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/wolverine-variants/</guid>
+      <description>A set of four variant skins for the Wolverine.</description>
+    </item>
+    <item>
+      <title>Zebra Variant</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/zebra-variant/</link>
+      <pubDate>Tue, 26 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/zebra-variant/</guid>
+      <description>A common zebra variant with bold white-on-black coloration.</description>
+    </item>
+    <item>
+      <title>Zoo Tycoon 2</title>
+      <link>https://www.zooberry.org/mods/zt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/</guid>
+      <description>Mods for the Zoo Tycoon sequel released in 2004.</description>
     </item>
     <item>
       <title>Canopies</title>
@@ -79,13 +212,6 @@
       <description>A spooky Halloween-themed path collection created by T&amp;rsquo;ni.</description>
     </item>
     <item>
-      <title>Texture Mods</title>
-      <link>https://www.zooberry.org/mods/zt2/texture-mods/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/texture-mods/</guid>
-      <description>Mods that simply modify in-game textures in any capacity.</description>
-    </item>
-    <item>
       <title>Tiger Bench</title>
       <link>https://www.zooberry.org/mods/zt2/objects/zootilities/tiger-bench/</link>
       <pubDate>Mon, 25 Nov 2024 23:00:00 +0000</pubDate>
@@ -135,13 +261,6 @@
       <description>A zebra-themed viewing canopy for your zoo.</description>
     </item>
     <item>
-      <title>Zoo Tycoon 2</title>
-      <link>https://www.zooberry.org/mods/zt2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/</guid>
-      <description>Mods for the Zoo Tycoon sequel released in 2004.</description>
-    </item>
-    <item>
       <title>Zootilities</title>
       <link>https://www.zooberry.org/mods/zt2/objects/zootilities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -170,6 +289,13 @@
       <description>A detailed and fun-to-watch Dall&amp;rsquo;s Porpoise for your zoo.</description>
     </item>
     <item>
+      <title>Extinct</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/extinct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/</guid>
+      <description>Prehistoric, ice age, recently-extinct all go here.</description>
+    </item>
+    <item>
       <title>Great Plains Wolf</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/great-plains-wolf/</link>
       <pubDate>Mon, 25 Nov 2024 21:30:00 +0000</pubDate>
@@ -185,9 +311,9 @@
     </item>
     <item>
       <title>Scutosaurus</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/scutosaurus/</link>
+      <link>https://www.zooberry.org/mods/zt2/animals/extinct/scutosaurus/</link>
       <pubDate>Mon, 25 Nov 2024 21:30:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/scutosaurus/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/scutosaurus/</guid>
       <description>A prehistoric animal that lived around 250 million years ago, created by Papa Panda.</description>
     </item>
     <item>
@@ -546,13 +672,6 @@
       <pubDate>Sun, 24 Nov 2024 03:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/king-penguin/</guid>
       <description>A large penguin species with fixed alphabetical issues and fame stars in the mod.</description>
-    </item>
-    <item>
-      <title>Extinct</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/extinct/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/</guid>
-      <description>Prehistoric, ice age, recently-extinct all go here.</description>
     </item>
     <item>
       <title>Kodiak Bear</title>
@@ -2905,6 +3024,20 @@
       <pubDate>Sat, 30 Dec 2023 00:33:45 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/zebroid/</guid>
       <description>A zebroid is a cross between a zebra and any other equid: essentially, a zebra hybrid.</description>
+    </item>
+    <item>
+      <title>White Giraffe Variant</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/white-giraffe-variant/</link>
+      <pubDate>Sun, 26 Nov 2023 01:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/white-giraffe-variant/</guid>
+      <description>A requested white giraffe variant for reticulated giraffes.</description>
+    </item>
+    <item>
+      <title>White Meerkat Variants</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/white-meerkat-variants/</link>
+      <pubDate>Sat, 25 Nov 2023 23:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/white-meerkat-variants/</guid>
+      <description>White Meerkat Variants as part of the author&amp;rsquo;s white variant project.</description>
     </item>
     <item>
       <title>Arctic Fox</title>

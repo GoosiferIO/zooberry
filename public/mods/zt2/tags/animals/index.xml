@@ -30,6 +30,13 @@
       <description>A detailed and fun-to-watch Dall&amp;rsquo;s Porpoise for your zoo.</description>
     </item>
     <item>
+      <title>Extinct</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/extinct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/</guid>
+      <description>Prehistoric, ice age, recently-extinct all go here.</description>
+    </item>
+    <item>
       <title>Great Plains Wolf</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/great-plains-wolf/</link>
       <pubDate>Mon, 25 Nov 2024 21:30:00 +0000</pubDate>
@@ -45,9 +52,9 @@
     </item>
     <item>
       <title>Scutosaurus</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/scutosaurus/</link>
+      <link>https://www.zooberry.org/mods/zt2/animals/extinct/scutosaurus/</link>
       <pubDate>Mon, 25 Nov 2024 21:30:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/scutosaurus/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/scutosaurus/</guid>
       <description>A prehistoric animal that lived around 250 million years ago, created by Papa Panda.</description>
     </item>
     <item>
@@ -259,13 +266,6 @@
       <pubDate>Sun, 24 Nov 2024 03:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/king-penguin/</guid>
       <description>A large penguin species with fixed alphabetical issues and fame stars in the mod.</description>
-    </item>
-    <item>
-      <title>Extinct</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/extinct/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/</guid>
-      <description>Prehistoric, ice age, recently-extinct all go here.</description>
     </item>
     <item>
       <title>Kodiak Bear</title>
