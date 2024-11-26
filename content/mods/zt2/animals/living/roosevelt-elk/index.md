@@ -18,6 +18,7 @@ alt_text:
 summary: "A Roosevelt Elk made by ShenTirag in 2006; originally released on Shen's Den."
 languages:
 - English
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Ungulates", "Living", "North American", "Endangered Species"]
 ---
 
 A Roosevelt Elk made by ShenTirag in 2006; originally released on Shen's Den.

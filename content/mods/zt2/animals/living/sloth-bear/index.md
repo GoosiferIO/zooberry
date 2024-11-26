@@ -19,6 +19,7 @@ alt_text:
 languages:
 - English
 summary: "Sloth bears live in the tropical rainforest of India."
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Ursids", "Living", "Asian", "Endangered Species"]
 ---
 Sloth bears live in the tropical rainforest of India. In the wild sloth bears are omnivorous, but their diet depends greatly on the local habitat and season. Diet can consist of termites or other insects, grubs, raiding of cultivated crops, grass, honey, eggs, carrion, fruits, berries and flowers. At the zoo its diet may include omnivore chow, insects, honey, browse, eggs, and a wide variety of fruits and vegetables.
 

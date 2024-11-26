@@ -19,6 +19,7 @@ orig_rel_date: 2006-11-12
 summary: The slender-horned gazelle is the palest gazelle species, with a cream or
   yellow-white coloured body.
 title: Slender-horned Gazelle
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Ungulates", "Living", "African"]
 ---
 The slender-horned gazelle is the palest gazelle species, with a cream or yellow-white coloured body. The undersides are pure white, and there is a faint flank stripe. The facial markings are relatively faint, and are composed of a reddish nose stripe and bands running from the eyes to the nose. The slender ears are situated behind the horns, which are found in both sexes. In males they are long, slender, and slighly "S" shaped, growing 30-41 cm / 1-1.3 feet long.
 

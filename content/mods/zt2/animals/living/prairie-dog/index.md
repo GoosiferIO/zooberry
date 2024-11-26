@@ -18,19 +18,16 @@ summary: "A small rodent that lives in the prairies of North America."
 languages:
 - English
 - Dutch
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Rodents", "Living", "North American"]
 ---
 
 A small rodent that lives in the prairies of North America.
 
 
-Other Credits
-
-
+## Other Credits
 - Hendrix - Original model and coding
 
 
-Issues
-
-
+## Issues
 - Preview menu icon is visibly-contrasted with the other icons.
 - When approaching the animal to clean it in zookeeper mode, the selection marker that normally shows below a dirty animal is visibly bugged and might show purple in error. Appears fine after cleaning the animal.

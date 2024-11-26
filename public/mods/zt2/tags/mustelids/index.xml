@@ -30,6 +30,13 @@
       <description>Eurasian badgers are easily recognisable by the conspicuous black and white stripes running from the nose to the shoulders.</description>
     </item>
     <item>
+      <title>Skunk</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/skunk/</link>
+      <pubDate>Tue, 09 Jan 2024 07:53:14 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/skunk/</guid>
+      <description>Skunks produce a very smelly spray that repels most predators. This oily, yellow liquid is produced in two glands located under the tail.</description>
+    </item>
+    <item>
       <title>European Badger</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/european-badger/</link>
       <pubDate>Sun, 19 Nov 2023 00:16:46 -0800</pubDate>
@@ -42,6 +49,13 @@
       <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/long-tailed-weasel/</guid>
       <description>This is a North American weasel for ZT2. It contains 2 variants (not shown) - white and brown with light facial markings.</description>
+    </item>
+    <item>
+      <title>Pine Marten</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/pine-marten/</link>
+      <pubDate>Tue, 18 Jul 2023 17:30:46 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/pine-marten/</guid>
+      <description>A small boreal forest mustelid.</description>
     </item>
   </channel>
 </rss>

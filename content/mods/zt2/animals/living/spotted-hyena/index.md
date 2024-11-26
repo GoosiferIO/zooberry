@@ -20,6 +20,7 @@ alt_text:
 languages:
 - English
 summary: "Spotted hyenas are the largest member of the family Hyaenidae. This family also includes three other hyena species."
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Hyaenids", "Living", "African"]
 ---
 Spotted hyenas are the largest member of the family Hyaenidae. This family also includes three other hyena species: the aardwolf; the striped hyena (*Hyaena hyaena*); and the brown hyena (*Parahyaena brunnea*). Many researchers consider hyenas the evolutionary 'link' between dogs and cats, but more closely related to cats.
 

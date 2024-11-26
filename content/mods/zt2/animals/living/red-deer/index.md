@@ -19,10 +19,11 @@ orig_rel_date: 2006-01-21
 summary: Red deer have a reddish-brown coat, which changes to a brownish-grey in the
   winter.
 title: Red Deer
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Ungulates", "Living", "European"]
 ---
 Red deer have a reddish-brown coat, which changes to a brownish-grey in the winter. They have a creamy patch on their rump and a short, beige tail. Only the males carry antlers, which they lose in February to April. They grow new antlers in August. Red deer are browsers, and feed on grasses, herbs, leaves, buds, shoots and bark. Red deer are active both day and night, but activity peaks at dawn and dusk.
 
-Unlike most other downloads by Penguinman, this one was created solely by himself. It includes a gift for guests to purchase.
+It includes a gift for guests to purchase.
 
-**This download has one known issue:**
+## Known Issues
 - Small parts of young's body occassionally blink black for a second. This isn't too obtrusive and the gameplay is without any problems.
