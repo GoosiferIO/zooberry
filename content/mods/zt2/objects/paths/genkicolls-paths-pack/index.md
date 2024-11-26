@@ -19,6 +19,7 @@ summary: A selection of genkicoll's wonderful paths that she has made for ZT1, r
   with permission for use in ZT2.  Enjoy wooden, sandstone, shadowstone and other
   paths in your zoos!
 title: Genkicoll's ZT1 Paths for ZT2 Pack
+zt2tags: ["All", "ZT2", "Objects", "Paths", "Packs"]
 ---
 
 A selection of genkicoll's wonderful paths that she has made for ZT1, replicated with permission for use in ZT2.  Enjoy wooden, sandstone, shadowstone and other paths in your zoos!

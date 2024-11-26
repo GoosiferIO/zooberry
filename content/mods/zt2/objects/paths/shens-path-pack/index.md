@@ -18,7 +18,7 @@ alt_text:
 languages:
 - English
 summary: "A pack with 12 new paths!"
-
+zt2tags: ["All", "ZT2", "Objects", "Paths", "Packs"]
 ---
 
 Includes:

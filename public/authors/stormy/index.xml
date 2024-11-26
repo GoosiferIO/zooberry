@@ -6,8 +6,78 @@
     <description>Recent content in Stormy on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2024 21:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 23:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/authors/stormy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cotton Candy Bench</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/cotton-candy-bench/</link>
+      <pubDate>Mon, 25 Nov 2024 23:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/cotton-candy-bench/</guid>
+      <description>A very pink bench designed to look like cotton candy.</description>
+    </item>
+    <item>
+      <title>Inlaid Stone Picnic Table</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/inlaid-stone-picnic-table/</link>
+      <pubDate>Mon, 25 Nov 2024 23:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/inlaid-stone-picnic-table/</guid>
+      <description>A classic-looking picnic table for your guests.</description>
+    </item>
+    <item>
+      <title>Jungle Bench</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/jungle-bench/</link>
+      <pubDate>Mon, 25 Nov 2024 23:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/jungle-bench/</guid>
+      <description>Jungle-themed benches to let your guests rest.</description>
+    </item>
+    <item>
+      <title>Paw Prints Bench</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/paw-prints-bench/</link>
+      <pubDate>Mon, 25 Nov 2024 23:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/paw-prints-bench/</guid>
+      <description>A cute bench covered in paw prints, part of a matching set.</description>
+    </item>
+    <item>
+      <title>Paw Prints Trashcan</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/paw-prints-trashcan/</link>
+      <pubDate>Mon, 25 Nov 2024 23:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/paw-prints-trashcan/</guid>
+      <description>A cute trashcan covered in paw prints, part of a matching set.</description>
+    </item>
+    <item>
+      <title>Tiger Bench</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/tiger-bench/</link>
+      <pubDate>Mon, 25 Nov 2024 23:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/tiger-bench/</guid>
+      <description>A wild tiger-patterned bench to spice up your zoo.</description>
+    </item>
+    <item>
+      <title>Unleashed Bench</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/unleashed-bench/</link>
+      <pubDate>Mon, 25 Nov 2024 23:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/unleashed-bench/</guid>
+      <description>A bench made to celebrate ZTUF.</description>
+    </item>
+    <item>
+      <title>Zebra Picnic Table</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/zebra-picnic-table/</link>
+      <pubDate>Mon, 25 Nov 2024 23:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/zebra-picnic-table/</guid>
+      <description>A zebra-themed picnic table for your zoo.</description>
+    </item>
+    <item>
+      <title>Zebra Trashcan</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/zebra-trashcan/</link>
+      <pubDate>Mon, 25 Nov 2024 23:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/zebra-trashcan/</guid>
+      <description>A zebra-themed trashcan for your zoo.</description>
+    </item>
+    <item>
+      <title>Zebra Viewing Canopy</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/canopies/zebra-viewing-canopy/</link>
+      <pubDate>Mon, 25 Nov 2024 23:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/canopies/zebra-viewing-canopy/</guid>
+      <description>A zebra-themed viewing canopy for your zoo.</description>
+    </item>
     <item>
       <title>Borneo Clouded Leopard</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/borneo-clouded-leopard/</link>

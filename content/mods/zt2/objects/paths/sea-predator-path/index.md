@@ -17,6 +17,7 @@ alt_text:
 summary: "This path is part of the Predators of the Seas Expanion Pack, and was the first non-animal and non-biome item created for it."
 languages:
 - English
+zt2tags: ["All", "ZT2", "Objects", "Paths"]
 ---
 
 This path is part of the Predators of the Seas Expanion Pack, and was the first non-animal and non-biome item created for it.
