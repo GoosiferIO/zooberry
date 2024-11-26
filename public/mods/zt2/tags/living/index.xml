@@ -6,8 +6,43 @@
     <description>Recent content in Living on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2024 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 14:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/living/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cameroon Dwarf Goat</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/cameroon-dwarf-goat/</link>
+      <pubDate>Mon, 25 Nov 2024 14:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/cameroon-dwarf-goat/</guid>
+      <description>Pygmy goats originally came from the Cameroon region of West Africa but are now found as pets in many places.</description>
+    </item>
+    <item>
+      <title>Caracal</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/caracal/</link>
+      <pubDate>Mon, 25 Nov 2024 14:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/caracal/</guid>
+      <description>A very cute little Caracal created entirely by Exitree.</description>
+    </item>
+    <item>
+      <title>Caribbean Flamingo (ES Version)</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/caribbean-flamingo-es/</link>
+      <pubDate>Mon, 25 Nov 2024 14:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/caribbean-flamingo-es/</guid>
+      <description>The Caribbean flamingos are brightest, showing their true colors of red, pink, or orange on their legs, bills, and faces. Includes 100% Endangered Species design.</description>
+    </item>
+    <item>
+      <title>Chinstrap Penguin</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/chinstrap-penguin/</link>
+      <pubDate>Mon, 25 Nov 2024 14:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/chinstrap-penguin/</guid>
+      <description>This penguin lives in the sub-Antarctic islands. Coded by Penguinman with skins by Electric Eel.</description>
+    </item>
+    <item>
+      <title>Living</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/</guid>
+      <description>Animals that still roam the Earth today.</description>
+    </item>
     <item>
       <title>Caribbean Flamingo</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/caribbean-flamingo/</link>
@@ -23,11 +58,18 @@
       <description>The ES version of one of the gazelles in the Gazelle Pack by SilesianTomcat.</description>
     </item>
     <item>
-      <title>Living</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/</guid>
-      <description>Animals that still roam the Earth today.</description>
+      <title>Domestic Donkey</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/domestic-donkey/</link>
+      <pubDate>Mon, 25 Nov 2024 13:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/domestic-donkey/</guid>
+      <description>Domestic Donkey</description>
+    </item>
+    <item>
+      <title>Domestic Donkey (ES Version)</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/domestic-donkey-es/</link>
+      <pubDate>Mon, 25 Nov 2024 13:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/domestic-donkey-es/</guid>
+      <description>Domestic Donkey: 100% Endangered Species design. Includes new skin, sound, food, and enrichment.</description>
     </item>
     <item>
       <title>European Beaver</title>
@@ -98,20 +140,6 @@
       <pubDate>Sun, 24 Nov 2024 02:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/rhea/</guid>
       <description>A large, flightless bird of South America with new skin, sound, and enrichment.</description>
-    </item>
-    <item>
-      <title>Domestic Donkey</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/domestic-donkey/</link>
-      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/domestic-donkey/</guid>
-      <description>Domestic Donkey</description>
-    </item>
-    <item>
-      <title>Domestic Donkey (ES Version)</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/domestic-donkey-es/</link>
-      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/domestic-donkey-es/</guid>
-      <description>Domestic Donkey: 100% Endangered Species design. Includes new skin, sound, food, and enrichment.</description>
     </item>
     <item>
       <title>Forest Elephant</title>
@@ -545,7 +573,7 @@
       <link>https://www.zooberry.org/mods/zt2/animals/living/clouded-leopard/</link>
       <pubDate>Tue, 09 Jan 2024 07:53:14 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/clouded-leopard/</guid>
-      <description>The clouded leopard is sufficiently distinct from other members of the Felidae family to be placed in a separate genus.</description>
+      <description>A tropical rainforest cat from Southeast Asia. This amazing tropical rainforest cat is coded by Penguinman and recolored by Exitree. Enjoy!</description>
     </item>
     <item>
       <title>Eurasian Badger</title>

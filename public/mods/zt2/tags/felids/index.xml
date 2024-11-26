@@ -6,8 +6,15 @@
     <description>Recent content in Felids on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Nov 2024 03:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 14:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/felids/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Caracal</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/caracal/</link>
+      <pubDate>Mon, 25 Nov 2024 14:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/caracal/</guid>
+      <description>A very cute little Caracal created entirely by Exitree.</description>
+    </item>
     <item>
       <title>King Cheetah</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/king-cheetah/</link>
@@ -34,7 +41,7 @@
       <link>https://www.zooberry.org/mods/zt2/animals/living/clouded-leopard/</link>
       <pubDate>Tue, 09 Jan 2024 07:53:14 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/clouded-leopard/</guid>
-      <description>The clouded leopard is sufficiently distinct from other members of the Felidae family to be placed in a separate genus.</description>
+      <description>A tropical rainforest cat from Southeast Asia. This amazing tropical rainforest cat is coded by Penguinman and recolored by Exitree. Enjoy!</description>
     </item>
     <item>
       <title>Eastern Cougar</title>
