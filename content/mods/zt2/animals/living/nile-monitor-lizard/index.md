@@ -19,7 +19,7 @@ alt_text:
 languages:
 - English
 summary: "The Nile monitor is distributed across most of Africa, except the northwest."
-zt2tags: ["All", "ZT2", "Animals", "Living", "Reptiles", "African", "Endangered Species"]
+zt2tags: ["All", "ZT2", "Animals", "Living", "Reptiles", "African" ]
 
 ---
 Note: this animal has a different codename than the official Nile monitor from Zoo Tycoon 2: African Adventure. This means that they are compatible with eachother and you can use both at the same time.

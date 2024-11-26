@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2007-01-01
 summary: A bright green butterfly with shiny copper trimmings, often seen flying over MM waters.
 title: Malachite Butterfly
-zt2tags: ["All", "Ambients", "Animals", "ZT2", "Marine Mania 2"]
+zt2tags: ["All", "Ambients", "Animals", "ZT2" ]
 ---
 A bright green butterfly with shiny copper trimmings, often seen flying over MM waters.
 

@@ -20,7 +20,7 @@ summary: "A blesbok made by Gerben and Jannick."
 languages:
 - English
 - Dutch
-zt2tags: ["All", "Animals", "Living", "Mammals", "African Adventure", "Ungulates", "ZT2", "African"]
+zt2tags: ["All", "Animals", "Living", "Mammals" , "Ungulates", "ZT2", "African"]
 ---
 
 A blesbok made by Gerben and Jannick.

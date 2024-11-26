@@ -19,6 +19,6 @@ orig_rel_at:
 orig_rel_date: 2006-01-22
 summary: A tropical rainforest cat from Southeast Asia. This amazing tropical rainforest cat is coded by Penguinman and recolored by Exitree. Enjoy!
 title: Clouded Leopard
-zt2tags: ["All", "Living", "Mammals", "Felids", "Asian", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Living", "Mammals", "Felids", "Asian", "ZT2" ]
 ---
 A tropical rainforest cat from Southeast Asia. This amazing tropical rainforest cat is coded by Penguinman and recolored by Exitree. Enjoy!

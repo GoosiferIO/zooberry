@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2006-06-01
 summary: An ambient sheep that randomly appears and moves through obstructions in your zoo.
 title: Ambient Sheep
-zt2tags: ["All", "Ambients", "Animals", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Ambients", "Animals", "ZT2" ]
 ---
 An ambient sheep that randomly appears and moves through obstructions in your zoo.

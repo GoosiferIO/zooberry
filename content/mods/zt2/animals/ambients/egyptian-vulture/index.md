@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2006-07-01
 summary: A scavenging bird that flies over your zoo, famous for using stones to break eggs.
 title: Egyptian Vulture
-zt2tags: ["All", "Ambients", "Animals", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Ambients", "Animals", "ZT2" ]
 ---
 A scavenging bird that flies over your zoo, famous for using stones to break eggs.

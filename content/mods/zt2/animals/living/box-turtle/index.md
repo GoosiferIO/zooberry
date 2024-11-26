@@ -22,7 +22,7 @@ orig_rel_date: 2005-12-23
 summary: The ornate box turtle is one of two turtle species on the Great Plains that
   are terrestrial.
 title: Ornate Box Turtle
-zt2tags: ["All", "ZT2", "Animals", "Living", "Reptiles", "North American", "Endangered Species"]
+zt2tags: ["All", "ZT2", "Animals", "Living", "Reptiles", "North American" ]
 ---
 The ornate box turtle is one of two turtle species on the Great Plains that are terrestrial. The other land-dweller is its close cousin the eastern box turtle (*Terrapene carolina*), whose range covers most of the eastern United States and includes the tallgrass prairie from Kansas to Texas. The eastern box turtle's shell is olive drab in color, which readily distinguishes it from the complicated color pattern of the ornate's.
 

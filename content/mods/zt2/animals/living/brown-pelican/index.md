@@ -18,7 +18,7 @@ license: Unknown
 languages:
 - English
 summary: "A large, colourful Pelican found in South and Central America. Has 2 varients, biome is Reef."
-zt2tags: ["All", "ZT2", "Animals", "Living", "Birds", "Marine Mania 2"]
+zt2tags: ["All", "ZT2", "Animals", "Living", "Birds" ]
 ---
 
 A large, colourful Pelican found in South and Central America. Has 2 varients, biome is Reef.

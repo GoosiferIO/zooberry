@@ -18,7 +18,7 @@ alt_text:
 languages:
 - English
 summary: "A large goat from the Himalayas."
-zt2tags: ["All", "Animals", "Living", "Mammals", "Ungulates", "Asian", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Animals", "Living", "Mammals", "Ungulates", "Asian", "ZT2" ]
 
 ---
 

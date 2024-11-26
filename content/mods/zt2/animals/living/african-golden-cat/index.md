@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2006-10-23
 summary: A medium-sized cat with polymorphic coat colors found in tropical rainforests.
 title: African Golden Cat
-zt2tags: ["All", "Animals", "Mammals", "ZT2", "Endangered Species", "Tropical Rainforest"]
+zt2tags: ["All", "Animals", "Mammals", "ZT2" , "Tropical Rainforest"]
 ---
 A medium-sized cat with polymorphic coat colors found in tropical rainforests.

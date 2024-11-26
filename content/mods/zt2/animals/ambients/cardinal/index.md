@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2006-07-01
 summary: A cardinal that flies over your zoo, commonly found in North America.
 title: Cardinal
-zt2tags: ["All", "Ambients", "Animals", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Ambients", "Animals", "ZT2" ]
 ---
 A cardinal that flies over your zoo, commonly found in North America.

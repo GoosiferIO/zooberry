@@ -18,6 +18,6 @@ orig_rel_at:
 orig_rel_date: 2005-11-25
 summary: Here is the Fallow Deer. It is coded by Penguinman and beautifully recolored by Exitree. I hope you enjoy this European animal!
 title: Fallow Deer
-zt2tags: ["All", "Living", "Mammals", "Ungulates", "European", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Living", "Mammals", "Ungulates", "European", "ZT2" ]
 ---
 Here is the Fallow Deer. It is coded by Penguinman and beautifully recolored by Exitree. I hope you enjoy this European animal!

@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2005-12-28
 summary: Includes 100% Endangered Species design with new features for the American Alligator.
 title: American Alligator (ES Version)
-zt2tags: ["All", "ZT2", "Animals", "Reptiles", "Living", "North American", "Endangered Species"]
+zt2tags: ["All", "ZT2", "Animals", "Reptiles", "Living", "North American" ]
 ---
 American Alligator (ES Version) with 100% Endangered Species design: new skin, sound, food, and enrichment. Every animal has a new gift in the gift cart.
 

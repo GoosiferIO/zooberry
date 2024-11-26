@@ -20,7 +20,7 @@ orig_rel_date: 2007-02-10
 summary: This species of jellyfish, commonly known as mauve stinger, is widely distributed
   in all warm and temperate waters.
 title: Mauve Stinger
-zt2tags: ["All", "ZT2", "Animals", "Living", "Invertebrates", "Jellyfish", "Marine Mania 2", "Aquatic"]
+zt2tags: ["All", "ZT2", "Animals", "Living", "Invertebrates", "Jellyfish" , "Aquatic"]
 ---
 This species of jellyfish, commonly known as mauve stinger amongst many other common names, is widely distributed in all warm and temperate waters such as the Mediterranean Sea, Red Sea and Atlantic Ocean. There were also some sightings of this species in Hawaii. In Greek pelagia means “of the sea”, nocti stands for night and luca means light, thus *Pelagia noctiluca* can be described as a marine organism with the ability to glow in the dark.
 

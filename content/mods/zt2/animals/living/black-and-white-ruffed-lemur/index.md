@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2006-01-27
 summary: Black and White Ruffed Lemur with two skin variants and original sounds.
 title: Black and White Ruffed Lemur
-zt2tags: ["All", "ZT2", "Animals", "Mammals", "Primates", "Endangered Species", "Living", "African"]
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Primates" , "Living", "African"]
 ---
 Black and White Ruffed Lemur with two skin variants and original sounds.
 

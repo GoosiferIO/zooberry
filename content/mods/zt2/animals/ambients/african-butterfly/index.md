@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2007-02-15
 summary: An ambient African Sangrias butterfly. She is the only blood-red butterfly in the world and lives in the Savannah, Desert and Grassland. Requires ES to work.
 title: African Butterfly
-zt2tags: ["All", "Ambients", "Animals", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Ambients", "Animals", "ZT2" ]
 ---
 An ambient African Sangrias butterfly. She is the only blood-red butterfly in the world and lives in the Savannah, Desert and Grassland. Requires ES to work.

@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2005-12-28
 summary: 'Domestic Donkey: 100% Endangered Species design. Includes new skin, sound, food, and enrichment.'
 title: Domestic Donkey (ES Version)
-zt2tags: ["All", "Living", "Mammals", "Ungulates", "Domestic", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Living", "Mammals", "Ungulates", "Domestic", "ZT2" ]
 ---
 Domestic Donkey: 100% Endangered Species design. New skin, new sound, new food, new enrichment. Every animal has new gift in the gift cart.
 

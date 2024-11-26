@@ -20,7 +20,7 @@ summary: "A giant anteater by Hendrix and German13."
 languages:
 - English
 - German
-zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "South American", "African Adventure", "Pilosans"]
+zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "South American" , "Pilosans"]
 ---
 
  From the Zoopedia 

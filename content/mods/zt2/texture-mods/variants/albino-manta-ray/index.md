@@ -16,6 +16,6 @@ orig_rel_at:
 orig_rel_date: 2009-03-24
 summary: A nice albino manta ray variant for your zoo, created by Zoo Tycoon Rocks.
 title: Albino Manta Ray
-zt2tags: ["All", "Animal Variants", "ZT2", "Marine Mania 2"]
+zt2tags: ["All", "Animal Variants", "ZT2" ]
 ---
 A nice albino manta ray variant for your zoo, created by Zoo Tycoon Rocks.

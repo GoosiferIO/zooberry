@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2007-01-01
 summary: 'An Indian antelope. Note: the blackbuck has no thirst need.'
 title: Blackbuck
-zt2tags: ["All", "Animals", "Ungulates", "ZT2", "African Adventure"]
+zt2tags: ["All", "Animals", "Ungulates", "ZT2" ]
 ---
 An Indian antelope. Note: the blackbuck has no thirst need.

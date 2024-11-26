@@ -21,7 +21,7 @@ orig_rel_date: 2005-11-27
 summary: A white dorsal stripe extends back over the head from the nose of the American
   badger.
 title: American Badger
-zt2tags: ["All", "ZT2", "Animals", "Mammals", "Mustelids", "Living", "North American", "Endangered Species"]
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Mustelids", "Living", "North American" ]
 
 ---
 Here is the American Badger! I hope you enjoy this North American grassland animal. It is coded by Penguinman and recolored by Exitree. It contains one variant skin and is only compatible with the Endangered Species pack.

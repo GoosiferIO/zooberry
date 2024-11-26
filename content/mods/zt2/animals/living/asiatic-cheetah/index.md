@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2005-10-03
 summary: An endangered cheetah from Asia with no description provided.
 title: Asiatic Cheetah
-zt2tags: ["All", "ZT2", "Animals", "Mammals", "Felids", "Living", "Asian", "Endangered Species"]
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Felids", "Living", "Asian" ]
 ---
 No description available.
 

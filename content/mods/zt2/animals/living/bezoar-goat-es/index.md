@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2006-01-01
 summary: The wild ancestor of domestic goats, created for Endangered Species pack.
 title: Bezoar Goat (ES Version)
-zt2tags: ["All", "ZT2", "Animals", "Mammals", "Ungulates", "Living", "Asian", "Endangered Species"]
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Ungulates", "Living", "Asian" ]
 ---
 The wild ancestor of domestic goats. Version for the Endangered Species pack.

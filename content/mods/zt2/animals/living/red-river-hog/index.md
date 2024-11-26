@@ -20,7 +20,7 @@ summary: "The Red River Hog is a species of wild pig native to Africa."
 languages:
 - English
 - Dutch
-zt2tags: ["All", "ZT2", "Animals", "Mammals", "Ungulates", "Living", "African", "African Adventure"]
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Ungulates", "Living", "African" ]
 ---
 
 The Red River Hog (Potamochoerus porcus), often called the Bush Pig, is a species of wild pig native to Africa, predominantly found in the Guinean and Congolian forests. It typically inhabits rainforest regions close to rivers or swamps and is rarely seen in other environments.

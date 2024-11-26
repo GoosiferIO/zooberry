@@ -23,6 +23,6 @@ orig_rel_at:
 orig_rel_date: 2005-12-04
 summary: A South American savannah-dwelling canid with one variant skin.
 title: Maned Wolf
-zt2tags: ["All", "Animals", "Living", "Mammals", "Canids", "South American", "Endangered Species"]
+zt2tags: ["All", "Animals", "Living", "Mammals", "Canids", "South American" ]
 ---
 A South American savannah-dwelling canid with one variant skin.

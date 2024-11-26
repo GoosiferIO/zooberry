@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2006-10-23
 summary: Fishing cats are solitary and found in a variety of watery habitats. Includes skins, icons, and sound files.
 title: Fishing Cat
-zt2tags: ["All", "Animals", "Mammals", "ZT2", "Endangered Species", "Asian", "Felids"]
+zt2tags: ["All", "Animals", "Mammals", "ZT2" , "Asian", "Felids"]
 ---
 Fishing cats are solitary and found in a variety of watery habitats. Includes skins, icons, and sound files.

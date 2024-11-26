@@ -20,7 +20,7 @@ orig_rel_date: 2007-02-23
 summary: This jelly is commonly seen in Monterey Bay during spring and summer, sometimes
   in large groups.
 title: Cross Jellyfish
-zt2tags: ["All", "Animals", "Living", "Invertebrates", "Jellyfish", "ZT2", "Marine Mania 2", "Aquatic"]
+zt2tags: ["All", "Animals", "Living", "Invertebrates", "Jellyfish", "ZT2" , "Aquatic"]
 ---
 This jelly is commonly seen in Monterey Bay during spring and summer, sometimes in large groups. A cross jelly’s bell grows to about four inches in diameter and is rimmed with hundreds of fine white tentacles. Four white canals visible under the transparent bell form an obvious 'X' pattern, after which the cross jelly was named.
 

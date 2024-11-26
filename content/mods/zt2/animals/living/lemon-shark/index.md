@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2007-04-29
 summary: The Lemon Shark features two variations, with the darker variation as the default skin. Requires MM2 to use.
 title: Lemon Shark
-zt2tags: ["All", "Animals", "Living", "Fish", "Aquatic", "Marine Mania 2", "ZT2", "Elasmobranchs"]
+zt2tags: ["All", "Animals", "Living", "Fish", "Aquatic" , "ZT2", "Elasmobranchs"]
 ---
 There are two variations for the lemon shark. The darker of the two in the screenshot is the default skin.

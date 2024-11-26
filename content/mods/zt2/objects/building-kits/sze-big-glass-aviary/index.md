@@ -73,7 +73,7 @@ Snowleo's instructions roughly translated from German:
 
 **Snowleo's Zoo Equipment**
 
-- When using objects from the SZE range, "Zoo Tycoon 2" and the expansion packs "African Adventure", "Endangered Species", and "Marine Mania" should be installed.
+- When using objects from the SZE range, "Zoo Tycoon 2" and the expansion packs "African Adventure" , and "Marine Mania" should be installed.
 - Installation: Copy z2f archives from the SZE range directly into the Zoo Tycoon 2 program directory or along with the corresponding download file into the Zoo Tycoon 2 download directory.
 - All downloads are packed in a zip archive. In this zip archive, you will find the z2f archive to be copied into the Zoo Tycoon 2 program directory. For special objects and object kits, you will also find assembly instructions and information in .txt, .htm, or .html format.
 - Important: Do not rename original SZE archives, otherwise, the Zoopedia structure will not be displayed correctly.

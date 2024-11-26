@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2009-05-24
 summary: Three great albino animal variants for your zoo.
 title: Albino Animal Variant Pack
-zt2tags: ["All", "Packs", "Animal Variants", "ZT2", "Marine Mania 2"]
+zt2tags: ["All", "Packs", "Animal Variants", "ZT2" ]
 ---
 Three great albino animal variants for your zoo by Lupin12. This pack includes three albino animal variants:
 

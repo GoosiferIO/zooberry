@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2005-12-28
 summary: Includes 100% Endangered Species design with new features for the Asian Lion.
 title: Asian Lion (ES Version)
-zt2tags: ["All", "ZT2", "Animals", "Mammals", "Felids", "Living", "Asian", "Endangered Species"]
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Felids", "Living", "Asian" ]
 ---
 100% Endangered Species design: new skin, sound, food, and enrichment. Every animal has a new gift in the gift cart.
 

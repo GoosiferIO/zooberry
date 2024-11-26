@@ -21,6 +21,6 @@ orig_rel_date: 2006-01-21
 summary: The coat of Kirk's dik-dik is an overall grizzled grey-brown to reddish brown,
   while the head and legs are tawny in colour.
 title: Dik-Dik
-zt2tags: ["All", "Living", "Mammals", "Ungulates", "African", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Living", "Mammals", "Ungulates", "African", "ZT2" ]
 ---
 A cute ungulate coded by Penguinman and recolored by Exitree! Enjoy!

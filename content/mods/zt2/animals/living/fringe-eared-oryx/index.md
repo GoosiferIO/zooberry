@@ -19,7 +19,7 @@ alt_text:
 languages:
 - English
 summary: "The Fringe-Eared Oryx is a scrub dwelling antelope. It is a subspecies of gemsbok native to southern Africa. "
-zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "Ungulates", "Endangered Species", "African"]
+zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "Ungulates" , "African"]
 ---
 
 The Fringe-Eared Oryx is a scrub dwelling antelope. It is a subspecies of gemsbok native to southern Africa. 

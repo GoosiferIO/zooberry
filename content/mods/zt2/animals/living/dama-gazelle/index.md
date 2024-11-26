@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2005-12-28
 summary: The ES version of one of the gazelles in the Gazelle Pack by SilesianTomcat.
 title: Dama Gazelle (ES Version)
-zt2tags: ["All", "Living", "Mammals", "Ungulates", "African", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Living", "Mammals", "Ungulates", "African", "ZT2" ]
 ---
 The ES version of one of the gazelles in the Gazelle Pack by SilesianTomcat. 100% Endangered Species design. New skin, new sound, new food, and new enrichment. Every animal has new gift in the gift cart.
 

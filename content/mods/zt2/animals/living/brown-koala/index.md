@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2006-01-07
 summary: A recolor of the original koala. This is not a skin but a new animal.
 title: Brown Koala
-zt2tags: ["All", "Living", "Mammals", "Oceania", "ZT2", "Endangered Species", "Phascolarctids"]
+zt2tags: ["All", "Living", "Mammals", "Oceania", "ZT2" , "Phascolarctids"]
 ---
 Thanks to Penguinman's help and input, this Brown Koala can finally be released. 
 

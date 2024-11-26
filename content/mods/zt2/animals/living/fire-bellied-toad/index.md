@@ -19,7 +19,7 @@ alt_text:
 languages:
 - English
 summary: "Despite the remarkably vivid coloring of its underbelly, the Oriental fire-bellied toad merges perfectly with its surroundings."
-zt2tags: ["All", "Animals", "Living", "Amphibians", "ZT2", "Asian", "Endangered Species"]
+zt2tags: ["All", "Animals", "Living", "Amphibians", "ZT2", "Asian" ]
 ---
 Despite the remarkably vivid coloring of its underbelly, the Oriental fire-bellied toad merges perfectly with its surroundings; its dull brown to bright green back renders it almost invisible against the muddy margins of the pools and ponds where it lives. The back is also usually dotted with glossy black spots. The under parts are red or orange-red. This toad also has a tiny rounded head with large eyes that have heart-shaped pupils.
 

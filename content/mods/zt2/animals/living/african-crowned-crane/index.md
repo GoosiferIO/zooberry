@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2006-08-19
 summary: A crane with recolored skins and a nest, inspired by the Secretary Bird.
 title: African Crowned Crane
-zt2tags: ["All", "Animals", "Birds", "ZT2", "African Adventure"]
+zt2tags: ["All", "Animals", "Birds", "ZT2" ]
 ---
 A crane with recolored skins and a nest, inspired by the Secretary Bird.

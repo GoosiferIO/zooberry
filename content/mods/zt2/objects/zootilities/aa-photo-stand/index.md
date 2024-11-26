@@ -19,7 +19,7 @@ alt_text:
 languages:
 - English
 summary: "This stand contains photos of each of the 20 animals featured in the African Adventures expansion pack."
-zt2tags: ["All", "ZT2", "Zootilities", "African Adventure"]
+zt2tags: ["All", "ZT2", "Zootilities" ]
 ---
 
 This stand contains photos of each of the 20 animals featured in the African Adventures expansion pack.

@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2006-04-04
 summary: The tallest animal in the world, created for the Endangered Species pack.
 title: Baringo Giraffe (ES Version)
-zt2tags: ["All", "ZT2", "Animals", "Mammals", "Ungulates", "Living", "African", "Endangered Species"]
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Ungulates", "Living", "African" ]
 ---
 Baringo Giraffe - the tallest animal in the world. Second of Silesian Tomcat’s African Animals.
 

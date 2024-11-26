@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2007-01-01
 summary: A butterfly that appears randomly in your zoo, found near rivers and wetlands.
 title: Mourning Cloak Butterfly
-zt2tags: ["All", "Ambients", "Animals", "ZT2", "Marine Mania 2"]
+zt2tags: ["All", "Ambients", "Animals", "ZT2" ]
 ---
 A butterfly that appears randomly in your zoo, found near rivers and wetlands.

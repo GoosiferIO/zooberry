@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2006-03-12
 summary: Includes 100% Endangered Species design for the Asiatic Black Bear.
 title: Asiatic Black Bear (ES Version)
-zt2tags: ["All", "ZT2", "Animals", "Mammals", "Ursids", "Living", "Asian", "Endangered Species"]
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Ursids", "Living", "Asian" ]
 ---
 SilesianTomcat's black bear.  
 

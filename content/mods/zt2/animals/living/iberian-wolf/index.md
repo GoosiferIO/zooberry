@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2005-12-30
 summary: The Iberian wolf (*Canis lupus signatus*) is a critically endangered wolf native to Portugal and Spain.
 title: Iberian Wolf
-zt2tags: ["All", "Animals", "Living", "Mammals", "Canids", "European", "Endangered Species", "ZT2"]
+zt2tags: ["All", "Animals", "Living", "Mammals", "Canids", "European" , "ZT2"]
 ---
 The Iberian wolf (*Canis lupus signatus*) is a critically endangered wolf native to Portugal and Spain.

@@ -18,7 +18,7 @@ orig_rel_at:
 orig_rel_date: 2006-04-25
 summary: A European wetlands horse living in semi-wild conditions in the swampy areas of southern France.
 title: Camargue Wild Horse
-zt2tags: ["All", "Living", "Mammals", "Ungulates", "European", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Living", "Mammals", "Ungulates", "European", "ZT2" ]
 ---
 Here’s the Camargue Horse. This is a European wetlands horse living in semi-wild conditions in the swampy areas of southern France. The adult is white and also has a more greyish variant skin, while the babies are black.
 

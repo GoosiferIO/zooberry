@@ -20,7 +20,7 @@ alt_text:
 summary: "The Malayan Sun Bear is a small bear species that lives in the tropical forests of Southeast Asia."
 languages:
 - English
-zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "Ursids", "Asian", "Extinct Animals"]
+zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "Ursids", "Asian" ]
 ---
 
 The Malayan Sun Bear is a small bear species that lives in the tropical forests of Southeast Asia. It is the smallest bear species and is known for its distinctive yellowish crescent-shaped chest patch. The Malayan Sun Bear is an omnivorous animal that feeds on insects, fruits, and small animals.

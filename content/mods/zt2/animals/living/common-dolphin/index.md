@@ -20,7 +20,7 @@ alt_text:
 languages:
 - English
 summary: "Common dolphins can be found throughout the Atlantic and Pacific Oceans."
-zt2tags: ["All", "ZT2", "Animals", "Living", "Aquatic", "Mammals", "Cetaceans", "Marine Mania 2", "Endangered Species"]
+zt2tags: ["All", "ZT2", "Animals", "Living", "Aquatic", "Mammals", "Cetaceans"  ]
 ---
 Common dolphins can be found throughout the Atlantic and Pacific Oceans. They are abundant in the Mediterranean Sea, as well as in the Black Sea, the Gulf of Mexico, and the Red Sea. At times, these dolphins follow the Gulf Stream up to Norwegian waters. In addition, scattered populations have been found in the Indian Ocean and waters near Japan. They seldom venture into the Arctic.
 

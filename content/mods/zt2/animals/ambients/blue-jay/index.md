@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2006-07-01
 summary: A blue jay that flies over your zoo, commonly found in boreal and temperate forests.
 title: Blue Jay
-zt2tags: ["All", "Ambients", "Animals", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Ambients", "Animals", "ZT2" ]
 ---
 A blue jay that flies over your zoo, commonly found in boreal and temperate forests.

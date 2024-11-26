@@ -20,7 +20,7 @@ alt_text:
 languages:
 - English
 summary: "Arctic foxes are pure white in winter and grey-brown in summer. They can also be light brown, grey, chocolate, or black with a bluish hue."
-zt2tags: ["All", "ZT2", "Animals", "Mammals", "Canids", "Living", "Eurasian", "Endangered Species"]
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Canids", "Living", "Eurasian" ]
 ---
 Here is the Arctic Fox! This Arctic animal was made out of the baby wolf and created by Penguinman, with two variants (summer and blue) by Dwarfgouramis.
 

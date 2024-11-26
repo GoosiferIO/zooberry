@@ -20,6 +20,6 @@ orig_rel_at:
 orig_rel_date: 2006-01-23
 summary: Here is the Aardwolf! This African insectivore is coded by Penguinman and recolored by Exitree. Enjoy!
 title: Aardwolf
-zt2tags: ["All", "ZT2", "Animals", "Mammals", "Living", "African", "Endangered Species", "Hyaenids"]
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Living", "African" , "Hyaenids"]
 ---
 Here is the Aardwolf! This African insectivore is coded by Penguinman and recolored by Exitree. Enjoy!

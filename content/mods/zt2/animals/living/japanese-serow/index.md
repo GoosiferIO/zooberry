@@ -18,7 +18,7 @@ orig_rel_at:
 orig_rel_date: 2006-01-26
 summary: A single-horned Asian rhinoceros, coded by Penguinman and skinned by Koala Komander.
 title: Japanese Serow
-zt2tags: ["All", "Animals", "Living", "Mammals", "Ungulates", "Asian", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Animals", "Living", "Mammals", "Ungulates", "Asian", "ZT2" ]
 ---
 A single-horned Asian rhinoceros, coded by Penguinman and skinned by Koala Komander.
 

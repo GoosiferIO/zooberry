@@ -18,7 +18,7 @@ alt_text:
 languages:
 - English
 summary: "A large, endangered species of rhino from Northern India."
-zt2tags: ["All", "Animals", "Living", "Mammals", "Ungulates", "Asian", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Animals", "Living", "Mammals", "Ungulates", "Asian", "ZT2" ]
 ---
 
 A large, endangered species of rhino from Northern India. ---- Put in your 1020_1.0 folder, it's in your official download folder. It has the challenge pack in it, place it in there with it. 

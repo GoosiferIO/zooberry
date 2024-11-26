@@ -16,6 +16,6 @@ orig_rel_at:
 orig_rel_date: 2008-11-15
 summary: A wonderful albino variant of the tapir, created by Pink Zebra.
 title: Albino Tapir Variant
-zt2tags: ["All", "Animal Variants", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Animal Variants", "ZT2" ]
 ---
 A wonderful albino variant of the tapir, created by Pink Zebra.

@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2006-10-25
 summary: A smaller relative of the wolf, the adaptable coyote thrives in all biomes.
 title: Coyote
-zt2tags: ["All", "Animals", "Mammals", "ZT2", "Endangered Species", "Canids", "North American"]
+zt2tags: ["All", "Animals", "Mammals", "ZT2" , "Canids", "North American"]
 ---
 A smaller relative of the wolf, the adaptable coyote thrives in all biomes.

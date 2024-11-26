@@ -20,7 +20,7 @@ alt_text:
 languages:
 - English
 summary: "An Indian rhino for your zoo.  Recolored from the Javan rhino."
-zt2tags: ["All", "Animals", "Living", "Mammals", "Ungulates", "Asian", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Animals", "Living", "Mammals", "Ungulates", "Asian", "ZT2" ]
 ---
 
 An Indian rhino for your zoo.  Recolored from the Javan rhino.

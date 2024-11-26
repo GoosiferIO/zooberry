@@ -19,7 +19,7 @@ alt_text:
 languages:
 - English
 summary: "Red foxes are native to the Nearctic, Palearctic, Oriental, and Ethiopian regions, and have been introduced to areas in the Australian region."
-zt2tags: ["All", "ZT2", "Animals", "Mammals", "Canids", "Living", "Eurasian", "Endangered Species"]
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Canids", "Living", "Eurasian" ]
 ---
 Red foxes are native to the Nearctic, Palearctic, Oriental, and Ethiopian regions, and have been introduced to areas in the Australian region. Red foxes are found throughout Canada, Alaska, almost all of the contiguous United States, all of Europe and Britain, and almost all of Asia, including Japan. There are also several populations in North Africa. They are the most widely distributed wild carnivores in the world. Red foxes were introduced into Australia in the nineteenth century.
 

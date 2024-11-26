@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2006-09-07
 summary: Fenrir’s descendants are larger than normal wolves and feature multiple skins.
 title: Fenris Wolf
-zt2tags: ["All", "Animals", "Fictional", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Animals", "Fictional", "ZT2" ]
 ---
 Fenrir’s descendants are larger than normal wolves and feature multiple skins.

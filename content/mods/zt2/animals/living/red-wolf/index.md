@@ -20,7 +20,7 @@ alt_text:
 languages:
 - English
 summary: "A wolf made by Radar and koala komander."
-zt2tags: ["All", "ZT2", "Animals", "Mammals", "Canids", "Living", "Endangered Species", "North American"]
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Canids", "Living" , "North American"]
 ---
 
 A wolf made by Radar and koala komander. Also includes a lighter variant.

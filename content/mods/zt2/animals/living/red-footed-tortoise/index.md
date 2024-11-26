@@ -21,7 +21,7 @@ orig_rel_date: 2006-06-16
 summary: Also known as the South American red-footed tortoise, the males grow up to
   13.5 inches (30.4 cm) and are somewhat larger than females.
 title: Red-Footed Tortoise
-zt2tags: ["All", "Animals", "Living", "Reptiles", "South American", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Animals", "Living", "Reptiles", "South American", "ZT2" ]
 ---
 Also known as the South American red-footed tortoise, the males grow up to 13.5 inches (30.4 cm) and are somewhat larger than females, which average 11.25 inches (28.9 cm) in length. It has several yellow head scales and a horizontal bar behind its eye. The carapace (shell top) is black with a small, distinct, yellow area around the areola on each scute (shell scale). Mature specimens have distinctive incurving of sides, giving them a well-defined 'waist.'
 

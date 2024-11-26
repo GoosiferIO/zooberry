@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2005-12-28
 summary: The Caribbean flamingos are brightest, showing their true colors of red, pink, or orange on their legs, bills, and faces. Includes 100% Endangered Species design.
 title: Caribbean Flamingo (ES Version)
-zt2tags: ["All", "Living", "Birds", "North American", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Living", "Birds", "North American", "ZT2" ]
 ---
 The Caribbean flamingos are brightest, showing their true colors of red, pink, or orange on their legs, bills, and faces.
 

@@ -18,7 +18,7 @@ orig_rel_at:
 orig_rel_date: 2005-11-17
 summary: A unique animal coded by Penguinman and skinned by Electric Eel. ES recommended for optimal performance.
 title: Aye-Aye
-zt2tags: ["All", "ZT2", "Animals", "Mammals", "Primates", "Living", "African", "Endangered Species"]
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Primates", "Living", "African" ]
 ---
 Here is the Aye-Aye. Enjoy this unique animal coded by Penguinman and skinned by Electric Eel.  
 

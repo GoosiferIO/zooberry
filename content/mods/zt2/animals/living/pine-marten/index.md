@@ -18,7 +18,7 @@ license: Unknown
 languages:
 - English
 summary: "A small boreal forest mustelid."
-zt2tags: ["All", "ZT2", "Animals", "Mammals", "Mustelids", "Living", "European", "Endangered Species"]
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Mustelids", "Living", "European" ]
 ---
 
 This file contains the Pine Marten, a small boreal forest mustelid. ES requirement to use the variant.

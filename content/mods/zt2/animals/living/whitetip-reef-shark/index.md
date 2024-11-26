@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2007-03-05
 summary: Two variations of the Whitetip Reef Shark, with different markings.
 title: Whitetip Reef Shark
-zt2tags: ["All", "ZT2", "Animals", "Fish", "Living", "Elasmobranchs", "Aquatic", "Marine Mania 2"]
+zt2tags: ["All", "ZT2", "Animals", "Fish", "Living", "Elasmobranchs", "Aquatic" ]
 ---
 Whitetip Reef Shark... There are two variations on this one. The first of the two is the default. The second has a little more white and some black freckles on the sides.

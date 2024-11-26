@@ -20,7 +20,7 @@ orig_rel_date: 2007-02-16
 summary: The lion's mane jellyfish can be found in the cooler regions of the Atlantic,
   Pacific, North Sea and Baltic.
 title: Lion's Mane Jellyfish
-zt2tags: ["All", "ZT2", "Animals", "Living", "Invertebrates", "Jellyfish", "Marine Mania 2", "Aquatic"]
+zt2tags: ["All", "ZT2", "Animals", "Living", "Invertebrates", "Jellyfish" , "Aquatic"]
 
 ---
 *Cyanea capillata* can be found in the cooler regions of the Atlantic, Pacific, North Sea and Baltic. They are especially prevalent near the east coast of Britain. They are found in the pelagic zone as medusae and then benthic zone as polyps. Its bell normally ranges in diameter from 30 to 80 cm, with some individuals growing up to a maximum of 180 cm. The oral arms are purple with reddish or yellow tentacles, hence the common name 'Lion's Mane.'

@@ -20,7 +20,7 @@ orig_rel_date: 2007-02-16
 summary: Of all the gelatinous creatures visiting Monterey Bay, the purple-striped
   jelly is certainly among the most recognizable and spectacular.
 title: Purple-Striped Jellyfish
-zt2tags: ["All", "ZT2", "Animals", "Invertebrates", "Jellyfish", "Marine Mania 2", "Living", "Aquatic"]
+zt2tags: ["All", "ZT2", "Animals", "Invertebrates", "Jellyfish" , "Living", "Aquatic"]
 ---
 Of all the gelatinous creatures visiting Monterey Bay, the purple-striped jelly is certainly among the most recognizable and spectacular. With a bell of up to 70 cm diameter, usually streaked with a radial pattern of stripes, and long, flowing oral arms, this jelly is quite impressive. The four frilly oral arms have a coiled appearance. Eight marginal tentacles alternate with eight sensory rhopalia. The tentacles are well armed with nematocysts and can produce a relatively painful sting.
 

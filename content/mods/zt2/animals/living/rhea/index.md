@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2005-12-28
 summary: A large, flightless bird of South America with new skin, sound, and enrichment.
 title: Rhea
-zt2tags: ["All", "Animals", "Living", "Birds", "South American", "Endangered Species"]
+zt2tags: ["All", "Animals", "Living", "Birds", "South American" ]
 ---
 A large, flightless bird of South America with new skin, sound, and enrichment.

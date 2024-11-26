@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2006-07-01
 summary: Australia's largest butterfly, commonly seen in rainforests and suburban areas.
 title: Cairns Birdwing Butterfly
-zt2tags: ["All", "Ambients", "Animals", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Ambients", "Animals", "ZT2" ]
 mod_list:
 - name: cairns-birdwing-butterfly
   title: Standard Version

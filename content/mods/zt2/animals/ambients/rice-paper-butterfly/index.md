@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2006-07-01
 summary: A butterfly that appears randomly in your zoo, often seen in forests and grasslands.
 title: Rice Paper Butterfly
-zt2tags: ["All", "Ambients", "Animals", "ZT2", "Endangered Species", "Marine Mania 2"]
+zt2tags: ["All", "Ambients", "Animals", "ZT2"  ]
 mod_list: 
 - name: rice-paper-butterfly
   title: Rice Paper Butterfly

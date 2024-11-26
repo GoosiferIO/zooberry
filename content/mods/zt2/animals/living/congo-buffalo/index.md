@@ -19,7 +19,7 @@ summary: "A Congo Buffalo made by Tom."
 languages:
 - English
 - Dutch
-zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "African Adventure", "Ungulates"]
+zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals" , "Ungulates"]
 ---
 
 A Congo Buffalo made by Tom.

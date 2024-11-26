@@ -20,7 +20,7 @@ alt_text:
 languages:
 - English
 summary: "These foxes live in the scrub, savannah and grasslands of Africa."
-zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "Canids", "African", "Savannah", "Endangered Species"]
+zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "Canids", "African", "Savannah" ]
 ---
 These foxes live in the scrub, savannah and grasslands of Africa. To escape from predators, the bat-eared fox relies on speed and its incredible dodging ability. It can effectively reverse direction at a flat run without losing speed. *Otocyon megalotis* is the only species in the genus *Otocyon*.
 

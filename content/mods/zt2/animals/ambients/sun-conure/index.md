@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2006-07-01
 summary: Golden-feathered birds with green wing tips, Sun Conures are playful and colorful.
 title: Sun Conure
-zt2tags: ["All", "Ambients", "Animals", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Ambients", "Animals", "ZT2" ]
 ---
 Golden-feathered birds with green wing tips, Sun Conures are playful and colorful.

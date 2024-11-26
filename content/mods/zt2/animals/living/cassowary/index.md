@@ -20,7 +20,7 @@ orig_rel_date: 2006-07-12
 summary: Cassowaries are very large flightless birds native to the tropical forests
   of New Guinea and northeastern Australia.
 title: Cassowary
-zt2tags: ["All", "Animals", "Living", "Birds", "Endangered Species", "ZT2"]
+zt2tags: ["All", "Animals", "Living", "Birds" , "ZT2"]
 ---
 Cassowaries (genus *Casuarius*) are very large flightless birds native to the tropical forests of New Guinea and northeastern Australia. Some nearby islands also have small cassowary populations, but it is not known if these are natural or the result of the New Guinea trade in young birds. They are frugivorous; fallen fruit and fruit on low branches is the mainstay of their diet. They also eat fungi, snails, insects, frogs, snakes and other small animals.
 

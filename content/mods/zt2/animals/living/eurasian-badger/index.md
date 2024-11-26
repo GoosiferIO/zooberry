@@ -21,7 +21,7 @@ orig_rel_date: 2005-11-27
 summary: Eurasian badgers are easily recognisable by the conspicuous black and white
   stripes running from the nose to the shoulders.
 title: Eurasian Badger
-zt2tags: ["All", "Living", "Mammals", "Mustelids", "European", "Eurasian", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Living", "Mammals", "Mustelids", "European", "Eurasian", "ZT2" ]
 ---
 A cute little temperate forest animal that lives in Eurasia. It is coded by Penguinman and recolored by Exitree. It contains one variant skin and must have ES to run. Thanks! Variant skins updated 12-4-05. Baby skin updated 12-11-05. Alphabetized on 12-21-05.
 

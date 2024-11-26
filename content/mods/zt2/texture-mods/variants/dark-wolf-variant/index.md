@@ -16,6 +16,6 @@ orig_rel_at:
 orig_rel_date: 2008-10-20
 summary: A dark wolf variant for the Endangered Species expansion Gray Wolf.
 title: Dark Wolf Variant
-zt2tags: ["All", "Animal Variants", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Animal Variants", "ZT2" ]
 ---
 A dark wolf variant for the Endangered Species expansion Gray Wolf.

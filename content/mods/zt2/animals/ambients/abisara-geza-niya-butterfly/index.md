@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2007-02-23
 summary: This is a Temperate Forest and Wetlands butterfly, named Abisara geza niya (it has no 'common' name). She's found mostly in the Far and Middle East (Singapore, Malaysia, Afghanistan). She's brown with a lovely marked back.
 title: Abisara Geza Niya Butterfly for MM
-zt2tags: ["All", "Ambients", "Animals", "ZT2", "Marine Mania 2"]
+zt2tags: ["All", "Ambients", "Animals", "ZT2" ]
 mod_list: 
 - name: abisara-geza-niya-butterfly
   title: Standard Edition

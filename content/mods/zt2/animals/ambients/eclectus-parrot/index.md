@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2006-07-01
 summary: A bird that flies over your zoo. Parrots are brightly colored birds, with males and females displaying distinct plumage.
 title: Eclectus Parrot
-zt2tags: ["All", "Ambients", "Animals", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Ambients", "Animals", "ZT2" ]
 ---
 A bird that flies over your zoo. Parrots are brightly colored birds, with males and females displaying distinct plumage.

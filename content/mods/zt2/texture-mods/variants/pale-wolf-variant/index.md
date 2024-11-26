@@ -16,6 +16,6 @@ orig_rel_at:
 orig_rel_date: 2008-01-28
 summary: A pale wolf variant for the Endangered Species expansion Gray Wolf.
 title: Pale Wolf Variant
-zt2tags: ["All", "Endangered Species", "Animal Variants", "ZT2"]
+zt2tags: ["All" , "Animal Variants", "ZT2"]
 ---
 A pale wolf variant for the Endangered Species expansion Gray Wolf.

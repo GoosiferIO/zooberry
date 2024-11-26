@@ -20,7 +20,7 @@ summary: "The Impala is a small antelope that lives in the savannahs of Africa."
 languages:
 - English
 - Dutch
-zt2tags: ["All", "Animals", "Living", "Mammals", "Ungulates", "African", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Animals", "Living", "Mammals", "Ungulates", "African", "ZT2" ]
 
 ---
 

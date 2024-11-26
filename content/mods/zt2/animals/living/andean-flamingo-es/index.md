@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2005-12-28
 summary: Includes 100% Endangered Species design with new features for the Andean Flamingo.
 title: Andean Flamingo (ES Version)
-zt2tags: ["All", "ZT2", "Animals", "Birds", "Living", "South American", "Endangered Species"]
+zt2tags: ["All", "ZT2", "Animals", "Birds", "Living", "South American" ]
 ---
 100% Endangered Species design: new skin, sound, food, and enrichment. Every animal has a new gift in the gift cart.
 

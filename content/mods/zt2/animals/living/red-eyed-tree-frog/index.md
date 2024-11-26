@@ -21,7 +21,7 @@ orig_rel_at:
 orig_rel_date: 2006-01-25
 summary: A vibrant tree frog native to Central and South America, known for its bright red eyes.
 title: Red Eyed Tree Frog
-zt2tags: ["All", "Animals", "Living", "Amphibians", "Endangered Species", "Central America"]
+zt2tags: ["All", "Animals", "Living", "Amphibians" , "Central America"]
 ---
 A vibrant tree frog native to Central and South America, known for its bright red eyes.
 

@@ -20,7 +20,7 @@ alt_text:
 languages:
 - English
 summary: These boreal forest wolves enjoy eating a variety of foods including bananas, berries, insects, fish, and meat.
-zt2tags: ["All", "Fictional", "Mammals", "Canids", "Animals", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Fictional", "Mammals", "Canids", "Animals", "ZT2" ]
 ---
 
 Here is the Fantasy Wolf! This animal was made up and skinned by Koala Komander, and coded by Penguinman. These boreal forest wolves enjoy eating a variety of foods including bananas, berries, insects, fish, and meat. It has 3 variant skins plus the original. Enjoy!

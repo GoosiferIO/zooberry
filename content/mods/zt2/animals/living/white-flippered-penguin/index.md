@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2005-12-27
 summary: One of the smallest penguin species alive today, with two variant skins.
 title: White-Flippered Penguin
-zt2tags: ["All", "Animals", "Birds", "ZT2", "Endangered Species", "Oceania"]
+zt2tags: ["All", "Animals", "Birds", "ZT2" , "Oceania"]
 ---
 One of the smallest penguin species alive today, with two variant skins.

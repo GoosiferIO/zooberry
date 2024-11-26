@@ -18,7 +18,7 @@ summary: "Sloth Bear is an animal for Zoo Tycoon 2 created by Gerben."
 languages:
 - English
 - Dutch
-zt2tags: ["All", "ZT2", "Animals", "Mammals", "Ursids", "Living", "Asian", "Endangered Species"]
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Ursids", "Living", "Asian" ]
 ---
 
 

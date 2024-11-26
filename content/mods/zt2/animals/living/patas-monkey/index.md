@@ -19,7 +19,7 @@ summary: "The Patas Monkey is a ground-dwelling monkey distributed over semi-ari
 languages:
 - English
 - Dutch
-zt2tags: ["All", "ZT2", "Animals", "Mammals", "Primates", "Living", "African", "African Adventure"]
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Primates", "Living", "African" ]
 ---
 From the Wikipedia
 

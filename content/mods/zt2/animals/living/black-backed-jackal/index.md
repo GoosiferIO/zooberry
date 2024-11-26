@@ -21,7 +21,7 @@ orig_rel_date: 2005-12-03
 summary: These animals are omnivorous and will eat carrion, as well as plants such
   as grass, fruit, berries and seed.
 title: Black-Backed Jackal
-zt2tags: ["All", "ZT2", "Animals", "Mammals", "Canids", "Living", "African", "Endangered Species"]
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Canids", "Living", "African" ]
 ---
 Here is the Black-Backed Jackal! This animal lives in South African scrub and was coded by Penguinman, recolored by Exitree. It contains one variant skin, lighter.
 

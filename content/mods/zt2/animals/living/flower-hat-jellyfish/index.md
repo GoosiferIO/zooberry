@@ -21,7 +21,7 @@ orig_rel_date: 2007-02-16
 summary: This striking and rare jelly has brilliant, multicolored tentacles trailing
   from a translucent, pinstriped bell.
 title: Flower Hat Jellyfish
-zt2tags: ["All", "Animals", "Living", "Invertebrates", "ZT2", "Aquatic", "Jellyfish", "Marine Mania 2"]
+zt2tags: ["All", "Animals", "Living", "Invertebrates", "ZT2", "Aquatic", "Jellyfish" ]
 ---
 This striking and rare jelly has brilliant, multicolored tentacles trailing from a translucent, pinstriped bell. It also has tentacles around the rim of its bell that it can quickly coil and uncoil. This mysterious jelly is semi-benthic, sometimes spending its time on the seafloor. Blooms of the flower hat jellies make swimming in waters off Argentina hazardous. The sting of this jelly is painful, leaving a bright rash.
 

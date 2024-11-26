@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2007-03-14
 summary: The Great Plains Wolf with three color variations, as requested by Soop.
 title: Great Plains Wolf
-zt2tags: ["All", "ZT2", "Animals", "Mammals", "Canids", "Living", "North American", "Endangered Species"]
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Canids", "Living", "North American" ]
 ---
 As requested by Soop, the Great Plains Wolf with three color variations! 😊 The first is the default. I hope you all enjoy them! 😊

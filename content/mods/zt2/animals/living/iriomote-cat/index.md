@@ -18,7 +18,7 @@ alt_text:
 languages:
 - English
 summary: "The Iriomote cat, an endangered species from Japan."
-zt2tags: ["All", "Animals", "Living", "Mammals", "Felids", "Asian", "Endangered Species", "ZT2"]
+zt2tags: ["All", "Animals", "Living", "Mammals", "Felids", "Asian" , "ZT2"]
 
 ---
 

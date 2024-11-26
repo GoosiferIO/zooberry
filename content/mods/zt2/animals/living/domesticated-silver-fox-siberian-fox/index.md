@@ -18,7 +18,7 @@ alt_text:
 languages:
 - English
 summary: "A domesticated form of the silver morph of the red fox."
-zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "Endangered Species", "Asia", "Canids"]
+zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2" , "Asia", "Canids"]
 ---
 The domesticated silver fox (marketed as the Siberian fox) is a domesticated form of the silver morph of the red fox. As a result of selective breeding, the new foxes not only have become tamer, but more dog-like as well. This download has no known issues and has several variants.
 

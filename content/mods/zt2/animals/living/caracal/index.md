@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2006-02-16
 summary: A very cute little Caracal created entirely by Exitree.
 title: Caracal
-zt2tags: ["All", "Living", "Mammals", "Felids", "African", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Living", "Mammals", "Felids", "African", "ZT2" ]
 ---
 A very cute cat. This is a very cute little Caracal that I made all on my own. I really hope you all enjoy it.

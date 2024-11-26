@@ -21,7 +21,7 @@ orig_rel_date: 2009-09-10
 summary: Jackson's mongooses are typically a greyish or dull brownish in color, with
   the legs being black.
 title: Jackson's Mongoose
-zt2tags: ["All", "Animals", "Living", "Mammals", "Herpestids", "African", "ZT2", "African Adventure"]
+zt2tags: ["All", "Animals", "Living", "Mammals", "Herpestids", "African", "ZT2" ]
 dependencies:
   - title: Montane Forest
     url: /mods/zt2/biomes/montane-forest/

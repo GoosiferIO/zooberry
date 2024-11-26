@@ -20,7 +20,7 @@ alt_text:
 languages:
 - English
 summary: "This ungulate is also known as the European bison. Some authors consider it and the American bison to be conspecific."
-zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "Ungulates", "European", "Endangered Species"]
+zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "Ungulates", "European" ]
 ---
 This ungulate is also known as the European bison. Some authors consider it (*Bison bonasus*) and the American bison (*Bison bison*) to be conspecific, grouping the two into a single species (Nowak, 1991). The taxonomic status of the genus *Bison* is also disputed, with some authorities placing it as a subgenus of *Bos*.
 

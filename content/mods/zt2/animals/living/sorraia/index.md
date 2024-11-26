@@ -20,7 +20,7 @@ orig_rel_date: 2006-03-08
 summary: Sorraia horses are a remnant population of an indigenous, South Iberian wild
   horse.
 title: Sorraia
-zt2tags: ["All", "ZT2", "Animals", "Mammals", "Ungulates", "Living", "Domestic", "European", "Endangered Species"]
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Ungulates", "Living", "Domestic", "European" ]
 ---
 Sorraia horses are a remnant population of an indigenous, South Iberian wild horse, which survived almost pure in the inaccessible lowlands of the Portuguese river Sorraia until the early 1900s. The Iberian scientist and horse expert Dr. Ruy d’Andrade discovered these horses in 1920 and is responsible for their preservation. His studies convinced him that the Sorraia is a primitive, direct descendant of a wild indigenous Iberian horse, an ancestor of the Andalusian and Lusitano.
 

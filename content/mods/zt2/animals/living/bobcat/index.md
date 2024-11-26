@@ -18,6 +18,6 @@ orig_rel_at:
 orig_rel_date: 2006-02-23
 summary: A boreal cat native to North America.
 title: Bobcat
-zt2tags: ["All", "Living", "Mammals", "Felids", "North American", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Living", "Mammals", "Felids", "North American", "ZT2" ]
 ---
 A boreal cat. Check out this Bobcat! Special thanks to Penguinman.

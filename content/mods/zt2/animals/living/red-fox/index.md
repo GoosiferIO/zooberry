@@ -19,7 +19,7 @@ alt_text:
 summary: "The most widespread carnivore in the world is ready for your zoos!"
 languages:
 - English
-zt2tags: ["All", "ZT2", "Animals", "Mammals", "Canids", "Living", "Eurasian", "Endangered Species", "African Adventure"]
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Canids", "Living", "Eurasian"  ]
 ---
 
 The most widespread carnivore in the world is ready for your zoos!  This version is smaller as it does not include the brand new sound files.

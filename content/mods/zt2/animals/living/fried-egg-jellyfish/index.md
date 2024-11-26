@@ -19,7 +19,7 @@ orig_rel_at:
 orig_rel_date: 2007-02-13
 summary: This jellyfish resembles a fried egg when seen from above.
 title: Fried Egg Jellyfish
-zt2tags: ["All", "Animals", "Living", "Invertebrates", "ZT2", "Aquatic", "Jellyfish", "Marine Mania 2"]
+zt2tags: ["All", "Animals", "Living", "Invertebrates", "ZT2", "Aquatic", "Jellyfish" ]
 
 ---
 This jellyfish resembles a fried egg when seen from above. Amphipods and larvae of the graceful crab, *Cancer gracilis*, are commonly found on its tentacles, bell and oral arms. It preys upon *Aurelia aurita* (the moon jelly) and is usually found in or close to areas with large numbers of them. It commonly reaches 50 cm in diameter; its bell is translucent to milky with a bright yellow center; the bell margin has 16 large lobes that alternate with smaller lobes; each lobe has up to 25 tentacles.

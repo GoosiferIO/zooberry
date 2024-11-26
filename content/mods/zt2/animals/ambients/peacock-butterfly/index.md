@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2006-07-01
 summary: A butterfly that appears randomly in your zoo, commonly found in grasslands and forests.
 title: Peacock Butterfly
-zt2tags: ["All", "Ambients", "Animals", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Ambients", "Animals", "ZT2" ]
 ---
 A butterfly that appears randomly in your zoo, commonly found in grasslands and forests.

@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2005-12-28
 summary: Pygmy goats originally came from West Africa. Includes 100% Endangered Species design with new skin, sound, food, and enrichment.
 title: Cameroon Dwarf Goat (ES Version)
-zt2tags: ["All", "Living", "Mammals", "Ungulates", "African", "Domestic", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Living", "Mammals", "Ungulates", "African", "Domestic", "ZT2" ]
 ---
 Cameroon Dwarf Goat (ES Version). Includes 100% Endangered Species design: new skin, sound, food, and enrichment. Every animal has a new gift in the gift cart.
 

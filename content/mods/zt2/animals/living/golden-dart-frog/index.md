@@ -18,6 +18,6 @@ orig_rel_at:
 orig_rel_date: 2006-01-29
 summary: The Golden Dart Frog is a bright yellow tropical amphibian, native to rainforests.
 title: Golden Dart Frog
-zt2tags: ["All", "Animals", "Living", "Amphibians", "ZT2", "Endangered Species", "South America"]
+zt2tags: ["All", "Animals", "Living", "Amphibians", "ZT2" , "South America"]
 ---
 The Golden Dart Frog is a bright yellow tropical amphibian, native to rainforests.

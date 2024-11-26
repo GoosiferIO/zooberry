@@ -20,6 +20,6 @@ orig_rel_at:
 orig_rel_date: 2006-03-06
 summary: Here is the Eastern Cougar. This cat is colored by August and coded by Penguinman! Enjoy!
 title: Eastern Cougar
-zt2tags: ["All", "Living", "Mammals", "Felids", "North American", "ZT2", "Endangered Species"]
+zt2tags: ["All", "Living", "Mammals", "Felids", "North American", "ZT2" ]
 ---
 Here is the Eastern Cougar. This cat is colored by August and coded by Penguinman! Enjoy!
