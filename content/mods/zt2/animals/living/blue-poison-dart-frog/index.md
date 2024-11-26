@@ -17,11 +17,12 @@ license: 'Yes'
 orig_rel_at:
 - Penguin's Peak
 - ZT2 Design Centre
+- ZooAdmin
 orig_rel_date: 2006-01-25
 summary: These little frogs are easily recognized by their blue color, which is generally
   darker on the limbs and belly and overlaid with black spots or patches.
 title: Blue Poison Dart Frog
-zt2tags: ["All", "ZT2", "Animals", "Living", "Amphibians", "Endangered Species"]
+zt2tags: ["All", "Living", "Amphibians", "South American", "ZT2", "Endangered Species"]
 ---
 These little frogs are easily recognized by their blue color, which is generally darker on the limbs and belly and overlaid with black spots or patches, especially on the head and back. As their name implies, poison dart frogs can release toxins from the skin that are distasteful and potentially lethal to would-be predators. Three very toxic species of poison dart frogs from Colombia and South America are utilized by Native Americans to poison the tips of blowgun darts.
 

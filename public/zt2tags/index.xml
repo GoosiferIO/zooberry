@@ -6,7 +6,7 @@
     <description>Recent content in ZT2 Tags on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2024 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 16:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/zt2tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>African</title>
@@ -30,27 +30,6 @@
       <description></description>
     </item>
     <item>
-      <title>Antarctica</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/antarctica/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/antarctica/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Aquatic</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/aquatic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/aquatic/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Birds</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/birds/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/birds/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Domestic</title>
       <link>https://www.zooberry.org/mods/zt2/tags/domestic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -62,6 +41,13 @@
       <link>https://www.zooberry.org/mods/zt2/tags/endangered-species/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/tags/endangered-species/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>European</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/european/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/european/</guid>
       <description></description>
     </item>
     <item>
@@ -93,6 +79,20 @@
       <description></description>
     </item>
     <item>
+      <title>Oceania</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/oceania/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/oceania/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phascolarctids</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/phascolarctids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/phascolarctids/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Ungulates</title>
       <link>https://www.zooberry.org/mods/zt2/tags/ungulates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -107,17 +107,31 @@
       <description></description>
     </item>
     <item>
+      <title>Antarctica</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/antarctica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/antarctica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aquatic</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/aquatic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/aquatic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Birds</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/birds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/birds/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Castorids</title>
       <link>https://www.zooberry.org/mods/zt2/tags/castorids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/tags/castorids/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>European</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/european/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/european/</guid>
       <description></description>
     </item>
     <item>
@@ -216,13 +230,6 @@
       <link>https://www.zooberry.org/mods/zt2/tags/extinct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/tags/extinct/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Oceania</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/oceania/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/oceania/</guid>
       <description></description>
     </item>
     <item>

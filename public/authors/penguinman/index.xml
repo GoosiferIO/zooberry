@@ -6,8 +6,22 @@
     <description>Recent content in Penguinman on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2024 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 16:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/authors/penguinman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bobcat</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/bobcat/</link>
+      <pubDate>Mon, 25 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/bobcat/</guid>
+      <description>A boreal cat native to North America.</description>
+    </item>
+    <item>
+      <title>Camargue Wild Horse</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/camargue-wild-horse/</link>
+      <pubDate>Mon, 25 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/camargue-wild-horse/</guid>
+      <description>A European wetlands horse living in semi-wild conditions in the swampy areas of southern France.</description>
+    </item>
     <item>
       <title>Chinstrap Penguin</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/chinstrap-penguin/</link>

@@ -6,7 +6,7 @@
     <description>Recent content in All on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2024 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 16:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/all/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Animals</title>
@@ -14,6 +14,48 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/</guid>
       <description>Adopt new animals to share with your guests at home!</description>
+    </item>
+    <item>
+      <title>Bobcat</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/bobcat/</link>
+      <pubDate>Mon, 25 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/bobcat/</guid>
+      <description>A boreal cat native to North America.</description>
+    </item>
+    <item>
+      <title>Brown Koala</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/brown-koala/</link>
+      <pubDate>Mon, 25 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/brown-koala/</guid>
+      <description>A recolor of the original koala. This is not a skin but a new animal.</description>
+    </item>
+    <item>
+      <title>Camargue Wild Horse</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/camargue-wild-horse/</link>
+      <pubDate>Mon, 25 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/camargue-wild-horse/</guid>
+      <description>A European wetlands horse living in semi-wild conditions in the swampy areas of southern France.</description>
+    </item>
+    <item>
+      <title>Cameroon Dwarf Goat (ES Version)</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/cameroon-dwarf-goat-es/</link>
+      <pubDate>Mon, 25 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/cameroon-dwarf-goat-es/</guid>
+      <description>Pygmy goats originally came from West Africa. Includes 100% Endangered Species design with new skin, sound, food, and enrichment.</description>
+    </item>
+    <item>
+      <title>Living</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/</guid>
+      <description>Animals that still roam the Earth today.</description>
+    </item>
+    <item>
+      <title>Zoo Tycoon 2</title>
+      <link>https://www.zooberry.org/mods/zt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/</guid>
+      <description>Mods for the Zoo Tycoon sequel released in 2004.</description>
     </item>
     <item>
       <title>Cameroon Dwarf Goat</title>
@@ -42,20 +84,6 @@
       <pubDate>Mon, 25 Nov 2024 14:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/chinstrap-penguin/</guid>
       <description>This penguin lives in the sub-Antarctic islands. Coded by Penguinman with skins by Electric Eel.</description>
-    </item>
-    <item>
-      <title>Living</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/</guid>
-      <description>Animals that still roam the Earth today.</description>
-    </item>
-    <item>
-      <title>Zoo Tycoon 2</title>
-      <link>https://www.zooberry.org/mods/zt2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/</guid>
-      <description>Mods for the Zoo Tycoon sequel released in 2004.</description>
     </item>
     <item>
       <title>Caribbean Flamingo</title>
