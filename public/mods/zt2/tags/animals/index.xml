@@ -6,7 +6,7 @@
     <description>Recent content in Animals on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2024 16:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 19:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/animals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Animals</title>
@@ -14,6 +14,48 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/</guid>
       <description>Adopt new animals to share with your guests at home!</description>
+    </item>
+    <item>
+      <title>Asiatic Cheetah</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/asiatic-cheetah/</link>
+      <pubDate>Mon, 25 Nov 2024 19:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/asiatic-cheetah/</guid>
+      <description>An endangered cheetah from Asia with no description provided.</description>
+    </item>
+    <item>
+      <title>Aye-Aye</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/aye-aye/</link>
+      <pubDate>Mon, 25 Nov 2024 19:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/aye-aye/</guid>
+      <description>A unique animal coded by Penguinman and skinned by Electric Eel. ES recommended for optimal performance.</description>
+    </item>
+    <item>
+      <title>Baringo Giraffe (ES Version)</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/baringo-giraffe-es/</link>
+      <pubDate>Mon, 25 Nov 2024 19:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/baringo-giraffe-es/</guid>
+      <description>The tallest animal in the world, created for the Endangered Species pack.</description>
+    </item>
+    <item>
+      <title>Bezoar Goat</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/bezoar-goat/</link>
+      <pubDate>Mon, 25 Nov 2024 19:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/bezoar-goat/</guid>
+      <description>The wild ancestor of domestic goats, created for base Zoo Tycoon 2.</description>
+    </item>
+    <item>
+      <title>Bezoar Goat (ES Version)</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/bezoar-goat-es/</link>
+      <pubDate>Mon, 25 Nov 2024 19:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/bezoar-goat-es/</guid>
+      <description>The wild ancestor of domestic goats, created for Endangered Species pack.</description>
+    </item>
+    <item>
+      <title>Black and White Ruffed Lemur</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/black-and-white-ruffed-lemur/</link>
+      <pubDate>Mon, 25 Nov 2024 19:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/black-and-white-ruffed-lemur/</guid>
+      <description>Black and White Ruffed Lemur with two skin variants and original sounds.</description>
     </item>
     <item>
       <title>Living</title>
@@ -1147,7 +1189,7 @@
       <link>https://www.zooberry.org/mods/zt2/animals/fictional/black-lion/</link>
       <pubDate>Fri, 24 Nov 2023 04:01:47 -0800</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/fictional/black-lion/</guid>
-      <description>The black lion is only known to exist in the realm of fiction, folklore, and photoshop hoaxes.</description>
+      <description>A black coloration of the lion. This animal is recolored by Howling Shadow Wolf with coding by both Howling Shadow Wolf and Penguinman. I hope you enjoy it!</description>
     </item>
     <item>
       <title>Phoenix</title>

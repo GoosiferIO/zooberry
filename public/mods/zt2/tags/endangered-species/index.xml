@@ -6,8 +6,43 @@
     <description>Recent content in Endangered Species on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2024 16:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 19:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/endangered-species/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asiatic Cheetah</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/asiatic-cheetah/</link>
+      <pubDate>Mon, 25 Nov 2024 19:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/asiatic-cheetah/</guid>
+      <description>An endangered cheetah from Asia with no description provided.</description>
+    </item>
+    <item>
+      <title>Aye-Aye</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/aye-aye/</link>
+      <pubDate>Mon, 25 Nov 2024 19:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/aye-aye/</guid>
+      <description>A unique animal coded by Penguinman and skinned by Electric Eel. ES recommended for optimal performance.</description>
+    </item>
+    <item>
+      <title>Baringo Giraffe (ES Version)</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/baringo-giraffe-es/</link>
+      <pubDate>Mon, 25 Nov 2024 19:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/baringo-giraffe-es/</guid>
+      <description>The tallest animal in the world, created for the Endangered Species pack.</description>
+    </item>
+    <item>
+      <title>Bezoar Goat (ES Version)</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/bezoar-goat-es/</link>
+      <pubDate>Mon, 25 Nov 2024 19:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/bezoar-goat-es/</guid>
+      <description>The wild ancestor of domestic goats, created for Endangered Species pack.</description>
+    </item>
+    <item>
+      <title>Black and White Ruffed Lemur</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/black-and-white-ruffed-lemur/</link>
+      <pubDate>Mon, 25 Nov 2024 19:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/black-and-white-ruffed-lemur/</guid>
+      <description>Black and White Ruffed Lemur with two skin variants and original sounds.</description>
+    </item>
     <item>
       <title>Bobcat</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/bobcat/</link>
@@ -366,6 +401,13 @@
       <description>Also known as the South American red-footed tortoise, the males grow up to 13.5 inches (30.4 cm) and are somewhat larger than females.</description>
     </item>
     <item>
+      <title>American Badger</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/american-badger/</link>
+      <pubDate>Tue, 09 Jan 2024 07:53:14 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/american-badger/</guid>
+      <description>A white dorsal stripe extends back over the head from the nose of the American badger.</description>
+    </item>
+    <item>
       <title>Clouded Leopard</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/clouded-leopard/</link>
       <pubDate>Tue, 09 Jan 2024 07:53:14 +0000</pubDate>
@@ -427,6 +469,13 @@
       <pubDate>Sat, 30 Dec 2023 00:33:45 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/strawberry-dart-frog/</guid>
       <description>The strawberry poison dart frog is common in the Atlantic lowland tropical forests of Central America.</description>
+    </item>
+    <item>
+      <title>Arctic Fox</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/arctic-fox/</link>
+      <pubDate>Fri, 24 Nov 2023 04:01:47 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/arctic-fox/</guid>
+      <description>Arctic foxes are pure white in winter and grey-brown in summer. They can also be light brown, grey, chocolate, or black with a bluish hue.</description>
     </item>
     <item>
       <title>Wisent</title>
