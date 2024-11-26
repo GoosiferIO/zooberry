@@ -9,6 +9,13 @@
     <lastBuildDate>Mon, 25 Nov 2024 23:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/all/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Animal Variants</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/</guid>
+      <description>Variant skins usually keep the original base skins but add new ones that can spawn in for additional variety.</description>
+    </item>
+    <item>
       <title>Canopies</title>
       <link>https://www.zooberry.org/mods/zt2/objects/canopies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -72,6 +79,13 @@
       <description>A spooky Halloween-themed path collection created by T&amp;rsquo;ni.</description>
     </item>
     <item>
+      <title>Texture Mods</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/</guid>
+      <description>Mods that simply modify in-game textures in any capacity.</description>
+    </item>
+    <item>
       <title>Tiger Bench</title>
       <link>https://www.zooberry.org/mods/zt2/objects/zootilities/tiger-bench/</link>
       <pubDate>Mon, 25 Nov 2024 23:00:00 +0000</pubDate>
@@ -84,6 +98,20 @@
       <pubDate>Mon, 25 Nov 2024 23:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/unleashed-bench/</guid>
       <description>A bench made to celebrate ZTUF.</description>
+    </item>
+    <item>
+      <title>Valentine Variant Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/valentine-variant-pack/</link>
+      <pubDate>Mon, 25 Nov 2024 23:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/valentine-variant-pack/</guid>
+      <description>An albino lion variant released for Valentine&amp;rsquo;s Day.</description>
+    </item>
+    <item>
+      <title>White Lion Variant</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/white-lion-variant/</link>
+      <pubDate>Mon, 25 Nov 2024 23:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/white-lion-variant/</guid>
+      <description>A White Lion variant inspired by the author&amp;rsquo;s childhood experience.</description>
     </item>
     <item>
       <title>Zebra Picnic Table</title>
@@ -436,13 +464,6 @@
       <description>A wonderful albino variant of the tapir, created by Pink Zebra.</description>
     </item>
     <item>
-      <title>Animal Variants</title>
-      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/</guid>
-      <description>Variant skins usually keep the original base skins but add new ones that can spawn in for additional variety.</description>
-    </item>
-    <item>
       <title>Black Wolf Variant</title>
       <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/black-wolf-variant/</link>
       <pubDate>Mon, 25 Nov 2024 04:00:00 +0000</pubDate>
@@ -504,13 +525,6 @@
       <pubDate>Mon, 25 Nov 2024 04:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/spotted-hyena-ii/</guid>
       <description>The Spotted Hyena requires the Endangered Species and African Adventure expansions to use.</description>
-    </item>
-    <item>
-      <title>Texture Mods</title>
-      <link>https://www.zooberry.org/mods/zt2/texture-mods/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/texture-mods/</guid>
-      <description>Mods that simply modify in-game textures in any capacity.</description>
     </item>
     <item>
       <title>King Cheetah</title>

@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.zooberry.org/authors/albino-lion/</loc>
+    <lastmod>2024-11-25T23:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/all/</loc>
+    <lastmod>2024-11-25T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/animal-variants/</loc>
+    <lastmod>2024-11-25T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/texture-mods/variants/</loc>
     <lastmod>2024-11-25T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/benches/</loc>
@@ -56,6 +65,12 @@
     <loc>https://www.zooberry.org/mods/zt2/tags/tables/</loc>
     <lastmod>2024-11-25T23:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/texture-mods/</loc>
+    <lastmod>2024-11-25T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/texture-mods/</loc>
+    <lastmod>2024-11-25T23:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/zootilities/tiger-bench/</loc>
     <lastmod>2024-11-25T23:00:00+00:00</lastmod>
   </url><url>
@@ -63,6 +78,18 @@
     <lastmod>2024-11-25T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/zootilities/unleashed-bench/</loc>
+    <lastmod>2024-11-25T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/texture-mods/variants/valentine-variant-pack/</loc>
+    <lastmod>2024-11-25T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/valentines-day/</loc>
+    <lastmod>2024-11-25T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/texture-mods/variants/white-lion-variant/</loc>
+    <lastmod>2024-11-25T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/authors/wildalbinowolf/</loc>
     <lastmod>2024-11-25T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/zootilities/zebra-picnic-table/</loc>
@@ -347,12 +374,6 @@
     <loc>https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-tapir-variant/</loc>
     <lastmod>2024-11-25T04:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/animal-variants/</loc>
-    <lastmod>2024-11-25T04:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/texture-mods/variants/</loc>
-    <lastmod>2024-11-25T04:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/texture-mods/variants/black-wolf-variant/</loc>
     <lastmod>2024-11-25T04:00:00+00:00</lastmod>
   </url><url>
@@ -396,12 +417,6 @@
     <lastmod>2024-11-25T04:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/spotted-hyena-ii/</loc>
-    <lastmod>2024-11-25T04:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/texture-mods/</loc>
-    <lastmod>2024-11-25T04:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/texture-mods/</loc>
     <lastmod>2024-11-25T04:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/zoo-tycoon-rocks/</loc>

@@ -6,8 +6,29 @@
     <description>Recent content in Animal Variants on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2024 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 23:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/animal-variants/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animal Variants</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/</guid>
+      <description>Variant skins usually keep the original base skins but add new ones that can spawn in for additional variety.</description>
+    </item>
+    <item>
+      <title>Valentine Variant Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/valentine-variant-pack/</link>
+      <pubDate>Mon, 25 Nov 2024 23:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/valentine-variant-pack/</guid>
+      <description>An albino lion variant released for Valentine&amp;rsquo;s Day.</description>
+    </item>
+    <item>
+      <title>White Lion Variant</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/white-lion-variant/</link>
+      <pubDate>Mon, 25 Nov 2024 23:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/white-lion-variant/</guid>
+      <description>A White Lion variant inspired by the author&amp;rsquo;s childhood experience.</description>
+    </item>
     <item>
       <title>Albino Animal Variant Pack</title>
       <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-animal-variant-pack/</link>
@@ -28,13 +49,6 @@
       <pubDate>Mon, 25 Nov 2024 04:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-tapir-variant/</guid>
       <description>A wonderful albino variant of the tapir, created by Pink Zebra.</description>
-    </item>
-    <item>
-      <title>Animal Variants</title>
-      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/</guid>
-      <description>Variant skins usually keep the original base skins but add new ones that can spawn in for additional variety.</description>
     </item>
     <item>
       <title>Black Wolf Variant</title>
