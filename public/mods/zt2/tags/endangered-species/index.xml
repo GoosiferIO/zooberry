@@ -255,9 +255,9 @@
     </item>
     <item>
       <title>Norwegian Fjord Pony</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/norwegian-fjord-pony/</link>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/living/norwegian-fjord-pony/</link>
       <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/norwegian-fjord-pony/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/living/norwegian-fjord-pony/</guid>
       <description>A domesticated pony, one of the oldest horse breeds known to mankind.</description>
     </item>
     <item>
@@ -350,6 +350,20 @@
       <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/greater-kudu/</guid>
       <description>This is the Greater Kudu, the second largest antelope in Africa.</description>
+    </item>
+    <item>
+      <title>Leopard Tortoise</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/leopard-tortoise/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/leopard-tortoise/</guid>
+      <description>Leopard tortoises have a huge range, being found on the savannahs of Africa from the Sudan South to the Cape Province of South Africa.</description>
+    </item>
+    <item>
+      <title>Maned Wolf</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/living/maned-wolf/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/living/maned-wolf/</guid>
+      <description>A South American savannah-dwelling canid with one variant skin.</description>
     </item>
     <item>
       <title>Maned Wolf</title>
@@ -478,6 +492,13 @@
       <description>Despite the remarkably vivid coloring of its underbelly, the Oriental fire-bellied toad merges perfectly with its surroundings.</description>
     </item>
     <item>
+      <title>Nile Monitor Lizard</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/nile-monitor-lizard/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/nile-monitor-lizard/</guid>
+      <description>The Nile monitor is distributed across most of Africa, except the northwest.</description>
+    </item>
+    <item>
       <title>Yacare Caiman</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/yacare-caiman/</link>
       <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
@@ -560,6 +581,13 @@
       <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/italian-wolf/</guid>
       <description>A subspecies of wolf from the Apennine Mountains in Italy.</description>
+    </item>
+    <item>
+      <title>Mexican Wolf</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/mexican-wolf/</link>
+      <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/mexican-wolf/</guid>
+      <description>The Mexican Wolf is a sub-species of the Gray Wolf.</description>
     </item>
   </channel>
 </rss>

@@ -19,7 +19,7 @@ alt_text:
 languages:
 - English
 summary: "This is a North American weasel for ZT2. It contains 2 variants (not shown) - white and brown with light facial markings."
-zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "North American"]
+zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "Mustelids", "North American"]
 ---
 
 The Fringe-Eared Oryx is a scrub-dwelling antelope native to Africa. Pairs well with the Gemsbok. It contains 2 variants (not shown) - white and brown with light facial markings.

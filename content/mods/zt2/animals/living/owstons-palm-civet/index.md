@@ -18,6 +18,8 @@ summary: "An Owston's palm civet by Hendrix."
 languages:
 - English
 - German
+zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "Euplerids", "Asian"]
+
 ---
 
  From the Readme 

@@ -20,14 +20,19 @@ orig_rel_date: 2007-02-10
 summary: This species of jellyfish, commonly known as mauve stinger, is widely distributed
   in all warm and temperate waters.
 title: Mauve Stinger
+zt2tags: ["All", "ZT2", "Animals", "Living", "Invertebrates", "Jellyfish", "Marine Mania 2", "Aquatic"]
 ---
 This species of jellyfish, commonly known as mauve stinger amongst many other common names, is widely distributed in all warm and temperate waters such as the Mediterranean Sea, Red Sea and Atlantic Ocean. There were also some sightings of this species in Hawaii. In Greek pelagia means “of the sea”, nocti stands for night and luca means light, thus *Pelagia noctiluca* can be described as a marine organism with the ability to glow in the dark.
 
 This animal was originally part of a pack known as the Jellyfish Pack. The Jellyfish Pack was done at ZooAdmin and each jellyfish is skinned by a different member of that site. These animals will not reproduce and do not require any food/enrichment, acting like ambients. But, guests will still view and enjoy them.
 
-This particular jelly's skin was contributed by Animalover44. Like many other downloads of its time, it was a collaboration that Penguinman created with another user. It includes a gift for guests to purchase.
+It includes a gift for guests to purchase.
 
-**This download has one known issue:**
+## Other Credits
+- **Animalover44** - Textures
+- **Penguinman** - Coding
+
+## Known Issues
 - Although the jellyfish don't need to be fed, they do eat through a unique behavior of sifting the water for food. Sometimes they don't perform certain need-fulfilling behaviors like sifting when they should, which will lead to that need being unfulfilled. This is temporary and resolves itself on its own without the need for player intervention.
 
 **Other downloads in the 'Jellyfish Pack' set:**

@@ -282,6 +282,13 @@
       <description></description>
     </item>
     <item>
+      <title>Equids</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/equids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/equids/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Reptiles</title>
       <link>https://www.zooberry.org/mods/zt2/tags/reptiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -429,6 +436,13 @@
       <description></description>
     </item>
     <item>
+      <title>Extinct Animals</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/extinct-animals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/extinct-animals/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Animal Bundles</title>
       <link>https://www.zooberry.org/mods/zt2/tags/animal-bundles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -450,20 +464,6 @@
       <description></description>
     </item>
     <item>
-      <title>Equids</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/equids/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/equids/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Extinct Animals</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/extinct-animals/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/extinct-animals/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Herpestids</title>
       <link>https://www.zooberry.org/mods/zt2/tags/herpestids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -482,6 +482,13 @@
       <link>https://www.zooberry.org/mods/zt2/tags/animal-remakes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/tags/animal-remakes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Euplerids</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/euplerids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/euplerids/</guid>
       <description></description>
     </item>
     <item>
@@ -566,13 +573,6 @@
       <link>https://www.zooberry.org/mods/zt2/tags/zootilities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/tags/zootilities/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Euplerids</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/euplerids/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/euplerids/</guid>
       <description></description>
     </item>
   </channel>

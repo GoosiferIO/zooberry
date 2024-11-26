@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2006-08-18
 summary: A domesticated pony, one of the oldest horse breeds known to mankind.
 title: Norwegian Fjord Pony
-zt2tags: ["All", "Animals", "Ungulates", "ZT2", "Endangered Species"]
+zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "Equids", "Domestic", "European"]
 ---
 A domesticated pony, one of the oldest horse breeds known to mankind.

@@ -99,5 +99,12 @@
       <guid>https://www.zooberry.org/mods/zt2/animals/living/yellow-mongoose/</guid>
       <description>An African mongoose. Its main biome is scrub. Will not dig under chain link fences!</description>
     </item>
+    <item>
+      <title>Narrow-Striped Mongoose</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/narrow-striped-mongoose/</link>
+      <pubDate>Fri, 21 Jul 2023 17:04:54 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/narrow-striped-mongoose/</guid>
+      <description>A bushy-tailed mongoose from the dry forests of Madagascar.</description>
+    </item>
   </channel>
 </rss>

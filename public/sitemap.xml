@@ -191,6 +191,9 @@
     <loc>https://www.zooberry.org/mods/zt2/animals/living/lemon-shark/</loc>
     <lastmod>2024-11-25T04:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/living/living/lemon-shark/</loc>
+    <lastmod>2024-11-25T04:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/authors/lupin12/</loc>
     <lastmod>2024-11-25T04:00:00+00:00</lastmod>
   </url><url>
@@ -356,6 +359,9 @@
     <loc>https://www.zooberry.org/mods/zt2/tags/elephants/</loc>
     <lastmod>2024-11-24T01:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/equids/</loc>
+    <lastmod>2024-11-24T01:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/fictional/european-unicorn/</loc>
     <lastmod>2024-11-24T01:00:00+00:00</lastmod>
   </url><url>
@@ -396,6 +402,9 @@
     <lastmod>2024-11-24T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/nettie/</loc>
+    <lastmod>2024-11-24T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/living/living/norwegian-fjord-pony/</loc>
     <lastmod>2024-11-24T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/norwegian-fjord-pony/</loc>
@@ -848,6 +857,9 @@
     <loc>https://www.zooberry.org/authors/austroraptor/</loc>
     <lastmod>2024-06-25T20:30:47-07:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/living/living/nilgiri-tahr/</loc>
+    <lastmod>2024-06-25T20:30:47-07:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/nilgiri-tahr/</loc>
     <lastmod>2024-06-25T20:30:47-07:00</lastmod>
   </url><url>
@@ -962,7 +974,13 @@
     <loc>https://www.zooberry.org/mods/zt2/animals/living/patas-monkey/</loc>
     <lastmod>2024-06-25T09:32:37-07:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/extinct-animals/</loc>
+    <lastmod>2024-06-25T09:29:22-07:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/authors/frank/</loc>
+    <lastmod>2024-06-25T09:29:22-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/living/living/malayan-sun-bear/</loc>
     <lastmod>2024-06-25T09:29:22-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/malayan-sun-bear/</loc>
@@ -1090,12 +1108,6 @@
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/fences/peach-rail-fence/</loc>
     <lastmod>2024-06-22T21:35:14-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/equids/</loc>
-    <lastmod>2024-06-22T21:28:07-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/extinct-animals/</loc>
-    <lastmod>2024-06-22T21:28:07-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/grants-zebra/</loc>
     <lastmod>2024-06-22T21:28:07-07:00</lastmod>
@@ -1244,6 +1256,9 @@
     <loc>https://www.zooberry.org/mods/zt2/animals/living/lesser-mouse-deer/</loc>
     <lastmod>2024-06-21T21:25:09-07:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/living/living/lesser-mouse-deer/</loc>
+    <lastmod>2024-06-21T21:25:09-07:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/authors/longisquama/</loc>
     <lastmod>2024-06-21T21:25:09-07:00</lastmod>
   </url><url>
@@ -1309,6 +1324,12 @@
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/fences/green-fence/</loc>
     <lastmod>2024-06-20T18:42:53-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/euplerids/</loc>
+    <lastmod>2024-06-20T18:41:37-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/living/living/owstons-palm-civet/</loc>
+    <lastmod>2024-06-20T18:41:37-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/owstons-palm-civet/</loc>
     <lastmod>2024-06-20T18:41:37-07:00</lastmod>
@@ -1628,10 +1649,22 @@
     <loc>https://www.zooberry.org/mods/zt2/animals/living/leopard-tortoise/</loc>
     <lastmod>2024-01-14T01:51:12+00:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/living/living/leopard-tortoise/</loc>
+    <lastmod>2024-01-14T01:51:12+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/lions-mane-jellyfish/</loc>
     <lastmod>2024-01-14T01:51:12+00:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/living/living/lions-mane-jellyfish/</loc>
+    <lastmod>2024-01-14T01:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/living/living/maned-wolf/</loc>
+    <lastmod>2024-01-14T01:51:12+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/maned-wolf/</loc>
+    <lastmod>2024-01-14T01:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/living/living/mauve-stinger/</loc>
     <lastmod>2024-01-14T01:51:12+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/mauve-stinger/</loc>
@@ -1883,6 +1916,9 @@
     <loc>https://www.zooberry.org/authors/koffee/</loc>
     <lastmod>2024-01-01T15:26:52+00:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/living/living/nubian-ibex/</loc>
+    <lastmod>2024-01-01T15:26:52+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/nubian-ibex/</loc>
     <lastmod>2024-01-01T15:26:52+00:00</lastmod>
   </url><url>
@@ -1950,6 +1986,9 @@
     <lastmod>2023-12-30T17:10:39+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/lesser-flamingo/</loc>
+    <lastmod>2023-12-30T17:10:39+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/living/living/lesser-flamingo/</loc>
     <lastmod>2023-12-30T17:10:39+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/box-turtle/</loc>
@@ -2043,6 +2082,9 @@
     <lastmod>2023-12-30T00:33:45+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/lazardi/</loc>
+    <lastmod>2023-12-30T00:33:45+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/living/living/mainland-serow/</loc>
     <lastmod>2023-12-30T00:33:45+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/mainland-serow/</loc>
@@ -2145,6 +2187,9 @@
     <lastmod>2023-11-21T02:12:58-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/scenery/mini-volcano/</loc>
+    <lastmod>2023-11-21T02:12:58-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/living/living/nile-monitor-lizard/</loc>
     <lastmod>2023-11-21T02:12:58-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/nile-monitor-lizard/</loc>
@@ -2921,11 +2966,17 @@
     <loc>https://www.zooberry.org/mods/zt2/animals/living/spanish-broom-hare/</loc>
     <lastmod>2023-07-21T17:14:54-07:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/living/living/narrow-striped-mongoose/</loc>
+    <lastmod>2023-07-21T17:04:54-07:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/narrow-striped-mongoose/</loc>
     <lastmod>2023-07-21T17:04:54-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/pygmy-goat/</loc>
     <lastmod>2023-07-21T16:58:54-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/living/living/nutria/</loc>
+    <lastmod>2023-07-21T16:49:54-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/nutria/</loc>
     <lastmod>2023-07-21T16:49:54-07:00</lastmod>
@@ -2949,9 +3000,6 @@
     <lastmod>2023-07-20T23:04:46-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/extinct/dwarf-panda/</loc>
-    <lastmod>2023-07-20T23:04:46-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/euplerids/</loc>
     <lastmod>2023-07-20T23:04:46-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/fanaloka/</loc>
@@ -2984,10 +3032,19 @@
     <loc>https://www.zooberry.org/mods/zt2/animals/living/italian-wolf/</loc>
     <lastmod>2023-07-20T23:04:46-08:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/living/living/long-tailed-weasel/</loc>
+    <lastmod>2023-07-20T23:04:46-08:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/long-tailed-weasel/</loc>
     <lastmod>2023-07-20T23:04:46-08:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/living/living/mexican-wolf/</loc>
+    <lastmod>2023-07-20T23:04:46-08:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/mexican-wolf/</loc>
+    <lastmod>2023-07-20T23:04:46-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/living/living/miniature-pony/</loc>
     <lastmod>2023-07-20T23:04:46-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/miniature-pony/</loc>
