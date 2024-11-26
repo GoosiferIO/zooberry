@@ -6,8 +6,15 @@
     <description>Recent content in Penguinman on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2024 19:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 20:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/authors/penguinman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adelie Penguin</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/adelie-penguin/</link>
+      <pubDate>Mon, 25 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/adelie-penguin/</guid>
+      <description>A recolor of the Adelie Penguin by Electric Eel with help from SilesianTomcat and APE II.</description>
+    </item>
     <item>
       <title>Aye-Aye</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/aye-aye/</link>
@@ -160,7 +167,7 @@
       <link>https://www.zooberry.org/mods/zt2/animals/living/aardwolf/</link>
       <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/aardwolf/</guid>
-      <description>Aardwolves occur solely on the continent of Africa. There are two separate populations.</description>
+      <description>Here is the Aardwolf! This African insectivore is coded by Penguinman and recolored by Exitree. Enjoy!</description>
     </item>
     <item>
       <title>Afromontane Foliage</title>

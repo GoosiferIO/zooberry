@@ -6,8 +6,22 @@
     <description>Recent content in South American on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Nov 2024 02:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 20:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/south-american/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Andean Flamingo</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/andean-flamingo/</link>
+      <pubDate>Mon, 25 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/andean-flamingo/</guid>
+      <description>A flamingo species with a highland salt lake biome and new sound.</description>
+    </item>
+    <item>
+      <title>Andean Flamingo (ES Version)</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/andean-flamingo-es/</link>
+      <pubDate>Mon, 25 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/andean-flamingo-es/</guid>
+      <description>Includes 100% Endangered Species design with new features for the Andean Flamingo.</description>
+    </item>
     <item>
       <title>Rhea</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/rhea/</link>
