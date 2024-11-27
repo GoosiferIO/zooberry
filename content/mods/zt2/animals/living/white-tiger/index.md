@@ -16,7 +16,7 @@ orig_rel_at:
 orig_rel_date: 2005-08-10
 summary: The white version of the Bengal Tiger, released before the official XP version.
 title: White Tiger
-zt2tags: ["All", "Animals", "Mammals", "ZT2", "Felids", "Asia"]
+zt2tags: ["All", "Animals", "Mammals", "ZT2", "Felids", "Asian"]
 ---
 A naturally occurring color morph of the Bengal tiger, found in captivity but very rare in the wild. Released before the official XP version. 
 

@@ -19,7 +19,7 @@ alt_text:
 gallery:
 - pumacougar.png
 summary: "A large American cat that goes by many other names."
-zt2tags: ["All", "ZT2", "Animals", "Mammals", "Felids", "Living", "Big Cats", "South American"]
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Felids", "Living", "South American"]
 ---
 
 The puma is a large American cat that goes by many other names, including the cougar.
