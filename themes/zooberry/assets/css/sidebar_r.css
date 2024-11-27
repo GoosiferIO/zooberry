@@ -5,7 +5,8 @@
     top: 2rem;
     float: right;
     background-color: var(--tbody-bg);
-    height: calc(100vh - 4rem);
+    min-height: fit-content;
+    max-height: calc(100vh - 8rem);
     position: sticky;
     overflow-y: auto;
 }
