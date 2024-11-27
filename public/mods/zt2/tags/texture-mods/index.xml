@@ -6,8 +6,15 @@
     <description>Recent content in Texture Mods on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Nov 2024 01:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 16:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/texture-mods/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animal Reskins</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/reskins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/reskins/</guid>
+      <description>Reskins replace the original Zoo Tycoon textures with new ones.</description>
+    </item>
     <item>
       <title>Animal Variants</title>
       <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/</link>
@@ -63,13 +70,6 @@
       <pubDate>Tue, 25 Jun 2024 19:46:50 -0700</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/texture-mods/biome-reskins/grassland-reskin-pack/</guid>
       <description>Grassland Reskin Pack is a texture mod for Zoo Tycoon 2 created by Fauna.</description>
-    </item>
-    <item>
-      <title>Animal Reskins</title>
-      <link>https://www.zooberry.org/mods/zt2/texture-mods/reskins/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/texture-mods/reskins/</guid>
-      <description>Reskins replace the original Zoo Tycoon textures with new ones.</description>
     </item>
     <item>
       <title>Asian Elephant Reskin</title>
@@ -251,7 +251,7 @@
       <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/ibex-variant/</link>
       <pubDate>Sun, 12 Nov 2023 02:04:42 -0800</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/ibex-variant/</guid>
-      <description>An ibex variant made by Animalover44.</description>
+      <description>This is a darker variant for the ibex. It works on both males and females even though the one in the picture is a male.</description>
     </item>
     <item>
       <title>Velociraptor Variants II</title>
