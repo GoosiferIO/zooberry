@@ -20,7 +20,7 @@ alt_text:
 languages:
 - English
 summary: "The yacare caiman is found in a variety of habitat types, often associated with floating mats of vegetation."
-zt2tags: ["All", "ZT2", "Animals", "Living", "Reptiles" ]
+zt2tags: ["All", "ZT2", "Animals", "Living", "Reptiles","South American" ]
 ---
 The yacare caiman is found in a variety of habitat types, often associated with floating mats of vegetation, and has the southernmost distribution of all caimans. The common name 'Piranha caiman' is derived from its more visible display of teeth, an unusual characteristic whereby certain large teeth in the lower jaw may protrude through the top surface of the upper jaw.
 

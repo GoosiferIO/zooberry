@@ -17,7 +17,7 @@ alt_text: ""
 languages:
 - English
 summary: "Meet the Eeke-Ku-Yooko (mayan for 'dancing star') cenote."
-zt1tags: ["All", "ZT1", "Maps"]
+zt1tags: ["All", "ZT1", "Maps", "Halloween"]
 ---
 
 

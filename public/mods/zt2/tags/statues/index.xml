@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statues on ZooBerry</title>
+    <link>https://www.zooberry.org/mods/zt2/tags/statues/</link>
+    <description>Recent content in Statues on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jan 2024 09:26:07 +0000</lastBuildDate>
+    <atom:link href="https://www.zooberry.org/mods/zt2/tags/statues/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Natural Scenery Pack 1</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/shens-natural-scenery-pack-1/</link>
+      <pubDate>Wed, 10 Jan 2024 09:26:07 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/shens-natural-scenery-pack-1/</guid>
+      <description>The first of two sets aimed towards creating more realistic zoos, and my first ever user-made pack for Zoo Tycoon 2!  Featuring three paths (two bark chip and one stone path), two topiaries and a bench.</description>
+    </item>
+    <item>
+      <title>World of Imports P2</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/world-of-imports-p2/</link>
+      <pubDate>Sun, 12 Nov 2023 21:33:47 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/world-of-imports-p2/</guid>
+      <description>Imported models prepared by Slice. Pack 2 of 3.</description>
+    </item>
+    <item>
+      <title>World of Imports P1</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/world-of-imports-p1/</link>
+      <pubDate>Sun, 12 Nov 2023 21:13:47 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/world-of-imports-p1/</guid>
+      <description>Imported models prepared by Slice. Pack 1 of 3.</description>
+    </item>
+    <item>
+      <title>Aboriginal Australian Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/aboriginal-australian-pack/</link>
+      <pubDate>Thu, 03 Aug 2023 05:51:46 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/aboriginal-australian-pack/</guid>
+      <description>Includes a high and low fence, an arch, a path, and a kangaroo statue.</description>
+    </item>
+  </channel>
+</rss>

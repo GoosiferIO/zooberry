@@ -198,6 +198,13 @@
       <description></description>
     </item>
     <item>
+      <title>Halloween</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/halloween/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/halloween/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Objects</title>
       <link>https://www.zooberry.org/mods/zt2/tags/objects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -317,6 +324,13 @@
       <description></description>
     </item>
     <item>
+      <title>Marsupials</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/marsupials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/marsupials/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Prehistoric</title>
       <link>https://www.zooberry.org/mods/zt2/tags/prehistoric/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -422,13 +436,6 @@
       <description></description>
     </item>
     <item>
-      <title>South America</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/south-america/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/south-america/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Tropical Rainforest</title>
       <link>https://www.zooberry.org/mods/zt2/tags/tropical-rainforest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -506,6 +513,20 @@
       <description></description>
     </item>
     <item>
+      <title>Pilosans</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/pilosans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/pilosans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Herpestids</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/herpestids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/herpestids/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Biome Reskins</title>
       <link>https://www.zooberry.org/mods/zt2/tags/biome-reskins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -548,10 +569,24 @@
       <description></description>
     </item>
     <item>
-      <title>Herpestids</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/herpestids/</link>
+      <title>Theme Packs</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/theme-packs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/herpestids/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/tags/theme-packs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Building Kits</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/building-kits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/building-kits/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Animal Food</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/animal-food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/animal-food/</guid>
       <description></description>
     </item>
     <item>
@@ -569,6 +604,20 @@
       <description></description>
     </item>
     <item>
+      <title>Signs</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/signs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/signs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trash Cans</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/trash-cans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/trash-cans/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Euplerids</title>
       <link>https://www.zooberry.org/mods/zt2/tags/euplerids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -576,10 +625,17 @@
       <description></description>
     </item>
     <item>
-      <title>Pilosans</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/pilosans/</link>
+      <title>Donation Boxes</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/donation-boxes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/pilosans/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/tags/donation-boxes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fountains</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/fountains/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/fountains/</guid>
       <description></description>
     </item>
     <item>
@@ -594,6 +650,20 @@
       <link>https://www.zooberry.org/mods/zt2/tags/jellyfish/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/tags/jellyfish/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Binoculars</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/binoculars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/binoculars/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Statues</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/statues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/statues/</guid>
       <description></description>
     </item>
     <item>

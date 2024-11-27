@@ -19,6 +19,7 @@ orig_rel_date: 2006-01-14
 summary: The yellow-footed rock wallaby is one of the brightest members of the kangaroo
   family.
 title: Yellow-Footed Rock Wallaby
+zt2tags: ["All", "Animals", "ZT2", "Living", "Mammals", "Marsupials", "Oceania"]
 ---
 *Petrogale xanthopus* is one of the brightest members of the kangaroo family. The upper body parts such as the head and face are a light brown-grayish color, shading to more grayish on the rump of the wallaby. A dark brown streak starting from the ears comes down to the middle of the back connecting with brown patches on the yellow limbs of the wallaby. On each of its cheeks is a white stripe with yellow on the back of the ears. The head and body are about 20-30 inches long, the tail is 15-28 inches long, and the weight of the wallaby is about 6-20 pounds.
 

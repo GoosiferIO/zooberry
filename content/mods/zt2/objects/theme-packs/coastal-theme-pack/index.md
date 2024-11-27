@@ -19,7 +19,7 @@ alt_text:
 languages:
 - English
 summary: "A coastal theme pack by ShenTirag."
-
+zt2tags: ["All", "ZT2", "Objects", "Theme Packs", "Fences", "Paths", "Benches", "Canopies"]
 ---
 
 =

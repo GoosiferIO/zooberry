@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2009-08-26
 summary: This dark, mythical wolf will frighten and amaze your guests, perfect for Halloween zoos.
 title: Fenris Wolf II
-zt2tags: ["All", "Fictional", "Mammals", "Canids", "Animals", "ZT2" ]
+zt2tags: ["All", "Fictional", "Mammals", "Canids", "Animals", "ZT2", "Halloween"]
 ---
 This dark, mythical wolf will frighten and amaze your guests, perfect for Halloween zoos.

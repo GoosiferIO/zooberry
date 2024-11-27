@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Halloween on ZooBerry</title>
+    <link>https://www.zooberry.org/mods/zt2/tags/halloween/</link>
+    <description>Recent content in Halloween on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Nov 2024 17:30:00 +0000</lastBuildDate>
+    <atom:link href="https://www.zooberry.org/mods/zt2/tags/halloween/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Halloween Fence</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/fences/halloween-fence/</link>
+      <pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/fences/halloween-fence/</guid>
+      <description>A Halloween-themed fence.</description>
+    </item>
+    <item>
+      <title>T&#39;ni&#39;s Halloween Path Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/paths/tni-halloween-path-pack/</link>
+      <pubDate>Mon, 25 Nov 2024 23:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/paths/tni-halloween-path-pack/</guid>
+      <description>A spooky Halloween-themed path collection created by T&amp;rsquo;ni.</description>
+    </item>
+    <item>
+      <title>Fenris Wolf II</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/fictional/fenris-wolf-ii/</link>
+      <pubDate>Mon, 25 Nov 2024 04:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/fenris-wolf-ii/</guid>
+      <description>This dark, mythical wolf will frighten and amaze your guests, perfect for Halloween zoos.</description>
+    </item>
+    <item>
+      <title>Nocturnal Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/nocturnal-pack/</link>
+      <pubDate>Thu, 20 Jun 2024 18:43:50 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/nocturnal-pack/</guid>
+      <description>A pack of nocturnal-themed objects by Feral Designs.</description>
+    </item>
+    <item>
+      <title>Elements Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/elements-pack/</link>
+      <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/elements-pack/</guid>
+      <description>This is a scenery pack from the creative minds of Penguinman and Budgielover101.</description>
+    </item>
+    <item>
+      <title>Crumbling Dark Brick Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/crumbling-dark-brick/</link>
+      <pubDate>Wed, 10 Jan 2024 09:26:07 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/crumbling-dark-brick/</guid>
+      <description>Dark crumbling bricks are a perfect path for Halloween themed areas of your zoos. Original skin by genkicoll for ZT1, converted to ZT2 by ShenTirag.</description>
+    </item>
+  </channel>
+</rss>

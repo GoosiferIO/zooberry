@@ -19,6 +19,7 @@ summary: The first of two sets aimed towards creating more realistic zoos, and m
   first ever user-made pack for Zoo Tycoon 2!  Featuring three paths (two bark chip
   and one stone path), two topiaries and a bench.
 title: Natural Scenery Pack 1
+zt2tags: ["All", "ZT2", "Objects", "Theme Packs", "Paths", "Benches", "Statues", "Scenery"]
 ---
 
 

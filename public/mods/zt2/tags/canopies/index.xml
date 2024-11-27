@@ -9,11 +9,53 @@
     <lastBuildDate>Mon, 25 Nov 2024 23:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/canopies/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Canopies</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/canopies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/canopies/</guid>
+      <description>Shade your guests and animals with these decorative canopies!</description>
+    </item>
+    <item>
       <title>Zebra Viewing Canopy</title>
       <link>https://www.zooberry.org/mods/zt2/objects/canopies/zebra-viewing-canopy/</link>
       <pubDate>Mon, 25 Nov 2024 23:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/canopies/zebra-viewing-canopy/</guid>
       <description>A zebra-themed viewing canopy for your zoo.</description>
+    </item>
+    <item>
+      <title>Natural Scenery Pack 2</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/shens-natural-scenery-pack-2/</link>
+      <pubDate>Wed, 10 Jan 2024 09:26:07 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/shens-natural-scenery-pack-2/</guid>
+      <description>A second set of natural wooden scenery to soften the curves of a harsh city zoo.  Featuring a mahogany wooden donation box, binocular set, viewing canopy and map, alongside a set of ivy covered arches including large sizes to cover wide paths.  Additionally, several fallen logs are contained to give a realistic feel to a forest exhibit.</description>
+    </item>
+    <item>
+      <title>Alpine Viewing Area</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/canopies/alpine-viewing-area/</link>
+      <pubDate>Sat, 05 Aug 2023 14:54:11 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/canopies/alpine-viewing-area/</guid>
+      <description>The Alpine Viewing Area was designed by Zooasaurus</description>
+    </item>
+    <item>
+      <title>Atlantis Viewing Area</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/canopies/atlantis-viewing-area/</link>
+      <pubDate>Sat, 05 Aug 2023 13:45:43 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/canopies/atlantis-viewing-area/</guid>
+      <description>An Atlantis-themed viewing canopy.</description>
+    </item>
+    <item>
+      <title>Sandstone Theme</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/sandstone-theme/</link>
+      <pubDate>Thu, 03 Aug 2023 06:18:09 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/sandstone-theme/</guid>
+      <description>The Sandstone Theme Pack contains items made of softly coloured sandstone, often overgrown with ivy.</description>
+    </item>
+    <item>
+      <title>Coastal Theme Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/coastal-theme-pack/</link>
+      <pubDate>Mon, 24 Jul 2023 17:51:11 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/coastal-theme-pack/</guid>
+      <description>A coastal theme pack by ShenTirag.</description>
     </item>
   </channel>
 </rss>

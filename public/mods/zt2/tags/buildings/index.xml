@@ -15,5 +15,19 @@
       <guid>https://www.zooberry.org/mods/zt2/expansive-packs/island-excursions/</guid>
       <description>Embark upon an excursion to travel the oceans in search of tropical paradise! Discover the isles hiding within the Hawaiian Islands and Papua New Guinea, seeing such animals as the Hawaiian Monk Seal and the Northern Cassowary as they live in their lush and vibrant homes.</description>
     </item>
+    <item>
+      <title>Buildings</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/buildings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/buildings/</guid>
+      <description>Functional buildings such as food stands, carts, restaurants, etc.</description>
+    </item>
+    <item>
+      <title>Churro Stand</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/buildings/churro-stand/</link>
+      <pubDate>Mon, 13 Nov 2023 21:50:43 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/buildings/churro-stand/</guid>
+      <description>Churros are a fun Mexican pastry with lots of sugar!</description>
+    </item>
   </channel>
 </rss>

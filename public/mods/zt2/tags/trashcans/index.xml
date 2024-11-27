@@ -22,5 +22,19 @@
       <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/zebra-trashcan/</guid>
       <description>A zebra-themed trashcan for your zoo.</description>
     </item>
+    <item>
+      <title>Elements Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/elements-pack/</link>
+      <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/elements-pack/</guid>
+      <description>This is a scenery pack from the creative minds of Penguinman and Budgielover101.</description>
+    </item>
+    <item>
+      <title>Aboriginal Australian Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/aboriginal-australian-pack/</link>
+      <pubDate>Thu, 03 Aug 2023 05:51:46 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/aboriginal-australian-pack/</guid>
+      <description>Includes a high and low fence, an arch, a path, and a kangaroo statue.</description>
+    </item>
   </channel>
 </rss>

@@ -17,6 +17,7 @@ alt_text:
 summary: "This pack contains topiary versions of the lion, tiger and elephant fountains, as well as a matching low shrub hedge."
 languages:
 - English
+tags: ["All", "ZT2", "Objects", "Theme Packs", "Fountains", "Scenery"]
 ---
 
 This pack contains topiary versions of the lion, tiger and elephant fountains, as well as a matching low shrub hedge.  Matches the topiaries in the Natural Scenery packs as well!

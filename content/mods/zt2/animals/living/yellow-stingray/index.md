@@ -21,6 +21,7 @@ alt_text:
 languages:
 - English
 summary: "A small reef-dwelling stingray."
+zt2tags: ["All", "Animals", "ZT2", "Living", "Fish", "Elasmobranchs", "Aquatic"]
 ---
 A small reef-dwelling stingray. The yellow stingray was made by Major League Designing, the same team that made the Predators of the Sea expansion pack.
 

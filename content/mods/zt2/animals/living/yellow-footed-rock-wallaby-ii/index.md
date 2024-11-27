@@ -16,6 +16,6 @@ orig_rel_at:
 orig_rel_date: 2007-02-15
 summary: A cute little Yellow-Footed Rock Wallaby from Australia.
 title: Yellow-Footed Rock Wallaby II
-zt2tags: ["All", "ZT2", "Animals", "Mammals", "Living", "Oceania"]
+zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "Marsupials", "Oceania"]
 ---
 Now we head back down under for the Yellow-Footed Rock Wallaby. A cute little guy! 😊 I hope you enjoy it!

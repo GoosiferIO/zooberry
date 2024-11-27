@@ -19,6 +19,7 @@ orig_rel_date: 2006-07-09
 summary: 'A zebroid is a cross between a zebra and any other equid: essentially, a
   zebra hybrid.'
 title: Zebroid
+zt2tags: ["All", "ZT2", "Living", "Mammals", "Equids", "African", "Domestic"]
 ---
 A zebroid is a cross between a zebra and any other equid: essentially, a zebra hybrid. They are also known as zebra mules. In general, the sire is a zebra stallion. Offspring of a donkey sire and zebra mare, called a zebra hinny, do exist, but are rare. Zebroids have been bred since the 19th Century. The extinct quagga was also crossed with horses and donkeys. Charles Darwin noted several zebra hybrids in his works.
 

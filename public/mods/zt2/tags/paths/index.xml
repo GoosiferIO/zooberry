@@ -9,6 +9,13 @@
     <lastBuildDate>Mon, 25 Nov 2024 23:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/paths/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Paths</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/paths/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/paths/</guid>
+      <description>Pave new roads for your guests to walk on.</description>
+    </item>
+    <item>
       <title>T&#39;ni&#39;s Halloween Path Pack</title>
       <link>https://www.zooberry.org/mods/zt2/objects/paths/tni-halloween-path-pack/</link>
       <pubDate>Mon, 25 Nov 2024 23:00:00 +0000</pubDate>
@@ -30,6 +37,27 @@
       <description>This path is part of the Predators of the Seas Expanion Pack, and was the first non-animal and non-biome item created for it.</description>
     </item>
     <item>
+      <title>Nocturnal Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/nocturnal-pack/</link>
+      <pubDate>Thu, 20 Jun 2024 18:43:50 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/nocturnal-pack/</guid>
+      <description>A pack of nocturnal-themed objects by Feral Designs.</description>
+    </item>
+    <item>
+      <title>Elements Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/elements-pack/</link>
+      <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/elements-pack/</guid>
+      <description>This is a scenery pack from the creative minds of Penguinman and Budgielover101.</description>
+    </item>
+    <item>
+      <title>Crumbling Dark Brick Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/crumbling-dark-brick/</link>
+      <pubDate>Wed, 10 Jan 2024 09:26:07 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/crumbling-dark-brick/</guid>
+      <description>Dark crumbling bricks are a perfect path for Halloween themed areas of your zoos. Original skin by genkicoll for ZT1, converted to ZT2 by ShenTirag.</description>
+    </item>
+    <item>
       <title>Genkicoll&#39;s ZT1 Paths for ZT2 Pack</title>
       <link>https://www.zooberry.org/mods/zt2/objects/paths/genkicolls-paths-pack/</link>
       <pubDate>Wed, 10 Jan 2024 09:26:07 +0000</pubDate>
@@ -44,11 +72,39 @@
       <description>A path covered in newly fallen leaves, featuring leaf decorations along the curb as well.  Perfect for a walk through temperate forests!</description>
     </item>
     <item>
+      <title>Natural Scenery Pack 1</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/shens-natural-scenery-pack-1/</link>
+      <pubDate>Wed, 10 Jan 2024 09:26:07 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/shens-natural-scenery-pack-1/</guid>
+      <description>The first of two sets aimed towards creating more realistic zoos, and my first ever user-made pack for Zoo Tycoon 2!  Featuring three paths (two bark chip and one stone path), two topiaries and a bench.</description>
+    </item>
+    <item>
       <title>Shen&#39;s Path Pack</title>
       <link>https://www.zooberry.org/mods/zt2/objects/paths/shens-path-pack/</link>
       <pubDate>Sat, 05 Aug 2023 02:15:27 -0700</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/paths/shens-path-pack/</guid>
       <description>A pack with 12 new paths!</description>
+    </item>
+    <item>
+      <title>Sandstone Theme</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/sandstone-theme/</link>
+      <pubDate>Thu, 03 Aug 2023 06:18:09 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/sandstone-theme/</guid>
+      <description>The Sandstone Theme Pack contains items made of softly coloured sandstone, often overgrown with ivy.</description>
+    </item>
+    <item>
+      <title>Aboriginal Australian Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/aboriginal-australian-pack/</link>
+      <pubDate>Thu, 03 Aug 2023 05:51:46 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/aboriginal-australian-pack/</guid>
+      <description>Includes a high and low fence, an arch, a path, and a kangaroo statue.</description>
+    </item>
+    <item>
+      <title>Coastal Theme Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/coastal-theme-pack/</link>
+      <pubDate>Mon, 24 Jul 2023 17:51:11 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/coastal-theme-pack/</guid>
+      <description>A coastal theme pack by ShenTirag.</description>
     </item>
     <item>
       <title>Colored Path Pack</title>

@@ -16,6 +16,6 @@ orig_rel_at:
 orig_rel_date: 2006-10-01
 summary: A Halloween-themed fence.
 title: Halloween Fence
-zt2tags: ["All", "ZT2", "Objects", "Fences"]
+zt2tags: ["All", "ZT2", "Objects", "Fences", "Halloween"]
 ---
 Fences to go with the Halloween-themed stuff.

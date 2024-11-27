@@ -19,7 +19,7 @@ alt_text:
 languages:
 - English
 summary: "An African mongoose. Its main biome is scrub. Will not dig under chain link fences!"
-zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "African" ]
+zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "African", "Herpestids"]
 ---
 
 An African mongoose. Its main biome is scrub. Will not dig under chain link fences!

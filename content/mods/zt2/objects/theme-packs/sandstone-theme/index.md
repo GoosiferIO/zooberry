@@ -18,7 +18,7 @@ alt_text:
 languages:
 - English
 summary: "The Sandstone Theme Pack contains items made of softly coloured sandstone, often overgrown with ivy."
-
+zt2tags: ["All", "ZT2", "Objects", "Theme Packs", "Fences", "Paths", "Benches", "Canopies", "Fountains", "Lamps", "Scenery"]
 ---
 
 The Sandstone Theme Pack contains items made of softly coloured sandstone, often overgrown with ivy.  Perfectly suited to desert, scrubland or coastal exhibits!

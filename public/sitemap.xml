@@ -230,6 +230,9 @@
     <loc>https://www.zooberry.org/authors/gloria/</loc>
     <lastmod>2024-11-26T17:30:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/halloween/</loc>
+    <lastmod>2024-11-26T17:30:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/fences/halloween-fence/</loc>
     <lastmod>2024-11-26T17:30:00+00:00</lastmod>
   </url><url>
@@ -519,6 +522,9 @@
     <lastmod>2024-11-25T21:30:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/great-plains-wolf/</loc>
+    <lastmod>2024-11-25T21:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/marsupials/</loc>
     <lastmod>2024-11-25T21:30:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/papa-panda/</loc>
@@ -888,9 +894,6 @@
     <lastmod>2024-11-24T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/ambients/rice-paper-butterfly/</loc>
-    <lastmod>2024-11-24T01:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/south-america/</loc>
     <lastmod>2024-11-24T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/ambients/sun-conure/</loc>
@@ -1304,6 +1307,9 @@
     <loc>https://www.zooberry.org/mods/zt2/animals/living/nilgiri-tahr/</loc>
     <lastmod>2024-06-25T20:30:47-07:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/pilosans/</loc>
+    <lastmod>2024-06-25T20:24:01-07:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/three-toed-sloth/</loc>
     <lastmod>2024-06-25T20:24:01-07:00</lastmod>
   </url><url>
@@ -1311,6 +1317,9 @@
     <lastmod>2024-06-25T20:24:01-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/gerben/</loc>
+    <lastmod>2024-06-25T20:16:59-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/herpestids/</loc>
     <lastmod>2024-06-25T20:16:59-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/yellow-mongoose-ii/</loc>
@@ -1481,8 +1490,14 @@
     <loc>https://www.zooberry.org/mods/zt2/objects/theme-packs/sze-logfences-and-branches/</loc>
     <lastmod>2024-06-23T14:16:54-07:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/theme-packs/</loc>
+    <lastmod>2024-06-23T14:16:54-07:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/theme-packs/</loc>
     <lastmod>2024-06-23T14:16:54-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/building-kits/</loc>
+    <lastmod>2024-06-23T13:17:00-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/building-kits/</loc>
     <lastmod>2024-06-23T13:17:00-07:00</lastmod>
@@ -1495,6 +1510,9 @@
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/maps/temperate-bridges/</loc>
     <lastmod>2024-06-23T12:32:16-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/animal-food/</loc>
+    <lastmod>2024-06-23T02:05:14-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/animal-food/</loc>
     <lastmod>2024-06-23T02:05:14-07:00</lastmod>
@@ -1536,9 +1554,6 @@
     <lastmod>2024-06-22T21:20:46-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/dwarf-mongoose/</loc>
-    <lastmod>2024-06-22T21:17:15-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/herpestids/</loc>
     <lastmod>2024-06-22T21:17:15-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/diana-monkey/</loc>
@@ -1724,6 +1739,12 @@
     <loc>https://www.zooberry.org/mods/zt2/objects/theme-packs/nocturnal-pack/</loc>
     <lastmod>2024-06-20T18:43:50-07:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/signs/</loc>
+    <lastmod>2024-06-20T18:43:50-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/trash-cans/</loc>
+    <lastmod>2024-06-20T18:43:50-07:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/zootilities/tank-panels/</loc>
     <lastmod>2024-06-20T18:43:25-07:00</lastmod>
   </url><url>
@@ -1749,9 +1770,6 @@
     <lastmod>2024-06-20T18:40:57-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/giant-anteater-ii/</loc>
-    <lastmod>2024-06-20T18:40:57-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/pilosans/</loc>
     <lastmod>2024-06-20T18:40:57-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/emperor-tamarin/</loc>
@@ -1892,6 +1910,9 @@
     <loc>https://www.zooberry.org/mods/zt2/expansive-packs/desert-pack/</loc>
     <lastmod>2024-01-17T13:28:26+00:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/donation-boxes/</loc>
+    <lastmod>2024-01-17T13:28:26+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/theme-packs/elements-pack/</loc>
     <lastmod>2024-01-17T13:28:26+00:00</lastmod>
   </url><url>
@@ -1899,6 +1920,9 @@
     <lastmod>2024-01-17T13:28:26+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/tags/fences/</loc>
+    <lastmod>2024-01-17T13:28:26+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/fountains/</loc>
     <lastmod>2024-01-17T13:28:26+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/gibbon-fanatic/</loc>
@@ -2108,6 +2132,9 @@
     <loc>https://www.zooberry.org/mods/zt2/objects/zootilities/arabian-nights-location-banners/</loc>
     <lastmod>2024-01-10T09:26:07+00:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/binoculars/</loc>
+    <lastmod>2024-01-10T09:26:07+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/theme-packs/crumbling-dark-brick/</loc>
     <lastmod>2024-01-10T09:26:07+00:00</lastmod>
   </url><url>
@@ -2130,6 +2157,9 @@
     <lastmod>2024-01-10T09:26:07+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/fences/shens-rusty-fences/</loc>
+    <lastmod>2024-01-10T09:26:07+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/statues/</loc>
     <lastmod>2024-01-10T09:26:07+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/zootilities/warning-signs/</loc>
@@ -2653,6 +2683,12 @@
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/zootilities/animal-crossing-signs/</loc>
     <lastmod>2023-11-18T05:07:19-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/tags/fountains/</loc>
+    <lastmod>2023-11-18T04:54:19-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/tags/theme-packs/</loc>
+    <lastmod>2023-11-18T04:54:19-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/theme-packs/topiary-pack/</loc>
     <lastmod>2023-11-18T04:54:19-08:00</lastmod>

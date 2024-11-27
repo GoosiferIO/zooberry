@@ -17,6 +17,7 @@ orig_rel_at:
 orig_rel_date: 2010-08-02
 summary: The yellow-knobbed curassow is a large terrestrial bird that eats fruit.
 title: Yellow-Knobbed Curassow
+zt2tags: ["All", "Animals", "ZT2", "Living", "Birds", "South American"]
 ---
 The yellow-knobbed curassow is a large terrestrial bird that eats fruit. Both sexes have a large crest of curled feathers, but the male has a yellow bump on his bill. This bird lives in Colombia and Venezuela. They lay two eggs, but like all birds there is some variation in egg number and they will sometimes lay three eggs, or only one egg.
 

@@ -18,6 +18,7 @@ orig_rel_date: 2009-10-12
 summary: Dark crumbling bricks are a perfect path for Halloween themed areas of your
   zoos. Original skin by genkicoll for ZT1, converted to ZT2 by ShenTirag.
 title: Crumbling Dark Brick Pack
+zt2tags: ["All", "ZT2", "Objects", "Paths", "Halloween"]
 ---
 
 

@@ -18,7 +18,7 @@ alt_text:
 languages:
 - English
 summary: "Includes a high and low fence, an arch, a path, and a kangaroo statue."
-
+zt2tags: [ "All", "ZT2", "Objects", "Theme Packs", "Oceania", "Trashcans", "Fences", "Paths", "Statues", "Arches", "Scenery"]
 ---
 
 Includes a high and low fence, an arch, a path, and a kangaroo statue.

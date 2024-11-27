@@ -19,6 +19,7 @@ summary: "A mini-pack of log fences and branches for Zoo Tycoon 2."
 languages:
 - English
 - German
+zt2tags: ["All", "ZT2", "Objects", "Theme Packs", "Fences", "Scenery"]
 ---
 
 A mini-pack of log fences and branches for Zoo Tycoon 2.

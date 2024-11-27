@@ -5,4 +5,6 @@ draft: false
 alt_text: "Canopies"
 summary: "Shade your guests and animals with these decorative canopies!"
 is_category: true
+cascade:
+    zt2tags: ["All", "ZT2", "Objects", "Canopies"]
 ---
