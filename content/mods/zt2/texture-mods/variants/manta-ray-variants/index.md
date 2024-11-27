@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2007-01-01
 summary: Three Manta Ray variants with varying brightnesses of blue.
 title: Manta Ray Variants
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 This file gives you three variants of the Manta Ray, with varying brightnesses of blue on the top of their body. Works for both males and females.  
 

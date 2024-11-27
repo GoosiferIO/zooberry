@@ -16,7 +16,7 @@ orig_rel_at:
 orig_rel_date: 2006-12-01
 summary: A more brown variant skin for the Scalloped Hammerhead Shark.
 title: Scalloped Hammerhead Variants
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 This file contains one more brown variant for the Scalloped Hammerhead Shark.  
 

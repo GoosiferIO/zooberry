@@ -16,7 +16,7 @@ orig_rel_at:
 orig_rel_date: 2006-11-01
 summary: Natural-looking skins for your koalas, with two male variants included.
 title: Koala Reskin
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 This file gives your koalas new, more natural-looking skins. Included are two male variants as well.  
 

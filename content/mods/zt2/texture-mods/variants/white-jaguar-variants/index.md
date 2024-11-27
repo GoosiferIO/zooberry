@@ -16,7 +16,7 @@ orig_rel_at:
 - 'ZooAdmin'
 orig_rel_date: 2005-11-01
 summary: A couple of white jaguar skins, requiring medium or high graphics settings.
-title: White Jaguar Skins
-zt2tags: ["All", "ZT2", "Animal Variants"]
+title: White Jaguar Variants
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 A couple of white jaguar skins. Only shows with game settings on medium/high.

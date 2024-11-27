@@ -16,7 +16,7 @@ orig_rel_at:
 orig_rel_date: 2006-05-14
 summary: A darker and more realistic skin for the Grizzly Bear.
 title: Grizzly Bear Variant
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 This Grizzly Bear skin is darker and more realistic when it comes to Grizzly variations.  
 

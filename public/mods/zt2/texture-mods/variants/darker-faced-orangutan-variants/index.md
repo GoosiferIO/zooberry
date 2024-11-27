@@ -16,7 +16,7 @@ orig_rel_at:
 orig_rel_date: 2006-12-01
 summary: A darker-faced variant for the Orangutan.
 title: Darker Faced Orangutan Variants
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 This file contains a variant for the orangutan.  
 

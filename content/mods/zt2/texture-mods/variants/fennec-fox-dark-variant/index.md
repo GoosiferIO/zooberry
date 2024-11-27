@@ -16,7 +16,7 @@ orig_rel_at:
 orig_rel_date: 2006-05-14
 summary: A darker variant of the Fennec Fox.
 title: Fennec Fox Dark Variant
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 This file contains a darker variant for the Fennec Fox.  
 

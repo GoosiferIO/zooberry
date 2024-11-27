@@ -16,7 +16,7 @@ orig_rel_at:
 orig_rel_date: 2006-11-19
 summary: A more grey-colored reskin for the elephant.
 title: Elephant Reskin
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 A non-pink elephant reskin.  
 

@@ -16,7 +16,7 @@ orig_rel_at:
 orig_rel_date: 2008-02-10
 summary: A redder skin of the Fennec Fox.
 title: Fennec Fox Skin
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 Here is a redder skin of the Fennec Fox.  
 

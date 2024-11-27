@@ -18,7 +18,7 @@ orig_rel_at:
 orig_rel_date: 2006-06-01
 summary: Two variant skins for the Gerenuk, orangish and dull brown.
 title: Two Gerenuk Variants
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 This file contains two variant skins for the Gerenuk; one is more orangish, and the other is a more dull brown.  
 

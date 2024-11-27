@@ -16,7 +16,7 @@ orig_rel_at:
 orig_rel_date: 2006-07-29
 summary: A darker-plummaged variant for the male ostrich.
 title: Darker Male Ostrich Variant
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 This file contains a variant for the male ostrich, giving it a much darker plummage.  
 

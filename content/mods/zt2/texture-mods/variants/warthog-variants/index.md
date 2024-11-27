@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2006-07-01
 summary: Three variant skins for both male and female warthogs.
 title: Warthog Variants
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 This file contains three variant skins for the male warthog, as well as three similar variants for the female warthog.

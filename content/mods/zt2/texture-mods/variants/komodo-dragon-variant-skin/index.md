@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2006-05-14
 summary: A brown variant skin for the Komodo Dragon, the author's first download.
 title: Komodo Dragon Variant Skin
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 Just a brown variant, my first download! Thanks, Penguinman, for the VAT guide, and this was dedicated to my family!  
 

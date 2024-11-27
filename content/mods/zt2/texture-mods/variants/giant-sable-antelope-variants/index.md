@@ -15,8 +15,8 @@ orig_rel_at:
 - 'ZooAdmin'
 orig_rel_date: 2006-05-14
 summary: New skins for the Giant Sable Antelope.
-title: Giant Sable Antelope Skins
-zt2tags: ["All", "ZT2", "Animal Variants"]
+title: Giant Sable Antelope Variants
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 New skins for the Giant Sable Antelope.  
 

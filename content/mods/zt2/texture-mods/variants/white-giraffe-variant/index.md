@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2006-06-09
 summary: A requested white giraffe variant for reticulated giraffes.
 title: White Giraffe Variant
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 Finally what people have requested from me, a white giraffe! For the reticulated giraffes.

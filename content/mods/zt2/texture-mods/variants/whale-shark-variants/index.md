@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2006-12-01
 summary: One lighter and one darker variant for the Whale Shark.
 title: Whale Shark Variants
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 This file contains one lighter and one darker variant for the Whale Shark.  
 

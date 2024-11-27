@@ -16,7 +16,7 @@ orig_rel_at:
 orig_rel_date: 2006-10-02
 summary: Three variants for the Giant Panda, including rare and unique colors.
 title: Giant Panda Variants
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 Here are three variants for the Giant Panda:
 

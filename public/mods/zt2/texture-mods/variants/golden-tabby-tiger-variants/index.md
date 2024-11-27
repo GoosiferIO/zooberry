@@ -16,7 +16,7 @@ orig_rel_at:
 orig_rel_date: 2006-05-14
 summary: An additional skin for the Bengal Tiger.
 title: Golden Tabby Tiger Variant Skins
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 This is an additional skin for the ZT2 Bengal Tiger.  
 

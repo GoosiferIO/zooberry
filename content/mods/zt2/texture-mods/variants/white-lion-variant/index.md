@@ -16,7 +16,7 @@ orig_rel_at:
 orig_rel_date: 2007-04-24
 summary: A White Lion variant inspired by the author's childhood experience.
 title: White Lion Variant
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 I was asked to say something about my White Lion:  
 

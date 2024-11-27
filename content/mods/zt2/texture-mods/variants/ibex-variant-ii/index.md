@@ -16,7 +16,7 @@ orig_rel_at:
 orig_rel_date: 2006-05-14
 summary: A variant for the ibex, designed with realistic coloration.
 title: Ibex Variant II
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 Here is a variant for the Ibex.  
 

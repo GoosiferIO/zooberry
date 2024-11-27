@@ -16,7 +16,7 @@ orig_rel_at:
 orig_rel_date: 2006-05-14
 summary: A Peafowl skin for the Emerald Spalding species.
 title: Emerald Spalding Peafowl
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 Here is the first of a set of Peafowl skins.  
 

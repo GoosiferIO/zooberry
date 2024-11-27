@@ -18,6 +18,6 @@ orig_rel_at:
 orig_rel_date: 2006-06-30
 summary: Two grey variants for the Secretary Bird.
 title: Secretary Bird Variants
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 This file contains two variants for the Secretary Bird. Both are greyer versions, but one is just a tad more blue/grey than the other.

@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2006-06-18
 summary: Two wildebeest variants, one tannish and one grey with tan legs.
 title: Wildebeest Variants
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 This file contains two wildebeest variants. One is tannish, and the other is more grey with tanner legs.
 

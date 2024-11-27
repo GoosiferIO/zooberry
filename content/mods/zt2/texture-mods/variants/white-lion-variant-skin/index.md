@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2006-05-18
 summary: A white lion variant skin, the author's first download.
 title: White Lion Variant
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 This is my first download. Only shows with game settings on medium/high.

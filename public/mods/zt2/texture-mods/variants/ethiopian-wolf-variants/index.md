@@ -16,7 +16,7 @@ orig_rel_at:
 orig_rel_date: 2006-06-30
 summary: Two variant skins for the Ethiopian Wolf.
 title: Ethiopian Wolf Variants
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 This file contains two variant skins for the Ethiopian Wolf.  
 

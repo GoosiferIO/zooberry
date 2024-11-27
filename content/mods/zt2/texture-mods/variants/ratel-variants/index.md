@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2006-06-18
 summary: Two variants of the Ratel, featuring different back colors.
 title: Two Ratel Variants
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 This file contains two variants of the Ratel. One has a dark grey, almost black back, and the other has a grey back with a white stripe.

@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2006-11-28
 summary: A common zebra variant with bold white-on-black coloration.
 title: Zebra Variant
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 This common zebra variant has a white-on-black coloration with bold markings, an unusual and unique pattern not often found in nature.
 

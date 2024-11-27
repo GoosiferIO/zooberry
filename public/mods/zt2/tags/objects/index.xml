@@ -6,8 +6,64 @@
     <description>Recent content in Objects on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2024 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 17:30:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/objects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alpine Cat Climber</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/shelters/alpine-cat-climber/</link>
+      <pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/shelters/alpine-cat-climber/</guid>
+      <description>An Alpine Cat Climber for alpine-based cats.</description>
+    </item>
+    <item>
+      <title>Fences</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/fences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/fences/</guid>
+      <description>Fence in your animals with these decorative and functional fences!</description>
+    </item>
+    <item>
+      <title>Halloween Fence</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/fences/halloween-fence/</link>
+      <pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/fences/halloween-fence/</guid>
+      <description>A Halloween-themed fence.</description>
+    </item>
+    <item>
+      <title>Invisible Fence</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/fences/invisible-fence/</link>
+      <pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/fences/invisible-fence/</guid>
+      <description>An invisible fence for exhibits.</description>
+    </item>
+    <item>
+      <title>Jungle Ruins Cat Climber</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/shelters/jungle-ruins-cat-climber/</link>
+      <pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/shelters/jungle-ruins-cat-climber/</guid>
+      <description>A Jungle Ruins Cat Climber for Tropical Rainforest cats.</description>
+    </item>
+    <item>
+      <title>Objects</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/</guid>
+      <description>Any inanimate objects including buildings, fences, paths, animal enrichment items, etc.</description>
+    </item>
+    <item>
+      <title>Shelters</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/shelters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/shelters/</guid>
+      <description>Shelters to keep your animals safe and happy!</description>
+    </item>
+    <item>
+      <title>Snowy Cat Climber</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/shelters/snowy-cat-climber/</link>
+      <pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/shelters/snowy-cat-climber/</guid>
+      <description>A snowy Cat Climber for snow-bound cats.</description>
+    </item>
     <item>
       <title>Canopies</title>
       <link>https://www.zooberry.org/mods/zt2/objects/canopies/</link>
@@ -35,13 +91,6 @@
       <pubDate>Mon, 25 Nov 2024 23:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/jungle-bench/</guid>
       <description>Jungle-themed benches to let your guests rest.</description>
-    </item>
-    <item>
-      <title>Objects</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/</guid>
-      <description>Any inanimate objects including buildings, fences, paths, animal enrichment items, etc.</description>
     </item>
     <item>
       <title>Paths</title>
@@ -112,13 +161,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/</guid>
       <description>Zootilies are visitor services, accessibility, lighting, waste management, or informational items for your guests.</description>
-    </item>
-    <item>
-      <title>Fences</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/fences/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/fences/</guid>
-      <description>Fence in your animals with these decorative and functional fences!</description>
     </item>
     <item>
       <title>Iron Tunnel</title>
@@ -958,14 +1000,7 @@
       <link>https://www.zooberry.org/mods/zt2/objects/shelters/biome-shelter-pack/</link>
       <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/shelters/biome-shelter-pack/</guid>
-      <description>Enjoy this trio of shelters made by ShenTirag!</description>
-    </item>
-    <item>
-      <title>Shelters</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/shelters/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/shelters/</guid>
-      <description>Shelters to keep your animals safe and happy!</description>
+      <description>Tired of shelters that just don&amp;rsquo;t match your beautifully crafted exhibits? Worry no more! This pack contains shelters created to complement your exhibits: Boreal Forest Rock Cave, Temperate Forest Rock Cave, Grassland Rock Cave, Savannah Rock Cave, Wetlands Rock Cave, Grassland burrows for Ratels, and a tropical fern Shade Structure.</description>
     </item>
     <item>
       <title>Animal Enrichment</title>

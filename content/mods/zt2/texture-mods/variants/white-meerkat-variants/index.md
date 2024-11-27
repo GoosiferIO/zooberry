@@ -18,7 +18,7 @@ orig_rel_at:
 orig_rel_date: 2006-06-12
 summary: White Meerkat Variants as part of the author's white variant project.
 title: White Meerkat Variants
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 As part of my white variant project, here are the White Meerkat Variants! MUST HAVE AA.
 

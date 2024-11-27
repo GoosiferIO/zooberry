@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2006-05-18
 summary: A white wolf variant skin created by Acapella.
 title: White Wolf Variant
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
 Here is my white wolf - hope you enjoy it. Only shows with game settings on medium/high.
