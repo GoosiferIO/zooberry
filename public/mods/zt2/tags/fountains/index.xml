@@ -6,8 +6,29 @@
     <description>Recent content in Fountains on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jan 2024 13:28:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 20:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/fountains/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Christmas Fountain</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/scenery/christmas-fountain/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/scenery/christmas-fountain/</guid>
+      <description>A colorful fountain for Christmas exhibits.</description>
+    </item>
+    <item>
+      <title>Crocodile Fountain</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/scenery/crocodile-fountain/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/scenery/crocodile-fountain/</guid>
+      <description>A crocodile-themed fountain.</description>
+    </item>
+    <item>
+      <title>Small Jungle Fountain</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/scenery/small-jungle-fountain/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/scenery/small-jungle-fountain/</guid>
+      <description>A small jungle fountain for your zoo.</description>
+    </item>
     <item>
       <title>Elements Pack</title>
       <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/elements-pack/</link>
@@ -16,11 +37,53 @@
       <description>This is a scenery pack from the creative minds of Penguinman and Budgielover101.</description>
     </item>
     <item>
+      <title>Penguin Fountain</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/scenery/penguin-fountain/</link>
+      <pubDate>Sat, 30 Dec 2023 17:10:39 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/scenery/penguin-fountain/</guid>
+      <description>This penguin fountain will illuminate your penguin exhibits when guests pass by to view these little cuddly creatures.</description>
+    </item>
+    <item>
+      <title>Markhor Fountain</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/scenery/markhor-fountain/</link>
+      <pubDate>Sat, 05 Aug 2023 14:35:37 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/scenery/markhor-fountain/</guid>
+      <description>The markhor fountain was designed by King Hoopla</description>
+    </item>
+    <item>
+      <title>Enlarged Desert Fountain</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/scenery/enlarged-desert-fountain/</link>
+      <pubDate>Sat, 05 Aug 2023 03:12:07 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/scenery/enlarged-desert-fountain/</guid>
+      <description>This fountain is a larger version of the one found in AA.</description>
+    </item>
+    <item>
       <title>Sandstone Theme</title>
       <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/sandstone-theme/</link>
       <pubDate>Thu, 03 Aug 2023 06:18:09 -0700</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/sandstone-theme/</guid>
       <description>The Sandstone Theme Pack contains items made of softly coloured sandstone, often overgrown with ivy.</description>
+    </item>
+    <item>
+      <title>Water Springs Fountain</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/scenery/water-springs-fountain/</link>
+      <pubDate>Sat, 22 Jul 2023 09:06:32 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/scenery/water-springs-fountain/</guid>
+      <description>A beautiful fountain.</description>
+    </item>
+    <item>
+      <title>Waterfall Fountain</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/scenery/waterfall-fountain/</link>
+      <pubDate>Sat, 22 Jul 2023 08:10:10 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/scenery/waterfall-fountain/</guid>
+      <description>A soothing waterfall perfect for wetlands or tropical rainforest areas in your zoos.</description>
+    </item>
+    <item>
+      <title>Large Safari Fountain</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/scenery/large-safari-fountain/</link>
+      <pubDate>Fri, 21 Jul 2023 17:57:54 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/scenery/large-safari-fountain/</guid>
+      <description>This is a large version of the savannah themed fountain</description>
     </item>
   </channel>
 </rss>

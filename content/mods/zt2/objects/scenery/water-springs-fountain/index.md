@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "A beautiful fountain."
-
+zt2tags: ["All", "ZT2", "Objects", "Scenery", "Fountains"]
 ---
 
 A beautiful fountain.

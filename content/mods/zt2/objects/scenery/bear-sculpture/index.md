@@ -19,6 +19,7 @@ summary: "A bear sculpture imported from WLP2 by Platypus."
 languages:
 - English
 - German
+zt2tags: ["All", "ZT2", "Objects", "Scenery", "Statues"]
 ----
 
 A bear sculpture imported from WLP2 by Platypus.

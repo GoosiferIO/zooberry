@@ -6,8 +6,22 @@
     <description>Recent content in Animals on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Nov 2024 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 20:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/animals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ambients</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/ambients/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/</guid>
+      <description>These are not adoptable but do appear in the environment at random intervals to add ambiance!</description>
+    </item>
+    <item>
+      <title>Animals</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/</guid>
+      <description>Adopt new animals to share with your guests at home!</description>
+    </item>
     <item>
       <title>Alaskan Timber Wolf</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/alaskan-timber-wolf/</link>
@@ -28,13 +42,6 @@
       <pubDate>Wed, 27 Nov 2024 04:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/american-crocodile/</guid>
       <description>An endangered North American crocodile.</description>
-    </item>
-    <item>
-      <title>Animals</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/</guid>
-      <description>Adopt new animals to share with your guests at home!</description>
     </item>
     <item>
       <title>Arctic Wolf</title>
@@ -490,13 +497,6 @@
       <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/ambients/ambient-sheep/</guid>
       <description>An ambient sheep that randomly appears and moves through obstructions in your zoo.</description>
-    </item>
-    <item>
-      <title>Ambients</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/ambients/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/</guid>
-      <description>These are not adoptable but do appear in the environment at random intervals to add ambiance!</description>
     </item>
     <item>
       <title>Blackbuck</title>

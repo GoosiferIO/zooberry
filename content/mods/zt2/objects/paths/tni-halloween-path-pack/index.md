@@ -16,7 +16,7 @@ orig_rel_at:
 orig_rel_date: 2007-08-08
 summary: A spooky Halloween-themed path collection created by T'ni.
 title: T'ni's Halloween Path Pack
-zt2tags: ["All", "ZT2", "Objects", "Paths", "Packs", "Halloween"]
+zt2tags: ["All", "ZT2", "Objects", "Paths", "Packs", "Halloween", "Holidays"]
 ---
 **T'ni's Halloween Path Collection, 2006**  
 

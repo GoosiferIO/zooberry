@@ -6,8 +6,43 @@
     <description>Recent content in Csleesburg on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Nov 2024 17:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 20:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/authors/csleesburg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Christmas Fountain</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/scenery/christmas-fountain/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/scenery/christmas-fountain/</guid>
+      <description>A colorful fountain for Christmas exhibits.</description>
+    </item>
+    <item>
+      <title>Christmas Trashcan</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/christmas-trashcan/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/christmas-trashcan/</guid>
+      <description>A festive trashcan for Christmas exhibits.</description>
+    </item>
+    <item>
+      <title>Rainy Elevated Path</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/paths/rainy-elevated-path/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/paths/rainy-elevated-path/</guid>
+      <description>A rainy-themed elevated path for exhibits.</description>
+    </item>
+    <item>
+      <title>Spiderweb Gazebo</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/spiderweb-gazebo/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/spiderweb-gazebo/</guid>
+      <description>A Spiderweb Gazebo for your spooky Halloween zoo.</description>
+    </item>
+    <item>
+      <title>Starry Elevated Path</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/paths/starry-elevated-path/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/paths/starry-elevated-path/</guid>
+      <description>A starry elevated path for exhibits.</description>
+    </item>
     <item>
       <title>Alpine Cat Climber</title>
       <link>https://www.zooberry.org/mods/zt2/objects/shelters/alpine-cat-climber/</link>

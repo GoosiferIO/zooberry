@@ -29,5 +29,12 @@
       <guid>https://www.zooberry.org/mods/zt2/objects/shelters/snowy-cat-climber/</guid>
       <description>A snowy Cat Climber for snow-bound cats.</description>
     </item>
+    <item>
+      <title>Animal Enrichment</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/animal-enrichment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/animal-enrichment/</guid>
+      <description>Animal enrichment, food, and shelters to keep your animals fed and happy!</description>
+    </item>
   </channel>
 </rss>

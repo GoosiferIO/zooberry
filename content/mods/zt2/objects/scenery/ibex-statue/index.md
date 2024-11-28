@@ -17,6 +17,7 @@ orig_rel_at:
 orig_rel_date: 2009-09-11
 summary: An ibex statue for your guests to look at.
 title: Ibex Statue
+zt2tags: ["All", "ZT2", "Objects", "Scenery", "Statues"]
 ---
 An ibex statue for your guests to look at.
 

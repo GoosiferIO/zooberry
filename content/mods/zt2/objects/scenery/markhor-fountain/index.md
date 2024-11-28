@@ -17,6 +17,6 @@ alt_text:
 languages:
 - English
 summary: "The markhor fountain was designed by King Hoopla"
-
+zt2tags: ["All", "ZT2", "Objects", "Scenery", "Fountains"]
 ---
 The markhor fountain was designed by King Hoopla for the ZooMania Coliseum Tournament in 2008.

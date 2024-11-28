@@ -18,6 +18,7 @@ alt_text:
 languages:
 - English
 summary: "A board which shows the history of the zoo for guests to see."
+zt2tags: ["All", "ZT2", "Objects", "Zootilities", "Signs"]
 ---
 A board which shows the history of the zoo for guests to see. It was designed by Komodo 93 for the Object Recolor Contest at ZT2DC, and was hosted there as an exclusive download. The contest was announced on 04/21/2006 and the winners were announced on 06/07. This particular download tied for second place!
 

@@ -18,6 +18,7 @@ alt_text:
 languages:
 - English
 summary: "This bench will go perfectly alongside your Jurassic period species."
+zt2tags: ["All", "ZT2", "Objects", "Zootilities", "Benches"]
 ---
 This bench will go perfectly alongside your Jurassic period species. It was designed by Zooasaurus for the Object Recolor Contest at ZT2DC, and was hosted there as an exclusive download. The contest was announced on 04/21/2006 and the winners were announced on 06/07. This particular download received a runner up position!
 

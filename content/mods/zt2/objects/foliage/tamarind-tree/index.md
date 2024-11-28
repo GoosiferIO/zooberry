@@ -14,6 +14,7 @@ languages:
 license: 'Yes'
 orig_rel_at:
 - Penguin's Peak
+- ZooAdmin
 orig_rel_date: 2006-04-06
 summary: This wonderful tree will be great in Scrub and Tropical Rainforest exhibits
   with animals from Asia, Africa or Central America..

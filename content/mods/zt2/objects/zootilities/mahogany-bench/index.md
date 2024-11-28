@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "A dark wooden bench great for any rest stop or viewing area."
-
+zt2tags: ["All", "ZT2", "Objects", "Zootilities", "Benches"]
 ---
 
 A dark wooden bench great for any rest stop or viewing area.

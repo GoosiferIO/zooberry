@@ -18,6 +18,7 @@ alt_text:
 languages:
 - English
 summary: "This donation box has a lemur instead of a monkey as well as the animals from Madagascar, the movie."
+zt2tags: ["All", "ZT2", "Objects", "Zootilities", "Donation Boxes"]
 ---
 This donation box has a lemur instead of a monkey as well as the animals from Madagascar, the movie. It was designed by Koala Komander for the Object Recolor Contest at ZT2DC, and was hosted there as an exclusive download. The contest was announced on 04/21/2006 and the winners were announced on 06/07. This particular download came in first place!
 

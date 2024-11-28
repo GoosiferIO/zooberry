@@ -6,8 +6,36 @@
     <description>Recent content in Trashcans on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2024 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 20:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/trashcans/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Christmas Trashcan</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/christmas-trashcan/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/christmas-trashcan/</guid>
+      <description>A festive trashcan for Christmas exhibits.</description>
+    </item>
+    <item>
+      <title>Flower Trashcan</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/flower-trashcan/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/flower-trashcan/</guid>
+      <description>A flower-themed trashcan for decoration.</description>
+    </item>
+    <item>
+      <title>Halloween Trashcan</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/halloween-trashcan/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/halloween-trashcan/</guid>
+      <description>A Halloween-themed trashcan.</description>
+    </item>
+    <item>
+      <title>Zoo Admin Anniversary Trashcan</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/zoo-admin-anniversary-trashcan/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/zoo-admin-anniversary-trashcan/</guid>
+      <description>A trashcan created for Zoo Admin&amp;rsquo;s 5th Anniversary.</description>
+    </item>
     <item>
       <title>Paw Prints Trashcan</title>
       <link>https://www.zooberry.org/mods/zt2/objects/zootilities/paw-prints-trashcan/</link>
@@ -35,6 +63,27 @@
       <pubDate>Thu, 03 Aug 2023 05:51:46 -0700</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/aboriginal-australian-pack/</guid>
       <description>Includes a high and low fence, an arch, a path, and a kangaroo statue.</description>
+    </item>
+    <item>
+      <title>Jungle Croc Trashcan</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/jungle-croc-trashcan/</link>
+      <pubDate>Sat, 22 Jul 2023 08:56:47 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/jungle-croc-trashcan/</guid>
+      <description>A jungle-themed trashcan with a croc head on it.</description>
+    </item>
+    <item>
+      <title>South American Trashcan</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/south-american-trashcan/</link>
+      <pubDate>Sat, 22 Jul 2023 08:07:39 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/south-american-trashcan/</guid>
+      <description>We made this trashcan a while ago. We hope that you all enjoy it.</description>
+    </item>
+    <item>
+      <title>Mini Trashcan Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/mini-trashcan-pack/</link>
+      <pubDate>Fri, 21 Jul 2023 21:36:57 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/mini-trashcan-pack/</guid>
+      <description>In this pack, you will find a Royal Trascan, Marble Trashcan, and a Wooden Trashcan.</description>
     </item>
   </channel>
 </rss>

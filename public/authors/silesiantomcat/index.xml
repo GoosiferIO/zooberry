@@ -6,8 +6,29 @@
     <description>Recent content in SilesianTomcat on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2024 20:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 20:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/authors/silesiantomcat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Common Reed</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/foliage/common-reed/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/foliage/common-reed/</guid>
+      <description>A wetlands plant.</description>
+    </item>
+    <item>
+      <title>Durian Tree</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/foliage/durian-tree/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/foliage/durian-tree/</guid>
+      <description>A rainforest tree from Southeast Asia.</description>
+    </item>
+    <item>
+      <title>Weeping Willow</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/foliage/weeping-willow/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/foliage/weeping-willow/</guid>
+      <description>A new tree for the temperate forest biome.</description>
+    </item>
     <item>
       <title>African Leopard II</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/african-leopard-ii/</link>

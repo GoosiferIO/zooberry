@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "A stainless steel table made by Taz Little Monster."
-
+zt2tags: ["All", "ZT2", "Objects", "Scenery", "Tables"]
 ---
 
 A stainless steel table made by Taz Little Monster.

@@ -6,8 +6,22 @@
     <description>Recent content in Donation Boxes on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jan 2024 13:28:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 20:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/donation-boxes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zoo Admin Anniversary Donation Box</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/zoo-admin-anniversary-donation-box/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/zoo-admin-anniversary-donation-box/</guid>
+      <description>A donation box for Zoo Admin&amp;rsquo;s 5th Anniversary.</description>
+    </item>
+    <item>
+      <title>Japanese Macaque Donation Box</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/japanese-macaque-donation-box/</link>
+      <pubDate>Fri, 22 Mar 2024 13:32:27 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/japanese-macaque-donation-box/</guid>
+      <description>A donation box box designed to look like a Japanese Macaque.</description>
+    </item>
     <item>
       <title>Elements Pack</title>
       <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/elements-pack/</link>
@@ -21,6 +35,20 @@
       <pubDate>Wed, 10 Jan 2024 09:26:07 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/shens-natural-scenery-pack-2/</guid>
       <description>A second set of natural wooden scenery to soften the curves of a harsh city zoo.  Featuring a mahogany wooden donation box, binocular set, viewing canopy and map, alongside a set of ivy covered arches including large sizes to cover wide paths.  Additionally, several fallen logs are contained to give a realistic feel to a forest exhibit.</description>
+    </item>
+    <item>
+      <title>Lemur Donation Box</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/lemur-donation-box/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/lemur-donation-box/</guid>
+      <description>This donation box has a lemur instead of a monkey as well as the animals from Madagascar, the movie.</description>
+    </item>
+    <item>
+      <title>Pig Donation Box</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/pig-donation-box/</link>
+      <pubDate>Sat, 18 Nov 2023 04:22:30 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/pig-donation-box/</guid>
+      <description>A donation box that has a pig on it.</description>
     </item>
   </channel>
 </rss>

@@ -6,8 +6,15 @@
     <description>Recent content in Tables on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2024 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 20:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/tables/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zoo Admin Anniversary Table</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/zoo-admin-anniversary-table/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/zoo-admin-anniversary-table/</guid>
+      <description>A picnic table created for Zoo Admin&amp;rsquo;s 5th Anniversary.</description>
+    </item>
     <item>
       <title>Inlaid Stone Picnic Table</title>
       <link>https://www.zooberry.org/mods/zt2/objects/zootilities/inlaid-stone-picnic-table/</link>
@@ -28,6 +35,20 @@
       <pubDate>Fri, 04 Oct 2024 19:40:23 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/expansive-packs/island-excursions/</guid>
       <description>Embark upon an excursion to travel the oceans in search of tropical paradise! Discover the isles hiding within the Hawaiian Islands and Papua New Guinea, seeing such animals as the Hawaiian Monk Seal and the Northern Cassowary as they live in their lush and vibrant homes.</description>
+    </item>
+    <item>
+      <title>Stone Table</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/stone-table/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/stone-table/</guid>
+      <description>A table made of stone for guests to eat on.</description>
+    </item>
+    <item>
+      <title>Stainless Steel Table</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/scenery/stainless-steel-table/</link>
+      <pubDate>Mon, 13 Nov 2023 00:44:58 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/scenery/stainless-steel-table/</guid>
+      <description>A stainless steel table made by Taz Little Monster.</description>
     </item>
   </channel>
 </rss>

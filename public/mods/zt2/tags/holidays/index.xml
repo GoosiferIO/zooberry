@@ -6,14 +6,56 @@
     <description>Recent content in Holidays on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Nov 2024 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 20:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/holidays/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Christmas Fountain</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/scenery/christmas-fountain/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/scenery/christmas-fountain/</guid>
+      <description>A colorful fountain for Christmas exhibits.</description>
+    </item>
+    <item>
+      <title>Christmas Trashcan</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/christmas-trashcan/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/christmas-trashcan/</guid>
+      <description>A festive trashcan for Christmas exhibits.</description>
+    </item>
+    <item>
+      <title>YR St Patty&#39;s Day Path</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/paths/yr-st-pattys-day-path/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/paths/yr-st-pattys-day-path/</guid>
+      <description>A St. Patty&amp;rsquo;s Day path.</description>
+    </item>
     <item>
       <title>Christmas Tiger</title>
       <link>https://www.zooberry.org/mods/zt2/animals/fictional/christmas-tiger/</link>
       <pubDate>Wed, 27 Nov 2024 04:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/fictional/christmas-tiger/</guid>
       <description>A seasonal tiger for winter exhibits.</description>
+    </item>
+    <item>
+      <title>Halloween Fence</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/fences/halloween-fence/</link>
+      <pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/fences/halloween-fence/</guid>
+      <description>A Halloween-themed fence.</description>
+    </item>
+    <item>
+      <title>T&#39;ni&#39;s Halloween Path Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/paths/tni-halloween-path-pack/</link>
+      <pubDate>Mon, 25 Nov 2024 23:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/paths/tni-halloween-path-pack/</guid>
+      <description>A spooky Halloween-themed path collection created by T&amp;rsquo;ni.</description>
+    </item>
+    <item>
+      <title>Presently-Seated Bench</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/presently-seated-bench/</link>
+      <pubDate>Tue, 14 Nov 2023 21:55:18 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/presently-seated-bench/</guid>
+      <description>Download the Presently Seated Bench, a festive holiday bench</description>
     </item>
   </channel>
 </rss>

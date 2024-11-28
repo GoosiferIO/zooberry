@@ -6,8 +6,57 @@
     <description>Recent content in Halloween on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Nov 2024 17:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 20:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/halloween/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ghost Bench</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/ghost-bench/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/ghost-bench/</guid>
+      <description>A ghost-themed bench for your zoo.</description>
+    </item>
+    <item>
+      <title>Halloween Binoculars</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/halloween-binoculars/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/halloween-binoculars/</guid>
+      <description>Binoculars for spooky Halloween exhibits.</description>
+    </item>
+    <item>
+      <title>Halloween Canopy</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/canopies/halloween-canopy/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/canopies/halloween-canopy/</guid>
+      <description>A spooky canopy for Halloween exhibits.</description>
+    </item>
+    <item>
+      <title>Halloween Donation Box</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/halloween-donation-box/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/halloween-donation-box/</guid>
+      <description>A Halloween-themed donation box.</description>
+    </item>
+    <item>
+      <title>Halloween Trashcan</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/halloween-trashcan/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/halloween-trashcan/</guid>
+      <description>A Halloween-themed trashcan.</description>
+    </item>
+    <item>
+      <title>Pumpkin Patch</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/foliage/pumpkin-patch/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/foliage/pumpkin-patch/</guid>
+      <description>A pumpkin patch for Halloween-themed exhibits.</description>
+    </item>
+    <item>
+      <title>Spiderweb Gazebo</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/spiderweb-gazebo/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/spiderweb-gazebo/</guid>
+      <description>A Spiderweb Gazebo for your spooky Halloween zoo.</description>
+    </item>
     <item>
       <title>Halloween Fence</title>
       <link>https://www.zooberry.org/mods/zt2/objects/fences/halloween-fence/</link>

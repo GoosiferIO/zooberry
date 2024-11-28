@@ -15,6 +15,7 @@ languages:
 license: 'Yes'
 orig_rel_at:
 - Penguin's Peak
+- ZooAdmin
 orig_rel_date: 2006-04-22
 summary: An Asian fruit tree. This beautiful mango variety lives in the Indian scrublands.
 title: Indian Mango Tree

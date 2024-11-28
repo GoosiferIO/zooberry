@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "A rhino statue made by Rhino Designs."
-
+zt2tags: ["All", "ZT2", "Objects", "Scenery", "Statues"]
 ---
 
 A rhino statue made by Rhino Designs.
