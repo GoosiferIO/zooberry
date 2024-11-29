@@ -9,6 +9,20 @@
     <lastBuildDate>Thu, 28 Nov 2024 20:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/tour-objects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Halloween Tour Objects</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/tour-objects/halloween-tour-objects/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/tour-objects/halloween-tour-objects/</guid>
+      <description>Tour objects for a spooky Halloween-themed zoo.</description>
+    </item>
+    <item>
+      <title>Halloween Tour Objects</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/tour-objects/halloween-tunnels/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/tour-objects/halloween-tunnels/</guid>
+      <description>Tour objects for a spooky Halloween-themed zoo.</description>
+    </item>
+    <item>
       <title>Snow Tiger Easter Contest Pack 1</title>
       <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/snow-tiger-easter-contest-pack-1/</link>
       <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
@@ -21,6 +35,27 @@
       <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/snow-tiger-easter-contest-pack-2/</guid>
       <description>Snow Tigers Easter Contest Pack 2 with Easter-themed objects and animals.</description>
+    </item>
+    <item>
+      <title>Tour Objects</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/tour-objects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/tour-objects/</guid>
+      <description>Objects that help guest satisfaction during tours.</description>
+    </item>
+    <item>
+      <title>Glitter Shower</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/tour-objects/glitter-shower/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/tour-objects/glitter-shower/</guid>
+      <description>A glitter shower for the Anniversary Zoo.</description>
+    </item>
+    <item>
+      <title>Penguin Jeep</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/tour-objects/penguin-jeep/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/tour-objects/penguin-jeep/</guid>
+      <description>A penguin-themed jeep for exhibits.</description>
     </item>
   </channel>
 </rss>

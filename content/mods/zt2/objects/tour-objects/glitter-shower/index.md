@@ -16,6 +16,6 @@ orig_rel_at:
 orig_rel_date: 2006-10-01
 summary: A glitter shower for the Anniversary Zoo.
 title: Glitter Shower
-zt2tags: ["All", "ZT2", "Objects", "Scenery"]
+zt2tags: ["All", "ZT2", "Objects", "Tour Objects"]
 ---
 Shower your guests in glitter as they enter the Anniversary Zoo.

@@ -114,6 +114,20 @@
       <description>Halloween Scenery Pack with paths, canopies, and more.</description>
     </item>
     <item>
+      <title>Halloween Tour Objects</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/tour-objects/halloween-tour-objects/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/tour-objects/halloween-tour-objects/</guid>
+      <description>Tour objects for a spooky Halloween-themed zoo.</description>
+    </item>
+    <item>
+      <title>Halloween Tour Objects</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/tour-objects/halloween-tunnels/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/tour-objects/halloween-tunnels/</guid>
+      <description>Tour objects for a spooky Halloween-themed zoo.</description>
+    </item>
+    <item>
       <title>Japanese Mini Pack</title>
       <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/japanese-mini-pack/</link>
       <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
@@ -168,6 +182,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/</guid>
       <description>Bundles of objects all curated or designed after a specific theme.</description>
+    </item>
+    <item>
+      <title>Tour Objects</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/tour-objects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/tour-objects/</guid>
+      <description>Objects that help guest satisfaction during tours.</description>
     </item>
     <item>
       <title>Valentine Pack</title>
@@ -570,9 +591,9 @@
     </item>
     <item>
       <title>Glitter Shower</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/scenery/glitter-shower/</link>
+      <link>https://www.zooberry.org/mods/zt2/objects/tour-objects/glitter-shower/</link>
       <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/scenery/glitter-shower/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/objects/tour-objects/glitter-shower/</guid>
       <description>A glitter shower for the Anniversary Zoo.</description>
     </item>
     <item>
@@ -644,6 +665,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/paths/</guid>
       <description>Pave new roads for your guests to walk on.</description>
+    </item>
+    <item>
+      <title>Penguin Jeep</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/tour-objects/penguin-jeep/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/tour-objects/penguin-jeep/</guid>
+      <description>A penguin-themed jeep for exhibits.</description>
     </item>
     <item>
       <title>Powder-Blue Tang</title>
