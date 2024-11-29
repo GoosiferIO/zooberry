@@ -1,7 +1,7 @@
 ---
 author:
 - Panda11
-- The Exhibit
+- The Exibit
 - SilesianTomcat
 - ZooD
 date: '2024-11-25T12:00:00'
@@ -29,7 +29,7 @@ Place the file in:
 If it doesn't work then place it in:
 ``C:/program files/microsoft games/zoo tycoon 2/``. 
 
-Made with APE2 by Sideshow Bob. Zoopedia information by ZooD. Coding by Panda11. Recoloring by The Exhibit. Fixing technical issues by SilesianTomcat. Thanks everyone who helped!
+Made with APE2 by Sideshow Bob. Zoopedia information by ZooD. Coding by Panda11. Recoloring by The Exibit. Fixing technical issues by SilesianTomcat. Thanks everyone who helped!
 
 # Other Credits
 

@@ -6,24 +6,29 @@
   <p>{{ .Summary }}</p> 
     <span class="author-meta">
       <p>Created By</p>
-      {{ $len := len .Params.author }}
-      {{ $lastAuthor := index .Params.author (sub $len 1) }}
-      {{ range $index, $author := .Params.author }}
-          {{ if eq $len 1 }}
-              <a href="/authors/{{ $author | urlize }}">{{ $author }}</a>
-          {{ else if eq $len 2 }}
-              {{ if eq $index 0 }}
-              <a href="/authors/{{ $author | urlize }}">{{ $author }}</a> and
-              {{ else }}
-              <a href="/authors/{{ $author | urlize }}">{{ $author }}</a>
-              {{ end }}
-          {{ else }}
-              {{ if eq $author $lastAuthor }}
-                  and <a href="/authors/{{ $author | urlize }}">{{ $author }}</a>
-              {{ else }}
-              <a href="/authors/{{ $author | urlize }}">{{ $author }}</a>,
-              {{ end }}
-          {{ end }}
+      {{ if isset .Params "author" }}
+        {{ $len := len .Params.author }}
+        {{ $lastAuthor := index .Params.author (sub $len 1) }}
+
+        {{ range $index, $author := .Params.author }}
+            {{ if eq $len 1 }}
+                <a href="/authors/{{ $author | urlize }}">{{ $author }}</a>
+            {{ else if eq $len 2 }}
+                {{ if eq $index 0 }}
+                <a href="/authors/{{ $author | urlize }}">{{ $author }}</a> and
+                {{ else }}
+                <a href="/authors/{{ $author | urlize }}">{{ $author }}</a>
+                {{ end }}
+            {{ else }}
+                {{ if eq $author $lastAuthor }}
+                    and <a href="/authors/{{ $author | urlize }}">{{ $author }}</a>
+                {{ else }}
+                <a href="/authors/{{ $author | urlize }}">{{ $author }}</a>,
+                {{ end }}
+            {{ end }}
+        {{ end }}
+      {{ else }}
+        {{ warnf "No author specified for %s" .RelPermalink }}
       {{ end }}
           </span>
     <div class="mod-deets">

@@ -1,6 +1,6 @@
 ---
 author:
-- The Exhibit
+- The Exibit
 - SilesianTomcat
 date: '2024-11-24T03:00:00'
 draft: false

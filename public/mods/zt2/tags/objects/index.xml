@@ -37,6 +37,20 @@
       <description>Alpine-themed information boards.</description>
     </item>
     <item>
+      <title>Animal Flowerpost Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/scenery/animal-flowerpost-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/scenery/animal-flowerpost-pack/</guid>
+      <description>A pack featuring animal-themed flowerposts.</description>
+    </item>
+    <item>
+      <title>Animal Print Fences</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/fences/animal-print-fences/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/fences/animal-print-fences/</guid>
+      <description>A pack of six animal print fences for your zoo.</description>
+    </item>
+    <item>
       <title>Aquatic Adventure Pack</title>
       <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/aquatic-adventure-pack/</link>
       <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
@@ -63,6 +77,34 @@
       <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/christmas-scenery-pack/</guid>
       <description>Christmas Scenery Pack featuring fountains, gazebos, and more.</description>
+    </item>
+    <item>
+      <title>Crazy Fence Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/fences/crazy-fence-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/fences/crazy-fence-pack/</guid>
+      <description>A pack of crazy-themed fences to match the Crazy Paths pack.</description>
+    </item>
+    <item>
+      <title>Doooot&#39;s Mini Animal Fence Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/fences/doooots-mini-animal-fence-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/fences/doooots-mini-animal-fence-pack/</guid>
+      <description>A mini pack of animal-themed fences.</description>
+    </item>
+    <item>
+      <title>Fences</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/fences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/fences/</guid>
+      <description>Fence in your animals with these decorative and functional fences!</description>
+    </item>
+    <item>
+      <title>Fire Column Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/scenery/fire-column-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/scenery/fire-column-pack/</guid>
+      <description>A decorative pack featuring fire-themed columns.</description>
     </item>
     <item>
       <title>Flowerbed Pack</title>
@@ -170,6 +212,13 @@
       <description>Savannah-themed information boards.</description>
     </item>
     <item>
+      <title>Scenery</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/scenery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/scenery/</guid>
+      <description>Objects that are designed to just sit there and look pretty!</description>
+    </item>
+    <item>
       <title>Seasonal Foliage</title>
       <link>https://www.zooberry.org/mods/zt2/objects/foliage/seasonal-foliage/</link>
       <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
@@ -238,13 +287,6 @@
       <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/fences/dragon-wall/</guid>
       <description>A dragon-themed wall for zoos.</description>
-    </item>
-    <item>
-      <title>Fences</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/fences/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/fences/</guid>
-      <description>Fence in your animals with these decorative and functional fences!</description>
     </item>
     <item>
       <title>Galaxy Wall</title>
@@ -511,13 +553,6 @@
       <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/foliage/sargassum/</guid>
       <description>The first plant for the pelagic biome.</description>
-    </item>
-    <item>
-      <title>Scenery</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/scenery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/scenery/</guid>
-      <description>Objects that are designed to just sit there and look pretty!</description>
     </item>
     <item>
       <title>Sky Elevated Path</title>

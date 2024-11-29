@@ -1,6 +1,6 @@
 ---
 author:
-- The Exhibit
+- The Exibit
 date: '2024-11-25T19:00:00'
 draft: false
 exp_req:
@@ -23,4 +23,4 @@ No description available.
 
 **Credits:**  
 - Model by Bluefang.  
-- Textures and coding by The Exhibit.
+- Textures and coding by The Exibit.

@@ -1,6 +1,14 @@
 ---
 author:
-- Snow Tigers
+- RedNotDead
+- Martin1990
+- ZooD
+- Doooot
+- Panda11
+- The Exibit
+- Dwarfgourmis
+- Karlhall39
+- Boblus
 date: '2024-11-28T20:00:00'
 draft: false
 exp_req:
