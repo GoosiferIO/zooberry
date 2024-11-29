@@ -15,6 +15,6 @@ orig_rel_at:
 orig_rel_date: 2006-10-01
 summary: A Halloween-themed trashcan.
 title: Halloween Trashcan
-zt2tags: ["All", "ZT2", "Objects", "Trashcans", "Halloween", "Zootilities"]
+zt2tags: ["All", "ZT2", "Objects", "Trashcans", "Halloween", "Zootilities", "Holidays"]
 ---
 Throw away all those spooky treat wrappers here.

@@ -15,6 +15,6 @@ orig_rel_at:
 orig_rel_date: 2006-10-01
 summary: Binoculars for spooky Halloween exhibits.
 title: Halloween Binoculars
-zt2tags: ["All", "ZT2", "Objects", "Zootilities", "Halloween"]
+zt2tags: ["All", "ZT2", "Objects", "Zootilities", "Halloween", "Holidays"]
 ---
 Use these binoculars in your Halloween zoo to see those spooky, scary animals.

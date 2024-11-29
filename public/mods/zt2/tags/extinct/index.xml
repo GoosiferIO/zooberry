@@ -6,7 +6,7 @@
     <description>Recent content in Extinct on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2024 21:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 16:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/extinct/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Extinct</title>
@@ -14,6 +14,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/extinct/</guid>
       <description>Prehistoric, ice age, recently-extinct all go here.</description>
+    </item>
+    <item>
+      <title>Quagga</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/extinct/quagga/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/quagga/</guid>
+      <description>A beautiful extinct subspecies of Plains Zebra.</description>
     </item>
     <item>
       <title>Scutosaurus</title>

@@ -6,21 +6,273 @@
     <description>Recent content in ZT2 on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Nov 2024 20:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 16:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/zt2/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ambients</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/ambients/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/</guid>
-      <description>These are not adoptable but do appear in the environment at random intervals to add ambiance!</description>
-    </item>
     <item>
       <title>Animals</title>
       <link>https://www.zooberry.org/mods/zt2/animals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/</guid>
       <description>Adopt new animals to share with your guests at home!</description>
+    </item>
+    <item>
+      <title>Blue Fence</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/fences/blue-fence/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/fences/blue-fence/</guid>
+      <description>A lovely blue fence to match the blue path.</description>
+    </item>
+    <item>
+      <title>Coyote II</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/coyote-ii/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/coyote-ii/</guid>
+      <description>A Cute playful Coyote From the Deserts of North-America, they like to chase their tale, grooming themselves and drinking water. A great option for your zoos ES Required.</description>
+    </item>
+    <item>
+      <title>Dingo II</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/dingo-ii/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/dingo-ii/</guid>
+      <description>An Australian scrub animal with slight color variations.</description>
+    </item>
+    <item>
+      <title>Domestic Cat</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/domestic-cat/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/domestic-cat/</guid>
+      <description>Domestic cats with five color variations.</description>
+    </item>
+    <item>
+      <title>Dragon Bar Fence</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/fences/dragon-bar-fence/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/fences/dragon-bar-fence/</guid>
+      <description>A bar-style fence for zoos.</description>
+    </item>
+    <item>
+      <title>Dragon Wall</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/fences/dragon-wall/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/fences/dragon-wall/</guid>
+      <description>A dragon-themed wall for zoos.</description>
+    </item>
+    <item>
+      <title>Dwarf Crocodile</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/dwarf-crocodile/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/dwarf-crocodile/</guid>
+      <description>A reptilian addition to your zoo.</description>
+    </item>
+    <item>
+      <title>Eevee</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/fictional/eevee/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/eevee/</guid>
+      <description>Adorable Eevee for your zoo.</description>
+    </item>
+    <item>
+      <title>Eurasian Beaver</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/eurasian-beaver/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/eurasian-beaver/</guid>
+      <description>A European cousin of the American Beaver.</description>
+    </item>
+    <item>
+      <title>Extinct</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/extinct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/</guid>
+      <description>Prehistoric, ice age, recently-extinct all go here.</description>
+    </item>
+    <item>
+      <title>Fences</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/fences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/fences/</guid>
+      <description>Fence in your animals with these decorative and functional fences!</description>
+    </item>
+    <item>
+      <title>Fictional</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/fictional/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/</guid>
+      <description>Animals that only exist in the depths our imaginations.</description>
+    </item>
+    <item>
+      <title>Fire and Ice Unicorn</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/fictional/fire-and-ice-unicorn/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/fire-and-ice-unicorn/</guid>
+      <description>A fiery and icy unicorn duo for your zoo.</description>
+    </item>
+    <item>
+      <title>Fire and Ice Unicorn</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/fire-and-ice-unicorn/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/fire-and-ice-unicorn/</guid>
+      <description>A fiery and icy unicorn duo for your zoo.</description>
+    </item>
+    <item>
+      <title>Galaxy Wall</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/fences/galaxy-wall/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/fences/galaxy-wall/</guid>
+      <description>A galaxy-themed wall for zoos.</description>
+    </item>
+    <item>
+      <title>Granite Wall</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/fences/granite-wall/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/fences/granite-wall/</guid>
+      <description>A granite wall for zoos with matching pathways.</description>
+    </item>
+    <item>
+      <title>Living</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/</guid>
+      <description>Animals that still roam the Earth today.</description>
+    </item>
+    <item>
+      <title>Marli Pink Fence</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/fences/marli-pink-fence/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/fences/marli-pink-fence/</guid>
+      <description>A pink fence to match the pink path.</description>
+    </item>
+    <item>
+      <title>Northern River Otter</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/northern-river-otter/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/northern-river-otter/</guid>
+      <description>A cute North American otter for your zoo.</description>
+    </item>
+    <item>
+      <title>Objects</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/</guid>
+      <description>Any inanimate objects including buildings, fences, paths, animal enrichment items, etc.</description>
+    </item>
+    <item>
+      <title>Pampas Fox</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/pampas-fox/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/pampas-fox/</guid>
+      <description>A South American fox species for your zoo.</description>
+    </item>
+    <item>
+      <title>Party Tiger</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/fictional/party-tiger/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/party-tiger/</guid>
+      <description>A festive tiger with three color variations to celebrate ATW4.</description>
+    </item>
+    <item>
+      <title>Party Zebra</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/fictional/party-zebra/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/party-zebra/</guid>
+      <description>A festive addition to celebrate ATW4.</description>
+    </item>
+    <item>
+      <title>Pink Elephant</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/fictional/pink-elephant/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/pink-elephant/</guid>
+      <description>A pink elephant to brighten up your zoo.</description>
+    </item>
+    <item>
+      <title>Quagga</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/extinct/quagga/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/quagga/</guid>
+      <description>A beautiful extinct subspecies of Plains Zebra.</description>
+    </item>
+    <item>
+      <title>Raccoon</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/raccoon/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/raccoon/</guid>
+      <description>A cute raccoon for your zoo.</description>
+    </item>
+    <item>
+      <title>Red Fox III</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/red-fox-iii/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/red-fox-iii/</guid>
+      <description>A playful red fox with three variations.</description>
+    </item>
+    <item>
+      <title>Roosevelt Elk II</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/roosevelt-elk-ii/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/roosevelt-elk-ii/</guid>
+      <description>The largest elk species native to North America.</description>
+    </item>
+    <item>
+      <title>Sand Goanna</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/sand-goanna/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/sand-goanna/</guid>
+      <description>A resident of the Australian scrub.</description>
+    </item>
+    <item>
+      <title>Siberian Tiger</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/siberian-tiger/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/siberian-tiger/</guid>
+      <description>A magnificent big cat from Siberia.</description>
+    </item>
+    <item>
+      <title>Silver Eevee</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/fictional/silver-eevee/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/silver-eevee/</guid>
+      <description>Another Eevee variant for your zoo.</description>
+    </item>
+    <item>
+      <title>Spirit Bear</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/spirit-bear/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/spirit-bear/</guid>
+      <description>A unique white Black Bear from British Columbia.</description>
+    </item>
+    <item>
+      <title>Sun Bear</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/sun-bear/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/sun-bear/</guid>
+      <description>A friendly bear that will charm your guests.</description>
+    </item>
+    <item>
+      <title>Tasmanian Devil</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/tasmanian-devil/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/tasmanian-devil/</guid>
+      <description>A wonderful Tasmanian Devil for your zoo.</description>
+    </item>
+    <item>
+      <title>Tigers</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/tigers/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/tigers/</guid>
+      <description>Bengal tiger pack with four natural coat variations.</description>
+    </item>
+    <item>
+      <title>Umbreon and Blue Umbreon</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/fictional/umbreon-and-blue-umbreon/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/umbreon-and-blue-umbreon/</guid>
+      <description>A pair of interbreeding Pokemon species.</description>
+    </item>
+    <item>
+      <title>Zoo Tycoon 2</title>
+      <link>https://www.zooberry.org/mods/zt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/</guid>
+      <description>Mods for the Zoo Tycoon sequel released in 2004.</description>
     </item>
     <item>
       <title>Arches</title>
@@ -233,13 +485,6 @@
       <description>A marine-themed bench.</description>
     </item>
     <item>
-      <title>Objects</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/</guid>
-      <description>Any inanimate objects including buildings, fences, paths, animal enrichment items, etc.</description>
-    </item>
-    <item>
       <title>Paths</title>
       <link>https://www.zooberry.org/mods/zt2/objects/paths/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -331,13 +576,6 @@
       <description>A world map for decorative purposes.</description>
     </item>
     <item>
-      <title>Yellow Tang</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/ambients/yellow-tang/</link>
-      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/yellow-tang/</guid>
-      <description>A bright yellow fish for your aquariums.</description>
-    </item>
-    <item>
       <title>YR St Patty&#39;s Day Path</title>
       <link>https://www.zooberry.org/mods/zt2/objects/paths/yr-st-pattys-day-path/</link>
       <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
@@ -399,13 +637,6 @@
       <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/canopies/zoo-admin-anniversary-viewing-canopy/</guid>
       <description>A viewing canopy to celebrate Zoo Admin&amp;rsquo;s 5th Anniversary.</description>
-    </item>
-    <item>
-      <title>Zoo Tycoon 2</title>
-      <link>https://www.zooberry.org/mods/zt2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/</guid>
-      <description>Mods for the Zoo Tycoon sequel released in 2004.</description>
     </item>
     <item>
       <title>Zootilities</title>
@@ -506,13 +737,6 @@
       <description>A seasonal tiger for winter exhibits.</description>
     </item>
     <item>
-      <title>Fictional</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/fictional/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/fictional/</guid>
-      <description>Animals that only exist in the depths our imaginations.</description>
-    </item>
-    <item>
       <title>German Shepherd</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/german-shepard/</link>
       <pubDate>Wed, 27 Nov 2024 04:00:00 +0000</pubDate>
@@ -546,13 +770,6 @@
       <pubDate>Wed, 27 Nov 2024 04:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/liger/</guid>
       <description>A hybrid big cat for your exhibits.</description>
-    </item>
-    <item>
-      <title>Living</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/</guid>
-      <description>Animals that still roam the Earth today.</description>
     </item>
     <item>
       <title>Maltese Tiger</title>
@@ -672,13 +889,6 @@
       <pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/caribou-skin-pack/</guid>
       <description>Here is my Caribou-Skin pack. (white and Pied). Hope you enjoy it.</description>
-    </item>
-    <item>
-      <title>Fences</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/fences/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/fences/</guid>
-      <description>Fence in your animals with these decorative and functional fences!</description>
     </item>
     <item>
       <title>Halloween Fence</title>
@@ -1078,13 +1288,6 @@
       <pubDate>Mon, 25 Nov 2024 21:30:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/dalls-purpoise/</guid>
       <description>A detailed and fun-to-watch Dall&amp;rsquo;s Porpoise for your zoo.</description>
-    </item>
-    <item>
-      <title>Extinct</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/extinct/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/extinct/</guid>
-      <description>Prehistoric, ice age, recently-extinct all go here.</description>
     </item>
     <item>
       <title>Great Plains Wolf</title>
@@ -1519,6 +1722,13 @@
       <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/ambients/ambient-sheep/</guid>
       <description>An ambient sheep that randomly appears and moves through obstructions in your zoo.</description>
+    </item>
+    <item>
+      <title>Ambients</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/ambients/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/</guid>
+      <description>These are not adoptable but do appear in the environment at random intervals to add ambiance!</description>
     </item>
     <item>
       <title>Blackbuck</title>

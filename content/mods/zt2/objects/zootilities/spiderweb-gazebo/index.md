@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2006-10-01
 summary: A Spiderweb Gazebo for your spooky Halloween zoo.
 title: Spiderweb Gazebo
-zt2tags: ["All", "ZT2", "Objects", "Gazebos", "Zootilities", "Halloween"]
+zt2tags: ["All", "ZT2", "Objects", "Gazebos", "Zootilities", "Halloween", "Holidays"]
 ---
 A Spiderweb Gazebo for your spooky Halloween zoo.

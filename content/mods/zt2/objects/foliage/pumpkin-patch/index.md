@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2006-10-01
 summary: A pumpkin patch for Halloween-themed exhibits.
 title: Pumpkin Patch
-zt2tags: ["All", "ZT2", "Objects", "Foliage", "Halloween"]
+zt2tags: ["All", "ZT2", "Objects", "Foliage", "Halloween", "Holidays"]
 ---
 Some nice pumpkins to decorate your zoo with.

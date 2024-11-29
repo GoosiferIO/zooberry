@@ -15,6 +15,6 @@ orig_rel_at:
 orig_rel_date: 2006-10-01
 summary: A spooky canopy for Halloween exhibits.
 title: Halloween Canopy
-zt2tags: ["All", "ZT2", "Objects", "Canopies", "Halloween"]
+zt2tags: ["All", "ZT2", "Objects", "Canopies", "Halloween", "Holidays"]
 ---
 Halloween Canopy, a spooky canopy to observe your spooky Halloween animals.

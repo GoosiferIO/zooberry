@@ -22,6 +22,7 @@ orig_rel_date: 2009-12-22
 summary: Merry Christmas! The Christmas Pack - 7 Reasons to Celebrate is the sequel
   to the collection of mods for Zoo Tycoon 2 that expound a winter theme.
 title: 'The Christmas Pack 2: 7 Reasons to Celebrate'
+zt2tags: ["All", "ZT2", "Expansive Packs", "Holidays", "Christmas", "Foliage", "Buildings", "Scenery", "Fences", "Arches", "Staff Reskins", "Hannukkah", "Tank Walls", "Packs"]
 ---
 Merry Christmas! The Christmas Pack - 7 Reasons to Celebrate is the sequel to the collection of mods for Zoo Tycoon 2 that expound a winter theme.
 

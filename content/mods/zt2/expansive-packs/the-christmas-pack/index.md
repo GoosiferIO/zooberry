@@ -21,6 +21,7 @@ orig_rel_date: 2008-12-22
 summary: Merry Christmas! The Christmas Pack is a collection of mods for Zoo Tycoon
   2 that expound a winter theme.
 title: The Christmas Pack
+zt2tags: ["All", "ZT2", "Expansive Packs", "Holidays", "Christmas", "Fictional", "Ungulates", "Foliage", "Buildings", "Scenery", "Fences", "Paths", "Benches", "Music Rocks", "Staff Reskins"]
 ---
 Merry Christmas! The Christmas Pack is a collection of mods for Zoo Tycoon 2 that expound a winter theme.
 

@@ -18,7 +18,7 @@ summary: "An emitter that creates falling snow and functions as a tour item."
 languages:
 - English
 - German
-zt2tags: ["All", "ZT2", "Objects", "Scenery", "Christmas"]
+zt2tags: ["All", "ZT2", "Objects", "Scenery", "Christmas", "Holidays"]
 ---
 
 An emitter that creates falling snow and functions as a tour item.

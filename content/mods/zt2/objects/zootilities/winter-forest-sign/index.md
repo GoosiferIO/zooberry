@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "A decorative sign that is weathered by winter's harshness and winter's beauty; it comes in three variants and matches well with winter scenes."
-zt2tags: ["All", "ZT2", "Objects", "Zootilities", "Signs", "Christmas"]
+zt2tags: ["All", "ZT2", "Objects", "Zootilities", "Signs", "Christmas", "Holidays"]
 ---
 
 **Original post by Twinkle And Kessie**:
