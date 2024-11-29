@@ -18,11 +18,12 @@ languages:
 license: 'Yes'
 orig_rel_at:
 - Penguin's Peak
+- ZooAdmin
 orig_rel_date: 2006-05-16
 summary: This is part of a set of eight biome packs that were made by the Zoo Admin
   Design Team many years ago.
 title: Desert Pack
-tags: ["all", "animals", "packs", "foliage", "trees", "signs", "scenery", "elevated-paths", "shelters", "rocks", "enrichment", "signs", "buildings", "arches"]
+zt2tags: ["All", "ZT2", "Packs", "Expansive Packs", "Objects", "Animals", "Ungulates", "Reptiles", "Birds", "Equids", "Aquatic", "Foliage", "Arches", "Elevated Paths", "Signs", "Tour Objects", "Buildings", "African", "North American", "South American", "Mammals", "Music Rocks"]
 team: Zoo Admin Design Team
 ---
 This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago. Many members helped out. Please note that due to how old these packs are, not everything is up to the same standard that Penguinman would have later used. Modeling, for instance, was not discovered until after these packs were made. However, Penguinman did feel that many of the plants, objects and animals would be useful and that's why he reuploaded them onto Penguin's Peak. Hope you enjoy!
