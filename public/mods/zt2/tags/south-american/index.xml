@@ -6,15 +6,8 @@
     <description>Recent content in South American on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Nov 2024 20:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 16:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/south-american/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>South America Pack Part 1</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/south-america-pack-part-1/</link>
-      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/south-america-pack-part-1/</guid>
-      <description>A pack featuring South American animals like the Kit Fox and Jaguarundi.</description>
-    </item>
     <item>
       <title>Pampas Fox</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/pampas-fox/</link>
@@ -84,6 +77,13 @@
       <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/red-footed-tortoise/</guid>
       <description>Also known as the South American red-footed tortoise, the males grow up to 13.5 inches (30.4 cm) and are somewhat larger than females.</description>
+    </item>
+    <item>
+      <title>South America Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/south-america-pack/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/south-america-pack/</guid>
+      <description>From the high Andes Mountains to the lush tropical Amazon Forest lives an amazing array of wildlife. Welcome to South America!</description>
     </item>
     <item>
       <title>Yellow-Knobbed Curassow</title>

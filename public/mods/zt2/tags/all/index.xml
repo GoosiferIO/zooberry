@@ -23,6 +23,13 @@
       <description>Animal bundles include more than one animal and they can be a mix of categories.</description>
     </item>
     <item>
+      <title>Animal Reskins</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/reskins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/reskins/</guid>
+      <description>Reskins replace the original Zoo Tycoon textures with new ones.</description>
+    </item>
+    <item>
       <title>Animal Variants</title>
       <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -44,11 +51,39 @@
       <description>Includes the Clouded Leopard, Malayan Tapir, and Malayan Sun Bear as part of the Asia Pack.</description>
     </item>
     <item>
-      <title>South America Pack Part 1</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/south-america-pack-part-1/</link>
+      <title>Halloween Pack 1 - Superheroes</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/reskins/halloween-pack-1-superheros/</link>
       <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/south-america-pack-part-1/</guid>
-      <description>A pack featuring South American animals like the Kit Fox and Jaguarundi.</description>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/reskins/halloween-pack-1-superheros/</guid>
+      <description>Reskins of animals featuring superhero themes.</description>
+    </item>
+    <item>
+      <title>Halloween Pack 2 - Classics</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/reskins/halloween-pack-2-classics/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/reskins/halloween-pack-2-classics/</guid>
+      <description>Reskins of animals featuring classic Halloween themes.</description>
+    </item>
+    <item>
+      <title>Halloween Pack 3 - Fun</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/reskins/halloween-pack-3-fun/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/reskins/halloween-pack-3-fun/</guid>
+      <description>Reskins of animals with fun and creative themes.</description>
+    </item>
+    <item>
+      <title>Halloween Pack 4 - Girly</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/reskins/halloween-pack-4-girly/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/reskins/halloween-pack-4-girly/</guid>
+      <description>Reskins of animals with girly and fantastical themes.</description>
+    </item>
+    <item>
+      <title>Halloween Pack 5 - Mickey and Minnie</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/reskins/halloween-pack-5/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/reskins/halloween-pack-5/</guid>
+      <description>Reskins of animals featuring Mickey and Minnie Mouse.</description>
     </item>
     <item>
       <title>Texture Mods</title>
@@ -861,13 +896,6 @@
       <pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/shelters/alpine-cat-climber/</guid>
       <description>An Alpine Cat Climber for alpine-based cats.</description>
-    </item>
-    <item>
-      <title>Animal Reskins</title>
-      <link>https://www.zooberry.org/mods/zt2/texture-mods/reskins/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/texture-mods/reskins/</guid>
-      <description>Reskins replace the original Zoo Tycoon textures with new ones.</description>
     </item>
     <item>
       <title>Black Florida Panther Variant</title>
@@ -3317,7 +3345,7 @@
       <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/south-america-pack/</link>
       <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/south-america-pack/</guid>
-      <description>This pack contains six animals from South America and is downloaded in one file.</description>
+      <description>From the high Andes Mountains to the lush tropical Amazon Forest lives an amazing array of wildlife. Welcome to South America!</description>
     </item>
     <item>
       <title>Wax Palm</title>
