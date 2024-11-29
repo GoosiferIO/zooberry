@@ -6,14 +6,35 @@
     <description>Recent content in Animals on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Nov 2024 16:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 20:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/animals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animal Bundles</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/</guid>
+      <description>Animal bundles include more than one animal and they can be a mix of categories.</description>
+    </item>
     <item>
       <title>Animals</title>
       <link>https://www.zooberry.org/mods/zt2/animals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/</guid>
       <description>Adopt new animals to share with your guests at home!</description>
+    </item>
+    <item>
+      <title>Asian Pack Part 1</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/asian-pack-p1/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/asian-pack-p1/</guid>
+      <description>Includes the Clouded Leopard, Malayan Tapir, and Malayan Sun Bear as part of the Asia Pack.</description>
+    </item>
+    <item>
+      <title>South America Pack Part 1</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/south-america-pack-part-1/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/south-america-pack-part-1/</guid>
+      <description>A pack featuring South American animals like the Kit Fox and Jaguarundi.</description>
     </item>
     <item>
       <title>Coyote II</title>
@@ -931,13 +952,6 @@
       <pubDate>Tue, 25 Jun 2024 09:26:13 -0700</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/living/impala/</guid>
       <description>The Impala is a small antelope that lives in the savannahs of Africa.</description>
-    </item>
-    <item>
-      <title>Animal Bundles</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/</guid>
-      <description>Animal bundles include more than one animal and they can be a mix of categories.</description>
     </item>
     <item>
       <title>Pterosaur Pack North America</title>

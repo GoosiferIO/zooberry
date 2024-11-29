@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.zooberry.org/authors/acapella/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-pack-p1/</loc>
     <lastmod>2024-11-28T20:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/all/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/animal-bundles/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/animal-bundles/</loc>
     <lastmod>2024-11-28T20:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/animal-variants/</loc>
@@ -17,10 +26,58 @@
     <loc>https://www.zooberry.org/authors/animallovr2005/</loc>
     <lastmod>2024-11-28T20:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/animals/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/asian/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/animal-bundles/asian-pack-p1/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/canids/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/felids/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/living/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/mammals/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/mustelids/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/authors/otter-lord/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/authors/penguinman/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/reptiles/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/animals/animal-bundles/south-america-pack-part-1/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/south-american/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/texture-mods/</loc>
     <lastmod>2024-11-28T20:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/texture-mods/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/ungulates/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/ursids/</loc>
     <lastmod>2024-11-28T20:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/</loc>
@@ -32,25 +89,13 @@
     <loc>https://www.zooberry.org/mods/zt2/tags/african/</loc>
     <lastmod>2024-11-28T16:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/animals/</loc>
-    <lastmod>2024-11-28T16:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/animals/</loc>
-    <lastmod>2024-11-28T16:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/aquatic/</loc>
     <lastmod>2024-11-28T16:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/asia/</loc>
     <lastmod>2024-11-28T16:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/asian/</loc>
-    <lastmod>2024-11-28T16:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/fences/blue-fence/</loc>
-    <lastmod>2024-11-28T16:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/canids/</loc>
     <lastmod>2024-11-28T16:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/carnivores/</loc>
@@ -107,9 +152,6 @@
     <loc>https://www.zooberry.org/mods/zt2/animals/extinct/</loc>
     <lastmod>2024-11-28T16:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/felids/</loc>
-    <lastmod>2024-11-28T16:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/fences/</loc>
     <lastmod>2024-11-28T16:00:00+00:00</lastmod>
   </url><url>
@@ -137,9 +179,6 @@
     <loc>https://www.zooberry.org/mods/zt2/tags/holidays/</loc>
     <lastmod>2024-11-28T16:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/living/</loc>
-    <lastmod>2024-11-28T16:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/</loc>
     <lastmod>2024-11-28T16:00:00+00:00</lastmod>
   </url><url>
@@ -149,16 +188,10 @@
     <loc>https://www.zooberry.org/authors/lupin12/</loc>
     <lastmod>2024-11-28T16:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/mammals/</loc>
-    <lastmod>2024-11-28T16:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/fences/marli-pink-fence/</loc>
     <lastmod>2024-11-28T16:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/marsupials/</loc>
-    <lastmod>2024-11-28T16:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/mustelids/</loc>
     <lastmod>2024-11-28T16:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/mysteh/</loc>
@@ -206,9 +239,6 @@
     <loc>https://www.zooberry.org/mods/zt2/animals/living/red-fox-iii/</loc>
     <lastmod>2024-11-28T16:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/reptiles/</loc>
-    <lastmod>2024-11-28T16:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/rodents/</loc>
     <lastmod>2024-11-28T16:00:00+00:00</lastmod>
   </url><url>
@@ -230,9 +260,6 @@
     <loc>https://www.zooberry.org/mods/zt2/animals/fictional/silver-eevee/</loc>
     <lastmod>2024-11-28T16:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/south-american/</loc>
-    <lastmod>2024-11-28T16:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/spirit-bear/</loc>
     <lastmod>2024-11-28T16:00:00+00:00</lastmod>
   </url><url>
@@ -249,12 +276,6 @@
     <lastmod>2024-11-28T16:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/fictional/umbreon-and-blue-umbreon/</loc>
-    <lastmod>2024-11-28T16:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/ungulates/</loc>
-    <lastmod>2024-11-28T16:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/ursids/</loc>
     <lastmod>2024-11-28T16:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/valentines-day/</loc>
@@ -417,9 +438,6 @@
     <lastmod>2024-11-27T20:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/paths/</loc>
-    <lastmod>2024-11-27T20:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/authors/penguinman/</loc>
     <lastmod>2024-11-27T20:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/scenery/powder-blue-tang/</loc>
@@ -606,9 +624,6 @@
     <lastmod>2024-11-27T04:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/texture-mods/variants/meerkat-variants/</loc>
-    <lastmod>2024-11-26T17:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/authors/acapella/</loc>
     <lastmod>2024-11-26T17:30:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/texture-mods/variants/african-buffalo-variant/</loc>
@@ -1733,12 +1748,6 @@
     <loc>https://www.zooberry.org/mods/zt2/animals/living/impala/</loc>
     <lastmod>2024-06-25T09:26:13-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/animal-bundles/</loc>
-    <lastmod>2024-06-25T09:19:35-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/animals/animal-bundles/</loc>
-    <lastmod>2024-06-25T09:19:35-07:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/authors/andrew12/</loc>
     <lastmod>2024-06-25T09:09:08-07:00</lastmod>
   </url><url>
@@ -2388,9 +2397,6 @@
     <lastmod>2024-01-14T01:51:12+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/biomes/moorland/</loc>
-    <lastmod>2024-01-14T01:51:12+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/authors/otter-lord/</loc>
     <lastmod>2024-01-14T01:51:12+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/purple-striped-jellyfish/</loc>
