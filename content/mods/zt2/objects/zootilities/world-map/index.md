@@ -16,6 +16,6 @@ orig_rel_at:
 orig_rel_date: 2006-03-01
 summary: A world map for decorative purposes.
 title: World Map
-zt2tags: ["All", "ZT2", "Objects", "Scenery"]
+zt2tags: ["All", "ZT2", "Objects", "Scenery", "Signs", "Zootilities"]
 ---
 This map is recolored by Panda King and coded by Penguinman. Guests will enjoy seeing a map of the world and finding where the animals they see are from. Enjoy!

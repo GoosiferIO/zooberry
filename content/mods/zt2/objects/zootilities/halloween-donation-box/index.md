@@ -16,6 +16,6 @@ orig_rel_at:
 orig_rel_date: 2006-10-01
 summary: A Halloween-themed donation box.
 title: Halloween Donation Box
-zt2tags: ["All", "ZT2", "Objects", "Zootilities", "Halloween", "Holidays"]
+zt2tags: ["All", "ZT2", "Objects", "Zootilities", "Halloween", "Holidays", "Donation Boxes"]
 ---
 Use this donation box to collect donations from your Halloween animals in your Halloween zoo.

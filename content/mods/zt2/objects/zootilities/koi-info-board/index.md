@@ -16,6 +16,6 @@ orig_rel_at:
 orig_rel_date: 2006-11-01
 summary: An info board teaching guests about koi.
 title: Koi Info Board
-zt2tags: ["All", "ZT2", "Objects", "Scenery", "Zootilities"]
+zt2tags: ["All", "ZT2", "Objects", "Scenery", "Zootilities", "Signs"]
 ---
 This info board will teach your guests about the koi. Recolored by Panda King and coded by Penguinman.

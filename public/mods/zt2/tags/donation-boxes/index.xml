@@ -9,11 +9,25 @@
     <lastBuildDate>Thu, 28 Nov 2024 20:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/donation-boxes/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>4th of July Donation Box Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/4th-of-july-donation-box-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/4th-of-july-donation-box-pack/</guid>
+      <description>Celebrate Independence Day with themed donation boxes!</description>
+    </item>
+    <item>
       <title>Snow Tiger Easter Pack 2</title>
       <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/snow-tiger-easter-contest-pack-2/</link>
       <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/snow-tiger-easter-contest-pack-2/</guid>
       <description>Snow Tigers Easter Contest Pack 2 with Easter-themed objects and animals.</description>
+    </item>
+    <item>
+      <title>Halloween Donation Box</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/halloween-donation-box/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/halloween-donation-box/</guid>
+      <description>A Halloween-themed donation box.</description>
     </item>
     <item>
       <title>Zoo Admin Anniversary Donation Box</title>
@@ -56,6 +70,13 @@
       <pubDate>Sat, 18 Nov 2023 04:22:30 -0800</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/pig-donation-box/</guid>
       <description>A donation box that has a pig on it.</description>
+    </item>
+    <item>
+      <title>Cactus Donation Box</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/cactus-donation-box/</link>
+      <pubDate>Sat, 22 Jul 2023 08:20:40 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/cactus-donation-box/</guid>
+      <description>A donation box with a cactus in it.</description>
     </item>
   </channel>
 </rss>

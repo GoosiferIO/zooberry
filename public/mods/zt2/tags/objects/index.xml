@@ -9,11 +9,32 @@
     <lastBuildDate>Thu, 28 Nov 2024 20:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/objects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>4th of July Donation Box Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/4th-of-july-donation-box-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/4th-of-july-donation-box-pack/</guid>
+      <description>Celebrate Independence Day with themed donation boxes!</description>
+    </item>
+    <item>
+      <title>Alpine Info. Board Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/alpine-info-board-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/alpine-info-board-pack/</guid>
+      <description>Alpine-themed information boards.</description>
+    </item>
+    <item>
       <title>Aquatic Adventure Pack</title>
       <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/aquatic-adventure-pack/</link>
       <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/aquatic-adventure-pack/</guid>
       <description>Aquatic Adventure Pack featuring paths, gazebos, restaurants, and more.</description>
+    </item>
+    <item>
+      <title>Boreal Forest Info. Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/boreal-forest-info-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/boreal-forest-info-pack/</guid>
+      <description>Boreal forest-themed information boards.</description>
     </item>
     <item>
       <title>Christmas Scenery Pack</title>
@@ -65,6 +86,20 @@
       <description>A purple-themed pack with various decorative objects.</description>
     </item>
     <item>
+      <title>Rainforest Info. Boards Part. 2</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/rainforest-info-boards-p2/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/rainforest-info-boards-p2/</guid>
+      <description>Rainforest-themed information boards.</description>
+    </item>
+    <item>
+      <title>Savannah Info Boards</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/savannah-info-boards/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/savannah-info-boards/</guid>
+      <description>Savannah-themed information boards.</description>
+    </item>
+    <item>
       <title>Snow Tiger Easter Contest Pack 1</title>
       <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/snow-tiger-easter-contest-pack-1/</link>
       <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
@@ -98,6 +133,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/tour-objects/</guid>
       <description>Objects that help guest satisfaction during tours.</description>
+    </item>
+    <item>
+      <title>Zootilities</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/</guid>
+      <description>Zootilies are visitor services, accessibility, lighting, waste management, or informational items for your guests.</description>
     </item>
     <item>
       <title>Blue Fence</title>
@@ -518,13 +560,6 @@
       <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/canopies/zoo-admin-anniversary-viewing-canopy/</guid>
       <description>A viewing canopy to celebrate Zoo Admin&amp;rsquo;s 5th Anniversary.</description>
-    </item>
-    <item>
-      <title>Zootilities</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/zootilities/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/zootilities/</guid>
-      <description>Zootilies are visitor services, accessibility, lighting, waste management, or informational items for your guests.</description>
     </item>
     <item>
       <title>ZooXotic Arch</title>
