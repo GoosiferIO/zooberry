@@ -6,8 +6,15 @@
     <description>Recent content in Lamps on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Oct 2024 19:40:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 20:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/lamps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Snow Tigers Special Theme Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/snow-tigers-special-theme-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/snow-tigers-special-theme-pack/</guid>
+      <description>Snow Tigers Special Theme Pack with paths, fences, and more.</description>
+    </item>
     <item>
       <title>Island Excursions</title>
       <link>https://www.zooberry.org/mods/zt2/expansive-packs/island-excursions/</link>
@@ -21,13 +28,6 @@
       <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/elements-pack/</guid>
       <description>This is a scenery pack from the creative minds of Penguinman and Budgielover101.</description>
-    </item>
-    <item>
-      <title>Sandstone Theme</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/sandstone-theme/</link>
-      <pubDate>Thu, 03 Aug 2023 06:18:09 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/sandstone-theme/</guid>
-      <description>The Sandstone Theme Pack contains items made of softly coloured sandstone, often overgrown with ivy.</description>
     </item>
   </channel>
 </rss>

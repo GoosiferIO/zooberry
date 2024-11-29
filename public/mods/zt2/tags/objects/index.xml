@@ -6,8 +6,78 @@
     <description>Recent content in Objects on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Nov 2024 16:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 20:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/objects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aquatic Adventure Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/aquatic-adventure-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/aquatic-adventure-pack/</guid>
+      <description>Aquatic Adventure Pack featuring paths, gazebos, restaurants, and more.</description>
+    </item>
+    <item>
+      <title>Christmas Scenery Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/christmas-scenery-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/christmas-scenery-pack/</guid>
+      <description>Christmas Scenery Pack featuring fountains, gazebos, and more.</description>
+    </item>
+    <item>
+      <title>Halloween Scenery Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/halloween-scenery-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/halloween-scenery-pack/</guid>
+      <description>Halloween Scenery Pack with paths, canopies, and more.</description>
+    </item>
+    <item>
+      <title>Japanese Mini Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/japanese-mini-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/japanese-mini-pack/</guid>
+      <description>A Japanese-themed pack with paths and objects for your zoo.</description>
+    </item>
+    <item>
+      <title>Objects</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/</guid>
+      <description>Any inanimate objects including buildings, fences, paths, animal enrichment items, etc.</description>
+    </item>
+    <item>
+      <title>Purple Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/purple-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/purple-pack/</guid>
+      <description>A purple-themed pack with various decorative objects.</description>
+    </item>
+    <item>
+      <title>Snow Tiger Easter Contest Pack 1</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/snow-tiger-easter-contest-pack-1/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/snow-tiger-easter-contest-pack-1/</guid>
+      <description>Snow Tigers Easter Contest Pack 1 with Easter-themed objects.</description>
+    </item>
+    <item>
+      <title>Snow Tiger Easter Pack 2</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/snow-tiger-easter-contest-pack-2/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/snow-tiger-easter-contest-pack-2/</guid>
+      <description>Snow Tigers Easter Contest Pack 2 with Easter-themed objects and animals.</description>
+    </item>
+    <item>
+      <title>Snow Tigers Special Theme Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/snow-tigers-special-theme-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/snow-tigers-special-theme-pack/</guid>
+      <description>Snow Tigers Special Theme Pack with paths, fences, and more.</description>
+    </item>
+    <item>
+      <title>Theme Packs</title>
+      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/</guid>
+      <description>Bundles of objects all curated or designed after a specific theme.</description>
+    </item>
     <item>
       <title>Blue Fence</title>
       <link>https://www.zooberry.org/mods/zt2/objects/fences/blue-fence/</link>
@@ -56,13 +126,6 @@
       <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/fences/marli-pink-fence/</guid>
       <description>A pink fence to match the pink path.</description>
-    </item>
-    <item>
-      <title>Objects</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/</guid>
-      <description>Any inanimate objects including buildings, fences, paths, animal enrichment items, etc.</description>
     </item>
     <item>
       <title>Arches</title>
@@ -595,13 +658,6 @@
       <pubDate>Sun, 23 Jun 2024 14:16:54 -0700</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/sze-logfences-and-branches/</guid>
       <description>A mini-pack of log fences and branches for Zoo Tycoon 2.</description>
-    </item>
-    <item>
-      <title>Theme Packs</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/theme-packs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/</guid>
-      <description>Bundles of objects all curated or designed after a specific theme.</description>
     </item>
     <item>
       <title>Building Kits</title>
