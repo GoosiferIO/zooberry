@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/african/</loc>
-    <lastmod>2024-11-28T16:00:00+00:00</lastmod>
+    <loc>https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-pack-p1/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/all/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/animal-variants/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/texture-mods/variants/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/authors/animallovr2005/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/texture-mods/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/texture-mods/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/zt2/</loc>
+    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/african/</loc>
     <lastmod>2024-11-28T16:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/animals/</loc>
@@ -236,13 +260,7 @@
     <loc>https://www.zooberry.org/mods/zt2/tags/valentines-day/</loc>
     <lastmod>2024-11-28T16:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/</loc>
-    <lastmod>2024-11-28T16:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/authors/zooworld/</loc>
-    <lastmod>2024-11-28T16:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/zt2/</loc>
     <lastmod>2024-11-28T16:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/animalover44/</loc>
@@ -614,15 +632,6 @@
     <loc>https://www.zooberry.org/mods/zt2/texture-mods/reskins/</loc>
     <lastmod>2024-11-26T17:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/animal-variants/</loc>
-    <lastmod>2024-11-26T17:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/texture-mods/variants/</loc>
-    <lastmod>2024-11-26T17:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/authors/animallovr2005/</loc>
-    <lastmod>2024-11-26T17:30:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/texture-mods/variants/black-florida-panther-variant/</loc>
     <lastmod>2024-11-26T17:30:00+00:00</lastmod>
   </url><url>
@@ -672,12 +681,6 @@
     <lastmod>2024-11-26T17:30:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/shelters/snowy-cat-climber/</loc>
-    <lastmod>2024-11-26T17:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/texture-mods/</loc>
-    <lastmod>2024-11-26T17:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/texture-mods/</loc>
     <lastmod>2024-11-26T17:30:00+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/texture-mods/reskins/elephant-reskin/</loc>
@@ -2274,9 +2277,6 @@
     <lastmod>2024-01-17T13:28:26+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/teams/zoo-admin-design-team/</loc>
-    <lastmod>2024-01-17T13:28:26+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/authors/zoo-admin-design-team/</loc>
     <lastmod>2024-01-17T13:28:26+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/tags/zt2/</loc>

@@ -6,8 +6,36 @@
     <description>Recent content in All on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Nov 2024 16:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 20:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Albino Pack Part 1</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-pack-p1/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-pack-p1/</guid>
+      <description>A pack featuring albino variants of various animals.</description>
+    </item>
+    <item>
+      <title>Animal Variants</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/</guid>
+      <description>Variant skins usually keep the original base skins but add new ones that can spawn in for additional variety.</description>
+    </item>
+    <item>
+      <title>Texture Mods</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/</guid>
+      <description>Mods that simply modify in-game textures in any capacity.</description>
+    </item>
+    <item>
+      <title>Zoo Tycoon 2</title>
+      <link>https://www.zooberry.org/mods/zt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/</guid>
+      <description>Mods for the Zoo Tycoon sequel released in 2004.</description>
+    </item>
     <item>
       <title>Animals</title>
       <link>https://www.zooberry.org/mods/zt2/animals/</link>
@@ -259,13 +287,6 @@
       <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/fictional/umbreon-and-blue-umbreon/</guid>
       <description>A pair of interbreeding Pokemon species.</description>
-    </item>
-    <item>
-      <title>Zoo Tycoon 2</title>
-      <link>https://www.zooberry.org/mods/zt2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/</guid>
-      <description>Mods for the Zoo Tycoon sequel released in 2004.</description>
     </item>
     <item>
       <title>Arches</title>
@@ -828,13 +849,6 @@
       <description>Reskins replace the original Zoo Tycoon textures with new ones.</description>
     </item>
     <item>
-      <title>Animal Variants</title>
-      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/</guid>
-      <description>Variant skins usually keep the original base skins but add new ones that can spawn in for additional variety.</description>
-    </item>
-    <item>
       <title>Black Florida Panther Variant</title>
       <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/black-florida-panther-variant/</link>
       <pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate>
@@ -917,13 +931,6 @@
       <pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/shelters/snowy-cat-climber/</guid>
       <description>A snowy Cat Climber for snow-bound cats.</description>
-    </item>
-    <item>
-      <title>Texture Mods</title>
-      <link>https://www.zooberry.org/mods/zt2/texture-mods/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/texture-mods/</guid>
-      <description>Mods that simply modify in-game textures in any capacity.</description>
     </item>
     <item>
       <title>African Elephant Reskin</title>

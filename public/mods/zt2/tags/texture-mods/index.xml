@@ -6,8 +6,22 @@
     <description>Recent content in Texture Mods on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Nov 2024 17:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 20:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/texture-mods/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animal Variants</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/</guid>
+      <description>Variant skins usually keep the original base skins but add new ones that can spawn in for additional variety.</description>
+    </item>
+    <item>
+      <title>Texture Mods</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/</guid>
+      <description>Mods that simply modify in-game textures in any capacity.</description>
+    </item>
     <item>
       <title>3 Meerkat Variants</title>
       <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/meerkat-variants/</link>
@@ -42,13 +56,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/texture-mods/reskins/</guid>
       <description>Reskins replace the original Zoo Tycoon textures with new ones.</description>
-    </item>
-    <item>
-      <title>Animal Variants</title>
-      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/</guid>
-      <description>Variant skins usually keep the original base skins but add new ones that can spawn in for additional variety.</description>
     </item>
     <item>
       <title>Black Florida Panther Variant</title>
@@ -91,13 +98,6 @@
       <pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/caribou-skin-pack/</guid>
       <description>Here is my Caribou-Skin pack. (white and Pied). Hope you enjoy it.</description>
-    </item>
-    <item>
-      <title>Texture Mods</title>
-      <link>https://www.zooberry.org/mods/zt2/texture-mods/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/texture-mods/</guid>
-      <description>Mods that simply modify in-game textures in any capacity.</description>
     </item>
     <item>
       <title>African Elephant Reskin</title>

@@ -4,7 +4,7 @@ author:
 date: '2024-11-28T16:00:00'
 draft: false
 exp_req:
-- AA
+- ES
 file_date: 2009-05-24
 file_size: 1.05 MB
 game: Zoo Tycoon 2

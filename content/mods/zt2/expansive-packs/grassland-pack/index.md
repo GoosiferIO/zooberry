@@ -1,7 +1,6 @@
 ---
 alt_text: null
 author:
-- Zoo Admin Design Team
 - Penguinman
 - Csleesburg
 - Exitree
