@@ -16,6 +16,13 @@
       <description>A pack featuring albino variants of various animals.</description>
     </item>
     <item>
+      <title>Ambients</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/ambients/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/</guid>
+      <description>These are not adoptable but do appear in the environment at random intervals to add ambiance!</description>
+    </item>
+    <item>
       <title>Animal Bundles</title>
       <link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -98,6 +105,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/</guid>
       <description>Mods for the Zoo Tycoon sequel released in 2004.</description>
+    </item>
+    <item>
+      <title>Zoo Tycoon Fansites Blimps</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/ambients/zoo-tycoon-fansites-blimps/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/zoo-tycoon-fansites-blimps/</guid>
+      <description>A pack of 12 blimps based on Zoo Tycoon fansite designs.</description>
     </item>
     <item>
       <title>Blue Fence</title>
@@ -1785,13 +1799,6 @@
       <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/ambients/ambient-sheep/</guid>
       <description>An ambient sheep that randomly appears and moves through obstructions in your zoo.</description>
-    </item>
-    <item>
-      <title>Ambients</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/ambients/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/ambients/</guid>
-      <description>These are not adoptable but do appear in the environment at random intervals to add ambiance!</description>
     </item>
     <item>
       <title>Blackbuck</title>
