@@ -6,8 +6,15 @@
     <description>Recent content in South American on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Nov 2024 16:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 20:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/south-american/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>South America Pack Part 2</title>
+      <link>https://www.zooberry.org/mods/zt2/expansive-packs/south-america-pack-part-2/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/south-america-pack-part-2/</guid>
+      <description>Additional items for the South America theme, including a Tinamou and Incan objects.</description>
+    </item>
     <item>
       <title>Pampas Fox</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/pampas-fox/</link>
@@ -65,6 +72,20 @@
       <description>The Emperor Tamarin (Saguinus imperator) is a tamarin allegedly named for its resemblance to the German emperor Wilhelm II.</description>
     </item>
     <item>
+      <title>Desert Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/expansive-packs/desert-pack/</link>
+      <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/desert-pack/</guid>
+      <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
+    </item>
+    <item>
+      <title>Grassland Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/expansive-packs/grassland-pack/</link>
+      <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/grassland-pack/</guid>
+      <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
+    </item>
+    <item>
       <title>Maned Wolf</title>
       <link>https://www.zooberry.org/mods/zt2/animals/living/maned-wolf/</link>
       <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
@@ -84,6 +105,13 @@
       <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/south-america-pack/</guid>
       <description>From the high Andes Mountains to the lush tropical Amazon Forest lives an amazing array of wildlife. Welcome to South America!</description>
+    </item>
+    <item>
+      <title>Vicuña Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/expansive-packs/vicu%C3%B1a-pack/</link>
+      <pubDate>Mon, 08 Jan 2024 01:26:36 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/vicu%C3%B1a-pack/</guid>
+      <description>Vicuñas are found in semiarid rolling grasslands and plains at altitudes of 3,500-5,750 meters.</description>
     </item>
     <item>
       <title>Yellow-Knobbed Curassow</title>

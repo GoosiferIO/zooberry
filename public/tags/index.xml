@@ -86,13 +86,6 @@
       <description></description>
     </item>
     <item>
-      <title>Buildings</title>
-      <link>https://www.zooberry.org/tags/buildings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/buildings/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Elevated-Paths</title>
       <link>https://www.zooberry.org/tags/elevated-paths/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -111,13 +104,6 @@
       <link>https://www.zooberry.org/tags/ground-paths/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/tags/ground-paths/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Objects</title>
-      <link>https://www.zooberry.org/tags/objects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/objects/</guid>
       <description></description>
     </item>
     <item>
@@ -146,13 +132,6 @@
       <link>https://www.zooberry.org/tags/transportation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/tags/transportation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ZT2</title>
-      <link>https://www.zooberry.org/tags/zt2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/zt2/</guid>
       <description></description>
     </item>
     <item>
@@ -191,10 +170,24 @@
       <description></description>
     </item>
     <item>
+      <title>Objects</title>
+      <link>https://www.zooberry.org/tags/objects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/tags/objects/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Theme Packs</title>
       <link>https://www.zooberry.org/tags/theme-packs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/tags/theme-packs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ZT2</title>
+      <link>https://www.zooberry.org/tags/zt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/tags/zt2/</guid>
       <description></description>
     </item>
     <item>
