@@ -9,6 +9,7 @@ file_size: 357.6 KB
 game: Zoo Tycoon 2
 has_author: true
 languages:
+- English
 license: 'Unknown'
 orig_rel_at:
 - 'ZooAdmin'

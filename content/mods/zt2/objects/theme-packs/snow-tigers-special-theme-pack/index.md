@@ -10,6 +10,7 @@ file_size: 2.95 MB
 game: Zoo Tycoon 2
 has_author: true
 languages:
+- English
 license: 'Unknown'
 orig_rel_at:
 - 'ZooAdmin'
@@ -18,6 +19,10 @@ summary: Snow Tigers Special Theme Pack with paths, fences, and more.
 title: Snow Tigers Special Theme Pack
 zt2tags: ["All", "ZT2", "Packs", "Objects", "Paths", "Fences", "Benches", "Tables", "Lamps", "Zootilities", "Theme Packs", "Holidays", "Animals", "Donations", "Maps"]
 ---
+## Context
+
+> Snow Tigers were a ZooAdmin 'club', essentially a group of creators who worked together to create themed packs for Zoo Tycoon 2.
+
 Many items in this pack feature a snow tiger theme, including:  
 - Nine paths  
 - Four fences  
