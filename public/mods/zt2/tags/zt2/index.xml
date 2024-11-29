@@ -212,6 +212,27 @@
       <description>A foliage pack featuring trees, shrubs, and flowers.</description>
     </item>
     <item>
+      <title>Gooey Party Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/tools-utilities/gooey-party-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tools-utilities/gooey-party-pack/</guid>
+      <description>A colorful pack of Gooeys with bonus features.</description>
+    </item>
+    <item>
+      <title>Gooey Party Pack 2</title>
+      <link>https://www.zooberry.org/mods/zt2/tools-utilities/gooey-party-pack-2/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tools-utilities/gooey-party-pack-2/</guid>
+      <description>A follow-up to the original Gooey Party Pack with new Gooeys and extras.</description>
+    </item>
+    <item>
+      <title>Gooey Party Pack 3</title>
+      <link>https://www.zooberry.org/mods/zt2/tools-utilities/gooey-party-pack-3/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tools-utilities/gooey-party-pack-3/</guid>
+      <description>The third installment in the Gooey Party Pack series with Marine Mania compatibility.</description>
+    </item>
+    <item>
       <title>Halloween Pack 1 - Superheroes</title>
       <link>https://www.zooberry.org/mods/zt2/texture-mods/reskins/halloween-pack-1-superheros/</link>
       <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
@@ -399,6 +420,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/</guid>
       <description>Bundles of objects all curated or designed after a specific theme.</description>
+    </item>
+    <item>
+      <title>Tools and Utilities</title>
+      <link>https://www.zooberry.org/mods/zt2/tools-utilities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tools-utilities/</guid>
+      <description>Files or tools that extend game functionality, add features to the player&amp;rsquo;s benefit, or expand modding capabilities.</description>
     </item>
     <item>
       <title>Tour Objects</title>
@@ -2534,13 +2562,6 @@
       <pubDate>Wed, 26 Jun 2024 14:38:31 -0700</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/tools-utilities/dependency-master-file/</guid>
       <description>This is a compilation of common dependencies (required downloads) for ZT2 usermade animals.</description>
-    </item>
-    <item>
-      <title>Tools and Utilities</title>
-      <link>https://www.zooberry.org/mods/zt2/tools-utilities/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tools-utilities/</guid>
-      <description>Files or tools that extend game functionality, add features to the player&amp;rsquo;s benefit, or expand modding capabilities.</description>
     </item>
     <item>
       <title>Nilgiri Tahr</title>
