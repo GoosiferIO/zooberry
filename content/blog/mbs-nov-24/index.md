@@ -9,9 +9,11 @@ image: summary.png
 
 ## November 2024 - ZooBerry Mod Archive Summary
 
-November was a busy month for ZooBerry. With news that ZooAdmin might be making its exit, Yellowrose looked toward ZooTek to rehome its content. Our website is luckily in a healthy position to help mitigate the space required for these downloads, so we happily agreed to at least help with the ZT2 files while Tek and the Download Database took care of the ZT1 files.
+November was a busy month for ZooBerry. With news that ZooAdmin might be making its exit, Yellowrose has asked ZooTek to rehome its content. Our website is luckily in a healthy position to help mitigate the space required for these downloads, so I happily agreed to at least help with the ZT2 files while Tek and the Download Database took care of the ZT1 files. 
 
-Additionally, Fern has provided us with Zoo Tycoon Unleashed's massive collection of mods, so we're simultaneously sifting through those as we archive ZooAdmin's files. With both Fern's and Yellowrose's meticulate record keeping, this all has been a smooth process and in just under a week we've managed to upload more than half of both databases to ZooBerry. For this reason, the month of November saw a record number of mods archived on ZooBerry with 405 new additions to the database. I will be taking a short break from uploading over the next couple of weeks due to university finals, but I hope to finish both databases by the end of the year. Additionally, I expect to start archiving Borsato's ZT1 mods, Bunyupy's Projects, and continue the trek that is the Northern Skies database.
+Additionally, Fern has provided me with Zoo Tycoon Unleashed's massive collection of mods, which she was given ownership to rehost. I'm simultaneously sifting through those as I archive ZooAdmin's files. With both Fern's and Yellowrose's meticulate record keeping, this all has been a smooth process and in just under a week I've managed to upload more than half of both databases to ZooBerry. For this reason, the month of November saw a record number of mods archived on ZooBerry with 405 new additions to the database. 
+
+I will be taking a short break from uploading over the next couple of weeks due to university finals, but I hope to finish both databases by the end of the year. Additionally, I expect to start archiving Borsato's ZT1 mods, Bunyupy's Projects, and continue the trek that is the Northern Skies database.
 
 Below is a list of everything added to ZooBerry in November:
 
