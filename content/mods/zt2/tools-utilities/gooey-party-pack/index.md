@@ -16,7 +16,7 @@ orig_rel_at:
 orig_rel_date: 2006-09-12
 summary: A colorful pack of Gooeys with bonus features.
 title: Gooey Party Pack
-zt2tags: ["All", "ZT2", "Tools and Utilities", "Packs", "UI Mods"]
+zt2tags: ["All", "ZT2", "Tools & Utilities", "Packs", "UI Mods"]
 ---
 The ultimate pack for Gooey collectors! Giving you amazing new colours to experiment and play with, here is a list of what this pack contains:
 
