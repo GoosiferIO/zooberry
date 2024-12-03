@@ -21,16 +21,16 @@ alts:
 - AtlanteanFountainbyGoosifer_alt.zip
 summary: "This Atlantean Fountain will fit in seamlessly with Zoo Tycoon's other Atlantean scenery items!"
 mod_list: 
-  - name: HotdogStandbyGoosifer
-    title: Hotdog Stand
+  - name: AtlanteanFountainbyGoosifer
+    title: Atlantean Fountain
     category: Main 
-    description: "This is the standard hotdog stand with no cheats enabled for those who want a vanilla experience."
+    description: "This is the standard atlantean fountain with no cheats enabled for those who want a vanilla experience."
     file_size: 33.3 KB
     uploaded: 2023-08-09
-  - name: HotdogStandbyGoosifer_alt
-    title: Hotdog Stand (Contest Mode)
+  - name: AtlanteanFountainbyGoosifer_alt
+    title: Atlantean Fountain (Contest Mode)
     category: Alternative
-    description: "This version is the 'contest mode' version of the hotdog stand. It will make your guests absolutely fall-over-heels with the stand and will increase your zoo rating immensely."
+    description: "This version is the 'contest mode' version of the hotdog stand. It will make your guests absolutely fall-over-heels with the stand and will increase your zoo rating immensely. Great for free play mode and participating in community-led contests!"
     file_size: 33.3 KB
     uploaded: 2023-08-09
 zt1tags: ["All", "Scenery", "ZT1", "Atlantean", "Fountains", "Objects"]

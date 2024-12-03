@@ -17,6 +17,7 @@ alt_text:
 summary: "A set of information signs for the Africa theme. These will be found purchasable from the Scenery tab in-game."
 languages:
 - English
+zt2tags: ["All", "ZT2", "Objects", "Signs", "Zootilities"]
 ---
 
 A set of information signs for the Africa theme. These will be found purchasable from the Scenery tab in-game.
