@@ -15,7 +15,7 @@ alt_text:
 languages:
 - English
 summary: "Add the Peryton, a mythical creature that is part deer and part bird, to your zoo."
-zt1tags: ["All", "Animals", "ZT1", "Mythological", "Fictional"]
+zt1tags: ["All", "Animals", "ZT1", "Fictional", "Fictional"]
 ---
 
 Add the Peryton, a mythical creature that is part deer and part bird, to your zoo. This creature is known for its striking appearance and unique design. The Peryton is a great addition to any zoo and will surely attract visitors with its mysterious and magical presence.
