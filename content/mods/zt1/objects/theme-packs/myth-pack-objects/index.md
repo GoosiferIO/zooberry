@@ -1,7 +1,11 @@
 ---
 title: "Myth Pack - Objects"
 author: 
-- Mythical Design Team
+- Eagle One
+- Aqua Dragon
+- Loewenfrau
+- Sundance300
+- Quivaz
 game: Zoo Tycoon 1
 exp_req:
 file_size: 792.8 KB
@@ -23,7 +27,7 @@ dependencies:
   external: false
 ---
 
-Eagle One, Aqua Dragon, Loewenfrau, Sundance300, and Quivaz (designers from Zoo Keepers Lounge and Zoo Admin) created these objects with the myth theme.
+Eagle One, Aqua Dragon, Loewenfrau, Sundance300, and Quivaz (designers from Zoo Keepers Lounge and Zoo Admin) created these objects with the myth theme. (Collectively known as the Mythical Design Team!)
 
 The pack includes a myth museum, several beautiful ponds, several rock formations, a wonderful statue, a fountain, and several other objects to decorate your zoo.
 
