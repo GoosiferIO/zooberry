@@ -197,7 +197,7 @@ Megalodon + *Khaydar's Basilosaurus* + *Khaydar's Dorudon*
 - Cladoselache, Stethacanthus, Ginsu Shark & Schizorhiza made using *Bunyupy's* original models.
 - Megalodon & Xiphactinus made using *Royboy407's* original models.
 - Hybodus made using *HENDRIX's* original model.
-- Onchopristis made using *VNDragon's* original model.
+- Onchopristis made using *VNDragon's* Zoo Tycooon 2 Onchopristis, which in turn is based on Zerosvalmont's original model.
 - Animations & reskins made by myself.
 - Megalodon Jaws made using *Whalebite's* original model.
 - Fossil Display made using *Ulquiorra's* original model.
