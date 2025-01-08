@@ -1,0 +1,385 @@
+List of Borsato mods:
+
+# Packs
+
+- [Dino Danger Cretaceous Part 1]() by Borsato
+    - Contents
+      - Parasaurolophus
+      - Corythosaurus
+      - Maiasaura
+      - Dakotaraptor
+      - Utahraptor
+      - Muttaburrasaurus
+- [Dino Danger Cretaceous Part 2]() by Borsato
+    - Contents
+      - Protoceratops
+      - Deinocheirus
+      - Baryonyx
+      - Oviraptor
+      - Giganotosaurus
+      - Ouranosaurus
+- [Dino Danger Cretaceous Part 3]() by Borsato
+    - Contents
+      - Pteranodon
+      - Torosaurus
+      - Protarchaeopteryx
+      - Homalocephale
+      - Carcharodontosaurus
+      - Tylosaurus
+- [Mega Mammals Combined]() by Borsato
+- [Extinct Species Combined]() by Borsato
+  - Contents
+    - Dodo Bird
+    - Quagga
+    - Hyracotherium
+    - Elephant Birds
+    - Kelenken
+  - Credits
+    - Hendrix for his ZT1 Sprite Render Tool for Blender
+    - Moondawg
+    - Animations:
+      - [Dodo Bird (Aurora Designs)](http://zt2downloadlibrary.wikia.com/wiki/Dodo_(Aurora_Designs))
+      - [Quagga (Bunyupy and Maximilian)](http://zt2downloadlibrary.wikia.com/wiki/Quagga_(Bunyupy_%26_Maximilian))
+      - [Great Auk (Whalebite)](http://zt2downloadlibrary.wikia.com/wiki/Great_Auk_(Whalebite))
+      - [Hyracotherium (Platypus)](http://zt2downloadlibrary.wikia.com/wiki/Eohippus_(Platypus))
+      - Elephant Bird animations from ZT2 Extinct Animals
+      - [Kelenken (Jannick)](http://zt2downloadlibrary.wikia.com/wiki/Kelenken_(Jannick))
+    - Sounds:
+      - Dodo Bird sounds from ZT2 Extinct Animals
+    - Descriptions:
+      - Dodo Bird description from [Quivaz's Dodo](https://www.zooberry.org/mods/zt1/animals/extinct/dodo-bird/)
+      - Quagga description from [Animal Corner](https://animalcorner.co.uk/animals/quagga-zebra/)
+      - Great Auk description from [Encyclopedia Britannica](https://www.britannica.com/animal/great-auk)
+      - Hyracotherium description from [Thoughtco](https://www.thoughtco.com/eohippus-dawn-horse-1093222)
+      - Elephant Bird description from [New Dinosaurs](https://www.newdinosaurs.com/elephant-bird/)
+      - Kelenken description from [New Dinosaurs](https://www.newdinosaurs.com/kelenken/)
+    - Artwork:
+      - Great Auk: [Dailymail](http://www.dailymail.co.uk/sciencetech/article-3749805/Jurrasic-Auk-Researchers-reveal-plan-use-DNA-bring-flightless-British-seabird-extinct-200-years.html)
+- [Wonderful Wings]() by Borsato
+  - Contents
+    - Black-Faced Spoonbill
+    - Southern Cassowary
+    - Nicobar Pigeon
+    - Kagu
+    - Scarlet Ibis
+    - Golden Parakeet
+    - Darwin's Rhea
+    - Barn Owl
+    - Rhinocerous Hornbill
+    - Humboldt Penguin
+    - Snowy Owl
+    - Red-Crowned Crane
+    - Eurasian Eagle Owl
+    - Saddle-Billed Stork
+    - California Condor
+    - Blue and Gold Macaw
+  - Animations:
+    - [Black-Faced Spoonbill (DutchDesigns)](http://zt2downloadlibrary.wikia.com/wiki/Black-faced_Spoonbill_(DutchDesigns))
+    - [Southern Cassowary (ZTABC Team)](http://zt2downloadlibrary.wikia.com/wiki/Southern_Cassowary_(ZTABC_Team))
+    - [Nicobar Pigeon (Deinonychus 110, Eryel & samuel)](http://zt2downloadlibrary.fandom.com/wiki/Nicobar_Pigeon_(Deinonychus_110%2C_Eryel_%26_samuel)
+    - [Kagu (ZTABC Team)](http://zt2downloadlibrary.wikia.com/wiki/Kagu_(ZTABC_Team))
+    - [Scarlet Ibis (Titan)](http://zt2downloadlibrary.wikia.com/wiki/Scarlet_Ibis_(Titan))
+    - [Golden Parakeet (Zoohuahua)](http://zt2downloadlibrary.wikia.com/wiki/Golden_Parakeet_(Zoohuahua))
+    - [Darwin's Rhea (ZTABC Team)](http://zt2downloadlibrary.wikia.com/wiki/Darwin%27s_Rhea_(ZTABC_Team))
+    - [Barn Owl (Dacentru & Maks)](http://zt2downloadlibrary.fandom.com/wiki/Barn_Owl_(Dacentru_%26_Maks))
+    - [Rhinoceros Hornbill (samuel)](http://zt2downloadlibrary.wikia.com/wiki/Rhinoceros_Hornbill_(samuel))
+    - [Humboldt Penguin (DutchDesigns)](http://zt2downloadlibrary.wikia.com/wiki/Humboldt_Penguin_(DutchDesigns))
+    - [Snowy Owl (ZTABC Team)](http://zt2downloadlibrary.wikia.com/wiki/Snowy_Owl_(ZTABC_Team))
+    - [Red-Crowned Crane (Tamara Henson)](http://zt2downloadlibrary.wikia.com/wiki/Red-crowned_Crane_(Tamara_Henson))
+    - [Eurasian Eagle Owl (ZTABC Team)](http://zt2downloadlibrary.wikia.com/wiki/Eurasian_Eagle_Owl_(ZTABC_Team))
+    - [Saddle-Billed Stork (DRAGON-unit911)](http://zt2downloadlibrary.wikia.com/wiki/Saddle_Billed_Stork_(DRAGON-unit911))
+    - [California Condor (Whalebite)](http://zt2downloadlibrary.wikia.com/wiki/California_Condor_(Whalebite))
+    - [Blue and Gold Macaw (Sneke_Bite)](http://zt2downloadlibrary.wikia.com/wiki/Blue_and_Gold_Macaw_(Sneke_Bite))
+  - Sounds:
+    - Nicobar Pigeon sounds from [Deinonychus 110, Eryel, and Samuel's version in ZT2](http://zt2downloadlibrary.fandom.com/wiki/Nicobar_Pigeon_(Deinonychus_110%2C_Eryel_%26_samuel))
+    - Kagu sounds from [Xeno-Canto](https://www.xeno-canto.org/species/Rhynochetos-jubatus)
+    - Golden Parakeet sounds from Genkicoll's Blue-Headed Parrot
+    - Darwin's Rhea sounds from [Xeno-Canto](https://www.xeno-canto.org/species/Rhea-pennata)
+    - Rhinoceros Hornbill sounds from [samuel's Rhinoceros Hornbill](http://zt2downloadlibrary.wikia.com/wiki/Rhinoceros_Hornbill_(samuel))
+    - Humboldt Penguin sounds from [Pond5](https://www.pond5.com/sound-effect/8871917/penguin.html#)
+    - Snowy Owl sounds from [ZT ABC Team's Snowy Owl](http://zt2downloadlibrary.wikia.com/wiki/Snowy_Owl_(ZTABC_Team))
+    - Red-Crowned Crane sounds from [Tamara Henson's Red-Crowned Crane](http://zt2downloadlibrary.wikia.com/wiki/Red-crowned_Crane_(Tamara_Henson))
+    - Blue and Gold Macaw sounds from Ghirin's Scarlet Macaw
+  - Descriptions:
+    - Black-Faced Spoonbill description from [Birding in Taiwan](http://www.birdingintaiwan.com/Birdsintwn/Black_faced_Spoonbill.htm)
+    - Nicobar Pigeon description from [WWF India](https://www.wwfindia.org/about_wwf/priority_species/lesser_known_species/nicobar_pigeon/)
+    - Kagu description from [San Diego Zoo](http://animals.sandiegozoo.org/animals/kagu)
+    - Golden Parakeet description from [The Spruce Pets](https://www.thesprucepets.com/golden-conures-390572)
+    - Darwin's Rhea description from [WAZA](http://www.waza.org/en/zoo/visit-the-zoo/ostriches-and-relatives/rhea-pennata)
+    - Barn Owl description from [Living with Birds](https://www.livingwithbirds.com/tweetapedia/21-facts-on-barn-owl)
+    - Rhinoceros Hornbill description from [Aviary](https://www.aviary.org/animals/rhinoceros-hornbill)
+    - Humboldt Penguin description from [National Geographic Kids](https://kids.nationalgeographic.com/animals/humboldtpenguin/#Humboldt-Penguin-Line.jpg)
+    - Snowy Owl description from [Audubon](https://www.audubon.org/field-guide/bird/snowy-owl)
+    - Red-Crowned Crane description from [BirdNote](https://www.birdnote.org/show/red-crowned-cranes-dance-hokkaido) and [Inside Japan Tours](https://www.insidejapantours.com/experience-japan/i-ne011-3/red-crowned-cranes/)
+    - Eurasian Eagle Owl description from [Le Cornelle](https://www.lecornelle.it/animali-schede/eurasian-eagle-owl/?lang=en)
+    - Saddle-Billed Stork description from [Nashville Zoo](https://www.nashvillezoo.org/default.aspx?p=123579&evtid=706701:9/21/2018)
+    - California Condor description from [Defenders](https://defenders.org/california-condor/basic-facts)
+    - Blue and Gold Macaw description from [ParrotFeather](http://parrotfeather.com/macaws/blue-and-gold/)
+  - Artwork:
+    - Golden Parakeet from [Parrots.org](https://estore.parrots.org/products/golden-conures-1)
+    - Darwin's Rhea from [Pinimg](https://i.pinimg.com/236x/82/2f/10/822f10ec77977e554f6de95c095dd44d--rhinoceros-character-illustration.jpg)
+    - Humboldt Penguin from [DeviantArt](https://www.deviantart.com/deskridge/art/Snowy-Owl-478107509)
+    - Saddle-Billed Stork from [DRAGON-unit911](https://thezt2roundtable.com/dragon-unit-39-s-projects-t19114-s360.html)
+    - Blue and Gold Macaw from [Turbosquid](https://www.turbosquid.com/3d-models/ara-ararauna-blue-and-yellow-macaw-obj/877530)
+- [Reptile Pack]() by Borsato
+- [JPOG Items]() by Borsato
+- [DDvarPatch]() by Borsato
+- [Endangered Animals]() by Borsato
+- [African Adventure Combined]() by Borsato
+  - Contents
+    - Aardvark
+    - Scimitar-Horned Oryx
+    - Grey Crowned Crane
+    - Greater Kudu
+    - Bontebok
+    - Gerenuk
+    - Caracal
+    - Ring-tailed Lemur
+    - Mhorr Gazelle
+    - Sacred Ibis
+    - Black-Faced Impala
+    - Ethiopian Wolf
+  - Credits
+    - Hendrix for his ZT1 Sprite Render Tool for Blender
+    - Scimitar-Horned Oryx based on And1's coding
+  - Animations:
+    - [Aardvark (Aurora Designs)](http://zt2downloadlibrary.wikia.com/wiki/Aardvark_(Aurora_Designs))
+    - [Scimitar-Horned Oryx (Aurora Designs)](http://zt2downloadlibrary.wikia.com/wiki/Scimitar-horned_Oryx_(Aurora_Designs))
+    - [Grey Crowned Crane (DutchDesigns)](http://zt2downloadlibrary.wikia.com/wiki/Grey_Crowned_Crane_(DutchDesigns))
+    - [Greater Kudu (Eryel)](http://zt2downloadlibrary.wikia.com/wiki/Greater_Kudu_(Eryel))
+    - [Bontebok (Aurora Designs)](http://zt2downloadlibrary.wikia.com/wiki/Bontebok_(Aurora_Designs))
+    - [Gerenuk (Aurora Designs)](http://zt2downloadlibrary.wikia.com/wiki/Gerenuk_(Aurora_Designs))
+    - [Caracal (JimmyzHoopz)](http://zt2downloadlibrary.wikia.com/wiki/Caracal_(JimmyzHoopz))
+    - [Ring-tailed Lemur (Aurora Designs)](http://zt2downloadlibrary.wikia.com/wiki/Ring-tailed_Lemur_(Aurora_Designs))
+    - [Mhorr Gazelle (ZTABC Team)](http://zt2downloadlibrary.wikia.com/wiki/Mhorr_Gazelle_(ZTABC_Team))
+    - [African Sacred Ibis (Crookedjaw)](http://zt2downloadlibrary.wikia.com/wiki/African_Sacred_Ibis_(Crookedjaw))
+    - [Black-Faced Impala (Tamara Henson)](http://zt2downloadlibrary.wikia.com/wiki/Black-Faced_Impala_(Tamara_Henson))
+    - [Ethiopian Wolf (aquila)](http://zt2downloadlibrary.wikia.com/wiki/Ethiopian_Wolf_(aquila))
+  - Sounds:
+    - Aardvark sounds from ZT2 African Adventure
+    - Grey Crowned Crane sounds from [Xeno-Canto](https://www.xeno-canto.org/species/Balearica-regulorum)
+    - Caracal sounds from ZT2 African Adventure
+    - Ring-tailed Lemur sounds from ZT2
+    - Black-Faced Impala sounds from [Tamara Henson's Black-Faced Impala](http://zt2downloadlibrary.wikia.com/wiki/Black-Faced_Impala_(Tamara_Henson))
+    - Ethiopian Wolf sounds from ZT2 African Adventure
+  - Descriptions:
+    - Aardvark description from [Animal Facts Encyclopedia](http://www.animalfactsencyclopedia.com/Aardvark-facts.html)
+    - Grey Crowned Crane description from [Arkive](https://www.arkive.org/grey-crowned-crane/balearica-regulorum/)
+    - Greater Kudu description from [The Nature Conservancy](https://www.nature.org/newsfeatures/specialfeatures/animals/mammals/greater-kudu.xml)
+    - Bontebok description from [MNN](https://www.mnn.com/earth-matters/animals/blogs/incredible-story-how-bontebok-survived-extinction)
+    - Gerenuk description from [Britannica](https://www.britannica.com/animal/gerenuk)
+    - Caracal description from [A-Z Animals](https://a-z-animals.com/animals/caracal/)
+    - Ring-tailed Lemur description from [Arkive](https://www.arkive.org/ring-tailed-lemur/lemur-catta/)
+    - Mhorr Gazelle description from [IT'S NATURE](https://www.itsnature.org/ground/mammals-land/mhorr-gazelle/)
+    - Black-Faced Impala description from [A-Z Animals](https://a-z-animals.com/animals/black-faced-impala/)
+    - Ethiopian Wolf description from [Animal Corner](https://animalcorner.co.uk/animals/ethiopian-wolf/)
+- [Dino Danger Jurassic Combined]() by Borsato
+  - Contents
+    - Diplodocus
+    - Ceratosaurus
+    - Cryolophosaurus
+    - Brachiosaurus
+    - Liopleurodon
+    - Dilophosaurus
+    - Archaeopteryx
+  - Credits
+    - Hendrix for his ZT1 Sprite Render Tool for Blender
+    - dragonperson391
+    - And1's Liopleurodon (Based on)
+    - Animations/Sounds from:
+      - [Diplodocus (Luca9108)](http://zt2downloadlibrary.wikia.com/wiki/Diplodocus_(Luca9108))
+      - [Cerataosaurus (Elite Designs)](http://zt2downloadlibrary.wikia.com/wiki/Ceratosaurus_(Elite_Designs))
+      - [Cryolophosaurus (Luca9108)](http://zt2downloadlibrary.wikia.com/wiki/Cryolophosaurus_(Luca9108))
+      - [Brachiosaurus (Royboy407)](http://zt2downloadlibrary.wikia.com/wiki/Jurassic_Park_Brachiosaurus_(Royboy407))
+      - [Liopleurodon (HENDRIX)](http://zt2downloadlibrary.wikia.com/wiki/Liopleurodon_(HENDRIX))
+      - [Dilophosaurus (BioHazard)](http://zt2downloadlibrary.wikia.com/wiki/Jurassic_Park_Dilophosaurus_(BioHazard))
+      - [Archaeopteryx (16529950)](http://zt2downloadlibrary.wikia.com/wiki/Archaeopteryx_(16529950))
+    - Descriptions:
+      - [Diploducus](http://dinosaurpictures.org/Diplodocus-pictures) at Dinosaur Pictures
+      - [Ceratosaurus](https://www.newdinosaurs.com/ceratosaurus/) at New Dinosaurs
+      - [Cryolophosaurus](https://www.newdinosaurs.com/cryolophosaurus/) at New Dinosaurs
+      - [Brachiosaurus](https://animals.howstuffworks.com/dinosaurs/brachiosaurus.htm) at How Stuff Works
+      - [Liopleurodon](http://www.prehistoric-wildlife.com/species/l/liopleurodon.html) at Prehistoric Wildlife
+      - [Dilophosaurus](http://scienceviews.com/dinosaurs/dilophosaurus.html) at Science Views
+      - [Archaeopteryx](http://www.ucmp.berkeley.edu/diapsids/birds/archaeopteryx.html) at Berkeley
+    - Artwork:
+      - [Vista News](https://vistanews.ru/science/57073) for Liopleurodon
+      - [DeviantArt](https://elmithefox.deviantart.com/art/Dilophosaurus-276124132) for Dilophosaurus
+
+
+# Animals
+
+## Living
+
+- [Blue Marlin]() by Borsato
+  - Released: 2019-03-02
+  - Credits:
+    - Hendrix for his ZT1 Sprite Render Tool for Blender
+    - Blue Marlin animations from ZT2 Marine Mania 2 by Blue Fang
+    - The zoopedia entry is from [Bahamas.gov.bs](https://www.bahamas.gov.bs/wps/portal/public/about%20the%20bahamas/national%20symbols/blue%20marlin%20-%20national%20fish%20of%20the%20bahamas/!ut/p/b1/vZTJrpswGEafpQ-Qi0nMtHSAMM9m3EQQMjCTkITh6ZtWXbSVem8XvbUXlqVjf7-PLRMJERFJmz6Lc3ovujatv80Ter8BkoEQZA2JAjRQfFtHNiOvLZJ6AfE7AAQfrQ-JCPuULgzKWdSB1sxQrWDn1hNdbpLyEixoNJUwPcqPiefsYDXn9iIpa9KMw0lwkf6ker4M5CwW4oNnR6HzsPRjlAeY9gyQ59yQrIQYbA0u3vK7YbgobYC5uM79Y7vJJCOEN9Gyn619z1BRrp7uabXAhzZcN9LFoepuwm5a7-Ir3OZ7NNO5SY7ZYM9XB4lxdmTL4jody3mvzZEv_3AB_tDQX7hI3kW09QfAN93fgXdqiF8A89MOOABAIQFyPdIBrEkSmIgA3Hvl3CtLtbjl4moedlUjE0cgBJaxnBzTr02PS0yvTBSAQ9LQ0WiIF8u7icC7YzsPXH-LeMvicfV7oLXG3CuQJ2nNp4AH4GcHSpTFvhwx2EbUGkgW-b8DN_9VqWRb4NNP-Mujgc6_v0OVSIqseRsPzRt4YzmapBgWciwNIGQZIqh9dhLOyiTYd62GtLM0y2Br_NjZuAN-b_pMSFn7M7f1JDFWZLXsQWfWZbylpBn4aZYEbQjyHR2beuMU1Sbzb3W1xO1OdW9s3hmtEbTngyVEyBvMAZdsWt_E5RkywgNDM0yohXHHTdvS8tl7fTKjpPLjie26ChsNmTKVJUe7_lDdxr4vguJJssMpPj_0ae_2qyuzgyS4jffToYtQgCe2qa2tN3gIvIZwiC8wYXY5P6isOp5o1zDWDOOsy-vgPghT7poj0Tf-U6ddeYl-6kf05SudZaNo/dl4/d5/L2dBISEvZ0FBIS9nQSEh/)
+- [Cape Barren Goose]() by Borsato
+  - Released: 2019-07-07
+  - Credits:
+    - Hendrix for his ZT1 Sprite Render Tool for Blender
+    - Cape Barren Goose animations from [Nessich's Cape Barren Goose](https://zt2downloadlibrary.fandom.com/wiki/Cape_Barren_Goose_(Nessich))
+    - The zoopedia entry is from [Birds in Backyards](http://www.birdsinbackyards.net/species/Cereopsis-novaehollandiae)
+- [Capybara]() by Borsato
+  - Released: 2018-04-28
+  - Credits:
+    - Hendrix for his ZT1 Sprite Render Tool for Blender
+    - Capybara animations from [Braq, Triceraptor Rex, and Xtremepieman's Capybara](http://zt2downloadlibrary.wikia.com/wiki/Capybara_(Braq%2C_Triceraptor_Rex_%26_Xtremepieman))
+    - The zoopedia entry is from [Britannica](https://www.britannica.com/animal/capybara)
+    - Capybara sounds from [Pond5](https://www.pond5.com/sound-effect/8671120/capybarasqueals49023.html#)
+- [Chiru]() by Borsato
+  - Released: 2019-03-02
+  - Credits:
+    - And1
+    - Chiru animations from [Platypus and Tamara Henson's Chiru](http://zt2downloadlibrary.fandom.com/wiki/Chiru_(Platypus_%26_Tamara_Henson))
+    - The zoopedia entry is from [Scientific American](https://blogs.scientificamerican.com/extinction-countdown/tibetan-antelope/)
+- [Chital]() by Borsato
+  - Released: 2018-06-16
+  - Credits:
+    - Hendrix for his ZT1 Sprite Render Tool for Blender
+    - Chital animations from [ZTABC Team's Axis Deer](http://zt2downloadlibrary.wikia.com/wiki/Axis_Deer_(ZTABC_Team))
+    - The zoopedia entry is from [Wild Vistas](http://wildvistas.com/fauna/chital/chital.html)
+    - Artwork from [All Time Trading](https://www.alltimetrading.com/50-units-of-3d-picture-59-lion-on-rock-axis-deer/p-1013615.asp)
+- [Common Wombat]() by Borsato
+  - Released: 2019-02-03
+  - Credits:
+    - Hendrix for his ZT1 Sprite Render Tool for Blender
+    - Common Wombat animations from [Zerosvalmont's Common Wombat](http://zt2downloadlibrary.fandom.com/wiki/Common_Wombat_(Zerosvalmont))
+    - Common Wombat sounds from [Tamara Henson's Common Wombat](http://zt2downloadlibrary.fandom.com/wiki/Common_Wombat_(Tamara_Henson))
+    - The zoopedia entry is from [Animal Fact Guide](https://animalfactguide.com/animal-facts/common-wombat/)
+    - Artwork from [Sommerville Zoological Parks and Aquariums Inc topic at The ZT2 Roundtable](https://thezt2roundtable.com/sommerville-zoological-parks-and-aquariums-inc-t22843.html)
+- [Defassa Waterbucks]() by Borsato
+  - Released: 2019-01-01
+  - Credits:
+    - Hendrix for his ZT1 Sprite Render Tool for Blender
+    - Defassa Waterbucks animations from [Tamara Henson's Defassa Waterbuck](http://zt2downloadlibrary.wikia.com/wiki/Defassa_Waterbuck_(Tamara_Henson))
+    - The zoopedia entry is from [Shadows of Africa](https://www.shadowsofafrica.com/defassa-waterbuck)
+- [Emu]() by Borsato
+  - Released: 2019-07-07
+  - **Credits**:  
+    - Hendrix for his ZT1 Sprite Render Tool for Blender  
+    - Animations from [Eryel & Maximilian's Emu](https://zt2downloadlibrary.fandom.com/wiki/Emu_(Eryel_%26_Maximilian))  
+    - Sounds from [Xeno-canto's Emu recordings](https://www.xeno-canto.org/explore?query=Dromaius)  
+    - The zoopedia entry is from [San Diego Zoo](https://animals.sandiegozoo.org/animals/emu)  
+    - Artwork from [Laughkaburra's Species Photography topic at The ZT2 Roundtable](https://thezt2roundtable.com/laughkaburra-39-s-species-photography-t11300.html)  
+- [European Mouflon]() by Borsato
+  - Released: 2019-01-01
+- **Credits**:  
+  - Hendrix for his ZT1 Sprite Render Tool for Blender  
+  - Ghirin
+  - Animations from [Hendrix's Mufflon](http://zt2downloadlibrary.wikia.com/wiki/Mufflon_(HENDRIX))  
+  - The zoopedia entry is from [ARKive](https://www.arkive.org/mouflon/ovis-orientalis/)  
+- [Fennec Fox]() by Borsato
+  - Released: 2019-03-02
+  - **Credits**:  
+    - Hendrix for his ZT1 Sprite Render Tool for Blender  
+    - Animations and sounds from *Zoo Tycoon Endangered Species*  
+    - The zoopedia entry is from [National Geographic Kids](https://kids.nationalgeographic.com/animals/fennec-fox/#fennec-fox-hole.jpg)  
+    - Artwork from [4plebs archive](https://archive.4plebs.org/s4s/thread/3033637/)  
+- [Gelada Baboon]() by Borsato
+  - Released: 2018-11-11
+  - **Credits**:  
+    - Hendrix for his ZT1 Sprite Render Tool for Blender  
+    - Animations from [Aurora Designs' Gelada](http://zt2downloadlibrary.wikia.com/wiki/Gelada_(Aurora_Designs))  
+    - Sounds from *Zoo Tycoon 2 - African Adventure*  
+    - The zoopedia entry is from [Aurora Designs' Gelada](http://zt2downloadlibrary.wikia.com/wiki/Gelada_(Aurora_Designs))  
+    - Artwork from [Abyssinian Mammals - Gelada Baboon by Fuertes](https://www.amazon.com/Abyssinian-Mammals-Gelada-Baboon-Fuertes/dp/B01MCYPAAJ)  
+- [Hoatzin]() by Borsato
+  - Released: 2019-07-07
+  - **Credits**:  
+    - Hendrix for his ZT1 Sprite Render Tool for Blender  
+    - Animations from [Bunyupy's Hoatzin](https://zt2downloadlibrary.fandom.com/wiki/Hoatzin_(Bunyupy))  
+    - Sounds from [Xeno-canto](https://www.xeno-canto.org/)  
+    - The zoopedia entry is from [Neotropical Birds - Cornell Lab of Ornithology](https://neotropical.birds.cornell.edu/Species-Account/nb/species/hoatzi1/overview)  
+- [Inca Tern]() by Borsato
+  - Released: 2019-07-07
+  - **Credits**:  
+    - Hendrix for his ZT1 Sprite Render Tool for Blender  
+    - Animations and sounds from [Whalebite's Inca Tern](https://zt2downloadlibrary.fandom.com/wiki/Inca_Tern_(Whalebite))  
+    - The zoopedia entry is from [Neotropical Birds - Cornell Lab of Ornithology](https://neotropical.birds.cornell.edu/Species-Account/nb/species/incter1/overview)  
+- [Kakapo]() by Borsato
+  - Released: 2019-07-07
+  - **Credits**:  
+    - Hendrix for his ZT1 Sprite Render Tool for Blender  
+    - Animations and sounds from [Jannick's Kakapo](https://zt2downloadlibrary.fandom.com/wiki/Kakapo_(Jannick))  
+    - The zoopedia entry is from [EDGE of Existence](http://www.edgeofexistence.org/species/kakapo/)  
+    - Artwork from [Aukland Zoo topic at The ZT2 Roundtable](https://thezt2roundtable.com/aukland-zoo-yafi-t10192.html)  
+- [Koala]() by Borsato
+  - Released: 2019-01-01
+  - **Credits**:  
+    - Hendrix for his ZT1 Sprite Render Tool for Blender  
+    - Animations from [Aurora Designs' Koala](http://zt2downloadlibrary.wikia.com/wiki/Koala_(Aurora_Designs))  
+    - Sounds from *Zoo Tycoon 2 Endangered Species*  
+    - The zoopedia entry is from [National Geographic](https://www.nationalgeographic.com/animals/mammals/k/koala/)  
+    - Artwork from [AliExpress - Koala Diamond Painting](https://www.aliexpress.com/item/100-Full-5D-Diy-Daimond-Painting-Koala-3D-Diamond-Painting-Round-Rhinestones-Diamant-Painting-Embroidery-Animals/32864063719.html)  
+- [Marsh Harrier]() by Borsato
+  - Released: 2019-07-07
+  - **Credits**:  
+    - Hendrix for his ZT1 Sprite Render Tool for Blender  
+    - Animations and sounds from [Ulquiorra's Marsh Harrier](https://zt2downloadlibrary.fandom.com/wiki/Marsh_Harrier_(Ulquiorra))  
+    - The zoopedia entry is from [Giara Sardegna - Western Marsh Harrier](http://www.giarasardegna.it/en/content/western-marsh-harrier)  
+    - Artwork from [Ulquiorra's Things topic at The ZT2 Roundtable](https://thezt2roundtable.com/ulquiorra-39-s-things-t19189-s680.html)  
+- [Short-Finned Pilot Whale]() by Borsato
+  - Released: 2019-01-01
+  - **Credits**:  
+    - Hendrix for his ZT1 Sprite Render Tool for Blender  
+    - Sounds and animations from *Zoo Tycoon 2: Marine Mania*  
+    - The zoopedia entry is from [NOAA Fisheries - Short-Finned Pilot Whale](https://www.fisheries.noaa.gov/species/short-finned-pilot-whale)  
+    - Artwork from [Pinterest](https://www.pinterest.it/pin/470133648586004092/?lp=true)  
+- [Wolverine]() by Borsato
+  - Released: 2019-01-01
+  -  **Credits**:  
+     - Hendrix for his ZT1 Sprite Render Tool for Blender  
+     - Animations from [Aurora Designs' Wolverine](http://zt2downloadlibrary.wikia.com/wiki/Wolverine_(Aurora_Designs))  
+     - Sounds from *Zoo Tycoon 2 Endangered Species*  
+     - The zoopedia entry is from [National Geographic](https://www.nationalgeographic.com/animals/mammals/w/wolverine/)  
+     - Artwork from [Wolverine Simulator 3D by Wild Animals Life](https://appgrooves.com/android/com.wildanimalslife.wolverinesimulator/wolverine-simulator-3d/wild-animals-life)  
+- [North Sulawesi Babirusa]() by Borsato
+  - Released: 2019-01-01
+  - **Credits**:  
+    - Hendrix for his ZT1 Sprite Render Tool for Blender  
+    - Animations from [ZTABC Team's North Sulawesi Babirusa](http://zt2downloadlibrary.wikia.com/wiki/North_Sulawesi_Babirusa_(ZTABC_Team))  
+    - The zoopedia entry is from [Zoo Berlin](https://www.zoo-berlin.de/en/species-conservation/worldwide/north-sulawesi-babirusa)  
+    - Artwork from [Bioparc Libreville topic at The ZT2 Roundtable](https://thezt2roundtable.com/bioparc-libreville-temple-trail-t9974-s60.html)  
+- [Vicuna]() by Borsato
+  - Released: 2018-09-09
+  - **Credits**:  
+    - Hendrix for his ZT1 Sprite Render Tool for Blender  
+    - Animations from [ZTABC Team's Vicuña](http://zt2downloadlibrary.wikia.com/wiki/Vicu%C3%B1a_(ZTABC_Team))  
+    - The zoopedia entry is from [Goway Travel Blog - Vicuñas: South America's Royal Animal](http://blog.goway.com/globetrotting/2014/09/animal-spotlight-vicunas-south-americas-royal-animal/)  
+- [Takahe]() by Borsato
+  - Released: 2019-07-07
+  - **Credits**:  
+    - Hendrix for his ZT1 Sprite Render Tool for Blender  
+    - Animations from [ZTABC Team's Takahe](https://zt2downloadlibrary.fandom.com/wiki/Takahe_(ZTABC_Team))  
+    - Sounds from [Xeno-canto](https://www.xeno-canto.org/explore?query=takahe)  
+    - The zoopedia entry is from [NZ Birds Online - South Island Takahe](http://nzbirdsonline.org.nz/species/south-island-takahe)  
+- [Superb Lyrebird]() by Borsato
+  - Released: 2019-02-03
+  - **Credits**:  
+    - Hendrix for his ZT1 Sprite Render Tool for Blender  
+    - Animations from [ZTABC Team's Superb Lyrebird](http://zt2downloadlibrary.wikia.com/wiki/Superb_Lyrebird_(ZTABC_Team))  
+    - Sounds from [Xeno-canto - Menura novaehollandiae](https://www.xeno-canto.org/species/Menura-novaehollandiae)  
+    - The zoopedia entry is from [Oiseaux-Birds](http://www.oiseaux-birds.com/card-superb-lyrebird.html)  
+    - Artwork from [ProfDanB on DeviantArt](https://www.deviantart.com/profdanb/art/Zoo-Tycoon-2-Showcase-Superb-Lyrebird-658228570)  
+- [South American Coati]() by Borsato
+  - Released: 2018-08-21
+  - **Credits**:  
+    - Hendrix for his ZT1 Sprite Render Tool for Blender  
+    - Animations and sounds from [Zelda-Maniack's Ring-Tailed Coati](http://zt2downloadlibrary.wikia.com/wiki/Ring-Tailed_Coati_(Zelda-Maniack))  
+    - The zoopedia entry is from [BBC - South American Coati](http://www.bbc.co.uk/programmes/profiles/4YRfYz7JkpkJbFQ6WpKkfbF/south-american-coati)  
+- [Siberian Musk Deer]() by Borsato
+  - Released: 2018-11-04
+  - **Credits**:  
+    - Hendrix for his ZT1 Sprite Render Tool for Blender  
+    - Animations from [ZTABC Team's Siberian Musk Deer](http://zt2downloadlibrary.wikia.com/wiki/Siberian_Musk_Deer_(ZTABC_Team))  
+    - The zoopedia entry is from [Ranua Zoo - Siberian Musk Deer](https://english.ranuazoo.com/animals/myskikauris/)  
+- [Short-Beaked Echidna]() by Borsato
+  - Released: 2019-11-04
+  - **Credits**:  
+    - Hendrix for his ZT1 Sprite Render Tool for Blender  
+    - Animations from [Zerosvalmont's Short-beaked Echidna](http://zt2downloadlibrary.wikia.com/wiki/Short-beaked_Echidna_(Zerosvalmont))  
+    - The zoopedia entry is from [Bush Heritage Australia](https://www.bushheritage.org.au/species/echidna)  
