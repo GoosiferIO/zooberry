@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "A pack that converts content from the Dinosaur Digs marketing beta to the retail version of the game."
-zt1tags: ["All", "Animals", "ZT1", "Dinosaur Digs", "Packs"]
+zt1tags: ["All", "Animals", "ZT1", "Extinct", "Dinosaurs", "Packs", "Scenery", "Remakes", "Objects", "Prehistoric"]
 mod_list: 
   - name: SerpyDDBetaPack
     title: Beta Iguanodon + Base Iguanodon

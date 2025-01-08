@@ -2,10 +2,9 @@
 title: "Perentie"
 has_author: true
 author: 
-- Volksdragon
+- Vondell
 game: Zoo Tycoon 1
 exp_req: 
-- DD
 file_size: 2.72 MB
 file_date: 2009-04-22
 orig_rel_date: 2009-04-22
@@ -18,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "Perenties are fairly large lizards in the monitor family."
-zt1tags: ["All", "Animals", "Reptiles", "Lizards", "Australian"]
+zt1tags: ["All", "Animals", "Reptiles", "Australian"]
 ---
 The Perentie is a fairly large Australian lizard in the monitor family.
 

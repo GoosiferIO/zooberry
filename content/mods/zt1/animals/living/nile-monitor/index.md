@@ -2,10 +2,9 @@
 title: "Nile Monitor"
 has_author: true
 author: 
-- Volksdragon
+- Vondell
 game: Zoo Tycoon 1
 exp_req: 
-- AA
 file_size: 2.84 MB
 file_date: 2009-02-16
 orig_rel_date: 2009-02-16
@@ -18,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "The Nile Monitor is a large, fast, and agile lizard from the rainforest outskirts and grasslands of Africa."
-zt1tags: ["All", "Animals", "Reptiles", "Lizards", "African"]
+zt1tags: ["All", "Animals", "ZT1", "Reptiles", "African"]
 ---
 
 The Nile Monitor is a large, fast, and agile lizard from the rainforest outskirts and grasslands of Africa. As such, it likes rainforest foliage and rainforest terrain, but also likes a good amount of grass in its exhibit.

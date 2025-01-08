@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "Adds the rare and elusive Saola for adoption in your zoo."
-zt1tags: ["All", "Animals", "Mammals", "Ungulates", "Asian"]
+zt1tags: ["All", "Animals", "Mammals", "Ungulates", "Asian", "Living"]
 ---
 
  

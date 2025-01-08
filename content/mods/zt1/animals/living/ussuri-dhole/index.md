@@ -20,6 +20,7 @@ mod_list:
     description: "Main file. Adopt an Ussuri dhole for your zoo!"
     file_size: 1.93 MB
     uploaded: 2024-10-01
+zt1tags: ["All", "Animals", "ZT1", "Living", "Carnivores", "Canids", "Eurasian"]
 ---
 
 Adds the temperate dhole subspecies to your zoo, with a fox-like appearence and unique cooing sounds. Ussuri dhole are very social animals and enjoy a hilly exhibit with coniferous trees. They will be a perfect addition to any temperate or cold climate zoos.

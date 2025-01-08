@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "The Eoraptor is a small dinosaur from the Late Triassic period. It is one of the earliest dinosaurs known to science, and it is a basal sauropodomorph."
-zt1tags: ["All", "Animals", "ZT1", "Dinosaurs"]
+zt1tags: ["All", "Animals", "ZT1", "Extinct", "Dinosaurs", "Prehistoric"]
 mod_list: 
   - name: ZwEoraptorVanillaV2
     title: Eoraptor (Vanilla)

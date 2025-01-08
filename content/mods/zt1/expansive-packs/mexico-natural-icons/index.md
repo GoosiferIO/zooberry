@@ -14,7 +14,7 @@ alt_text:
 languages:
 - English
 summary: "A pack containing five new animals, five new foliage items, and five new animated scenery items."
-zt1tags: ["All", "Animals", "ZT1", "Dinosaurs"]
+zt1tags: ["All", "Animals", "ZT1", "Living", "Foliage", "Packs", "Scenery", "Objects"]
 mod_list: 
   - name: ZwMexicoNaturalIconsCombined
     title: Combined File
