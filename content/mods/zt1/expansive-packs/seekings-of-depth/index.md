@@ -17,8 +17,8 @@ alt_text:
 languages:
 - English
 summary: "SeeKings of Depth is a mod pack that adds a variety of prehistoric sea creatures to Zoo Tycoon 1."
-zt1tags: ["All", "Animals", "ZT1", "Aquatic", "Extinct", "Dinosaurs", "Prehistoric", "Packs", "Scenery", "Objects", "Scenery"]
-]mod_list: 
+zt1tags: ["All", "Animals", "ZT1", "Aquatic", "Extinct", "Dinosaurs", "Prehistoric", "Packs", "Objects", "Scenery"]
+mod_list: 
   - name: SeeKingsCombinedV2
     title: Combined File
     category: Combined Files
