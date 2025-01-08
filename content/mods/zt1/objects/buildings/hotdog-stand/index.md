@@ -33,7 +33,7 @@ mod_list:
     description: "This version is the 'contest mode' version of the hotdog stand. It will make your guests absolutely fall-over-heels with the stand and will increase your zoo rating immensely."
     file_size: 33.3 KB
     uploaded: 2023-08-09
-zt1tags: ["All", "Scenery", "ZT1", "Objects", "Food Stands", "Buildings"]
+zt1tags: ["All", "Scenery", "ZT1", "Objects", "Food Stands", "Buildings", "Carnival"]
 ---
 No, stop, don't leave. Your guests want this hotdog-shaped hotdog stand. Install it. Because, you know, the game is really lacking in those.
 

@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "Tile:1x1, Water placeable, Exhibit placeable (Animals don't feel happy or unhappy)"
-zt1tags: ["All", "Objects", "ZT1", "Statues"]
+zt1tags: ["All", "Objects", "ZT1", "Statues", "Scenery"]
 ---
 
 Requested by Polacanthus at Northern Skies. Tile: 1x1, Water placeable, Exhibit placeable (Animals don't feel happy or unhappy)

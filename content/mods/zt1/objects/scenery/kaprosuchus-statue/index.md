@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "Kaprosuchus is an extinct genus of mahajangasuchid crocodyliform."
-zt1tags: ["All", "Objects", "ZT1", "Statues"]
+zt1tags: ["All", "Objects", "ZT1", "Statues", "Scenery"]
 ---
 
 Kaprosuchus is an extinct genus of mahajangasuchid crocodyliform. 

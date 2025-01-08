@@ -23,7 +23,7 @@ dependencies:
   url: http://www.ztcdd.org/DG/index.php?topic=3734.0
   description: This mod requires a custom string table definition provided by this file. If not installed, the mod will not function correctly.
   external: true
-zt1tags: ["All", "Objects", "ZT1", "Rides", "Carnival"]
+zt1tags: ["All", "Objects", "ZT1", "Rides", "Carnival", "Buildings"]
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zYzZtw0-LVM?si=4q83XEyXEXVzrxQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
