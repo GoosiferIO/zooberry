@@ -2,7 +2,7 @@
 title: "Jaguar Remake II"
 has_author: true
 author: 
-- oO-VND-Oo
+- VND
 game: Zoo Tycoon 2
 exp_req: 
 file_size: 1.82 MB
