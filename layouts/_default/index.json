@@ -1,0 +1,10 @@
+[
+    {{- $pages := where .Site.Pages "Type" "mods" -}}
+    {{- range $index, $page := $pages -}}
+    {{- if $index }},{{ end }}
+    {
+      "title": {{ $page.Title | lower | jsonify }},
+      "url": {{ $page.Permalink | jsonify }}
+    }
+    {{- end -}}
+  ]

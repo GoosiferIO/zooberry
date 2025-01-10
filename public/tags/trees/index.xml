@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Trees on ZooBerry</title><link>https://www.zooberry.org/tags/trees/</link><description>Recent content in Trees on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 21 Jun 2024 21:51:34 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/tags/trees/index.xml" rel="self" type="application/rss+xml"/><item><title>Bog Pack</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/bog-pack/</link><pubDate>Fri, 21 Jun 2024 21:51:34 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/bog-pack/</guid><description>A Bog Pack made by Hendrix with new animals, objects, and a new biome.</description></item><item><title>Boreal Forest Pack</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/boreal-forest-pack/</link><pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/boreal-forest-pack/</guid><description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description></item><item><title>American Alligator Pack</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/american-alligator-pack/</link><pubDate>Tue, 02 Jan 2024 16:25:55 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/american-alligator-pack/</guid><description>American alligators are usually found in freshwater swamps, marshes, rivers, lakes, and occasionally smaller bodies of water.</description></item><item><title>AVES</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/aves/</link><pubDate>Wed, 15 Nov 2023 20:41:59 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/aves/</guid><description>An expansive user-made expansion pack made by the ZT ABC Team!</description></item><item><title>Arabia Pack</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/arabia-pack/</link><pubDate>Mon, 24 Jul 2023 17:43:25 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/arabia-pack/</guid><description>A Pack containing four Arabian animals and Plants.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trees on ZooBerry</title>
+    <link>https://www.zooberry.org/tags/trees/</link>
+    <description>Recent content in Trees on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Jun 2024 21:51:34 -0700</lastBuildDate>
+    <atom:link href="https://www.zooberry.org/tags/trees/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bog Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/expansive-packs/bog-pack/</link>
+      <pubDate>Fri, 21 Jun 2024 21:51:34 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/bog-pack/</guid>
+      <description>A Bog Pack made by Hendrix with new animals, objects, and a new biome.</description>
+    </item>
+    <item>
+      <title>Boreal Forest Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/expansive-packs/boreal-forest-pack/</link>
+      <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/boreal-forest-pack/</guid>
+      <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
+    </item>
+    <item>
+      <title>American Alligator Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/expansive-packs/american-alligator-pack/</link>
+      <pubDate>Tue, 02 Jan 2024 16:25:55 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/american-alligator-pack/</guid>
+      <description>American alligators are usually found in freshwater swamps, marshes, rivers, lakes, and occasionally smaller bodies of water.</description>
+    </item>
+    <item>
+      <title>AVES</title>
+      <link>https://www.zooberry.org/mods/zt2/expansive-packs/aves/</link>
+      <pubDate>Wed, 15 Nov 2023 20:41:59 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/aves/</guid>
+      <description>An expansive user-made expansion pack made by the ZT ABC Team!</description>
+    </item>
+    <item>
+      <title>Arabia Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/expansive-packs/arabia-pack/</link>
+      <pubDate>Mon, 24 Jul 2023 17:43:25 -0700</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/arabia-pack/</guid>
+      <description>A Pack containing four Arabian animals and Plants.</description>
+    </item>
+  </channel>
+</rss>

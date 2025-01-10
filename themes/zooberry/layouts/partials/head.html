@@ -45,6 +45,7 @@
 <script src="{{ .Site.Params.cdn }}js/galleria.js"></script>
 <script src="{{ .Site.Params.cdn }}{{ $galleriaJSPath }}"></script>
 <script src="{{ .Site.Params.cdn }}js/main.js"></script>
+<script src="https://unpkg.com/lunr/lunr.js"></script>
 
 {{ if eq .Kind "home" }}
 <meta property="og:title" content="{{ .Site.Title }}" >
@@ -93,6 +94,7 @@
 {{ end }}
 
 {{ end }}
+
 
 
 
