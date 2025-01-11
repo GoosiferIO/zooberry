@@ -167,7 +167,7 @@
   
   #search-results a, .no-results {
     text-decoration: none;
-    color: var(--font-color);
+    color: var(--link-color);
     display: block; 
     padding: 1rem;
   }
@@ -179,7 +179,7 @@
     margin: 0;
     display: flex;
     flex-direction: column;
-    color: #666;
+    color: var(--font-color);
   }
 
   #search-results .sublist-header {
@@ -187,7 +187,7 @@
     margin-bottom: 5px;
     display: block;
     margin-left: 5px !important;
-    font-style: none !important;
+    font-style: normal !important;
   }
 
   /* sublist items */
