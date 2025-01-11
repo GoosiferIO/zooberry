@@ -234,7 +234,8 @@
           "url": "http://localhost:1313/mods/zt2/objects/theme-packs/aquatic-adventure-pack/","contents": [],"author": "Nique"
         },{
           "title": "asian pack part 1","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/asian-pack-p1/","contents": [],"author": "Otter Lord"
+          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/asian-pack-p1/","contents": ["clouded leopard","malayan tapir","malayan sun bear"
+          ],"author": "Otter Lord"
         },{
           "title": "boreal forest info. pack","game": "zoo tycoon 2",
           "url": "http://localhost:1313/mods/zt2/objects/zootilities/boreal-forest-info-pack/","contents": [],"author": "The Exibit"
@@ -1280,10 +1281,12 @@
           "url": "http://localhost:1313/mods/zt2/animals/living/impala/","contents": [],"author": "DutchDesigns and Gerben"
         },{
           "title": "pterosaur pack north america","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/pterosaur-pack-na/","contents": [],"author": "andrew12 and PrimevalRaptor"
+          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/pterosaur-pack-na/","contents": ["quetzalcoatlus","pteranodon","nyctosaurus"
+          ],"author": "andrew12 and PrimevalRaptor"
         },{
           "title": "ray pack","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/ray-pack/","contents": [],"author": "Tiger Claw Designs"
+          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/ray-pack/","contents": ["blue spotted ray","devil ray","vermiculated ray","short-tailed ray","undulate ray","chucho ray"
+          ],"author": "Tiger Claw Designs"
         },{
           "title": "reindeer variants","game": "zoo tycoon 2",
           "url": "http://localhost:1313/mods/zt2/texture-mods/variants/reindeer-variants/","contents": [],"author": "razvanM and Slice"
@@ -1352,13 +1355,16 @@
           "url": "http://localhost:1313/mods/zt2/animals/extinct/archaeopteryx/","contents": [],"author": "Tamara Henson"
         },{
           "title": "macaw pack p2","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/macaw-pack-p2/","contents": [],"author": "Sneke_bite"
+          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/macaw-pack-p2/","contents": ["martinique macaw","lesser antillean macaw","red jamaican macaw","indigo macaw","great green macaw","golden collared macaw","fronted-chestnut macaw","onecouli macaw","guadeloupe macaw"
+          ],"author": "Sneke_bite"
         },{
           "title": "macaw pack p1","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/macaw-pack-p1/","contents": [],"author": "Sneke_bite"
+          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/macaw-pack-p1/","contents": ["red-fronted macaw","military macaw","hyacinth macaw","cuban macaw","blue-winged macaw","blue-throated macaw","blue-headed macaw","blue and gold macaw"
+          ],"author": "Sneke_bite"
         },{
           "title": "lovely lovebirds 1","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/lovely-lovebirds-1/","contents": [],"author": "Freaki"
+          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/lovely-lovebirds-1/","contents": ["yellow-collared lovebird","black-winged lovebird"
+          ],"author": "Freaki"
         },{
           "title": "elephant log reskin","game": "zoo tycoon 2",
           "url": "http://localhost:1313/mods/zt2/texture-mods/misc-reskins/elephant-log-reskin/","contents": [],"author": "TheMargay"
@@ -1460,10 +1466,12 @@
           "url": "http://localhost:1313/mods/zt2/animals/living/emperor-tamarin/","contents": [],"author": "Hendrix"
         },{
           "title": "pterosaur remakes pack 1","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/pterosaur-pack-1/","contents": [],"author": "andrew12 and PrimevalRaptor"
+          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/pterosaur-pack-1/","contents": ["ornithocheirus","quetzalcoatlus"
+          ],"author": "andrew12 and PrimevalRaptor"
         },{
           "title": "pterosaur remakes pack 2","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/pterosaur-pack-2/","contents": [],"author": "andrew12 and PrimevalRaptor"
+          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/pterosaur-pack-2/","contents": ["dsungaripterus","nyctosaurus","tapejara","thalassodromeus","pteranodon","pterodaustro"
+          ],"author": "andrew12 and PrimevalRaptor"
         },{
           "title": "hamadryas baboon","game": "zoo tycoon 1",
           "url": "http://localhost:1313/mods/zt1/animals/living/hamadryas/","contents": [],"author": "Serpyderpy"
@@ -1478,7 +1486,8 @@
           "url": "http://localhost:1313/mods/zt2/objects/zootilities/japanese-macaque-donation-box/","contents": [],"author": "Animalover44"
         },{
           "title": "zoo tycoon 2: operation genesis - part 2","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/expansive-packs/zoo-tycoon-2-operation-genesis-p2/","contents": [],"author": "BioHazard"
+          "url": "http://localhost:1313/mods/zt2/expansive-packs/zoo-tycoon-2-operation-genesis-p2/","contents": ["acrocanthosaurus","albertosaurus","allosaurus","anklyosaurus","brachiosaurus","camarasaurus","carcharodontosaurus","ceratosaurus","corythosaurus","dilophosaurus","dryosaurus","edmontosaurus","gallimimus","homalocephale","ouranosaurus","pachycephalosaurus","parasaurolophus","spinosaurus","stegosaurus","styracosaurus","torosaurus","triceratops","tyrannosaurus","velociraptor","live cow","live goat"
+          ],"author": "BioHazard"
         },{
           "title": "albertosaurus reskin","game": "zoo tycoon 2",
           "url": "http://localhost:1313/mods/zt2/texture-mods/reskins/albertosaurus-reskin/","contents": [],"author": "tsc96"
@@ -1548,7 +1557,8 @@
           "url": "http://localhost:1313/mods/zt2/animals/extinct/toxodon/","contents": [],"author": "Kyuubi Naruto"
         },{
           "title": "tundra pack","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/expansive-packs/tundra-pack/","contents": [],"author": "Penguinman, Csleesburg, Exitree, and Yellowrose"
+          "url": "http://localhost:1313/mods/zt2/expansive-packs/tundra-pack/","contents": ["arctic wolf","siberian lynx","dead tree","winter maple tree","dwarf birch","dwarf willow","arctic blue deposit","arctic sea smoke machine","snowy tunnel","tundra arch","tundra trek sign","dt tundra high fence","dt tundra low fence","dt tundra window fence","dt tundra path","dt tundra path 2","tundra elevated path","tundra sky tram (called tundra gondola in-game)"
+          ],"author": "Penguinman, Csleesburg, Exitree, and Yellowrose"
         },{
           "title": "aardwolf","game": "zoo tycoon 2",
           "url": "http://localhost:1313/mods/zt2/animals/living/aardwolf/","contents": [],"author": "Penguinman and Exitree"
@@ -1596,7 +1606,8 @@
           "url": "http://localhost:1313/mods/zt2/animals/living/dwarf-cassowary/","contents": [],"author": "Penguinman, Jannick, and Budgielover101"
         },{
           "title": "european pack i","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/european-pack-i/","contents": [],"author": "ShenTirag, Goosifer, and Steenbok28"
+          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/european-pack-i/","contents": ["european mouflon","highland cow","shire horse"
+          ],"author": "ShenTirag, Goosifer, and Steenbok28"
         },{
           "title": "exmoor pony","game": "zoo tycoon 2",
           "url": "http://localhost:1313/mods/zt2/animals/living/exmoor-pony/","contents": [],"author": "ShenTirag"
@@ -1635,13 +1646,15 @@
           "url": "http://localhost:1313/mods/zt2/animals/living/mauve-stinger/","contents": [],"author": "Penguinman and Animalover44"
         },{
           "title": "montane forest","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/biomes/montane-forest/","contents": [],"author": "Penguinman and ShenTirag"
+          "url": "http://localhost:1313/mods/zt2/biomes/montane-forest/","contents": ["montane forest","grand montane forest rock","large montane forest rock","medium montane forest rock","small montane forest rock"
+          ],"author": "Penguinman and ShenTirag"
         },{
           "title": "montane forest hack","game": "zoo tycoon 2",
           "url": "http://localhost:1313/mods/zt2/hacks/montane-forest-hack/","contents": [],"author": "Penguinman"
         },{
           "title": "moorland","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/biomes/moorland/","contents": [],"author": "ShenTirag"
+          "url": "http://localhost:1313/mods/zt2/biomes/moorland/","contents": ["moorland biome","bracken fern","bristle bent grass","common butterwort","common heather","common yellow sedge","cotton grass","exmoor whitebeam","lancashire asphodel","purple moor grass","large moorland rock","medium moorland rock","small moorland rock"
+          ],"author": "ShenTirag"
         },{
           "title": "purple-striped jellyfish","game": "zoo tycoon 2",
           "url": "http://localhost:1313/mods/zt2/animals/living/purple-striped-jellyfish/","contents": [],"author": "Penguinman and Mikaboshi"
@@ -1653,7 +1666,8 @@
           "url": "http://localhost:1313/mods/zt2/animals/living/red-footed-tortoise/","contents": [],"author": "Penguinman and TurtleStork"
         },{
           "title": "south america pack","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/south-america-pack/","contents": [],"author": "Penguinman and Acapella"
+          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/south-america-pack/","contents": ["kit fox","jaguarundi","brocket deer","orinoco crocodile","mountain tapir","grison"
+          ],"author": "Penguinman and Acapella"
         },{
           "title": "wax palm","game": "zoo tycoon 2",
           "url": "http://localhost:1313/mods/zt2/objects/foliage/wax-palm/","contents": [],"author": "Penguinman"
@@ -1737,7 +1751,8 @@
           "url": "http://localhost:1313/mods/zt2/animals/extinct/laughing-owl/","contents": [],"author": "Ringo"
         },{
           "title": "vicuña pack","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/expansive-packs/vicu%C3%B1a-pack/","contents": [],"author": "Penguinman"
+          "url": "http://localhost:1313/mods/zt2/expansive-packs/vicu%C3%B1a-pack/","contents": ["vicuña","pitcairn puya plant","limestone salt lick","alpine cave shelter"
+          ],"author": "Penguinman"
         },{
           "title": "colossochelys","game": "zoo tycoon 2",
           "url": "http://localhost:1313/mods/zt2/animals/extinct/colossochelys/","contents": [],"author": "Kingcobrasaurus"
@@ -1779,7 +1794,8 @@
           "url": "http://localhost:1313/mods/zt2/expansive-packs/american-alligator-pack/","contents": [],"author": "Penguinman"
         },{
           "title": "extinctionless dimension pack","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/extinctionless-dimension-pack/","contents": [],"author": "Kingcobrasaurus and Flish"
+          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/extinctionless-dimension-pack/","contents": ["ciote","fankola","polaris"
+          ],"author": "Kingcobrasaurus and Flish"
         },{
           "title": "ganges river dolphin pack","game": "zoo tycoon 2",
           "url": "http://localhost:1313/mods/zt2/expansive-packs/ganges-river-dolphin-pack/","contents": [],"author": "Penguinman"
@@ -1857,7 +1873,8 @@
           "url": "http://localhost:1313/mods/zt2/expansive-packs/fire-pack/","contents": [],"author": "Penguinman"
         },{
           "title": "gibbon pack","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/gibbon-pack/","contents": [],"author": "Penguinman and Gibbon-Fanatic"
+          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/gibbon-pack/","contents": ["hollock gibbon","silvery gibbon","white-handed gibbon"
+          ],"author": "Penguinman and Gibbon-Fanatic"
         },{
           "title": "lesser flamingo","game": "zoo tycoon 2",
           "url": "http://localhost:1313/mods/zt2/animals/living/lesser-flamingo/","contents": [],"author": "Penguinman and DinoBoy"
@@ -2043,7 +2060,8 @@
           "url": "http://localhost:1313/mods/zt2/expansive-packs/charming-cretaceous/","contents": [],"author": "philly, Mr. Gorsh, BioHazard, and Blue Tongue Games"
         },{
           "title": "zoo tycoon 2: operation genesis - part 1","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/expansive-packs/zoo-tycoon-2-operation-genesis-p1/","contents": [],"author": "BioHazard and Blue Tongue Games"
+          "url": "http://localhost:1313/mods/zt2/expansive-packs/zoo-tycoon-2-operation-genesis-p1/","contents": ["family restroom","food kiosk","gift kiosk","carnivore feeder","cleaner station","hatchery","herbivore feeder","jurassic park bench","jurassic park fountain","jurassic park trashcan","land cruiser","large information board","ranger helicopter","ranger station","rest area","security camera","sentry turret","sentry turret base","small information board","speaker","t-rex tour object","viewing dome","viewing dome entrance","viewing platform","visitor helicopter","visitor shelter","welcome center","coconut palm","fern","green palm","large jungle palm","large paleo fern","large paleo tree fern","medium jungle palm","medium paleo fern","medium paleo tree fern","paleo cyad","paleo jungle palm","paleo palm tree","sago palm","small jungle palm","small paleo fern","small paleo tree fern","tall palm","jurassic park path"
+          ],"author": "BioHazard and Blue Tongue Games"
         },{
           "title": "red fox","game": "zoo tycoon 2",
           "url": "http://localhost:1313/mods/zt2/animals/living/red-fox/","contents": [],"author": "ShenTirag"
@@ -2052,19 +2070,23 @@
           "url": "http://localhost:1313/mods/zt2/animals/living/european-badger/","contents": [],"author": "ShenTirag"
         },{
           "title": "dicynodont pack","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/dicynodont-pack/","contents": [],"author": "Jules and Microraptor Fan"
+          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/dicynodont-pack/","contents": ["kannemeyeria","prosictodon","robertia","uralokannemeyeria","sinokannemeyeria"
+          ],"author": "Jules and Microraptor Fan"
         },{
           "title": "hexaprotodon pack","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/hexaprotodon-pack/","contents": [],"author": "Purple Hippo"
+          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/hexaprotodon-pack/","contents": ["hexaprotodon bruneti","hexaprotodon simplex","hexaprotodon sivalensis"
+          ],"author": "Purple Hippo"
         },{
           "title": "purple hippo's reskins","game": "zoo tycoon 2",
           "url": "http://localhost:1313/mods/zt2/texture-mods/reskins/purple-hippos-reskins/","contents": [],"author": "Purple Hippo"
         },{
           "title": "rainbow hippos","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/rainbow-hippos/","contents": [],"author": "Purple Hippo"
+          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/rainbow-hippos/","contents": ["red hippo","orange hippo","yellow hippo","green hippo","blue hippo","navy blue hippo","purple hippo"
+          ],"author": "Purple Hippo"
         },{
           "title": "rainbow hippos part 2: not rainbow hippos","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/rainbow-hippos-part-2-not-rainbow-hippos/","contents": [],"author": "Purple Hippo"
+          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/rainbow-hippos-part-2-not-rainbow-hippos/","contents": ["black hippo","gray hippo","white hippo","pink hippo","fuschia hippo","brown hippo"
+          ],"author": "Purple Hippo"
         },{
           "title": "zzzanimal","game": "zoo tycoon 2",
           "url": "http://localhost:1313/mods/zt2/animals/fictional/zzzanimal/","contents": [],"author": "Purple Hippo"
@@ -2100,7 +2122,8 @@
           "url": "http://localhost:1313/mods/zt2/expansive-packs/aves/","contents": [],"author": "Hendrix, Longisquama, Unicorn, Mondschatten, and Iben"
         },{
           "title": "africa's spitters + mini snake pack","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/africas-spitters-mini-snake-pack/","contents": [],"author": "Sneke_bite"
+          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/africas-spitters-mini-snake-pack/","contents": ["black-necked spitting cobra","cape cobra","egyptian cobra","forest cobra","mozambique","red spitting cobra","west african brown spitting cobra"
+          ],"author": "Sneke_bite"
         },{
           "title": "puma/cougar","game": "zoo tycoon 2",
           "url": "http://localhost:1313/mods/zt2/animals/living/puma-cougar/","contents": [],"author": "Sim'Z"
@@ -2355,10 +2378,12 @@
           "url": "http://localhost:1313/mods/zt2/objects/fences/fences-pack/","contents": [],"author": "ShenTirag"
         },{
           "title": "shark pack 2","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/shark-pack-2/","contents": [],"author": "Zooasaurus"
+          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/shark-pack-2/","contents": ["silvertip shark","sand tiger shark","megamouth shark","lemon shark","basking shark","remora koi","deep sea anemone"
+          ],"author": "Zooasaurus"
         },{
           "title": "shark pack 1","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/shark-pack-1/","contents": [],"author": "Zooasaurus and K_mac"
+          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/shark-pack-1/","contents": ["great hammerhead shark","megalodon shark","shortfin mako shark","leopard shark"
+          ],"author": "Zooasaurus and K_mac"
         },{
           "title": "sandstone theme","game": "zoo tycoon 2",
           "url": "http://localhost:1313/mods/zt2/objects/theme-packs/sandstone-theme/","contents": [],"author": "ShenTirag"
@@ -2370,10 +2395,12 @@
           "url": "http://localhost:1313/mods/zt2/objects/theme-packs/aboriginal-australian-pack/","contents": [],"author": "sheltiefan"
         },{
           "title": "african safari pack","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/african-safari-pack/","contents": [],"author": "Koala Komander"
+          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/african-safari-pack/","contents": ["black-backed jackal","spotted hyena","west african dwarf crocodile","banded mongoose"
+          ],"author": "Koala Komander"
         },{
           "title": "megafauna pack","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/megafauna-pack/","contents": [],"author": "Zooasaurus"
+          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/megafauna-pack/","contents": ["titanus","indricothere","argentavius","andrewsarchus","phorusrhacos nest"
+          ],"author": "Zooasaurus"
         },{
           "title": "mediterranean pack","game": "zoo tycoon 2",
           "url": "http://localhost:1313/mods/zt2/expansive-packs/mediterranean-pack/","contents": [],"author": "Kangorilaphant and Gorgonopsid Master"
@@ -2490,7 +2517,8 @@
           "url": "http://localhost:1313/mods/zt1/animals/living/nile-monitor/","contents": [],"author": "Vondell"
         },{
           "title": "african civet and giant eland","game": "zoo tycoon 2",
-          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/african-civet-and-giant-eland/","contents": [],"author": "Otter Lord"
+          "url": "http://localhost:1313/mods/zt2/animals/animal-bundles/african-civet-and-giant-eland/","contents": ["african civet","giant eland"
+          ],"author": "Otter Lord"
         },{
           "title": "water springs fountain","game": "zoo tycoon 2",
           "url": "http://localhost:1313/mods/zt2/objects/scenery/water-springs-fountain/","contents": [],"author": "Goosifer"

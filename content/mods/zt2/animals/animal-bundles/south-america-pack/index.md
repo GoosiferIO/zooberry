@@ -20,6 +20,13 @@ orig_rel_date: 2008-09-08
 summary: From the high Andes Mountains to the lush tropical Amazon Forest lives an amazing array of wildlife. Welcome to South America! 
 title: South America Pack
 zt2tags: ["All", "ZT2", "Animal Bundles", "Animals", "South American", "Living", "Mammals", "Reptiles", "Ungulates", "Canids", "Mustelids"]
+contents:
+- Kit Fox  
+- Jaguarundi  
+- Brocket Deer  
+- Orinoco Crocodile  
+- Mountain Tapir  
+- Grison  
 ---
 Here is the South America Pack Part 1!  
 

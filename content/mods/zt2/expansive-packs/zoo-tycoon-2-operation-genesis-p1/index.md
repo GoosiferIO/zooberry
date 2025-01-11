@@ -20,6 +20,52 @@ alt_text:
 languages:
 - English
 summary: "A pack containing various buildings, scenery and foliage imported from JPOG."
+contents:
+- Family Restroom
+- Food Kiosk
+- Gift Kiosk
+- Carnivore Feeder
+- Cleaner Station
+- Hatchery
+- Herbivore Feeder
+- Jurassic Park Bench
+- Jurassic Park Fountain
+- Jurassic Park Trashcan
+- Land Cruiser
+- Large Information Board
+- Ranger Helicopter
+- Ranger Station
+- Rest Area
+- Security Camera
+- Sentry Turret
+- Sentry Turret Base
+- Small Information Board
+- Speaker
+- T-rex Tour Object
+- Viewing Dome
+- Viewing Dome Entrance
+- Viewing Platform
+- Visitor Helicopter
+- Visitor Shelter
+- Welcome Center
+- Coconut Palm
+- Fern
+- Green Palm
+- Large Jungle Palm
+- Large Paleo Fern
+- Large Paleo Tree Fern
+- Medium Jungle Palm
+- Medium Paleo Fern
+- Medium Paleo Tree Fern
+- Paleo Cyad
+- Paleo Jungle Palm
+- Paleo Palm Tree
+- Sago Palm
+- Small Jungle Palm
+- Small Paleo Fern
+- Small Paleo Tree Fern
+- Tall Palm
+- Jurassic Park Path
 ---
 
 A pack containing various buildings, scenery and foliage imported from JPOG.

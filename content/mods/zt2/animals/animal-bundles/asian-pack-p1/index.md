@@ -18,6 +18,10 @@ orig_rel_date: 2006-04-19
 summary: Includes the Clouded Leopard, Malayan Tapir, and Malayan Sun Bear as part of the Asia Pack.
 title: Asian Pack Part 1
 zt2tags: ["All", "ZT2", "Animals", "Animal Bundles", "Asian", "Living", "Mammals", "Ungulates", "Ursids", "Felids"]
+contents:
+- Clouded Leopard
+- Malayan Tapir
+- Malayan Sun Bear
 ---
 This download includes my Clouded Leopard, Malayan Tapir, and Malayan Sun Bear. Each of these are part of my Asia Pack that will be released in separate parts.  
 The Clouded Leopard and Malayan Tapir have had a few bugs fixed since its release at ZT Center, and all animals in my Asia Pack have a little Japanese arch icon over it.  

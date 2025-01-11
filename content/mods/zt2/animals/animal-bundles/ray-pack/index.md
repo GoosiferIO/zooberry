@@ -20,12 +20,19 @@ languages:
 - English
 - German
 zt2tags: ["All", "Animals", "Animal Bundles", "Aquatic"]
+contents:
+- Blue Spotted Ray
+- Devil Ray
+- Vermiculated Ray
+- Short-Tailed Ray
+- Undulate Ray
+- Chucho Ray
 ---
 
 A collection of stingrays for your marine parks. Tiger Claw Designs' debut project.
 
 
-Contents
+# Contents
 
 
 - Blue Spotted Ray
@@ -36,7 +43,7 @@ Contents
 - Chucho Ray
 
 
-Issues
+# Issues
 
 
 - Only two working menu icons
@@ -44,7 +51,7 @@ Issues
 - Selection box has visual issues
 
 
-Other Credits
+# Other Credits
 
 
 - zerosvalmont

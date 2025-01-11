@@ -28,12 +28,19 @@ zt2tags: [
   "Aquatic",
   "Fictional"
 ]
+contents:
+- Black Hippo
+- Gray Hippo
+- White Hippo
+- Pink Hippo
+- Fuschia Hippo
+- Brown Hippo
 ---
 What comes after the colors of the rainbow? The colors of the not rainbow apparently. These pygmy hippo recolors are just as cute as the rainbow hippos, and they're just as unique.
 
- Included in the Pack 
+# Included in the Pack 
 
-**Animals:**
+## Animals
 - Black Hippo
 - Gray Hippo
 - White Hippo
@@ -41,6 +48,6 @@ What comes after the colors of the rainbow? The colors of the not rainbow appare
 - Fuschia Hippo
 - Brown Hippo
 
-= Known issues =
+# Known issues
 
 - All six animals lack a Zoopedia article. Otherwise this download is completely functional and its gameplay is without any problems.

@@ -20,6 +20,11 @@ languages:
 - English
 summary: "Summary of the African Safari Pack project"
 zt2tags: ["All", "Animals", "Animal Bundles", "Mammals", "Reptiles"]
+contents:
+- Black-Backed Jackal
+- Spotted Hyena
+- West African Dwarf Crocodile
+- Banded Mongoose
 ---
 
 Black-Backed Jackal Zoopedia entries by Burnt_Gecko.

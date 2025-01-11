@@ -36,14 +36,19 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
-<link rel="preload" rel="stylesheet" href="https://cdn.goosifer.io/2.0//css/styles.b81923a7410652687ddace20fd483d64e3cfc176270e16d60e571649dec8b679.css" type="text/css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" rel="stylesheet" href="https://cdn.goosifer.io/2.0//css/styles.352b715d30180970212ba5ccad90c534f662a8de4da27458dcac2c64d7f6ed59.css" type="text/css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <link rel="preload" rel="stylesheet" href="https://cdn.goosifer.io/2.0//css/galleria.classic.1c47c737312afe1bf3a6d8cc89d926b042c7f5ea791b089e1ecda053924f32a2.css" type="text/css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" />
-<script src="https://cdn.goosifer.io/2.0/js/jquery.js"></script>
-<script src="https://cdn.goosifer.io/2.0/js/galleria.js"></script>
-<script src="https://cdn.goosifer.io/2.0/js/galleria.classic.js"></script>
-<script src="https://cdn.goosifer.io/2.0/js/main.js"></script>
+
+
+
+    <script src="/js/jquery.js"></script>
+    <script src="/js/galleria.js"></script>
+    <script src="/js/main.js"></script>
+    <script src="js/galleria.classic.js"></script>
+    <script src="/js/main.js"></script>
+
 <script src="https://unpkg.com/lunr/lunr.js"></script>
 
 
@@ -455,18 +460,18 @@
           this.ref('url'); 
           this.field('title');
           this.field('game');
-          this.field('mod_list_titles'); 
+          this.field('contents'); 
           this.field('author');
   
           data.forEach(doc => {
             console.log('Adding document to index:', doc);
   
             
-            const aggregatedTitles = doc.mod_list_titles.join(' ');
+            const aggregatedContents = doc.contents.join(' ');
             this.add({
-              title: doc.title.toLowerCase(),
-              url: doc.url,
-              mod_list_titles: aggregatedTitles.toLowerCase(), 
+                title: doc.title.toLowerCase(),
+                url: doc.url,
+                contents: aggregatedContents.toLowerCase(), 
                 game: doc.game.toLowerCase(),
                 author: doc.author.toLowerCase()
             });
@@ -497,7 +502,8 @@
         return;
       }
 
-        resultsContainer.style.display = 'block';
+        resultsContainer.style.display = 'flex';
+        resultsContainer.style.flexDirection = 'column';
   
       
       const exactMatchResults = searchIndex.search(query);
@@ -528,51 +534,84 @@
         
         const author = doc.author ? `by ${doc.author}` : '';
         
-        const game = doc.game === 'zoo tycoon 1' ? 'ZT1' : doc.game === 'zoo tycoon 2' ? 'ZT2' : '';
+        const game = doc.game === 'zoo tycoon 1' ? 'ZT1' : doc.game === 'zoo tycoon 2' ? 'ZT2' : 'Assets';
         const span = document.createElement('span');
         span.textContent = `${game}`;
+        span.className = doc.game === 'zoo tycoon 1' ? 'span-zt1' : doc.game === 'zoo tycoon 2' ? 'span-zt2' : doc.game === 'assets' ? 'span-assets' : '';
         link.appendChild(span);
 
         
         const author_span = document.createElement('span');
         author_span.textContent = `${author}`;
+        author_span.className = 'list-results-author';
         link.appendChild(author_span);
-        
+
         
         const listItem = document.createElement('li');
+        
+        
+        const matchingContents = doc.contents.filter(item => item.toLowerCase().includes(query));
+        if (matchingContents.length > 0) {
+            const sublist = document.createElement('ul');
+            sublist.className = 'sublist';
+            sublist.style.marginLeft = '16px'; 
+
+            
+            const contents_span = document.createElement('li');
+            contents_span.textContent = 'Found inside:';
+            contents_span.className = 'sublist-header';
+            sublist.appendChild(contents_span);
+
+            matchingContents.forEach(content => {
+                const subItem = document.createElement('li');
+                subItem.textContent = toProperCase(content); 
+                sublist.appendChild(subItem);
+            });
+
+
+            listItem.appendChild(sublist);
+
+            link.appendChild(sublist);
+
+        }
+
         listItem.appendChild(link);
         resultsContainer.appendChild(listItem);
-      });
-    });
+        
+        }); });
   </script>
   
   <style>
     #search-container {
-        width: 100%;
+        width: 80%;
+        position: relative;
+        padding: 0;
       }
 
         #search-box {
-            width: 80%;
+            width: calc(100% - 20px);
             padding: 10px;
-            font-size: 16px;
+            font-size: 0.9rem;
             border: none;
             border-radius: 5px;
             outline: none;
         }
 
         #search-box:hover {
-            background-color: #f2f2f2;
+            filter: brightness(0.9);
+             
+            transition: filter ease-in-out 0.3s;
+
         }
       
         #search-results {
             display: none;
             list-style-type: none;
-            padding: 10px;
             margin: -4px 0 0;
             position: absolute; 
             top: 100%; 
             left: 0;
-            width: 80%;
+            width: 100%;
             background-color: #fff;
             border-radius: 0 0 5px 5px;
             z-index: 1000;
@@ -581,48 +620,94 @@
           }
           
           #search-results li {
-            margin: 5px 0;
-            display: list-item; 
+            display: list-item;
+            width: 100%;
+            font-size: 1rem;
+            border-bottom: 1px solid #f2f2f2;
           }
+
+          #search-results li:hover {
+            background: #e7e7e7;
+            transition: background ease-in-out 0.3s;
+            }
           
           #search-results a {
             text-decoration: none;
             color: var(--thead-bg);
             display: block; 
-            padding: 5px;
-            background-color: transparent;
+            padding: 1rem;
           }
           
-          #search-results a:hover {
-            background-color: #f2f2f2;
+           
+          #search-results .sublist {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            color: #666;
           }
+
+          #search-results .sublist-header {
+            font-weight: bold;
+            margin-bottom: 5px;
+            display: block;
+            margin-left: 5px !important;
+            font-style: none !important;
+          }
+
+           
+            #search-results .sublist li {
+                margin: 5px 0 0 20px;
+                display: list-item;
+                width: 100%;
+                font-style: italic;
+                border: none;
+            }
           
            
             #search-results a span:first-child {
                 font-size: 0.8em;
-                color: #666;
+                color: #f5f5f5;
                 margin: 0 5px;
-                padding: 2px;
+                padding: 2px 4px;
                 border-radius: 5px;
-                background-color: #f2f2f2;
             }
 
              
-            #search-results a span:last-child {
+            .span-zt1 {
+                background-color: #6597ac;
+            }
+
+            .span-zt2 {
+                background-color: #a8ad7c;
+                color: #333;
+            }
+
+            .span-assets {
+                background-color: #b97ea1;
+                color: #333;
+            }
+
+             
+            #search-results a .list-results-author {
                 font-size: 0.8em;
                 color: #666;
-                margin: 0 5px;
+                margin: 0 0.1rem;
                 padding: 2px;
                 border-radius: 5px;
                 font-style: italic;
             }
 
 
-    div.inner-nav {
+    nav.inner-nav {
         display: flex !important;
         justify-content: space-between;
         align-items: center;
         padding: 10px 0;
+        position: fixed;
+        z-index: 1000;
+        padding-left: 34rem;
     }
                               
   </style>
@@ -26597,7 +26682,7 @@
     <h1 style="margin:0;">Penguinman</h1>
     <p style="margin:0;padding:0;"><i class="material-icons icon">extension</i> 140 Mods Published</p>
 
-    <div class="banner-box" style="margin: 2rem 0; width: 100%; background: center center / cover no-repeat url('https://cdn.goosifer.io/2.0//mods/zt2/animals/ambients/piranha/images/piranha.webp'); height: 300px;">
+    <div class="banner-box" style="margin: 2rem 0; width: 100%; background: center center / cover no-repeat url('https://cdn.goosifer.io/2.0//mods/zt2/objects/paths/extinct-themed-elevated-path/images/extinctthemedelevatedpath.webp'); height: 300px;">
 
     </div>
     <div style="display: flex; flex-direction: row;width: 100%;">

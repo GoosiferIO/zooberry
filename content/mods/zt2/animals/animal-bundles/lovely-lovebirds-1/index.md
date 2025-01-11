@@ -20,6 +20,9 @@ languages:
 - English
 - German
 zt2tags: ["All", "Animals", "Animal Bundles", "Birds"]
+contents:
+- Yellow-collared Lovebird
+- Black-winged Lovebird
 ---
 
 

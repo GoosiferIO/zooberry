@@ -11,16 +11,57 @@
     </nav>
 {{ else }}  */}}
     <nav class="container inner-nav">
-        <ul class="inner-nav-ul">
+        <div class="inner-nav-ctr">
             <button id="menu-button" class="menu-button">
                 <i class="material-icons">menu</i>
             </button>
-            <a href="/" title="ZooBerry" class="nav-logo"></a>
+            {{/*  Theme switcher  */}}
+            <div class="theme-switcher">
+                <label class="switch">
+                    <input type="checkbox" id="theme-switcher">
+                    <div class="slider round"></div>
+                </label>
+            </div>
+
+            {{/*  Theme switch script  */}}
+            <script>
+                document.addEventListener('DOMContentLoaded', function() {
+                    const themeSwitcher = document.getElementById('theme-switcher');
+                
+                    // Load saved theme preference
+                    const savedTheme = localStorage.getItem('theme');
+                    if (savedTheme === 'light') {
+                        document.documentElement.classList.add('light');
+                        themeSwitcher.checked = true;
+                    } else {
+                        document.documentElement.classList.remove('light');
+                        themeSwitcher.checked = false;
+                    }
+                
+                    // Handle toggle switch
+                    themeSwitcher.addEventListener('change', function() {
+                        if (this.checked) {
+                            document.documentElement.classList.add('light');
+                            localStorage.setItem('theme', 'light');
+                        } else {
+                            document.documentElement.classList.remove('light');
+                            localStorage.setItem('theme', 'dark');
+                        }
+                    });
+                });
+            </script>
             <div id="search-container" style="position: relative;">
                 <input type="text" id="search-box" placeholder="Search mods...">
                 <ul id="search-results"></ul>
             </div>
-        </ul>
+            <div class="side-kofi">
+                <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
+                <script type='text/javascript'>
+                    kofiwidget2.init('Support Us on Ko-fi', 'var(--kofi)', 'U7U6UXNXD');
+                    kofiwidget2.draw();
+                </script>
+            </div>
+        </div>
     </nav>
 {{/*  {{ end }}  */}}
 
@@ -96,7 +137,8 @@
         return;
       }
 
-        resultsContainer.style.display = 'block';
+        resultsContainer.style.display = 'flex';
+        resultsContainer.style.flexDirection = 'column';
   
       // wildcard to get partial matches
       const exactMatchResults = searchIndex.search(query);
@@ -127,14 +169,16 @@
         // add game name to search results
         const author = doc.author ? `by ${doc.author}` : '';
         // if 'zoo tycoon 1' then 'zt1' or 'zoo tycoon 2' then 'zt2'
-        const game = doc.game === 'zoo tycoon 1' ? 'ZT1' : doc.game === 'zoo tycoon 2' ? 'ZT2' : '';
+        const game = doc.game === 'zoo tycoon 1' ? 'ZT1' : doc.game === 'zoo tycoon 2' ? 'ZT2' : 'Assets';
         const span = document.createElement('span');
         span.textContent = `${game}`;
+        span.className = doc.game === 'zoo tycoon 1' ? 'span-zt1' : doc.game === 'zoo tycoon 2' ? 'span-zt2' : doc.game === 'assets' ? 'span-assets' : '';
         link.appendChild(span);
 
         // by author
         const author_span = document.createElement('span');
         author_span.textContent = `${author}`;
+        author_span.className = 'list-results-author';
         link.appendChild(author_span);
 
         // add the link to the search results
@@ -174,31 +218,35 @@
   
   <style>
     #search-container {
-        width: 100%;
+        width: 80%;
+        position: relative;
+        padding: 0;
       }
 
         #search-box {
-            width: 80%;
+            width: calc(100% - 20px);
             padding: 10px;
-            font-size: 16px;
+            font-size: 0.9rem;
             border: none;
             border-radius: 5px;
             outline: none;
         }
 
         #search-box:hover {
-            background-color: #f2f2f2;
+            filter: brightness(0.9);
+            /* animation */
+            transition: filter ease-in-out 0.3s;
+
         }
       
         #search-results {
             display: none;
             list-style-type: none;
-            padding: 10px;
             margin: -4px 0 0;
             position: absolute; 
             top: 100%; 
             left: 0;
-            width: 80%;
+            width: 100%;
             background-color: #fff;
             border-radius: 0 0 5px 5px;
             z-index: 1000;
@@ -207,22 +255,24 @@
           }
           
           #search-results li {
-            margin: 5px 0;
-            display: list-item; 
+            display: list-item;
+            width: 100%;
+            font-size: 1rem;
+            border-bottom: 1px solid #f2f2f2;
           }
+
+          #search-results li:hover {
+            background: #e7e7e7;
+            transition: background ease-in-out 0.3s;
+            }
           
           #search-results a {
             text-decoration: none;
             color: var(--thead-bg);
             display: block; 
-            padding: 5px;
-            background-color: transparent;
+            padding: 1rem;
           }
           
-          #search-results a:hover {
-            background-color: #f2f2f2;
-          }
-
           /* content list under search results */
           #search-results .sublist {
             list-style-type: none;
@@ -247,6 +297,7 @@
                 display: list-item;
                 width: 100%;
                 font-style: italic;
+                border: none;
             }
           
           /* game name in search results */
@@ -254,27 +305,33 @@
                 font-size: 0.8em;
                 color: #f5f5f5;
                 margin: 0 5px;
-                padding: 2px;
+                padding: 2px 4px;
                 border-radius: 5px;
-                background-color: #7bb4f5;
+            }
+
+            /* specific game name in search results */
+            .span-zt1 {
+                background-color: #6597ac;
+            }
+
+            .span-zt2 {
+                background-color: #a8ad7c;
+                color: #333;
+            }
+
+            .span-assets {
+                background-color: #b97ea1;
+                color: #333;
             }
 
             /* author in search results italic */
-            #search-results a span:last-child {
+            #search-results a .list-results-author {
                 font-size: 0.8em;
                 color: #666;
-                margin: 0 5px;
+                margin: 0 0.1rem;
                 padding: 2px;
                 border-radius: 5px;
                 font-style: italic;
             }
-
-
-    div.inner-nav {
-        display: flex !important;
-        justify-content: space-between;
-        align-items: center;
-        padding: 10px 0;
-    }
                               
   </style>

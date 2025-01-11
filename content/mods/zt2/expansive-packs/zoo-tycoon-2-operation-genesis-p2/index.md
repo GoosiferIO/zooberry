@@ -19,6 +19,33 @@ alt_text:
 summary: "This is the second part of the Zoo Tycoon 2 Operation Genesis project."
 languages:
 - English
+contents:
+- Acrocanthosaurus
+- Albertosaurus
+- Allosaurus
+- Anklyosaurus
+- Brachiosaurus
+- Camarasaurus
+- Carcharodontosaurus
+- Ceratosaurus
+- Corythosaurus
+- Dilophosaurus
+- Dryosaurus
+- Edmontosaurus
+- Gallimimus
+- Homalocephale
+- Ouranosaurus
+- Pachycephalosaurus
+- Parasaurolophus
+- Spinosaurus
+- Stegosaurus
+- Styracosaurus
+- Torosaurus
+- Triceratops
+- Tyrannosaurus
+- Velociraptor
+- Live Cow
+- Live Goat
 ---
 
 This is the second part of the Zoo Tycoon 2 Operation Genesis project. You can download the first part:

@@ -28,6 +28,14 @@ zt2tags: [
   "Aquatic",
   "Fictional"
 ]
+contents:
+- Red Hippo
+- Orange Hippo
+- Yellow Hippo
+- Green Hippo
+- Blue Hippo
+- Navy Blue Hippo
+- Purple Hippo
 ---
 An adorable pygmy hippo for every color of the rainbow! Maybe you like cute things or maybe you want some pride in your zoo, but either way, show your guests something they've never seen anywhere else.
 

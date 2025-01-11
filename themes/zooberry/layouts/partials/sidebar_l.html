@@ -1,22 +1,17 @@
 <div class="sidebar" id="sidebar">
     {{/*  ZooBerry logo  */}}
+    <a href="/" title="ZooBerry" class="nav-logo"></a>
+
     <div class="nav-controls">
-        <a href="/" title="ZooBerry" class="nav-logo"></a>
         <button id="close-button" class="close-button">
             <i class="material-icons">close</i>
         </button>
     </div>
     <div class="menu-container">
+
     {{/*  Search bar  */}}
     {{/*  Main menu  */}}
     <ul class="side-ul main-menu sidebar-open">
-        <li class="side-kofi">
-            <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
-            <script type='text/javascript'>
-                kofiwidget2.init('Support Us on Ko-fi', 'var(--kofi)', 'U7U6UXNXD');
-                kofiwidget2.draw();
-            </script>
-        </li>
 
         {{/* Set passed variable to a variable */}}
         {{ $menuID := .menuID }}
@@ -29,14 +24,7 @@
             <li class="side-li has-children">
                 <a class="dropbtn" href="#"><i class="material-icons icon pre-anim">{{ .Params.icon }}</i>{{ .Name }}<i class="material-icons icon arrow">arrow_forward_ios</i></a>
                 <ul class="submenu">
-                    <li class="side-kofi">
-                        <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
-                        <script type='text/javascript'>
-                            kofiwidget2.init('Support Us on Ko-fi', 'var(--kofi)', 'U7U6UXNXD');
-                            kofiwidget2.draw();
-                        </script>
-                    </li>
-            
+           
                     <li class="submenu-back">
                         <a href="#" class="back-btn">
                             <i class="material-icons icon pre-anim">arrow_back_ios</i>Main Menu
@@ -61,7 +49,7 @@
             </li>
         {{ else }}
             <li class="side-li">
-                <a href="{{ .PageRef }}"><i class="material-icons icon pre-anim">{{ .Params.icon }}</i> {{ .Name }}</a>
+                <a href="{{ .PageRef }}"><i class="material-icons icon pre-anim">{{ .Params.icon }}</i>{{ .Name }}</a>
             </li>
             {{- end }}
         {{ end }}
@@ -90,40 +78,6 @@
         <li class="side-li"><a class="dropbtn" href="/teams"><i class="material-icons icon">design_services</i> Design Teams</a></li>
     </ul>
 
-    {{/*  Theme switcher  */}}
-    <label class="switch">
-        <input type="checkbox" id="theme-switcher">
-        <div class="slider round"></div>
-    </label>
-
-    {{/*  Theme switch script  */}}
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            const themeSwitcher = document.getElementById('theme-switcher');
-        
-            // Load saved theme preference
-            const savedTheme = localStorage.getItem('theme');
-            if (savedTheme === 'light') {
-                document.documentElement.classList.add('light');
-                themeSwitcher.checked = true;
-            } else {
-                document.documentElement.classList.remove('light');
-                themeSwitcher.checked = false;
-            }
-        
-            // Handle toggle switch
-            themeSwitcher.addEventListener('change', function() {
-                if (this.checked) {
-                    document.documentElement.classList.add('light');
-                    localStorage.setItem('theme', 'light');
-                } else {
-                    document.documentElement.classList.remove('light');
-                    localStorage.setItem('theme', 'dark');
-                }
-            });
-        });
-    </script>
-    
 
     {{/*  Sliding door navigation script  */}}
     <script>

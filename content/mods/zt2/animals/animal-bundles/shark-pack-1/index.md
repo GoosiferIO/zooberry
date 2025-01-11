@@ -20,17 +20,22 @@ languages:
 - English
 summary: "Includes 4 sharks."
 zt2tags: ["All", "Animals", "Animal Bundles", "Aquatic"]
+contents:
+- Great Hammerhead Shark
+- Megalodon Shark
+- Shortfin Mako Shark
+- Leopard Shark
 ---
 
-**Includes:**
+# Includes
 
-**Animals**
+## Animals
 - Great Hammerhead Shark
 - Megalodon Shark
 - Shortfin Mako Shark
 - Leopard Shark
 
-**Gifts**
+## Gifts
 - Leopard Shark Backpack
 - Megalodon Backpack
 - Shortfin Mako Shark Backpack
