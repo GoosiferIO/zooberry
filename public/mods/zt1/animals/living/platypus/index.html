@@ -41,7 +41,7 @@
 
 
 
-    <link rel="stylesheet" href="/css/styles.732c8a0a029df8b93978e1721b39c41fb569d914e9e7ffa1d24273f87f61dee2.css">
+    <link rel="stylesheet" href="/css/styles.02eb0cd375d3755a61c811bfe2fd5381e4ef6682e562b9b7bad20f9e0a6be8f5.css">
     <link rel="stylesheet" href="/css/galleria.classic.1c47c737312afe1bf3a6d8cc89d926b042c7f5ea791b089e1ecda053924f32a2.css">
     <script src="/js/jquery.js"></script>
     <script src="/js/galleria.js"></script>
@@ -518,6 +518,7 @@ The zoopedia entry is from Queensland Government - Platypus
     if (results.length === 0) {
         const listItem = document.createElement('li');
         listItem.textContent = 'No results found';
+        listItem.className = 'no-results';
         resultsContainer.appendChild(listItem);
         return;
     }
@@ -582,126 +583,6 @@ The zoopedia entry is from Queensland Government - Platypus
         
         }); });
   </script>
-  
-  <style>
-    #search-container {
-        width: 80%;
-        position: relative;
-        padding: 0;
-      }
-
-        #search-box {
-            width: calc(100% - 20px);
-            padding: 10px;
-            font-size: 0.9rem;
-            border: none;
-            border-radius: 5px;
-            outline: none;
-        }
-
-        #search-box:hover {
-            filter: brightness(0.9);
-             
-            transition: filter ease-in-out 0.3s;
-
-        }
-      
-        #search-results {
-            display: none;
-            list-style-type: none;
-            margin: -4px 0 0;
-            position: absolute; 
-            top: 100%; 
-            left: 0;
-            width: 100%;
-            background-color: #fff;
-            border-radius: 0 0 5px 5px;
-            z-index: 1000;
-            max-height: 300px;
-            overflow-y: auto; 
-          }
-          
-          #search-results li {
-            display: list-item;
-            width: 100%;
-            font-size: 1rem;
-            border-bottom: 1px solid #f2f2f2;
-          }
-
-          #search-results li:hover {
-            background: #e7e7e7;
-            transition: background ease-in-out 0.3s;
-            }
-          
-          #search-results a {
-            text-decoration: none;
-            color: var(--thead-bg);
-            display: block; 
-            padding: 1rem;
-          }
-          
-           
-          #search-results .sublist {
-            list-style-type: none;
-            padding: 0;
-            margin: 0;
-            display: flex;
-            flex-direction: column;
-            color: #666;
-          }
-
-          #search-results .sublist-header {
-            font-weight: bold;
-            margin-bottom: 5px;
-            display: block;
-            margin-left: 5px !important;
-            font-style: none !important;
-          }
-
-           
-            #search-results .sublist li {
-                margin: 5px 0 0 20px;
-                display: list-item;
-                width: 100%;
-                font-style: italic;
-                border: none;
-            }
-          
-           
-            #search-results a span:first-child {
-                font-size: 0.8em;
-                color: #f5f5f5;
-                margin: 0 5px;
-                padding: 2px 4px;
-                border-radius: 5px;
-            }
-
-             
-            .span-zt1 {
-                background-color: #6597ac;
-            }
-
-            .span-zt2 {
-                background-color: #a8ad7c;
-                color: #333;
-            }
-
-            .span-assets {
-                background-color: #b97ea1;
-                color: #333;
-            }
-
-             
-            #search-results a .list-results-author {
-                font-size: 0.8em;
-                color: #666;
-                margin: 0 0.1rem;
-                padding: 2px;
-                border-radius: 5px;
-                font-style: italic;
-            }
-                              
-  </style>
           <main>
             <header>
               

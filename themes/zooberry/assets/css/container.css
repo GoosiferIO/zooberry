@@ -126,7 +126,7 @@ a:hover {
 main {
   display: flex;
   flex-direction: row;
-  margin: 4.5rem auto;
+  margin: 0 auto;
   width: calc(100% - 4rem);
   max-width: 1280px;
   padding: 2rem;
