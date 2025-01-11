@@ -504,6 +504,13 @@ Kannemeyeria were bad about fulfilling their needs during testing, particularly 
       });
 
     let searchIndex;
+
+    function toProperCase(str) {
+        return str
+          .split(' ') 
+          .map(word => word.charAt(0).toUpperCase() + word.slice(1)) 
+          .join(' '); 
+      }
   
     
     fetch('/index.json')
@@ -517,6 +524,7 @@ Kannemeyeria were bad about fulfilling their needs during testing, particularly 
           this.field('title');
           this.field('game');
           this.field('mod_list_titles'); 
+          this.field('author');
   
           data.forEach(doc => {
             console.log('Adding document to index:', doc);
@@ -527,7 +535,8 @@ Kannemeyeria were bad about fulfilling their needs during testing, particularly 
               title: doc.title.toLowerCase(),
               url: doc.url,
               mod_list_titles: aggregatedTitles.toLowerCase(), 
-                game: doc.game.toLowerCase()
+                game: doc.game.toLowerCase(),
+                author: doc.author ? doc.author.toLowerCase() : ''
             });
           });
         });
@@ -536,9 +545,7 @@ Kannemeyeria were bad about fulfilling their needs during testing, particularly 
   
         
         window.searchDocs = data.reduce((acc, doc) => {
-            acc[doc.url] = {
-              ...doc, 
-            };
+            acc[doc.url] = doc;
             return acc;
           }, {});
                 })
@@ -581,21 +588,18 @@ Kannemeyeria were bad about fulfilling their needs during testing, particularly 
   
         const link = document.createElement('a');
         link.href = doc.url;
-        link.textContent = doc.title;
+        
+        link.textContent = toProperCase(doc.title);
   
+        
+        const author = doc.author ? `by ${doc.author}` : '';
+        
+        const game = doc.game === 'zoo tycoon 1' ? '[ZT1]' : doc.game === 'zoo tycoon 2' ? '[ZT2]' : '';
+        link.textContent = `${toProperCase(doc.title)} ${author} ${game}`; 
+        
         const listItem = document.createElement('li');
         listItem.appendChild(link);
         resultsContainer.appendChild(listItem);
-
-        
-        const game = document.createElement('span');
-        game.textContent = doc.game;
-        game.style.fontSize = '0.8em';
-        game.style.color = '#666';
-        game.style.display = 'block';
-        game.style.marginTop = '5px';
-        listItem.appendChild(game);
-        
       });
     });
   </script>
@@ -650,6 +654,16 @@ Kannemeyeria were bad about fulfilling their needs during testing, particularly 
           #search-results a:hover {
             background-color: #b6b6b6; 
           }
+          
+           
+            #search-results span {
+                font-size: 0.8em;
+                color: #666;
+                margin-top: 5px;
+                margin-left: 5px;
+                padding: 2px;
+                border-radius: 5px;
+            }
 
     div.inner-nav {
         display: flex !important;

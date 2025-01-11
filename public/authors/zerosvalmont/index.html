@@ -436,6 +436,13 @@
       });
 
     let searchIndex;
+
+    function toProperCase(str) {
+        return str
+          .split(' ') 
+          .map(word => word.charAt(0).toUpperCase() + word.slice(1)) 
+          .join(' '); 
+      }
   
     
     fetch('/index.json')
@@ -449,6 +456,7 @@
           this.field('title');
           this.field('game');
           this.field('mod_list_titles'); 
+          this.field('author');
   
           data.forEach(doc => {
             console.log('Adding document to index:', doc);
@@ -459,7 +467,8 @@
               title: doc.title.toLowerCase(),
               url: doc.url,
               mod_list_titles: aggregatedTitles.toLowerCase(), 
-                game: doc.game.toLowerCase()
+                game: doc.game.toLowerCase(),
+                author: doc.author ? doc.author.toLowerCase() : ''
             });
           });
         });
@@ -468,9 +477,7 @@
   
         
         window.searchDocs = data.reduce((acc, doc) => {
-            acc[doc.url] = {
-              ...doc, 
-            };
+            acc[doc.url] = doc;
             return acc;
           }, {});
                 })
@@ -513,21 +520,18 @@
   
         const link = document.createElement('a');
         link.href = doc.url;
-        link.textContent = doc.title;
+        
+        link.textContent = toProperCase(doc.title);
   
+        
+        const author = doc.author ? `by ${doc.author}` : '';
+        
+        const game = doc.game === 'zoo tycoon 1' ? '[ZT1]' : doc.game === 'zoo tycoon 2' ? '[ZT2]' : '';
+        link.textContent = `${toProperCase(doc.title)} ${author} ${game}`; 
+        
         const listItem = document.createElement('li');
         listItem.appendChild(link);
         resultsContainer.appendChild(listItem);
-
-        
-        const game = document.createElement('span');
-        game.textContent = doc.game;
-        game.style.fontSize = '0.8em';
-        game.style.color = '#666';
-        game.style.display = 'block';
-        game.style.marginTop = '5px';
-        listItem.appendChild(game);
-        
       });
     });
   </script>
@@ -582,6 +586,16 @@
           #search-results a:hover {
             background-color: #b6b6b6; 
           }
+          
+           
+            #search-results span {
+                font-size: 0.8em;
+                color: #666;
+                margin-top: 5px;
+                margin-left: 5px;
+                padding: 2px;
+                border-radius: 5px;
+            }
 
     div.inner-nav {
         display: flex !important;
@@ -18924,7 +18938,7 @@
     <h1 style="margin:0;">Zerosvalmont</h1>
     <p style="margin:0;padding:0;"><i class="material-icons icon">extension</i> 2 Mods Published</p>
 
-    <div class="banner-box" style="margin: 2rem 0; width: 100%; background: center center / cover no-repeat url('https://cdn.goosifer.io/2.0//mods/zt2/tools-utilities/dependency-master-file/images/dependencymasterfile.png'); height: 300px;">
+    <div class="banner-box" style="margin: 2rem 0; width: 100%; background: center center / cover no-repeat url('https://cdn.goosifer.io/2.0//mods/zt2/expansive-packs/sharkpack-total-remake/images/sharkpack-totalremake1.webp'); height: 300px;">
 
     </div>
     <div style="display: flex; flex-direction: row;width: 100%;">

@@ -1,21 +1,47 @@
 [
     {{- $pages := where .Site.Pages "Type" "mods" -}}
-    {{- range $index, $page := $pages -}}
-    {{- if $index }},{{ end }}
-    {
-      "title": {{ $page.Title | lower | jsonify }},
-      "game": {{ $page.Params.game | lower | jsonify }},
-      "url": {{ $page.Permalink | jsonify }},
-      {{- if isset $page.Params "mod_list" -}}
-      "mod_list_titles": [
-        {{- range $i, $mod := $page.Params.mod_list -}}
-        {{ $mod.title | lower | jsonify }}{{ if lt $i (sub (len $page.Params.mod_list) 1) }},{{ end }}
-        {{- end -}}
-      ]
-      {{- else -}}
-      "mod_list_titles": []
-      {{- end }}
-    }
+    {{- $first := true -}}
+    {{- range $page := $pages -}}
+      {{- if not $page.Params.is_category -}}
+        {{- if not $first }},{{ end }}
+        {{- $first = false -}}
+        {
+          "title": {{ $page.Title | lower | jsonify }},
+          {{- if isset $page.Params "game" -}}
+          "game": {{ $page.Params.game | lower | jsonify }},
+          {{- else }}
+          "game": "",
+          {{- end }}
+          "url": {{ $page.Permalink | jsonify }},
+          {{- if isset $page.Params "mod_list" -}}
+          "mod_list_titles": [
+            {{- range $i, $mod := $page.Params.mod_list -}}
+            {{ $mod.title | lower | jsonify }}{{ if lt $i (sub (len $page.Params.mod_list) 1) }},{{ end }}
+            {{- end }}
+          ],
+          {{- else -}}
+          "mod_list_titles": [],
+          {{- end }}
+          {{- if isset $page.Params "author" -}}
+          "author": "{{- if eq (len $page.Params.author) 1 -}}
+                      {{ index $page.Params.author 0 }}
+                    {{- else if eq (len $page.Params.author) 2 -}}
+                      {{ index $page.Params.author 0 }} and {{ index $page.Params.author 1 }}
+                    {{- else -}}
+                      {{- range $i, $author := $page.Params.author -}}
+                      {{- if eq $i 0 -}}
+                        {{ $author }}
+                      {{- else if eq $i (sub (len $page.Params.author) 1) -}}
+                        , and {{ $author }}
+                      {{- else -}}
+                        , {{ $author }}
+                      {{- end -}}
+                      {{- end -}}
+                    {{- end }}"
+          {{- else -}}
+          "author": ""
+          {{- end }}
+        }
+      {{- end -}}
     {{- end -}}
-  ]
-  
+]
