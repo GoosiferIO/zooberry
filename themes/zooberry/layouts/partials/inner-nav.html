@@ -25,6 +25,15 @@
 {{/*  {{ end }}  */}}
 
 <script>
+    document.addEventListener('DOMContentLoaded', function () {
+        // clear search box if page reloaded
+        const searchBox = document.getElementById('search-box');
+        const resultsContainer = document.getElementById('search-results');
+      
+        searchBox.value = ''; // clear the search box
+        resultsContainer.innerHTML = ''; // remove any previous results
+      });
+
     let searchIndex;
   
     // get the JSON data
@@ -118,9 +127,13 @@
             border-radius: 5px;
             outline: none;
         }
+
+        #search-box:hover {
+            background-color: #f2f2f2;
+        }
       
         #search-results {
-            display: flex;
+            display: none;
             list-style-type: none;
             padding: 10px;
             margin: -3px 0 0;
@@ -133,7 +146,6 @@
             z-index: 1000;
             max-height: 300px;
             overflow-y: auto; 
-            display: block; 
           }
           
           #search-results li {
