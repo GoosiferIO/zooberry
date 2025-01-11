@@ -86,7 +86,10 @@
         resultsContainer.style.display = 'block';
   
       // wildcard to get partial matches
-      const results = searchIndex.search(`*${query}*`).slice(0, 10); // limit 10 results
+      const exactMatchResults = searchIndex.search(query);
+      const partialResults = searchIndex.search(`*${query}*`)
+      // combine exact and partial matches, remove duplicates
+      const results = [...new Map([...exactMatchResults, ...partialResults].map(item => [item.ref, item])).values()];
       console.log('Search results:', results);
 
     // if characters are in search box but no results, "No results found" message
@@ -98,7 +101,7 @@
     }
 
   
-      results.forEach(result => {
+    results.slice(0, 10).forEach(result => {
         // get the matching document
         const doc = window.searchDocs[result.ref];
         console.log('Matching document:', doc);

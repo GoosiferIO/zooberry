@@ -481,7 +481,10 @@
         resultsContainer.style.display = 'block';
   
       
-      const results = searchIndex.search(`*${query}*`).slice(0, 10); 
+      const exactMatchResults = searchIndex.search(query);
+      const partialResults = searchIndex.search(`*${query}*`)
+      
+      const results = [...new Map([...exactMatchResults, ...partialResults].map(item => [item.ref, item])).values()];
       console.log('Search results:', results);
 
     
@@ -493,7 +496,7 @@
     }
 
   
-      results.forEach(result => {
+    results.slice(0, 10).forEach(result => {
         
         const doc = window.searchDocs[result.ref];
         console.log('Matching document:', doc);
