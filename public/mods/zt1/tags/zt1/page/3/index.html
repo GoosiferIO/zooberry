@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
@@ -54,7 +54,7 @@
 <meta property="og:description" content="" >
 <meta name="twitter:card" content="summary_large_image">
 <meta property="twitter:domain" content="zooberry.org">
-<meta property="twitter:url" content="https://www.zooberry.org/mods/zt1/tags/zt1/">
+<meta property="twitter:url" content="http://localhost:1313/mods/zt1/tags/zt1/">
 <meta name="twitter:title" content="ZooBerry">
 <meta name="twitter:description" content="">
 
@@ -63,7 +63,7 @@
         <meta property="article:author" content="" >
     
 
-<meta property="og:url" content="https://www.zooberry.org/mods/zt1/tags/zt1/" >
+<meta property="og:url" content="http://localhost:1313/mods/zt1/tags/zt1/" >
 
 
 
@@ -428,7 +428,88 @@
 
 
 
-
+<input type="text" id="search-box" placeholder="Search mods...">
+<ul id="search-results"></ul>
+<script>
+    let searchIndex;
+  
+    
+    fetch('/index.json')
+      .then(response => response.json())
+      .then(data => {
+        console.log('Fetched JSON data:', data);
+  
+        
+        searchIndex = lunr(function () {
+          this.ref('url');
+          this.field('title');
+  
+          data.forEach(doc => {
+            console.log('Adding document to index:', doc);
+            this.add({
+              title: doc.title.toLowerCase(), 
+              url: doc.url
+            });
+          });
+        });
+  
+        console.log('Lunr.js index initialized:', searchIndex);
+  
+        
+        window.searchDocs = data.reduce((acc, doc) => {
+          acc[doc.url] = doc;
+          return acc;
+        }, {});
+      })
+      .catch(error => console.error('Error fetching or processing JSON:', error));
+  
+    document.getElementById('search-box').addEventListener('input', function () {
+      const query = this.value.trim().toLowerCase();
+      const resultsContainer = document.getElementById('search-results');
+      resultsContainer.innerHTML = ''; 
+  
+      if (query.length === 0 || !searchIndex) return;
+  
+      
+      const results = searchIndex.search(`${query}*`).slice(0, 10);
+      console.log('Search results:', results);
+  
+      results.forEach(result => {
+        
+        const doc = window.searchDocs[result.ref]; 
+        console.log('Matching document:', doc);
+  
+        const link = document.createElement('a');
+        link.href = doc.url;
+        link.textContent = doc.title;
+  
+        const listItem = document.createElement('li');
+        listItem.appendChild(link);
+        resultsContainer.appendChild(listItem);
+      });
+    });
+  </script>
+  
+    
+  <style>
+    #search-results {
+        list-style-type: none;
+        padding: 0;
+      }
+      
+      #search-results li {
+        margin: 5px 0;
+      }
+      
+      #search-results a {
+        text-decoration: none;
+        color: #fff;
+      }
+      
+      #search-results a:hover {
+        text-decoration: underline;
+      }
+  </style>
             </header>
               
 
@@ -540,7 +621,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/animals/extinct/abaco-barb/">Abaco Barb</a></h2>
@@ -551,7 +632,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/hawkkeye666">Hawkkeye666</a>
+                                        <a href="http://localhost:1313/authors/hawkkeye666">Hawkkeye666</a>
                                     
                                 
                             
@@ -590,7 +671,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/animals/living/abanda-cave-crocodile/">Abanda Cave Crocodile</a></h2>
@@ -601,7 +682,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/hawkkeye666">Hawkkeye666</a>
+                                        <a href="http://localhost:1313/authors/hawkkeye666">Hawkkeye666</a>
                                     
                                 
                             
@@ -640,7 +721,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/animals/living/abbots-duiker/">Abbot&#39;s Duiker</a></h2>
@@ -651,7 +732,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/hawkkeye666">Hawkkeye666</a>
+                                        <a href="http://localhost:1313/authors/hawkkeye666">Hawkkeye666</a>
                                     
                                 
                             
@@ -690,7 +771,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/animals/living/abdims-stork/">Abdim&#39;s Stork</a></h2>
@@ -701,7 +782,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/hawkkeye666">Hawkkeye666</a>
+                                        <a href="http://localhost:1313/authors/hawkkeye666">Hawkkeye666</a>
                                     
                                 
                             
@@ -740,7 +821,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/animals/living/aberdeen-angus/">Aberdeen Angus</a></h2>
@@ -751,7 +832,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/hawkkeye666">Hawkkeye666</a>
+                                        <a href="http://localhost:1313/authors/hawkkeye666">Hawkkeye666</a>
                                     
                                 
                             
@@ -790,7 +871,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/animals/living/abyssinian-ground-hornbill/">Abyssinian Ground Hornbill</a></h2>
@@ -801,7 +882,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/hawkkeye666">Hawkkeye666</a>
+                                        <a href="http://localhost:1313/authors/hawkkeye666">Hawkkeye666</a>
                                     
                                 
                             
@@ -840,7 +921,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/animals/living/addra-gazelle/">Addra Gazelle</a></h2>
@@ -851,7 +932,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/hawkkeye666">Hawkkeye666</a>
+                                        <a href="http://localhost:1313/authors/hawkkeye666">Hawkkeye666</a>
                                     
                                 
                             
@@ -890,7 +971,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/animals/living/adelie-penguin/">Adelie Penguin</a></h2>
@@ -901,7 +982,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/hawkkeye666">Hawkkeye666</a>
+                                        <a href="http://localhost:1313/authors/hawkkeye666">Hawkkeye666</a>
                                     
                                 
                             
@@ -940,7 +1021,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/animals/living/african-civet/">African Civet</a></h2>
@@ -951,7 +1032,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/hawkkeye666">Hawkkeye666</a>
+                                        <a href="http://localhost:1313/authors/hawkkeye666">Hawkkeye666</a>
                                     
                                 
                             
@@ -990,7 +1071,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/animals/living/african-fish-eagle/">African Fish Eagle</a></h2>
@@ -1001,7 +1082,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/hawkkeye666">Hawkkeye666</a>
+                                        <a href="http://localhost:1313/authors/hawkkeye666">Hawkkeye666</a>
                                     
                                 
                             
@@ -1040,7 +1121,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/expansive-packs/bug-mayhem/">Bug Mayhem</a></h2>
@@ -1051,7 +1132,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/zarawatto">Zarawatto</a>
+                                        <a href="http://localhost:1313/authors/zarawatto">Zarawatto</a>
                                     
                                 
                             
@@ -1090,7 +1171,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/expansive-packs/dinosaur-digs-marketing-beta-pack/">Dinosaur Digs Marketing Beta Pack</a></h2>
@@ -1101,7 +1182,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/serpyderpy">Serpyderpy</a>, <a href="https://www.zooberry.org/authors/horse14t">horse14t</a> and 1 more
+                                        <a href="http://localhost:1313/authors/serpyderpy">Serpyderpy</a>, <a href="http://localhost:1313/authors/horse14t">horse14t</a> and 1 more
                                     
                                 
                             
@@ -1140,7 +1221,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/expansive-packs/halloween-collab-pack-2024/">Halloween Collab Pack 2024</a></h2>
@@ -1151,7 +1232,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/serpyderpy">Serpyderpy</a> and <a href="https://www.zooberry.org/authors/buffzoo">Buffzoo</a>
+                                        <a href="http://localhost:1313/authors/serpyderpy">Serpyderpy</a> and <a href="http://localhost:1313/authors/buffzoo">Buffzoo</a>
                                     
                                 
                             
@@ -1190,7 +1271,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/tools-utilities/lang-zborsato/">LANG-ZBorsato.dll</a></h2>
@@ -1201,7 +1282,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/borsato">Borsato</a>
+                                        <a href="http://localhost:1313/authors/borsato">Borsato</a>
                                     
                                 
                             
@@ -1240,7 +1321,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/animals/living/leatherback-turtle/">Leatherback Turtle</a></h2>
@@ -1251,7 +1332,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/khaydar">Khaydar</a>
+                                        <a href="http://localhost:1313/authors/khaydar">Khaydar</a>
                                     
                                 
                             
@@ -1290,7 +1371,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/expansive-packs/mexico-natural-icons/">Mexico Natural Icons Pack</a></h2>
@@ -1301,7 +1382,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/zarawatto">Zarawatto</a>
+                                        <a href="http://localhost:1313/authors/zarawatto">Zarawatto</a>
                                     
                                 
                             
@@ -1340,7 +1421,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/expansive-packs/meow/">Mischievous Erradicators of Outside Wildlife (M.E.O.W.)</a></h2>
@@ -1351,7 +1432,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/zarawatto">Zarawatto</a>
+                                        <a href="http://localhost:1313/authors/zarawatto">Zarawatto</a>
                                     
                                 
                             
@@ -1392,7 +1473,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/expansive-packs/seekings-of-depth/">Seekings of Depth</a></h2>
@@ -1403,7 +1484,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/zarawatto">Zarawatto</a>
+                                        <a href="http://localhost:1313/authors/zarawatto">Zarawatto</a>
                                     
                                 
                             
@@ -1442,7 +1523,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/expansive-packs/star-wars-expansive-pack-swep/">Star Wars Expansion Pack (SWEP)</a></h2>
@@ -1453,7 +1534,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/quivaz">Quivaz</a>
+                                        <a href="http://localhost:1313/authors/quivaz">Quivaz</a>
                                     
                                 
                             
@@ -1492,7 +1573,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/expansive-packs/star-wars-expansive-pack-2-swep2/">SWEP2</a></h2>
@@ -1503,7 +1584,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/eagle-one">Eagle One</a>, <a href="https://www.zooberry.org/authors/quivaz">Quivaz</a> and 2 more
+                                        <a href="http://localhost:1313/authors/eagle-one">Eagle One</a>, <a href="http://localhost:1313/authors/quivaz">Quivaz</a> and 2 more
                                     
                                 
                             
@@ -1544,7 +1625,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/expansive-packs/toadallly-batrocious/">Toadally Batrocious Land Invaders</a></h2>
@@ -1555,7 +1636,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/zarawatto">Zarawatto</a>
+                                        <a href="http://localhost:1313/authors/zarawatto">Zarawatto</a>
                                     
                                 
                             
@@ -1596,7 +1677,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/tools-utilities/ui99/">ui99</a></h2>
@@ -1607,7 +1688,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/borsato">Borsato</a>
+                                        <a href="http://localhost:1313/authors/borsato">Borsato</a>
                                     
                                 
                             
@@ -1646,7 +1727,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/expansive-packs/ufo/">Unlimited Feather Overload (U.F.O.)</a></h2>
@@ -1657,7 +1738,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/zarawatto">Zarawatto</a>
+                                        <a href="http://localhost:1313/authors/zarawatto">Zarawatto</a>
                                     
                                 
                             
@@ -1696,7 +1777,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/animals/living/ussuri-dhole/">Ussuri Dhole</a></h2>
@@ -1707,7 +1788,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/serpyderpy">Serpyderpy</a>
+                                        <a href="http://localhost:1313/authors/serpyderpy">Serpyderpy</a>
                                     
                                 
                             
@@ -1746,7 +1827,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/animals/living/whooping-crane/">Whooping Crane</a></h2>
@@ -1757,7 +1838,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/quivaz">Quivaz</a> and <a href="https://www.zooberry.org/authors/casey">Casey</a>
+                                        <a href="http://localhost:1313/authors/quivaz">Quivaz</a> and <a href="http://localhost:1313/authors/casey">Casey</a>
                                     
                                 
                             
@@ -1796,7 +1877,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/objects/scenery/ztu-black-tiger-showcase/">ZTU Black Tiger Showcase</a></h2>
@@ -1807,7 +1888,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/quivaz">Quivaz</a>
+                                        <a href="http://localhost:1313/authors/quivaz">Quivaz</a>
                                     
                                 
                             
@@ -1846,7 +1927,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                             
                             </p>
                         <h2><a href="/mods/zt1/objects/scenery/ztu-panda-bear-showcase/">ZTU Panda Bear Showcase</a></h2>
@@ -1857,7 +1938,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/quivaz">Quivaz</a>
+                                        <a href="http://localhost:1313/authors/quivaz">Quivaz</a>
                                     
                                 
                             
@@ -10325,7 +10406,7 @@
         <h3>ZooBerry</h3>
         <ul>
             <li>Copyright 2025 Goosifer.IO</li>
-            <li>ZooBerry 2.1.1 last updated on 9 Jan 2025</li>
+            <li>ZooBerry 2.1.1 last updated on 10 Jan 2025</li>
             <li>ZooBerry Theme by Goosifer.IO</li>
             <li>Strawberry icon in logo and favicon by <a href="https://icons8.com/" title="Icons8">Icons8</a></li>
         </ul>

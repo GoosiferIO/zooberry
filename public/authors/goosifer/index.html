@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
@@ -54,7 +54,7 @@
 <meta property="og:description" content="" >
 <meta name="twitter:card" content="summary_large_image">
 <meta property="twitter:domain" content="zooberry.org">
-<meta property="twitter:url" content="https://www.zooberry.org/authors/goosifer/">
+<meta property="twitter:url" content="http://localhost:1313/authors/goosifer/">
 <meta name="twitter:title" content="ZooBerry">
 <meta name="twitter:description" content="">
 
@@ -63,7 +63,7 @@
         <meta property="article:author" content="" >
     
 
-<meta property="og:url" content="https://www.zooberry.org/authors/goosifer/" >
+<meta property="og:url" content="http://localhost:1313/authors/goosifer/" >
 
 
 
@@ -428,7 +428,88 @@
 
 
 
-
+<input type="text" id="search-box" placeholder="Search mods...">
+<ul id="search-results"></ul>
+<script>
+    let searchIndex;
+  
+    
+    fetch('/index.json')
+      .then(response => response.json())
+      .then(data => {
+        console.log('Fetched JSON data:', data);
+  
+        
+        searchIndex = lunr(function () {
+          this.ref('url');
+          this.field('title');
+  
+          data.forEach(doc => {
+            console.log('Adding document to index:', doc);
+            this.add({
+              title: doc.title.toLowerCase(), 
+              url: doc.url
+            });
+          });
+        });
+  
+        console.log('Lunr.js index initialized:', searchIndex);
+  
+        
+        window.searchDocs = data.reduce((acc, doc) => {
+          acc[doc.url] = doc;
+          return acc;
+        }, {});
+      })
+      .catch(error => console.error('Error fetching or processing JSON:', error));
+  
+    document.getElementById('search-box').addEventListener('input', function () {
+      const query = this.value.trim().toLowerCase();
+      const resultsContainer = document.getElementById('search-results');
+      resultsContainer.innerHTML = ''; 
+  
+      if (query.length === 0 || !searchIndex) return;
+  
+      
+      const results = searchIndex.search(`${query}*`).slice(0, 10);
+      console.log('Search results:', results);
+  
+      results.forEach(result => {
+        
+        const doc = window.searchDocs[result.ref]; 
+        console.log('Matching document:', doc);
+  
+        const link = document.createElement('a');
+        link.href = doc.url;
+        link.textContent = doc.title;
+  
+        const listItem = document.createElement('li');
+        listItem.appendChild(link);
+        resultsContainer.appendChild(listItem);
+      });
+    });
+  </script>
+  
+    
+  <style>
+    #search-results {
+        list-style-type: none;
+        padding: 0;
+      }
+      
+      #search-results li {
+        margin: 5px 0;
+      }
+      
+      #search-results a {
+        text-decoration: none;
+        color: #fff;
+      }
+      
+      #search-results a:hover {
+        text-decoration: underline;
+      }
+  </style>
             </header>
               
     
@@ -20313,9 +20394,9 @@
 
     
     
-      <a href="https://www.zooberry.org/">Home</a>
+      <a href="http://localhost:1313/">Home</a>
     
-      <a href="https://www.zooberry.org/author/">Authors</a>
+      <a href="http://localhost:1313/author/">Authors</a>
     
 
     
@@ -20326,7 +20407,7 @@
     <h1 style="margin:0;">Goosifer</h1>
     <p style="margin:0;padding:0;"><i class="material-icons icon">extension</i> 29 Mods Published</p>
 
-    <div class="banner-box" style="margin: 2rem 0; width: 100%; background: center center / cover no-repeat url('https://cdn.goosifer.io/2.0//mods/zt2/objects/zootilities/mini-trashcan-pack/images/catc-minirashcanpack.jpg'); height: 300px;">
+    <div class="banner-box" style="margin: 2rem 0; width: 100%; background: center center / cover no-repeat url('https://cdn.goosifer.io/2.0//mods/zt2/texture-mods/variants/white-meerkat-variants/images/meerkat%20pic_qJE.jpg'); height: 300px;">
 
     </div>
     <div style="display: flex; flex-direction: row;width: 100%;">
@@ -20354,7 +20435,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/objects/zootilities/4th-of-july-donation-box-pack/">4th of July Donation Box Pack</a></h2>
@@ -20365,7 +20446,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a> and <a href="https://www.zooberry.org/authors/penguinman">Penguinman</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a> and <a href="http://localhost:1313/authors/penguinman">Penguinman</a>
                                             
                                         
                                     
@@ -20401,7 +20482,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/expansive-packs/island-excursions/">Island Excursions</a></h2>
@@ -20409,7 +20490,7 @@
                                     
                                         
                                     
-                                        <a href="https://www.zooberry.org/teams/artifex">Artifex</a>
+                                        <a href="http://localhost:1313/teams/artifex">Artifex</a>
                                     
                                         </p>
                                 <span class="box-card-bottom">
@@ -20443,7 +20524,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                        <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt1/hacks/invisible-fences-easter-egg/">Invisible Fences Cheat Code</a></h2>
@@ -20454,7 +20535,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a>
                                             
                                         
                                     
@@ -20490,7 +20571,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org/mods/assets">Assets</a>
+                                        <a href="http://localhost:1313/mods/assets">Assets</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/assets/ufo-ride-assets-gs/">UFO Ride Asset Pack</a></h2>
@@ -20501,7 +20582,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a>
                                             
                                         
                                     
@@ -20537,7 +20618,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                        <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt1/objects/buildings/ufo-ride/">UFO Ride</a></h2>
@@ -20548,7 +20629,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a>
                                             
                                         
                                     
@@ -20584,7 +20665,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org/mods/assets">Assets</a>
+                                        <a href="http://localhost:1313/mods/assets">Assets</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/assets/bln-animal-stnd-assets-gs/">Balloon Animal Stand Asset Pack</a></h2>
@@ -20595,7 +20676,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a>
                                             
                                         
                                     
@@ -20631,7 +20712,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/animals/animal-bundles/european-pack-i/">European Pack I</a></h2>
@@ -20642,7 +20723,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/shentirag">ShenTirag</a>, <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a> and 1 more
+                                                <a href="http://localhost:1313/authors/shentirag">ShenTirag</a>, <a href="http://localhost:1313/authors/goosifer">Goosifer</a> and 1 more
                                             
                                         
                                     
@@ -20678,7 +20759,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/objects/scenery/penguin-fountain/">Penguin Fountain</a></h2>
@@ -20689,7 +20770,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a>
                                             
                                         
                                     
@@ -20725,7 +20806,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/variants/white-giraffe-variant/">White Giraffe Variant</a></h2>
@@ -20736,7 +20817,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a>
                                             
                                         
                                     
@@ -20772,7 +20853,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/variants/white-meerkat-variants/">White Meerkat Variants</a></h2>
@@ -20783,7 +20864,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a>
                                             
                                         
                                     
@@ -20819,7 +20900,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/objects/zootilities/stone-table/">Stone Table</a></h2>
@@ -20830,7 +20911,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a> and <a href="https://www.zooberry.org/authors/penguinman">Penguinman</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a> and <a href="http://localhost:1313/authors/penguinman">Penguinman</a>
                                             
                                         
                                     
@@ -20866,7 +20947,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/objects/zootilities/presently-seated-bench/">Presently-Seated Bench</a></h2>
@@ -20877,7 +20958,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/dft95">DFT95</a>, <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a> and 1 more
+                                                <a href="http://localhost:1313/authors/dft95">DFT95</a>, <a href="http://localhost:1313/authors/goosifer">Goosifer</a> and 1 more
                                             
                                         
                                     
@@ -20913,7 +20994,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/objects/buildings/churro-stand/">Churro Stand</a></h2>
@@ -20924,7 +21005,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a> and <a href="https://www.zooberry.org/authors/penguinman">Penguinman</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a> and <a href="http://localhost:1313/authors/penguinman">Penguinman</a>
                                             
                                         
                                     
@@ -20960,7 +21041,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                        <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt1/objects/buildings/balloon-animal-stand-gs/">Balloon Animal Stand</a></h2>
@@ -20971,7 +21052,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a>
                                             
                                         
                                     
@@ -21007,7 +21088,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/variants/white-wolverine-variant-catc/">White Wolverine Variant</a></h2>
@@ -21018,7 +21099,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a>
                                             
                                         
                                     
@@ -21054,7 +21135,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org/mods/assets">Assets</a>
+                                        <a href="http://localhost:1313/mods/assets">Assets</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/assets/atl-ftn-3d-model/">Atlantean Fountain Asset Pack</a></h2>
@@ -21065,7 +21146,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a>
                                             
                                         
                                     
@@ -21101,7 +21182,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                        <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt1/objects/scenery/atlantean-fountain/">Atlantean Fountain</a></h2>
@@ -21112,7 +21193,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a>
                                             
                                         
                                     
@@ -21148,7 +21229,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org/mods/assets">Assets</a>
+                                        <a href="http://localhost:1313/mods/assets">Assets</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/assets/hotdog-stand/">Hotdog Stand Assets</a></h2>
@@ -21159,7 +21240,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a>
                                             
                                         
                                     
@@ -21195,7 +21276,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt1/tags/all">Zoo Tycoon 1</a>
+                                        <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt1/objects/buildings/hotdog-stand/">Hotdog Stand</a></h2>
@@ -21206,7 +21287,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a>
                                             
                                         
                                     
@@ -21242,7 +21323,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/objects/scenery/forgotten-spire/">Forgotten Spire</a></h2>
@@ -21253,7 +21334,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a>
                                             
                                         
                                     
@@ -21289,7 +21370,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/objects/scenery/water-springs-fountain/">Water Springs Fountain</a></h2>
@@ -21300,7 +21381,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a>
                                             
                                         
                                     
@@ -21336,7 +21417,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/objects/animal-food/mystery-meat-carcass/">Mystery Meat Carcass</a></h2>
@@ -21347,7 +21428,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a>
                                             
                                         
                                     
@@ -21383,7 +21464,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/objects/animal-food/meat-in-a-wooden-trough/">Meat in a Wooden Trough</a></h2>
@@ -21394,7 +21475,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a>
                                             
                                         
                                     
@@ -21430,7 +21511,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/objects/zootilities/jungle-croc-trashcan/">Jungle Croc Trashcan</a></h2>
@@ -21441,7 +21522,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a>
                                             
                                         
                                     
@@ -21477,7 +21558,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/objects/scenery/grizzly-bear-statue/">Grizzly Bear Statue</a></h2>
@@ -21488,7 +21569,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a>
                                             
                                         
                                     
@@ -21524,7 +21605,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/objects/zootilities/cactus-donation-box/">Cactus Donation Box</a></h2>
@@ -21535,7 +21616,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/animalover44">Animalover44</a> and <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a>
+                                                <a href="http://localhost:1313/authors/animalover44">Animalover44</a> and <a href="http://localhost:1313/authors/goosifer">Goosifer</a>
                                             
                                         
                                     
@@ -21571,7 +21652,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/objects/animal-food/mystery-meat-trough/">Mystery Meat Trough</a></h2>
@@ -21582,7 +21663,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a>
                                             
                                         
                                     
@@ -21618,7 +21699,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/objects/animal-food/mystery-meat-dish/">Mystery Meat Dish</a></h2>
@@ -21629,7 +21710,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a>
                                             
                                         
                                     
@@ -21665,7 +21746,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/objects/zootilities/mini-trashcan-pack/">Mini Trashcan Pack</a></h2>
@@ -21676,7 +21757,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a>
+                                                <a href="http://localhost:1313/authors/goosifer">Goosifer</a>
                                             
                                         
                                     
@@ -21879,7 +21960,7 @@ Not Applicable
         <h3>ZooBerry</h3>
         <ul>
             <li>Copyright 2025 Goosifer.IO</li>
-            <li>ZooBerry 2.1.1 last updated on 9 Jan 2025</li>
+            <li>ZooBerry 2.1.1 last updated on 10 Jan 2025</li>
             <li>ZooBerry Theme by Goosifer.IO</li>
             <li>Strawberry icon in logo and favicon by <a href="https://icons8.com/" title="Icons8">Icons8</a></li>
         </ul>

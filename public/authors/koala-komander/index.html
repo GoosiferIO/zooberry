@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
@@ -54,7 +54,7 @@
 <meta property="og:description" content="" >
 <meta name="twitter:card" content="summary_large_image">
 <meta property="twitter:domain" content="zooberry.org">
-<meta property="twitter:url" content="https://www.zooberry.org/authors/koala-komander/">
+<meta property="twitter:url" content="http://localhost:1313/authors/koala-komander/">
 <meta name="twitter:title" content="ZooBerry">
 <meta name="twitter:description" content="">
 
@@ -63,7 +63,7 @@
         <meta property="article:author" content="" >
     
 
-<meta property="og:url" content="https://www.zooberry.org/authors/koala-komander/" >
+<meta property="og:url" content="http://localhost:1313/authors/koala-komander/" >
 
 
 
@@ -428,7 +428,88 @@
 
 
 
-
+<input type="text" id="search-box" placeholder="Search mods...">
+<ul id="search-results"></ul>
+<script>
+    let searchIndex;
+  
+    
+    fetch('/index.json')
+      .then(response => response.json())
+      .then(data => {
+        console.log('Fetched JSON data:', data);
+  
+        
+        searchIndex = lunr(function () {
+          this.ref('url');
+          this.field('title');
+  
+          data.forEach(doc => {
+            console.log('Adding document to index:', doc);
+            this.add({
+              title: doc.title.toLowerCase(), 
+              url: doc.url
+            });
+          });
+        });
+  
+        console.log('Lunr.js index initialized:', searchIndex);
+  
+        
+        window.searchDocs = data.reduce((acc, doc) => {
+          acc[doc.url] = doc;
+          return acc;
+        }, {});
+      })
+      .catch(error => console.error('Error fetching or processing JSON:', error));
+  
+    document.getElementById('search-box').addEventListener('input', function () {
+      const query = this.value.trim().toLowerCase();
+      const resultsContainer = document.getElementById('search-results');
+      resultsContainer.innerHTML = ''; 
+  
+      if (query.length === 0 || !searchIndex) return;
+  
+      
+      const results = searchIndex.search(`${query}*`).slice(0, 10);
+      console.log('Search results:', results);
+  
+      results.forEach(result => {
+        
+        const doc = window.searchDocs[result.ref]; 
+        console.log('Matching document:', doc);
+  
+        const link = document.createElement('a');
+        link.href = doc.url;
+        link.textContent = doc.title;
+  
+        const listItem = document.createElement('li');
+        listItem.appendChild(link);
+        resultsContainer.appendChild(listItem);
+      });
+    });
+  </script>
+  
+    
+  <style>
+    #search-results {
+        list-style-type: none;
+        padding: 0;
+      }
+      
+      #search-results li {
+        margin: 5px 0;
+      }
+      
+      #search-results a {
+        text-decoration: none;
+        color: #fff;
+      }
+      
+      #search-results a:hover {
+        text-decoration: underline;
+      }
+  </style>
             </header>
               
     
@@ -20671,9 +20752,9 @@
 
     
     
-      <a href="https://www.zooberry.org/">Home</a>
+      <a href="http://localhost:1313/">Home</a>
     
-      <a href="https://www.zooberry.org/author/">Authors</a>
+      <a href="http://localhost:1313/author/">Authors</a>
     
 
     
@@ -20684,7 +20765,7 @@
     <h1 style="margin:0;">Koala Komander</h1>
     <p style="margin:0;padding:0;"><i class="material-icons icon">extension</i> 37 Mods Published</p>
 
-    <div class="banner-box" style="margin: 2rem 0; width: 100%; background: center center / cover no-repeat url('https://cdn.goosifer.io/2.0//mods/zt2/objects/zootilities/south-american-trashcan/images/AL44kk-satrashcan.webp'); height: 300px;">
+    <div class="banner-box" style="margin: 2rem 0; width: 100%; background: center center / cover no-repeat url('https://cdn.goosifer.io/2.0//mods/zt2/texture-mods/reskins/beaver-reskin/images/beaver-reskin.jpg'); height: 300px;">
 
     </div>
     <div style="display: flex; flex-direction: row;width: 100%;">
@@ -20732,7 +20813,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/objects/paths/green-and-white-elevated-path/">Green and White Elevated Path</a></h2>
@@ -20743,7 +20824,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a> and <a href="https://www.zooberry.org/authors/penguinman">Penguinman</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a> and <a href="http://localhost:1313/authors/penguinman">Penguinman</a>
                                             
                                         
                                     
@@ -20779,7 +20860,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/variants/giraffe-variant/">Giraffe Variant</a></h2>
@@ -20790,7 +20871,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a>
                                             
                                         
                                     
@@ -20826,7 +20907,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/expansive-packs/island-excursions/">Island Excursions</a></h2>
@@ -20834,7 +20915,7 @@
                                     
                                         
                                     
-                                        <a href="https://www.zooberry.org/teams/artifex">Artifex</a>
+                                        <a href="http://localhost:1313/teams/artifex">Artifex</a>
                                     
                                         </p>
                                 <span class="box-card-bottom">
@@ -20868,7 +20949,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/expansive-packs/grassland-pack/">Grassland Pack</a></h2>
@@ -20876,7 +20957,7 @@
                                     
                                         
                                     
-                                        <a href="https://www.zooberry.org/teams/zoo-admin-design-team">Zoo Admin Design Team</a>
+                                        <a href="http://localhost:1313/teams/zoo-admin-design-team">Zoo Admin Design Team</a>
                                     
                                         </p>
                                 <span class="box-card-bottom">
@@ -20910,7 +20991,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/expansive-packs/savannah-pack/">Savannah Pack</a></h2>
@@ -20918,7 +20999,7 @@
                                     
                                         
                                     
-                                        <a href="https://www.zooberry.org/teams/zoo-admin-design-team">Zoo Admin Design Team</a>
+                                        <a href="http://localhost:1313/teams/zoo-admin-design-team">Zoo Admin Design Team</a>
                                     
                                         </p>
                                 <span class="box-card-bottom">
@@ -20952,7 +21033,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/animals/living/granrojo/">Granrojo</a></h2>
@@ -20963,7 +21044,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/penguinman">Penguinman</a> and <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a>
+                                                <a href="http://localhost:1313/authors/penguinman">Penguinman</a> and <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a>
                                             
                                         
                                     
@@ -20999,7 +21080,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/objects/zootilities/lemur-donation-box/">Lemur Donation Box</a></h2>
@@ -21010,7 +21091,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a> and <a href="https://www.zooberry.org/authors/penguinman">Penguinman</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a> and <a href="http://localhost:1313/authors/penguinman">Penguinman</a>
                                             
                                         
                                     
@@ -21046,7 +21127,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/animals/living/sloth-bear/">Sloth Bear</a></h2>
@@ -21057,7 +21138,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a> and <a href="https://www.zooberry.org/authors/penguinman">Penguinman</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a> and <a href="http://localhost:1313/authors/penguinman">Penguinman</a>
                                             
                                         
                                     
@@ -21093,7 +21174,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/reskins/ibex-reskin/">Ibex Reskin</a></h2>
@@ -21104,7 +21185,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a>
                                             
                                         
                                     
@@ -21140,7 +21221,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/variants/spotted-giant-warthog-variant/">Spotted Giant Warthog Variants</a></h2>
@@ -21151,7 +21232,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a>
                                             
                                         
                                     
@@ -21187,7 +21268,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/animals/living/red-wolf/">Red Wolf</a></h2>
@@ -21198,7 +21279,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a> and <a href="https://www.zooberry.org/authors/radar">Radar</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a> and <a href="http://localhost:1313/authors/radar">Radar</a>
                                             
                                         
                                     
@@ -21234,7 +21315,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/variants/zoomaniac-variant-kk/">Zoomaniac Variant</a></h2>
@@ -21245,7 +21326,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a>
                                             
                                         
                                     
@@ -21281,7 +21362,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/variants/white-cave-lion-variants-kk/">White Cave Lion Variants</a></h2>
@@ -21292,7 +21373,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a>
                                             
                                         
                                     
@@ -21328,7 +21409,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/variants/aavp-p2/">African Adventure Variant Pack P2</a></h2>
@@ -21339,7 +21420,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a>
                                             
                                         
                                     
@@ -21375,7 +21456,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/variants/aavp-p1/">African Adventure Variant Pack P1</a></h2>
@@ -21386,7 +21467,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a>
                                             
                                         
                                     
@@ -21422,7 +21503,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/reskins/black-rhino-reskin/">Black Rhino Reskin</a></h2>
@@ -21433,7 +21514,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a>
                                             
                                         
                                     
@@ -21469,7 +21550,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/reskins/reticulated-giraffe-reskin/">Reticulated Giraffe Reskin</a></h2>
@@ -21480,7 +21561,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a>
                                             
                                         
                                     
@@ -21516,7 +21597,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/reskins/nile-crocodile-reskin/">Nile Crocodile Reskin</a></h2>
@@ -21527,7 +21608,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a>
                                             
                                         
                                     
@@ -21563,7 +21644,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/reskins/lion-reskins/">Lion Reskins</a></h2>
@@ -21574,7 +21655,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a>
                                             
                                         
                                     
@@ -21610,7 +21691,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/reskins/beaver-reskin/">American Beaver Reskin</a></h2>
@@ -21621,7 +21702,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a>
                                             
                                         
                                     
@@ -21657,7 +21738,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/reskins/camel-reskin/">Dromedary Camel Reskin</a></h2>
@@ -21668,7 +21749,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a>
                                             
                                         
                                     
@@ -21704,7 +21785,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/reskins/giant-panda-reskin/">Giant Panda Reskin</a></h2>
@@ -21715,7 +21796,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a>
                                             
                                         
                                     
@@ -21751,7 +21832,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/reskins/grizzly-bear-reskin/">Grizzly Bear Reskin</a></h2>
@@ -21762,7 +21843,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a>
                                             
                                         
                                     
@@ -21798,7 +21879,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/reskins/hippo-reskin/">Hippo Reskin</a></h2>
@@ -21809,7 +21890,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a>
                                             
                                         
                                     
@@ -21845,7 +21926,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/reskins/jaguar-reskin/">Jaguar Reskin</a></h2>
@@ -21856,7 +21937,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a>
                                             
                                         
                                     
@@ -21892,7 +21973,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/reskins/moose-reskin/">Moose Reskin</a></h2>
@@ -21903,7 +21984,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a>
                                             
                                         
                                     
@@ -21939,7 +22020,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/reskins/lemur-reskin/">Ring-tailed Lemur Reskin</a></h2>
@@ -21950,7 +22031,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a>
                                             
                                         
                                     
@@ -21986,7 +22067,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/reskins/african-elephant-reskin/">African Elephant Reskin</a></h2>
@@ -21997,7 +22078,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a>
                                             
                                         
                                     
@@ -22033,7 +22114,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/texture-mods/reskins/reskin-pack-1/">Reskin Pack 1</a></h2>
@@ -22044,7 +22125,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a>
                                             
                                         
                                     
@@ -22080,7 +22161,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/animals/animal-bundles/african-safari-pack/">African Safari Pack</a></h2>
@@ -22091,7 +22172,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/koala-komander">Koala Komander</a>
+                                                <a href="http://localhost:1313/authors/koala-komander">Koala Komander</a>
                                             
                                         
                                     
@@ -22307,7 +22388,7 @@ Not Applicable
         <h3>ZooBerry</h3>
         <ul>
             <li>Copyright 2025 Goosifer.IO</li>
-            <li>ZooBerry 2.1.1 last updated on 9 Jan 2025</li>
+            <li>ZooBerry 2.1.1 last updated on 10 Jan 2025</li>
             <li>ZooBerry Theme by Goosifer.IO</li>
             <li>Strawberry icon in logo and favicon by <a href="https://icons8.com/" title="Icons8">Icons8</a></li>
         </ul>

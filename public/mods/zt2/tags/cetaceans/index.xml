@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cetaceans on ZooBerry</title>
-    <link>https://www.zooberry.org/mods/zt2/tags/cetaceans/</link>
+    <link>http://localhost:1313/mods/zt2/tags/cetaceans/</link>
     <description>Recent content in Cetaceans on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Nov 2024 21:30:00 +0000</lastBuildDate>
-    <atom:link href="https://www.zooberry.org/mods/zt2/tags/cetaceans/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mods/zt2/tags/cetaceans/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dall&#39;s Porpoise</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/dalls-purpoise/</link>
+      <link>http://localhost:1313/mods/zt2/animals/living/dalls-purpoise/</link>
       <pubDate>Mon, 25 Nov 2024 21:30:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/dalls-purpoise/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/living/dalls-purpoise/</guid>
       <description>A detailed and fun-to-watch Dall&amp;rsquo;s Porpoise for your zoo.</description>
     </item>
     <item>
       <title>Common Dolphin</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/common-dolphin/</link>
+      <link>http://localhost:1313/mods/zt2/animals/living/common-dolphin/</link>
       <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/common-dolphin/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/living/common-dolphin/</guid>
       <description>Common dolphins can be found throughout the Atlantic and Pacific Oceans.</description>
     </item>
   </channel>

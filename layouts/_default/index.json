@@ -4,7 +4,17 @@
     {{- if $index }},{{ end }}
     {
       "title": {{ $page.Title | lower | jsonify }},
-      "url": {{ $page.Permalink | jsonify }}
+      "url": {{ $page.Permalink | jsonify }},
+      {{- if isset $page.Params "mod_list" -}}
+      "mod_list_titles": [
+        {{- range $i, $mod := $page.Params.mod_list -}}
+        {{ $mod.title | lower | jsonify }}{{ if lt $i (sub (len $page.Params.mod_list) 1) }},{{ end }}
+        {{- end -}}
+      ]
+      {{- else -}}
+      "mod_list_titles": []
+      {{- end }}
     }
     {{- end -}}
   ]
+  

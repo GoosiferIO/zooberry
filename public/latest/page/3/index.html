@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
@@ -55,7 +55,7 @@
 " >
 <meta name="twitter:card" content="summary_large_image">
 <meta property="twitter:domain" content="zooberry.org">
-<meta property="twitter:url" content="https://www.zooberry.org/latest/">
+<meta property="twitter:url" content="http://localhost:1313/latest/">
 <meta name="twitter:title" content="ZooBerry">
 <meta name="twitter:description" content="Browse the latest mods archived site-wide. To filter through mods by category, visit the Mods page.
 ">
@@ -65,7 +65,7 @@
         <meta property="article:author" content="" >
     
 
-<meta property="og:url" content="https://www.zooberry.org/latest/" >
+<meta property="og:url" content="http://localhost:1313/latest/" >
 
 
 
@@ -430,7 +430,88 @@
 
 
 
-
+<input type="text" id="search-box" placeholder="Search mods...">
+<ul id="search-results"></ul>
+<script>
+    let searchIndex;
+  
+    
+    fetch('/index.json')
+      .then(response => response.json())
+      .then(data => {
+        console.log('Fetched JSON data:', data);
+  
+        
+        searchIndex = lunr(function () {
+          this.ref('url');
+          this.field('title');
+  
+          data.forEach(doc => {
+            console.log('Adding document to index:', doc);
+            this.add({
+              title: doc.title.toLowerCase(), 
+              url: doc.url
+            });
+          });
+        });
+  
+        console.log('Lunr.js index initialized:', searchIndex);
+  
+        
+        window.searchDocs = data.reduce((acc, doc) => {
+          acc[doc.url] = doc;
+          return acc;
+        }, {});
+      })
+      .catch(error => console.error('Error fetching or processing JSON:', error));
+  
+    document.getElementById('search-box').addEventListener('input', function () {
+      const query = this.value.trim().toLowerCase();
+      const resultsContainer = document.getElementById('search-results');
+      resultsContainer.innerHTML = ''; 
+  
+      if (query.length === 0 || !searchIndex) return;
+  
+      
+      const results = searchIndex.search(`${query}*`).slice(0, 10);
+      console.log('Search results:', results);
+  
+      results.forEach(result => {
+        
+        const doc = window.searchDocs[result.ref]; 
+        console.log('Matching document:', doc);
+  
+        const link = document.createElement('a');
+        link.href = doc.url;
+        link.textContent = doc.title;
+  
+        const listItem = document.createElement('li');
+        listItem.appendChild(link);
+        resultsContainer.appendChild(listItem);
+      });
+    });
+  </script>
+  
+    
+  <style>
+    #search-results {
+        list-style-type: none;
+        padding: 0;
+      }
+      
+      #search-results li {
+        margin: 5px 0;
+      }
+      
+      #search-results a {
+        text-decoration: none;
+        color: #fff;
+      }
+      
+      #search-results a:hover {
+        text-decoration: underline;
+      }
+  </style>
             </header>
               
 
@@ -503,7 +584,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/quivaz">Quivaz</a>
+                                    <a href="http://localhost:1313/authors/quivaz">Quivaz</a>
                                 
                             
                         
@@ -550,7 +631,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/quivaz">Quivaz</a>
+                                    <a href="http://localhost:1313/authors/quivaz">Quivaz</a>
                                 
                             
                         
@@ -597,7 +678,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/quivaz">Quivaz</a>
+                                    <a href="http://localhost:1313/authors/quivaz">Quivaz</a>
                                 
                             
                         
@@ -644,7 +725,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/quivaz">Quivaz</a>
+                                    <a href="http://localhost:1313/authors/quivaz">Quivaz</a>
                                 
                             
                         
@@ -691,7 +772,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/quivaz">Quivaz</a>
+                                    <a href="http://localhost:1313/authors/quivaz">Quivaz</a>
                                 
                             
                         
@@ -738,7 +819,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/quivaz">Quivaz</a>
+                                    <a href="http://localhost:1313/authors/quivaz">Quivaz</a>
                                 
                             
                         
@@ -785,7 +866,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/eagle-one">Eagle One</a>, <a href="https://www.zooberry.org/authors/quivaz">Quivaz</a> and 2 more
+                                    <a href="http://localhost:1313/authors/eagle-one">Eagle One</a>, <a href="http://localhost:1313/authors/quivaz">Quivaz</a> and 2 more
                                 
                             
                         
@@ -832,7 +913,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/quivaz">Quivaz</a> and <a href="https://www.zooberry.org/authors/casey">Casey</a>
+                                    <a href="http://localhost:1313/authors/quivaz">Quivaz</a> and <a href="http://localhost:1313/authors/casey">Casey</a>
                                 
                             
                         
@@ -879,7 +960,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/quivaz">Quivaz</a>
+                                    <a href="http://localhost:1313/authors/quivaz">Quivaz</a>
                                 
                             
                         
@@ -926,7 +1007,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/quivaz">Quivaz</a>
+                                    <a href="http://localhost:1313/authors/quivaz">Quivaz</a>
                                 
                             
                         
@@ -973,7 +1054,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/goosifer">Goosifer</a> and <a href="https://www.zooberry.org/authors/penguinman">Penguinman</a>
+                                    <a href="http://localhost:1313/authors/goosifer">Goosifer</a> and <a href="http://localhost:1313/authors/penguinman">Penguinman</a>
                                 
                             
                         
@@ -1020,7 +1101,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/animallovr2005">Animallovr2005</a>
+                                    <a href="http://localhost:1313/authors/animallovr2005">Animallovr2005</a>
                                 
                             
                         
@@ -1067,7 +1148,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/the-exibit">The Exibit</a>
+                                    <a href="http://localhost:1313/authors/the-exibit">The Exibit</a>
                                 
                             
                         
@@ -1114,7 +1195,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/budgielover101">Budgielover101</a>
+                                    <a href="http://localhost:1313/authors/budgielover101">Budgielover101</a>
                                 
                             
                         
@@ -1161,7 +1242,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/csleesburg">csleesburg</a>
+                                    <a href="http://localhost:1313/authors/csleesburg">csleesburg</a>
                                 
                             
                         
@@ -1208,7 +1289,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/nique">Nique</a>
+                                    <a href="http://localhost:1313/authors/nique">Nique</a>
                                 
                             
                         
@@ -1255,7 +1336,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/otter-lord">Otter Lord</a>
+                                    <a href="http://localhost:1313/authors/otter-lord">Otter Lord</a>
                                 
                             
                         
@@ -1302,7 +1383,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/the-exibit">The Exibit</a>
+                                    <a href="http://localhost:1313/authors/the-exibit">The Exibit</a>
                                 
                             
                         
@@ -1349,7 +1430,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/honor">Honor</a>
+                                    <a href="http://localhost:1313/authors/honor">Honor</a>
                                 
                             
                         
@@ -1396,7 +1477,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/zood">ZooD</a>
+                                    <a href="http://localhost:1313/authors/zood">ZooD</a>
                                 
                             
                         
@@ -1443,7 +1524,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/rednotdead">RedNotDead</a>
+                                    <a href="http://localhost:1313/authors/rednotdead">RedNotDead</a>
                                 
                             
                         
@@ -1490,7 +1571,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/doooot">Doooot</a>
+                                    <a href="http://localhost:1313/authors/doooot">Doooot</a>
                                 
                             
                         
@@ -1537,7 +1618,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/doooot">Doooot</a>
+                                    <a href="http://localhost:1313/authors/doooot">Doooot</a>
                                 
                             
                         
@@ -1584,7 +1665,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/doooot">Doooot</a>
+                                    <a href="http://localhost:1313/authors/doooot">Doooot</a>
                                 
                             
                         
@@ -1631,7 +1712,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/doooot">Doooot</a>
+                                    <a href="http://localhost:1313/authors/doooot">Doooot</a>
                                 
                             
                         
@@ -1678,7 +1759,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/doooot">Doooot</a>
+                                    <a href="http://localhost:1313/authors/doooot">Doooot</a>
                                 
                             
                         
@@ -1725,7 +1806,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/the-exibit">The Exibit</a>
+                                    <a href="http://localhost:1313/authors/the-exibit">The Exibit</a>
                                 
                             
                         
@@ -1772,7 +1853,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/penguinman">Penguinman</a>
+                                    <a href="http://localhost:1313/authors/penguinman">Penguinman</a>
                                 
                             
                         
@@ -1819,7 +1900,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/boblus">Boblus</a> and <a href="https://www.zooberry.org/authors/nique">Nique</a>
+                                    <a href="http://localhost:1313/authors/boblus">Boblus</a> and <a href="http://localhost:1313/authors/nique">Nique</a>
                                 
                             
                         
@@ -1866,7 +1947,7 @@
                             
                                 
                                 
-                                    <a href="https://www.zooberry.org/authors/whitepanda">WhitePanda</a>
+                                    <a href="http://localhost:1313/authors/whitepanda">WhitePanda</a>
                                 
                             
                         
@@ -2002,7 +2083,7 @@
         <h3>ZooBerry</h3>
         <ul>
             <li>Copyright 2025 Goosifer.IO</li>
-            <li>ZooBerry 2.1.1 last updated on 9 Jan 2025</li>
+            <li>ZooBerry 2.1.1 last updated on 10 Jan 2025</li>
             <li>ZooBerry Theme by Goosifer.IO</li>
             <li>Strawberry icon in logo and favicon by <a href="https://icons8.com/" title="Icons8">Icons8</a></li>
         </ul>

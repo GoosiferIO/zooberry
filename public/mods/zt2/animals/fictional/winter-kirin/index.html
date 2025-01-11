@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
@@ -60,7 +60,7 @@ The Hannukkah variation doesn&rsquo;t seem to ever show up, so you will only eve
 " >
 <meta name="twitter:card" content="summary_large_image">
 <meta property="twitter:domain" content="zooberry.org">
-<meta property="twitter:url" content="https://www.zooberry.org/mods/zt2/animals/fictional/winter-kirin/">
+<meta property="twitter:url" content="http://localhost:1313/mods/zt2/animals/fictional/winter-kirin/">
 <meta name="twitter:title" content="ZooBerry">
 <meta name="twitter:description" content="The Winter Kirin is labeled as Critically Endangered not because it is threatened, but because all traces of them disappear off the face of the planet after the month of December. They are so common around winter, they are almost like vermin. They are said to be able to fly, but nobody has seen them do it. There are two kinds. One of them has curved, red-and-white antlers that taste slightly minty, and a glowing red nose. The other has gold antlers shaped like a certain kind of candle, and pointed hoofs similar in texture to clay. However, it is now possible to adopt them for your zoo, because zoologists have found their secret hideout.
 These festive ungulates were released the day before Christmas Eve of 2009, and will help your guests get in mood for Christmas or Hannukkah!
@@ -78,7 +78,7 @@ The Hannukkah variation doesn&rsquo;t seem to ever show up, so you will only eve
         
     
 
-<meta property="og:url" content="https://www.zooberry.org/mods/zt2/animals/fictional/winter-kirin/" >
+<meta property="og:url" content="http://localhost:1313/mods/zt2/animals/fictional/winter-kirin/" >
 
 
 
@@ -447,7 +447,88 @@ The Hannukkah variation doesn&rsquo;t seem to ever show up, so you will only eve
 
 
 
-
+<input type="text" id="search-box" placeholder="Search mods...">
+<ul id="search-results"></ul>
+<script>
+    let searchIndex;
+  
+    
+    fetch('/index.json')
+      .then(response => response.json())
+      .then(data => {
+        console.log('Fetched JSON data:', data);
+  
+        
+        searchIndex = lunr(function () {
+          this.ref('url');
+          this.field('title');
+  
+          data.forEach(doc => {
+            console.log('Adding document to index:', doc);
+            this.add({
+              title: doc.title.toLowerCase(), 
+              url: doc.url
+            });
+          });
+        });
+  
+        console.log('Lunr.js index initialized:', searchIndex);
+  
+        
+        window.searchDocs = data.reduce((acc, doc) => {
+          acc[doc.url] = doc;
+          return acc;
+        }, {});
+      })
+      .catch(error => console.error('Error fetching or processing JSON:', error));
+  
+    document.getElementById('search-box').addEventListener('input', function () {
+      const query = this.value.trim().toLowerCase();
+      const resultsContainer = document.getElementById('search-results');
+      resultsContainer.innerHTML = ''; 
+  
+      if (query.length === 0 || !searchIndex) return;
+  
+      
+      const results = searchIndex.search(`${query}*`).slice(0, 10);
+      console.log('Search results:', results);
+  
+      results.forEach(result => {
+        
+        const doc = window.searchDocs[result.ref]; 
+        console.log('Matching document:', doc);
+  
+        const link = document.createElement('a');
+        link.href = doc.url;
+        link.textContent = doc.title;
+  
+        const listItem = document.createElement('li');
+        listItem.appendChild(link);
+        resultsContainer.appendChild(listItem);
+      });
+    });
+  </script>
+  
+    
+  <style>
+    #search-results {
+        list-style-type: none;
+        padding: 0;
+      }
+      
+      #search-results li {
+        margin: 5px 0;
+      }
+      
+      #search-results a {
+        text-decoration: none;
+        color: #fff;
+      }
+      
+      #search-results a:hover {
+        text-decoration: underline;
+      }
+  </style>
             </header>
               
   
@@ -501,15 +582,15 @@ The Hannukkah variation doesn&rsquo;t seem to ever show up, so you will only eve
 
     
     
-      <a href="https://www.zooberry.org/">Home</a>
+      <a href="http://localhost:1313/">Home</a>
     
-      <a href="https://www.zooberry.org/mods/">Mods</a>
+      <a href="http://localhost:1313/mods/">Mods</a>
     
-      <a href="https://www.zooberry.org/mods/zt2/">Zoo Tycoon 2</a>
+      <a href="http://localhost:1313/mods/zt2/">Zoo Tycoon 2</a>
     
-      <a href="https://www.zooberry.org/mods/zt2/animals/">Animals</a>
+      <a href="http://localhost:1313/mods/zt2/animals/">Animals</a>
     
-      <a href="https://www.zooberry.org/mods/zt2/animals/fictional/">Fictional</a>
+      <a href="http://localhost:1313/mods/zt2/animals/fictional/">Fictional</a>
     
 
     
@@ -776,7 +857,7 @@ The Hannukkah variation doesn&rsquo;t seem to ever show up, so you will only eve
         <h3>ZooBerry</h3>
         <ul>
             <li>Copyright 2025 Goosifer.IO</li>
-            <li>ZooBerry 2.1.1 last updated on 9 Jan 2025</li>
+            <li>ZooBerry 2.1.1 last updated on 10 Jan 2025</li>
             <li>ZooBerry Theme by Goosifer.IO</li>
             <li>Strawberry icon in logo and favicon by <a href="https://icons8.com/" title="Icons8">Icons8</a></li>
         </ul>

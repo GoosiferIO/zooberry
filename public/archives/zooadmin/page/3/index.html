@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
@@ -54,7 +54,7 @@
 <meta property="og:description" content="" >
 <meta name="twitter:card" content="summary_large_image">
 <meta property="twitter:domain" content="zooberry.org">
-<meta property="twitter:url" content="https://www.zooberry.org/archives/zooadmin/">
+<meta property="twitter:url" content="http://localhost:1313/archives/zooadmin/">
 <meta name="twitter:title" content="ZooBerry">
 <meta name="twitter:description" content="">
 
@@ -63,7 +63,7 @@
         <meta property="article:author" content="" >
     
 
-<meta property="og:url" content="https://www.zooberry.org/archives/zooadmin/" >
+<meta property="og:url" content="http://localhost:1313/archives/zooadmin/" >
 
 
 
@@ -432,7 +432,88 @@
 
 
 
-
+<input type="text" id="search-box" placeholder="Search mods...">
+<ul id="search-results"></ul>
+<script>
+    let searchIndex;
+  
+    
+    fetch('/index.json')
+      .then(response => response.json())
+      .then(data => {
+        console.log('Fetched JSON data:', data);
+  
+        
+        searchIndex = lunr(function () {
+          this.ref('url');
+          this.field('title');
+  
+          data.forEach(doc => {
+            console.log('Adding document to index:', doc);
+            this.add({
+              title: doc.title.toLowerCase(), 
+              url: doc.url
+            });
+          });
+        });
+  
+        console.log('Lunr.js index initialized:', searchIndex);
+  
+        
+        window.searchDocs = data.reduce((acc, doc) => {
+          acc[doc.url] = doc;
+          return acc;
+        }, {});
+      })
+      .catch(error => console.error('Error fetching or processing JSON:', error));
+  
+    document.getElementById('search-box').addEventListener('input', function () {
+      const query = this.value.trim().toLowerCase();
+      const resultsContainer = document.getElementById('search-results');
+      resultsContainer.innerHTML = ''; 
+  
+      if (query.length === 0 || !searchIndex) return;
+  
+      
+      const results = searchIndex.search(`${query}*`).slice(0, 10);
+      console.log('Search results:', results);
+  
+      results.forEach(result => {
+        
+        const doc = window.searchDocs[result.ref]; 
+        console.log('Matching document:', doc);
+  
+        const link = document.createElement('a');
+        link.href = doc.url;
+        link.textContent = doc.title;
+  
+        const listItem = document.createElement('li');
+        listItem.appendChild(link);
+        resultsContainer.appendChild(listItem);
+      });
+    });
+  </script>
+  
+    
+  <style>
+    #search-results {
+        list-style-type: none;
+        padding: 0;
+      }
+      
+      #search-results li {
+        margin: 5px 0;
+      }
+      
+      #search-results a {
+        text-decoration: none;
+        color: #fff;
+      }
+      
+      #search-results a:hover {
+        text-decoration: underline;
+      }
+  </style>
             </header>
               
       
@@ -1548,7 +1629,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/theme-packs/halloween-scenery-pack/">Halloween Scenery Pack</a></h2>
@@ -1559,7 +1640,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/nique">Nique</a>
+                                                        <a href="http://localhost:1313/authors/nique">Nique</a>
                                                     
                                                 
                                             
@@ -1594,7 +1675,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/tour-objects/halloween-tour-objects/">Halloween Tour Objects</a></h2>
@@ -1605,7 +1686,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/nique">Nique</a>
+                                                        <a href="http://localhost:1313/authors/nique">Nique</a>
                                                     
                                                 
                                             
@@ -1640,7 +1721,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/tour-objects/halloween-tunnels/">Halloween Tour Objects</a></h2>
@@ -1651,7 +1732,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/nique">Nique</a>
+                                                        <a href="http://localhost:1313/authors/nique">Nique</a>
                                                     
                                                 
                                             
@@ -1686,7 +1767,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/foliage/halloween-trees/">Halloween Trees</a></h2>
@@ -1697,7 +1778,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/nique">Nique</a>
+                                                        <a href="http://localhost:1313/authors/nique">Nique</a>
                                                     
                                                 
                                             
@@ -1732,7 +1813,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/paths/honor-halloween-pack/">Honor Halloween Path Pack</a></h2>
@@ -1743,7 +1824,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/honor">Honor</a>
+                                                        <a href="http://localhost:1313/authors/honor">Honor</a>
                                                     
                                                 
                                             
@@ -1778,7 +1859,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/theme-packs/japanese-mini-pack/">Japanese Mini Pack</a></h2>
@@ -1789,7 +1870,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/nique">Nique</a>
+                                                        <a href="http://localhost:1313/authors/nique">Nique</a>
                                                     
                                                 
                                             
@@ -1824,7 +1905,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/expansive-packs/niques-aussie-pack/">Nique&#39;s Aussie Pack</a></h2>
@@ -1835,7 +1916,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/nique">Nique</a>
+                                                        <a href="http://localhost:1313/authors/nique">Nique</a>
                                                     
                                                 
                                             
@@ -1870,7 +1951,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/foliage/niques-foliage-pack/">Nique&#39;s Foliage Pack</a></h2>
@@ -1881,7 +1962,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/nique">Nique</a>
+                                                        <a href="http://localhost:1313/authors/nique">Nique</a>
                                                     
                                                 
                                             
@@ -1916,7 +1997,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/theme-packs/purple-pack/">Purple Pack</a></h2>
@@ -1927,7 +2008,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/penguinman">penguinman</a>
+                                                        <a href="http://localhost:1313/authors/penguinman">penguinman</a>
                                                     
                                                 
                                             
@@ -1962,7 +2043,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/zootilities/rainforest-info-boards-p2/">Rainforest Info. Boards Part. 2</a></h2>
@@ -1973,7 +2054,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/the-exibit">The Exibit</a>
+                                                        <a href="http://localhost:1313/authors/the-exibit">The Exibit</a>
                                                     
                                                 
                                             
@@ -2008,7 +2089,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/paths/rednotdead-crazy-path-pack/">RedNotDead Crazy Path Pack</a></h2>
@@ -2019,7 +2100,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/rednotdead">RedNotDead</a>
+                                                        <a href="http://localhost:1313/authors/rednotdead">RedNotDead</a>
                                                     
                                                 
                                             
@@ -2054,7 +2135,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/zootilities/savannah-info-boards/">Savannah Info Boards</a></h2>
@@ -2065,7 +2146,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/the-exibit">The Exibit</a>
+                                                        <a href="http://localhost:1313/authors/the-exibit">The Exibit</a>
                                                     
                                                 
                                             
@@ -2100,7 +2181,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/foliage/seasonal-foliage/">Seasonal Foliage</a></h2>
@@ -2111,7 +2192,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/nepenthe">Nepenthe</a>
+                                                        <a href="http://localhost:1313/authors/nepenthe">Nepenthe</a>
                                                     
                                                 
                                             
@@ -2146,7 +2227,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/theme-packs/snow-tiger-easter-contest-pack-1/">Snow Tiger Easter Contest Pack 1</a></h2>
@@ -2157,7 +2238,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/snow-tigers">Snow Tigers</a>
+                                                        <a href="http://localhost:1313/authors/snow-tigers">Snow Tigers</a>
                                                     
                                                 
                                             
@@ -2192,7 +2273,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/theme-packs/snow-tiger-easter-contest-pack-2/">Snow Tiger Easter Pack 2</a></h2>
@@ -2203,7 +2284,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/snow-tigers">Snow Tigers</a>
+                                                        <a href="http://localhost:1313/authors/snow-tigers">Snow Tigers</a>
                                                     
                                                 
                                             
@@ -2238,7 +2319,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/theme-packs/snow-tigers-special-theme-pack/">Snow Tigers Special Theme Pack</a></h2>
@@ -2249,7 +2330,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/rednotdead">RedNotDead</a>, <a href="https://www.zooberry.org/authors/martin1990">Martin1990</a> and 7 more
+                                                        <a href="http://localhost:1313/authors/rednotdead">RedNotDead</a>, <a href="http://localhost:1313/authors/martin1990">Martin1990</a> and 7 more
                                                     
                                                 
                                             
@@ -2284,7 +2365,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/expansive-packs/south-america-pack-part-2/">South America Pack Part 2</a></h2>
@@ -2295,7 +2376,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/acapella">Acapella</a>
+                                                        <a href="http://localhost:1313/authors/acapella">Acapella</a>
                                                     
                                                 
                                             
@@ -2330,7 +2411,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/theme-packs/valentine-pack/">Valentine Pack</a></h2>
@@ -2341,7 +2422,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/doooot">Doooot</a> and <a href="https://www.zooberry.org/authors/penguinman">Penguinman</a>
+                                                        <a href="http://localhost:1313/authors/doooot">Doooot</a> and <a href="http://localhost:1313/authors/penguinman">Penguinman</a>
                                                     
                                                 
                                             
@@ -2376,7 +2457,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/paths/yr-zt2-path-pack-1/">YR ZT 2 Path Pack 1</a></h2>
@@ -2387,7 +2468,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/yellowrose">Yellowrose</a>
+                                                        <a href="http://localhost:1313/authors/yellowrose">Yellowrose</a>
                                                     
                                                 
                                             
@@ -2422,7 +2503,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/animals/ambients/zoo-tycoon-fansites-blimps/">Zoo Tycoon Fansites Blimps</a></h2>
@@ -2433,7 +2514,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/rednotdead">RedNotDead</a>
+                                                        <a href="http://localhost:1313/authors/rednotdead">RedNotDead</a>
                                                     
                                                 
                                             
@@ -2468,7 +2549,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/foliage/beggarweed/">Beggarweed</a></h2>
@@ -2479,7 +2560,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/penguinman">Penguinman</a>
+                                                        <a href="http://localhost:1313/authors/penguinman">Penguinman</a>
                                                     
                                                 
                                             
@@ -2514,7 +2595,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/zootilities/boreal-bench/">Boreal Bench</a></h2>
@@ -2525,7 +2606,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/animalover44">Animalover44</a>
+                                                        <a href="http://localhost:1313/authors/animalover44">Animalover44</a>
                                                     
                                                 
                                             
@@ -2560,7 +2641,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/paths/butterfly-path/">Butterfly Path</a></h2>
@@ -2571,7 +2652,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/honor">Honor</a>
+                                                        <a href="http://localhost:1313/authors/honor">Honor</a>
                                                     
                                                 
                                             
@@ -2606,7 +2687,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/scenery/cardinal-tetra/">Cardinal Tetra</a></h2>
@@ -2617,7 +2698,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/badisbadis101">badisbadis101</a>
+                                                        <a href="http://localhost:1313/authors/badisbadis101">badisbadis101</a>
                                                     
                                                 
                                             
@@ -2652,7 +2733,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/scenery/christmas-fountain/">Christmas Fountain</a></h2>
@@ -2663,7 +2744,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/csleesburg">csleesburg</a>
+                                                        <a href="http://localhost:1313/authors/csleesburg">csleesburg</a>
                                                     
                                                 
                                             
@@ -2698,7 +2779,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/zootilities/christmas-trashcan/">Christmas Trashcan</a></h2>
@@ -2709,7 +2790,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/csleesburg">csleesburg</a>
+                                                        <a href="http://localhost:1313/authors/csleesburg">csleesburg</a>
                                                     
                                                 
                                             
@@ -2744,7 +2825,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/paths/chrome-path/">Chrome Path</a></h2>
@@ -2755,7 +2836,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/honor">Honor</a>
+                                                        <a href="http://localhost:1313/authors/honor">Honor</a>
                                                     
                                                 
                                             
@@ -2790,7 +2871,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/foliage/common-reed/">Common Reed</a></h2>
@@ -2801,7 +2882,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/silesiantomcat">SilesianTomcat</a>
+                                                        <a href="http://localhost:1313/authors/silesiantomcat">SilesianTomcat</a>
                                                     
                                                 
                                             
@@ -2836,7 +2917,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/scenery/crocodile-fountain/">Crocodile Fountain</a></h2>
@@ -2847,7 +2928,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/the-exibit">The Exibit</a>
+                                                        <a href="http://localhost:1313/authors/the-exibit">The Exibit</a>
                                                     
                                                 
                                             
@@ -2882,7 +2963,7 @@
                                     <div class="box-card-mods-content">
                                             <p>
                                             
-                                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                             
                                                                         </p>
                                         <h2><a href="/mods/zt2/objects/zootilities/desert-binoculars/">Desert Binoculars</a></h2>
@@ -2893,7 +2974,7 @@
                                                 
                                                     
                                                     
-                                                        <a href="https://www.zooberry.org/authors/penguinman">Penguinman</a>
+                                                        <a href="http://localhost:1313/authors/penguinman">Penguinman</a>
                                                     
                                                 
                                             
@@ -3005,7 +3086,7 @@
         <h3>ZooBerry</h3>
         <ul>
             <li>Copyright 2025 Goosifer.IO</li>
-            <li>ZooBerry 2.1.1 last updated on 9 Jan 2025</li>
+            <li>ZooBerry 2.1.1 last updated on 10 Jan 2025</li>
             <li>ZooBerry Theme by Goosifer.IO</li>
             <li>Strawberry icon in logo and favicon by <a href="https://icons8.com/" title="Icons8">Icons8</a></li>
         </ul>

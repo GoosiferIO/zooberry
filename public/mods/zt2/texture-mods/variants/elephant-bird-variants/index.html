@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
@@ -58,7 +58,7 @@ Basically go nuts if you can find the files, I have lost them all over time with
 " >
 <meta name="twitter:card" content="summary_large_image">
 <meta property="twitter:domain" content="zooberry.org">
-<meta property="twitter:url" content="https://www.zooberry.org/mods/zt2/texture-mods/variants/elephant-bird-variants/">
+<meta property="twitter:url" content="http://localhost:1313/mods/zt2/texture-mods/variants/elephant-bird-variants/">
 <meta name="twitter:title" content="ZooBerry">
 <meta name="twitter:description" content="Four elephant bird variants made by ShenTirag!
 ShenTirag&rsquo;s license to other modders as of Nov 08, 2023:
@@ -74,7 +74,7 @@ Basically go nuts if you can find the files, I have lost them all over time with
         
     
 
-<meta property="og:url" content="https://www.zooberry.org/mods/zt2/texture-mods/variants/elephant-bird-variants/" >
+<meta property="og:url" content="http://localhost:1313/mods/zt2/texture-mods/variants/elephant-bird-variants/" >
 
 
 
@@ -443,7 +443,88 @@ Basically go nuts if you can find the files, I have lost them all over time with
 
 
 
-
+<input type="text" id="search-box" placeholder="Search mods...">
+<ul id="search-results"></ul>
+<script>
+    let searchIndex;
+  
+    
+    fetch('/index.json')
+      .then(response => response.json())
+      .then(data => {
+        console.log('Fetched JSON data:', data);
+  
+        
+        searchIndex = lunr(function () {
+          this.ref('url');
+          this.field('title');
+  
+          data.forEach(doc => {
+            console.log('Adding document to index:', doc);
+            this.add({
+              title: doc.title.toLowerCase(), 
+              url: doc.url
+            });
+          });
+        });
+  
+        console.log('Lunr.js index initialized:', searchIndex);
+  
+        
+        window.searchDocs = data.reduce((acc, doc) => {
+          acc[doc.url] = doc;
+          return acc;
+        }, {});
+      })
+      .catch(error => console.error('Error fetching or processing JSON:', error));
+  
+    document.getElementById('search-box').addEventListener('input', function () {
+      const query = this.value.trim().toLowerCase();
+      const resultsContainer = document.getElementById('search-results');
+      resultsContainer.innerHTML = ''; 
+  
+      if (query.length === 0 || !searchIndex) return;
+  
+      
+      const results = searchIndex.search(`${query}*`).slice(0, 10);
+      console.log('Search results:', results);
+  
+      results.forEach(result => {
+        
+        const doc = window.searchDocs[result.ref]; 
+        console.log('Matching document:', doc);
+  
+        const link = document.createElement('a');
+        link.href = doc.url;
+        link.textContent = doc.title;
+  
+        const listItem = document.createElement('li');
+        listItem.appendChild(link);
+        resultsContainer.appendChild(listItem);
+      });
+    });
+  </script>
+  
+    
+  <style>
+    #search-results {
+        list-style-type: none;
+        padding: 0;
+      }
+      
+      #search-results li {
+        margin: 5px 0;
+      }
+      
+      #search-results a {
+        text-decoration: none;
+        color: #fff;
+      }
+      
+      #search-results a:hover {
+        text-decoration: underline;
+      }
+  </style>
             </header>
               
   
@@ -497,15 +578,15 @@ Basically go nuts if you can find the files, I have lost them all over time with
 
     
     
-      <a href="https://www.zooberry.org/">Home</a>
+      <a href="http://localhost:1313/">Home</a>
     
-      <a href="https://www.zooberry.org/mods/">Mods</a>
+      <a href="http://localhost:1313/mods/">Mods</a>
     
-      <a href="https://www.zooberry.org/mods/zt2/">Zoo Tycoon 2</a>
+      <a href="http://localhost:1313/mods/zt2/">Zoo Tycoon 2</a>
     
-      <a href="https://www.zooberry.org/mods/zt2/texture-mods/">Texture Mods</a>
+      <a href="http://localhost:1313/mods/zt2/texture-mods/">Texture Mods</a>
     
-      <a href="https://www.zooberry.org/mods/zt2/texture-mods/variants/">Animal Variants</a>
+      <a href="http://localhost:1313/mods/zt2/texture-mods/variants/">Animal Variants</a>
     
 
     
@@ -750,7 +831,7 @@ Not Applicable
         <h3>ZooBerry</h3>
         <ul>
             <li>Copyright 2025 Goosifer.IO</li>
-            <li>ZooBerry 2.1.1 last updated on 9 Jan 2025</li>
+            <li>ZooBerry 2.1.1 last updated on 10 Jan 2025</li>
             <li>ZooBerry Theme by Goosifer.IO</li>
             <li>Strawberry icon in logo and favicon by <a href="https://icons8.com/" title="Icons8">Icons8</a></li>
         </ul>

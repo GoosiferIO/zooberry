@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
@@ -54,7 +54,7 @@
 <meta property="og:description" content="" >
 <meta name="twitter:card" content="summary_large_image">
 <meta property="twitter:domain" content="zooberry.org">
-<meta property="twitter:url" content="https://www.zooberry.org/authors/mikaboshi/">
+<meta property="twitter:url" content="http://localhost:1313/authors/mikaboshi/">
 <meta name="twitter:title" content="ZooBerry">
 <meta name="twitter:description" content="">
 
@@ -63,7 +63,7 @@
         <meta property="article:author" content="" >
     
 
-<meta property="og:url" content="https://www.zooberry.org/authors/mikaboshi/" >
+<meta property="og:url" content="http://localhost:1313/authors/mikaboshi/" >
 
 
 
@@ -428,7 +428,88 @@
 
 
 
-
+<input type="text" id="search-box" placeholder="Search mods...">
+<ul id="search-results"></ul>
+<script>
+    let searchIndex;
+  
+    
+    fetch('/index.json')
+      .then(response => response.json())
+      .then(data => {
+        console.log('Fetched JSON data:', data);
+  
+        
+        searchIndex = lunr(function () {
+          this.ref('url');
+          this.field('title');
+  
+          data.forEach(doc => {
+            console.log('Adding document to index:', doc);
+            this.add({
+              title: doc.title.toLowerCase(), 
+              url: doc.url
+            });
+          });
+        });
+  
+        console.log('Lunr.js index initialized:', searchIndex);
+  
+        
+        window.searchDocs = data.reduce((acc, doc) => {
+          acc[doc.url] = doc;
+          return acc;
+        }, {});
+      })
+      .catch(error => console.error('Error fetching or processing JSON:', error));
+  
+    document.getElementById('search-box').addEventListener('input', function () {
+      const query = this.value.trim().toLowerCase();
+      const resultsContainer = document.getElementById('search-results');
+      resultsContainer.innerHTML = ''; 
+  
+      if (query.length === 0 || !searchIndex) return;
+  
+      
+      const results = searchIndex.search(`${query}*`).slice(0, 10);
+      console.log('Search results:', results);
+  
+      results.forEach(result => {
+        
+        const doc = window.searchDocs[result.ref]; 
+        console.log('Matching document:', doc);
+  
+        const link = document.createElement('a');
+        link.href = doc.url;
+        link.textContent = doc.title;
+  
+        const listItem = document.createElement('li');
+        listItem.appendChild(link);
+        resultsContainer.appendChild(listItem);
+      });
+    });
+  </script>
+  
+    
+  <style>
+    #search-results {
+        list-style-type: none;
+        padding: 0;
+      }
+      
+      #search-results li {
+        margin: 5px 0;
+      }
+      
+      #search-results a {
+        text-decoration: none;
+        color: #fff;
+      }
+      
+      #search-results a:hover {
+        text-decoration: underline;
+      }
+  </style>
             </header>
               
     
@@ -20503,9 +20584,9 @@
 
     
     
-      <a href="https://www.zooberry.org/">Home</a>
+      <a href="http://localhost:1313/">Home</a>
     
-      <a href="https://www.zooberry.org/author/">Authors</a>
+      <a href="http://localhost:1313/author/">Authors</a>
     
 
     
@@ -20516,7 +20597,7 @@
     <h1 style="margin:0;">Mikaboshi</h1>
     <p style="margin:0;padding:0;"><i class="material-icons icon">extension</i> 36 Mods Published</p>
 
-    <div class="banner-box" style="margin: 2rem 0; width: 100%; background: center center / cover no-repeat url('https://cdn.goosifer.io/2.0//mods/zt2/expansive-packs/island-excursions/images/1IEMiscObjects.webp'); height: 300px;">
+    <div class="banner-box" style="margin: 2rem 0; width: 100%; background: center center / cover no-repeat url('https://cdn.goosifer.io/2.0//mods/zt2/texture-mods/variants/secretary-bird-variants/images/sb%20grey_HJ1.jpg'); height: 300px;">
 
     </div>
     <div style="display: flex; flex-direction: row;width: 100%;">
@@ -20564,7 +20645,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/animals/living/african-crowned-crane/">African Crowned Crane</a></h2>
@@ -20575,7 +20656,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/mikaboshi">Mikaboshi</a>
+                                                <a href="http://localhost:1313/authors/mikaboshi">Mikaboshi</a>
                                             
                                         
                                     
@@ -20611,7 +20692,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/animals/living/norwegian-fjord-pony/">Norwegian Fjord Pony</a></h2>
@@ -20622,7 +20703,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/mikaboshi">Mikaboshi</a>
+                                                <a href="http://localhost:1313/authors/mikaboshi">Mikaboshi</a>
                                             
                                         
                                     
@@ -20658,7 +20739,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/expansive-packs/island-excursions/">Island Excursions</a></h2>
@@ -20666,7 +20747,7 @@
                                     
                                         
                                     
-                                        <a href="https://www.zooberry.org/teams/artifex">Artifex</a>
+                                        <a href="http://localhost:1313/teams/artifex">Artifex</a>
                                     
                                         </p>
                                 <span class="box-card-bottom">
@@ -20700,7 +20781,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/animals/living/purple-striped-jellyfish/">Purple-Striped Jellyfish</a></h2>
@@ -20711,7 +20792,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/penguinman">Penguinman</a> and <a href="https://www.zooberry.org/authors/mikaboshi">Mikaboshi</a>
+                                                <a href="http://localhost:1313/authors/penguinman">Penguinman</a> and <a href="http://localhost:1313/authors/mikaboshi">Mikaboshi</a>
                                             
                                         
                                     
@@ -20747,7 +20828,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/objects/zootilities/zt2dc-gazebo/">ZT2DC Gazebo</a></h2>
@@ -20758,7 +20839,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/crazypeafowl">CrazyPeafowl</a>, <a href="https://www.zooberry.org/authors/hendrix">Hendrix</a> and 5 more
+                                                <a href="http://localhost:1313/authors/crazypeafowl">CrazyPeafowl</a>, <a href="http://localhost:1313/authors/hendrix">Hendrix</a> and 5 more
                                             
                                         
                                     
@@ -20794,7 +20875,7 @@
                             <div class="box-card-mods-content">
                                     <p>
                                     
-                                        <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                                     
                                                         </p>
                                 <h2><a href="/mods/zt2/animals/living/zebroid/">Zebroid</a></h2>
@@ -20805,7 +20886,7 @@
                                         
                                             
                                             
-                                                <a href="https://www.zooberry.org/authors/mikaboshi">Mikaboshi</a>
+                                                <a href="http://localhost:1313/authors/mikaboshi">Mikaboshi</a>
                                             
                                         
                                     
@@ -20997,7 +21078,7 @@ Not Applicable
         <h3>ZooBerry</h3>
         <ul>
             <li>Copyright 2025 Goosifer.IO</li>
-            <li>ZooBerry 2.1.1 last updated on 9 Jan 2025</li>
+            <li>ZooBerry 2.1.1 last updated on 10 Jan 2025</li>
             <li>ZooBerry Theme by Goosifer.IO</li>
             <li>Strawberry icon in logo and favicon by <a href="https://icons8.com/" title="Icons8">Icons8</a></li>
         </ul>

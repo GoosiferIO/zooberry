@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
@@ -436,7 +436,7 @@ Gooey Party Pack 3 by WhitePanda
 " >
 <meta name="twitter:card" content="summary_large_image">
 <meta property="twitter:domain" content="zooberry.org">
-<meta property="twitter:url" content="https://www.zooberry.org/blog/mbs-nov-24/">
+<meta property="twitter:url" content="http://localhost:1313/blog/mbs-nov-24/">
 <meta name="twitter:title" content="ZooBerry">
 <meta name="twitter:description" content="November 2024 - ZooBerry Mod Archive Summary
 November was a busy month for ZooBerry. With news that ZooAdmin might be making its exit, Yellowrose has asked ZooTek to rehome its content. Our website is luckily in a healthy position to help mitigate the space required for these downloads, so I happily agreed to at least help with the ZT2 files while Tek and the Download Database took care of the ZT1 files.
@@ -827,7 +827,7 @@ Gooey Party Pack 3 by WhitePanda
         <meta property="article:author" content="Goosifer" >
     
 
-<meta property="og:url" content="https://www.zooberry.org/blog/mbs-nov-24/" >
+<meta property="og:url" content="http://localhost:1313/blog/mbs-nov-24/" >
 
 
 
@@ -1196,7 +1196,88 @@ Gooey Party Pack 3 by WhitePanda
 
 
 
-
+<input type="text" id="search-box" placeholder="Search mods...">
+<ul id="search-results"></ul>
+<script>
+    let searchIndex;
+  
+    
+    fetch('/index.json')
+      .then(response => response.json())
+      .then(data => {
+        console.log('Fetched JSON data:', data);
+  
+        
+        searchIndex = lunr(function () {
+          this.ref('url');
+          this.field('title');
+  
+          data.forEach(doc => {
+            console.log('Adding document to index:', doc);
+            this.add({
+              title: doc.title.toLowerCase(), 
+              url: doc.url
+            });
+          });
+        });
+  
+        console.log('Lunr.js index initialized:', searchIndex);
+  
+        
+        window.searchDocs = data.reduce((acc, doc) => {
+          acc[doc.url] = doc;
+          return acc;
+        }, {});
+      })
+      .catch(error => console.error('Error fetching or processing JSON:', error));
+  
+    document.getElementById('search-box').addEventListener('input', function () {
+      const query = this.value.trim().toLowerCase();
+      const resultsContainer = document.getElementById('search-results');
+      resultsContainer.innerHTML = ''; 
+  
+      if (query.length === 0 || !searchIndex) return;
+  
+      
+      const results = searchIndex.search(`${query}*`).slice(0, 10);
+      console.log('Search results:', results);
+  
+      results.forEach(result => {
+        
+        const doc = window.searchDocs[result.ref]; 
+        console.log('Matching document:', doc);
+  
+        const link = document.createElement('a');
+        link.href = doc.url;
+        link.textContent = doc.title;
+  
+        const listItem = document.createElement('li');
+        listItem.appendChild(link);
+        resultsContainer.appendChild(listItem);
+      });
+    });
+  </script>
+  
+    
+  <style>
+    #search-results {
+        list-style-type: none;
+        padding: 0;
+      }
+      
+      #search-results li {
+        margin: 5px 0;
+      }
+      
+      #search-results a {
+        text-decoration: none;
+        color: #fff;
+      }
+      
+      #search-results a:hover {
+        text-decoration: underline;
+      }
+  </style>
             </header>
               
   <div class="article-container" id="TableOfContents">
@@ -1227,9 +1308,9 @@ Gooey Party Pack 3 by WhitePanda
 
     
     
-      <a href="https://www.zooberry.org/">Home</a>
+      <a href="http://localhost:1313/">Home</a>
     
-      <a href="https://www.zooberry.org/blog/">Blog</a>
+      <a href="http://localhost:1313/blog/">Blog</a>
     
 
     
@@ -1723,7 +1804,7 @@ Gooey Party Pack 3 by WhitePanda
         <h3>ZooBerry</h3>
         <ul>
             <li>Copyright 2025 Goosifer.IO</li>
-            <li>ZooBerry 2.1.1 last updated on 9 Jan 2025</li>
+            <li>ZooBerry 2.1.1 last updated on 10 Jan 2025</li>
             <li>ZooBerry Theme by Goosifer.IO</li>
             <li>Strawberry icon in logo and favicon by <a href="https://icons8.com/" title="Icons8">Icons8</a></li>
         </ul>

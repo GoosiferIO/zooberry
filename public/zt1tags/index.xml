@@ -2,486 +2,486 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ZT1 Tags on ZooBerry</title>
-    <link>https://www.zooberry.org/zt1tags/</link>
+    <link>http://localhost:1313/zt1tags/</link>
     <description>Recent content in ZT1 Tags on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Jan 2025 19:00:00 -0700</lastBuildDate>
-    <atom:link href="https://www.zooberry.org/zt1tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zt1tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>African</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/african/</link>
+      <link>http://localhost:1313/mods/zt1/tags/african/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/african/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/african/</guid>
       <description></description>
     </item>
     <item>
       <title>All</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/all/</link>
+      <link>http://localhost:1313/mods/zt1/tags/all/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/all/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/all/</guid>
       <description></description>
     </item>
     <item>
       <title>Animals</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/animals/</link>
+      <link>http://localhost:1313/mods/zt1/tags/animals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/animals/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/animals/</guid>
       <description></description>
     </item>
     <item>
       <title>Antarctica</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/antarctica/</link>
+      <link>http://localhost:1313/mods/zt1/tags/antarctica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/antarctica/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/antarctica/</guid>
       <description></description>
     </item>
     <item>
       <title>Aquatic</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/aquatic/</link>
+      <link>http://localhost:1313/mods/zt1/tags/aquatic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/aquatic/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/aquatic/</guid>
       <description></description>
     </item>
     <item>
       <title>Australian</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/australian/</link>
+      <link>http://localhost:1313/mods/zt1/tags/australian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/australian/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/australian/</guid>
       <description></description>
     </item>
     <item>
       <title>Birds</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/birds/</link>
+      <link>http://localhost:1313/mods/zt1/tags/birds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/birds/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/birds/</guid>
       <description></description>
     </item>
     <item>
       <title>Dinosaurs</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/dinosaurs/</link>
+      <link>http://localhost:1313/mods/zt1/tags/dinosaurs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/dinosaurs/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/dinosaurs/</guid>
       <description></description>
     </item>
     <item>
       <title>Domestic</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/domestic/</link>
+      <link>http://localhost:1313/mods/zt1/tags/domestic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/domestic/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/domestic/</guid>
       <description></description>
     </item>
     <item>
       <title>Equids</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/equids/</link>
+      <link>http://localhost:1313/mods/zt1/tags/equids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/equids/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/equids/</guid>
       <description></description>
     </item>
     <item>
       <title>Eurasian</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/eurasian/</link>
+      <link>http://localhost:1313/mods/zt1/tags/eurasian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/eurasian/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/eurasian/</guid>
       <description></description>
     </item>
     <item>
       <title>Extinct</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/extinct/</link>
+      <link>http://localhost:1313/mods/zt1/tags/extinct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/extinct/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/extinct/</guid>
       <description></description>
     </item>
     <item>
       <title>Living</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/living/</link>
+      <link>http://localhost:1313/mods/zt1/tags/living/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/living/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/living/</guid>
       <description></description>
     </item>
     <item>
       <title>Mammals</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/mammals/</link>
+      <link>http://localhost:1313/mods/zt1/tags/mammals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/mammals/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/mammals/</guid>
       <description></description>
     </item>
     <item>
       <title>Marsupials</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/marsupials/</link>
+      <link>http://localhost:1313/mods/zt1/tags/marsupials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/marsupials/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/marsupials/</guid>
       <description></description>
     </item>
     <item>
       <title>North American</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/north-american/</link>
+      <link>http://localhost:1313/mods/zt1/tags/north-american/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/north-american/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/north-american/</guid>
       <description></description>
     </item>
     <item>
       <title>Prehistoric</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/prehistoric/</link>
+      <link>http://localhost:1313/mods/zt1/tags/prehistoric/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/prehistoric/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/prehistoric/</guid>
       <description></description>
     </item>
     <item>
       <title>Procyonids</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/procyonids/</link>
+      <link>http://localhost:1313/mods/zt1/tags/procyonids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/procyonids/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/procyonids/</guid>
       <description></description>
     </item>
     <item>
       <title>Reptiles</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/reptiles/</link>
+      <link>http://localhost:1313/mods/zt1/tags/reptiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/reptiles/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/reptiles/</guid>
       <description></description>
     </item>
     <item>
       <title>Rodents</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/rodents/</link>
+      <link>http://localhost:1313/mods/zt1/tags/rodents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/rodents/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/rodents/</guid>
       <description></description>
     </item>
     <item>
       <title>South American</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/south-american/</link>
+      <link>http://localhost:1313/mods/zt1/tags/south-american/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/south-american/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/south-american/</guid>
       <description></description>
     </item>
     <item>
       <title>Ungulates</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/ungulates/</link>
+      <link>http://localhost:1313/mods/zt1/tags/ungulates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/ungulates/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/ungulates/</guid>
       <description></description>
     </item>
     <item>
       <title>ZT1</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/zt1/</link>
+      <link>http://localhost:1313/mods/zt1/tags/zt1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/zt1/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/zt1/</guid>
       <description></description>
     </item>
     <item>
       <title>Asian</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/asian/</link>
+      <link>http://localhost:1313/mods/zt1/tags/asian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/asian/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/asian/</guid>
       <description></description>
     </item>
     <item>
       <title>Canids</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/canids/</link>
+      <link>http://localhost:1313/mods/zt1/tags/canids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/canids/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/canids/</guid>
       <description></description>
     </item>
     <item>
       <title>Cetaceans</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/cetaceans/</link>
+      <link>http://localhost:1313/mods/zt1/tags/cetaceans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/cetaceans/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/cetaceans/</guid>
       <description></description>
     </item>
     <item>
       <title>European</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/european/</link>
+      <link>http://localhost:1313/mods/zt1/tags/european/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/european/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/european/</guid>
       <description></description>
     </item>
     <item>
       <title>Fish</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/fish/</link>
+      <link>http://localhost:1313/mods/zt1/tags/fish/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/fish/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/fish/</guid>
       <description></description>
     </item>
     <item>
       <title>Mustelids</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/mustelids/</link>
+      <link>http://localhost:1313/mods/zt1/tags/mustelids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/mustelids/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/mustelids/</guid>
       <description></description>
     </item>
     <item>
       <title>Oceanian</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/oceanian/</link>
+      <link>http://localhost:1313/mods/zt1/tags/oceanian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/oceanian/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/oceanian/</guid>
       <description></description>
     </item>
     <item>
       <title>Primates</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/primates/</link>
+      <link>http://localhost:1313/mods/zt1/tags/primates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/primates/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/primates/</guid>
       <description></description>
     </item>
     <item>
       <title>Arches</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/arches/</link>
+      <link>http://localhost:1313/mods/zt1/tags/arches/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/arches/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/arches/</guid>
       <description></description>
     </item>
     <item>
       <title>Buildings</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/buildings/</link>
+      <link>http://localhost:1313/mods/zt1/tags/buildings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/buildings/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/buildings/</guid>
       <description></description>
     </item>
     <item>
       <title>Carnivores</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/carnivores/</link>
+      <link>http://localhost:1313/mods/zt1/tags/carnivores/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/carnivores/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/carnivores/</guid>
       <description></description>
     </item>
     <item>
       <title>Castorids</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/castorids/</link>
+      <link>http://localhost:1313/mods/zt1/tags/castorids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/castorids/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/castorids/</guid>
       <description></description>
     </item>
     <item>
       <title>Elephants</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/elephants/</link>
+      <link>http://localhost:1313/mods/zt1/tags/elephants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/elephants/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/elephants/</guid>
       <description></description>
     </item>
     <item>
       <title>Fictional</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/fictional/</link>
+      <link>http://localhost:1313/mods/zt1/tags/fictional/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/fictional/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/fictional/</guid>
       <description></description>
     </item>
     <item>
       <title>Fountains</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/fountains/</link>
+      <link>http://localhost:1313/mods/zt1/tags/fountains/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/fountains/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/fountains/</guid>
       <description></description>
     </item>
     <item>
       <title>Hacks</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/hacks/</link>
+      <link>http://localhost:1313/mods/zt1/tags/hacks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/hacks/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/hacks/</guid>
       <description></description>
     </item>
     <item>
       <title>Language Files</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/language-files/</link>
+      <link>http://localhost:1313/mods/zt1/tags/language-files/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/language-files/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/language-files/</guid>
       <description></description>
     </item>
     <item>
       <title>Objects</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/objects/</link>
+      <link>http://localhost:1313/mods/zt1/tags/objects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/objects/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/objects/</guid>
       <description></description>
     </item>
     <item>
       <title>Packs</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/packs/</link>
+      <link>http://localhost:1313/mods/zt1/tags/packs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/packs/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/packs/</guid>
       <description></description>
     </item>
     <item>
       <title>Rides</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/rides/</link>
+      <link>http://localhost:1313/mods/zt1/tags/rides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/rides/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/rides/</guid>
       <description></description>
     </item>
     <item>
       <title>Scenery</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/scenery/</link>
+      <link>http://localhost:1313/mods/zt1/tags/scenery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/scenery/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/scenery/</guid>
       <description></description>
     </item>
     <item>
       <title>Statues</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/statues/</link>
+      <link>http://localhost:1313/mods/zt1/tags/statues/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/statues/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/statues/</guid>
       <description></description>
     </item>
     <item>
       <title>Theme Packs</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/theme-packs/</link>
+      <link>http://localhost:1313/mods/zt1/tags/theme-packs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/theme-packs/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/theme-packs/</guid>
       <description></description>
     </item>
     <item>
       <title>Tools &amp; Utilities</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/tools-utilities/</link>
+      <link>http://localhost:1313/mods/zt1/tags/tools-utilities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/tools-utilities/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/tools-utilities/</guid>
       <description></description>
     </item>
     <item>
       <title>Foliage</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/foliage/</link>
+      <link>http://localhost:1313/mods/zt1/tags/foliage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/foliage/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/foliage/</guid>
       <description></description>
     </item>
     <item>
       <title>Halloween</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/halloween/</link>
+      <link>http://localhost:1313/mods/zt1/tags/halloween/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/halloween/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/halloween/</guid>
       <description></description>
     </item>
     <item>
       <title>Penguins</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/penguins/</link>
+      <link>http://localhost:1313/mods/zt1/tags/penguins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/penguins/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/penguins/</guid>
       <description></description>
     </item>
     <item>
       <title>Cattle</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/cattle/</link>
+      <link>http://localhost:1313/mods/zt1/tags/cattle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/cattle/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/cattle/</guid>
       <description></description>
     </item>
     <item>
       <title>Crocodiles</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/crocodiles/</link>
+      <link>http://localhost:1313/mods/zt1/tags/crocodiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/crocodiles/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/crocodiles/</guid>
       <description></description>
     </item>
     <item>
       <title>Remakes</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/remakes/</link>
+      <link>http://localhost:1313/mods/zt1/tags/remakes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/remakes/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/remakes/</guid>
       <description></description>
     </item>
     <item>
       <title>Pterosaurs</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/pterosaurs/</link>
+      <link>http://localhost:1313/mods/zt1/tags/pterosaurs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/pterosaurs/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/pterosaurs/</guid>
       <description></description>
     </item>
     <item>
       <title>Amphibians</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/amphibians/</link>
+      <link>http://localhost:1313/mods/zt1/tags/amphibians/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/amphibians/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/amphibians/</guid>
       <description></description>
     </item>
     <item>
       <title>Animal Toys</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/animal-toys/</link>
+      <link>http://localhost:1313/mods/zt1/tags/animal-toys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/animal-toys/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/animal-toys/</guid>
       <description></description>
     </item>
     <item>
       <title>Felids</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/felids/</link>
+      <link>http://localhost:1313/mods/zt1/tags/felids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/felids/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/felids/</guid>
       <description></description>
     </item>
     <item>
       <title>Shelters</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/shelters/</link>
+      <link>http://localhost:1313/mods/zt1/tags/shelters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/shelters/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/shelters/</guid>
       <description></description>
     </item>
     <item>
       <title>Arthropods</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/arthropods/</link>
+      <link>http://localhost:1313/mods/zt1/tags/arthropods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/arthropods/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/arthropods/</guid>
       <description></description>
     </item>
     <item>
       <title>Maps</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/maps/</link>
+      <link>http://localhost:1313/mods/zt1/tags/maps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/maps/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/maps/</guid>
       <description></description>
     </item>
     <item>
       <title>North African</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/north-african/</link>
+      <link>http://localhost:1313/mods/zt1/tags/north-african/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/north-african/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/north-african/</guid>
       <description></description>
     </item>
     <item>
       <title>Cheats</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/cheats/</link>
+      <link>http://localhost:1313/mods/zt1/tags/cheats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/cheats/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/cheats/</guid>
       <description></description>
     </item>
     <item>
       <title>Carnival</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/carnival/</link>
+      <link>http://localhost:1313/mods/zt1/tags/carnival/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/carnival/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/carnival/</guid>
       <description></description>
     </item>
     <item>
       <title>Atlantean</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/atlantean/</link>
+      <link>http://localhost:1313/mods/zt1/tags/atlantean/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/atlantean/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/atlantean/</guid>
       <description></description>
     </item>
     <item>
       <title>Food Stands</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/food-stands/</link>
+      <link>http://localhost:1313/mods/zt1/tags/food-stands/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/food-stands/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/food-stands/</guid>
       <description></description>
     </item>
     <item>
       <title>Fences</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/fences/</link>
+      <link>http://localhost:1313/mods/zt1/tags/fences/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/fences/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/fences/</guid>
       <description></description>
     </item>
     <item>
       <title>Rocks</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/rocks/</link>
+      <link>http://localhost:1313/mods/zt1/tags/rocks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/rocks/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/rocks/</guid>
       <description></description>
     </item>
     <item>
       <title>Christmas</title>
-      <link>https://www.zooberry.org/mods/zt1/tags/christmas/</link>
+      <link>http://localhost:1313/mods/zt1/tags/christmas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/tags/christmas/</guid>
+      <guid>http://localhost:1313/mods/zt1/tags/christmas/</guid>
       <description></description>
     </item>
   </channel>

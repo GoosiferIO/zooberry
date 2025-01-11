@@ -1,32 +1,37 @@
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
-{{/*  <input type="text" id="search-box" placeholder="Search mods...">
+<input type="text" id="search-box" placeholder="Search mods...">
 <ul id="search-results"></ul>
 <script>
     let searchIndex;
   
-    // Fetch the JSON index
+    // get the JSON data
     fetch('/index.json')
       .then(response => response.json())
       .then(data => {
         console.log('Fetched JSON data:', data);
   
-        // Initialize Lunr.js
+        // init Lunr.js
         searchIndex = lunr(function () {
-          this.ref('url');
-          this.field('title');
+          this.ref('url'); // Use 'url' as the unique identifier
+          this.field('title'); // Include page title
+          this.field('mod_list_titles'); // Include mod_list_titles
   
           data.forEach(doc => {
             console.log('Adding document to index:', doc);
+  
+            // combine titles and mod_list_titles for full-text search
+            const aggregatedTitles = doc.mod_list_titles.join(' ');
             this.add({
-              title: doc.title.toLowerCase(), // Lowercase for case-insensitive search
-              url: doc.url
+              title: doc.title.toLowerCase(),
+              url: doc.url,
+              mod_list_titles: aggregatedTitles.toLowerCase() // Ensure case-insensitive search
             });
           });
         });
   
         console.log('Lunr.js index initialized:', searchIndex);
   
-        // Store the data for lookup
+        // store the data for lookup
         window.searchDocs = data.reduce((acc, doc) => {
           acc[doc.url] = doc;
           return acc;
@@ -34,20 +39,21 @@
       })
       .catch(error => console.error('Error fetching or processing JSON:', error));
   
+    // perform live search
     document.getElementById('search-box').addEventListener('input', function () {
       const query = this.value.trim().toLowerCase();
       const resultsContainer = document.getElementById('search-results');
-      resultsContainer.innerHTML = ''; // Clear previous results
+      resultsContainer.innerHTML = ''; // rmv prev results
   
       if (query.length === 0 || !searchIndex) return;
   
-      // get wildcard results
-      const results = searchIndex.search(`${query}*`).slice(0, 10);
+      // wildcard so that it matches partial words
+      const results = searchIndex.search(`${query}*`).slice(0, 10); // limit 10 results
       console.log('Search results:', results);
   
       results.forEach(result => {
-        // get the matching document
-        const doc = window.searchDocs[result.ref]; 
+        // get correct document from the data store
+        const doc = window.searchDocs[result.ref];
         console.log('Matching document:', doc);
   
         const link = document.createElement('a');
@@ -60,6 +66,7 @@
       });
     });
   </script>
+  
   
     
   <style>
@@ -80,4 +87,4 @@
       #search-results a:hover {
         text-decoration: underline;
       }
-  </style>  */}}
+  </style>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heklar on ZooBerry</title>
-    <link>https://www.zooberry.org/authors/heklar/</link>
+    <link>http://localhost:1313/authors/heklar/</link>
     <description>Recent content in Heklar on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Nov 2024 16:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.zooberry.org/authors/heklar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/authors/heklar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blue Fence</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/fences/blue-fence/</link>
+      <link>http://localhost:1313/mods/zt2/objects/fences/blue-fence/</link>
       <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/fences/blue-fence/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/blue-fence/</guid>
       <description>A lovely blue fence to match the blue path.</description>
     </item>
     <item>
       <title>Marli Pink Fence</title>
-      <link>https://www.zooberry.org/mods/zt2/objects/fences/marli-pink-fence/</link>
+      <link>http://localhost:1313/mods/zt2/objects/fences/marli-pink-fence/</link>
       <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/objects/fences/marli-pink-fence/</guid>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/marli-pink-fence/</guid>
       <description>A pink fence to match the pink path.</description>
     </item>
   </channel>

@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Expansive Packs on ZooBerry</title>
-    <link>https://www.zooberry.org/mods/zt2/tags/expansive-packs/</link>
+    <link>http://localhost:1313/mods/zt2/tags/expansive-packs/</link>
     <description>Recent content in Expansive Packs on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Nov 2024 11:25:55 +0000</lastBuildDate>
-    <atom:link href="https://www.zooberry.org/mods/zt2/tags/expansive-packs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mods/zt2/tags/expansive-packs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jungle Escape</title>
-      <link>https://www.zooberry.org/mods/zt2/expansive-packs/jungle-escape/</link>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/jungle-escape/</link>
       <pubDate>Mon, 18 Nov 2024 11:25:55 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/jungle-escape/</guid>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/jungle-escape/</guid>
       <description>Add an UXP containing several birds from different tropical regions. Objects fit perfectly with the default jungle theme.</description>
     </item>
     <item>
       <title>Desert Pack</title>
-      <link>https://www.zooberry.org/mods/zt2/expansive-packs/desert-pack/</link>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/desert-pack/</link>
       <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/desert-pack/</guid>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/desert-pack/</guid>
       <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
     </item>
     <item>
       <title>Grassland Pack</title>
-      <link>https://www.zooberry.org/mods/zt2/expansive-packs/grassland-pack/</link>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/grassland-pack/</link>
       <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/grassland-pack/</guid>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/grassland-pack/</guid>
       <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
     </item>
     <item>
       <title>Savannah Pack</title>
-      <link>https://www.zooberry.org/mods/zt2/expansive-packs/savannah-pack/</link>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/savannah-pack/</link>
       <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/savannah-pack/</guid>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/savannah-pack/</guid>
       <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
     </item>
     <item>
       <title>Scrub Pack</title>
-      <link>https://www.zooberry.org/mods/zt2/expansive-packs/scrub-pack/</link>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/scrub-pack/</link>
       <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/scrub-pack/</guid>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/scrub-pack/</guid>
       <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
     </item>
     <item>
       <title>Japanese Macaque Pack</title>
-      <link>https://www.zooberry.org/mods/zt2/expansive-packs/japanese-macaque-pack/</link>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/japanese-macaque-pack/</link>
       <pubDate>Mon, 08 Jan 2024 01:26:36 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/japanese-macaque-pack/</guid>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/japanese-macaque-pack/</guid>
       <description>Japanese macaques range through the forested mountains and highlands of Japan.</description>
     </item>
     <item>
       <title>Vicuña Pack</title>
-      <link>https://www.zooberry.org/mods/zt2/expansive-packs/vicu%C3%B1a-pack/</link>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/vicu%C3%B1a-pack/</link>
       <pubDate>Mon, 08 Jan 2024 01:26:36 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/vicu%C3%B1a-pack/</guid>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/vicu%C3%B1a-pack/</guid>
       <description>Vicuñas are found in semiarid rolling grasslands and plains at altitudes of 3,500-5,750 meters.</description>
     </item>
     <item>
       <title>The Christmas Pack</title>
-      <link>https://www.zooberry.org/mods/zt2/expansive-packs/the-christmas-pack/</link>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/the-christmas-pack/</link>
       <pubDate>Sat, 30 Dec 2023 00:52:38 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/the-christmas-pack/</guid>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/the-christmas-pack/</guid>
       <description>Merry Christmas! The Christmas Pack is a collection of mods for Zoo Tycoon 2 that expound a winter theme.</description>
     </item>
     <item>
       <title>The Christmas Pack 2: 7 Reasons to Celebrate</title>
-      <link>https://www.zooberry.org/mods/zt2/expansive-packs/the-christmas-pack-2-7-reasons-to-celebrate/</link>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/the-christmas-pack-2-7-reasons-to-celebrate/</link>
       <pubDate>Sat, 30 Dec 2023 00:52:38 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/the-christmas-pack-2-7-reasons-to-celebrate/</guid>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/the-christmas-pack-2-7-reasons-to-celebrate/</guid>
       <description>Merry Christmas! The Christmas Pack - 7 Reasons to Celebrate is the sequel to the collection of mods for Zoo Tycoon 2 that expound a winter theme.</description>
     </item>
   </channel>

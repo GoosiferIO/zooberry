@@ -2,213 +2,213 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ZooBerry</title>
-    <link>https://www.zooberry.org/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2025 15:00:00 -0700</lastBuildDate>
-    <atom:link href="https://www.zooberry.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>All</title>
-      <link>https://www.zooberry.org/tags/all/</link>
+      <link>http://localhost:1313/tags/all/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/all/</guid>
+      <guid>http://localhost:1313/tags/all/</guid>
       <description></description>
     </item>
     <item>
       <title>Assets</title>
-      <link>https://www.zooberry.org/tags/assets/</link>
+      <link>http://localhost:1313/tags/assets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/assets/</guid>
+      <guid>http://localhost:1313/tags/assets/</guid>
       <description></description>
     </item>
     <item>
       <title>Animals</title>
-      <link>https://www.zooberry.org/tags/animals/</link>
+      <link>http://localhost:1313/tags/animals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/animals/</guid>
+      <guid>http://localhost:1313/tags/animals/</guid>
       <description></description>
     </item>
     <item>
       <title>Biomes</title>
-      <link>https://www.zooberry.org/tags/biomes/</link>
+      <link>http://localhost:1313/tags/biomes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/biomes/</guid>
+      <guid>http://localhost:1313/tags/biomes/</guid>
       <description></description>
     </item>
     <item>
       <title>Enrichment</title>
-      <link>https://www.zooberry.org/tags/enrichment/</link>
+      <link>http://localhost:1313/tags/enrichment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/enrichment/</guid>
+      <guid>http://localhost:1313/tags/enrichment/</guid>
       <description></description>
     </item>
     <item>
       <title>Foliage</title>
-      <link>https://www.zooberry.org/tags/foliage/</link>
+      <link>http://localhost:1313/tags/foliage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/foliage/</guid>
+      <guid>http://localhost:1313/tags/foliage/</guid>
       <description></description>
     </item>
     <item>
       <title>Land-Foliage</title>
-      <link>https://www.zooberry.org/tags/land-foliage/</link>
+      <link>http://localhost:1313/tags/land-foliage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/land-foliage/</guid>
+      <guid>http://localhost:1313/tags/land-foliage/</guid>
       <description></description>
     </item>
     <item>
       <title>Rocks</title>
-      <link>https://www.zooberry.org/tags/rocks/</link>
+      <link>http://localhost:1313/tags/rocks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/rocks/</guid>
+      <guid>http://localhost:1313/tags/rocks/</guid>
       <description></description>
     </item>
     <item>
       <title>Shelters</title>
-      <link>https://www.zooberry.org/tags/shelters/</link>
+      <link>http://localhost:1313/tags/shelters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/shelters/</guid>
+      <guid>http://localhost:1313/tags/shelters/</guid>
       <description></description>
     </item>
     <item>
       <title>Trees</title>
-      <link>https://www.zooberry.org/tags/trees/</link>
+      <link>http://localhost:1313/tags/trees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/trees/</guid>
+      <guid>http://localhost:1313/tags/trees/</guid>
       <description></description>
     </item>
     <item>
       <title>Arches</title>
-      <link>https://www.zooberry.org/tags/arches/</link>
+      <link>http://localhost:1313/tags/arches/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/arches/</guid>
+      <guid>http://localhost:1313/tags/arches/</guid>
       <description></description>
     </item>
     <item>
       <title>Elevated-Paths</title>
-      <link>https://www.zooberry.org/tags/elevated-paths/</link>
+      <link>http://localhost:1313/tags/elevated-paths/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/elevated-paths/</guid>
+      <guid>http://localhost:1313/tags/elevated-paths/</guid>
       <description></description>
     </item>
     <item>
       <title>Fences</title>
-      <link>https://www.zooberry.org/tags/fences/</link>
+      <link>http://localhost:1313/tags/fences/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/fences/</guid>
+      <guid>http://localhost:1313/tags/fences/</guid>
       <description></description>
     </item>
     <item>
       <title>Ground-Paths</title>
-      <link>https://www.zooberry.org/tags/ground-paths/</link>
+      <link>http://localhost:1313/tags/ground-paths/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/ground-paths/</guid>
+      <guid>http://localhost:1313/tags/ground-paths/</guid>
       <description></description>
     </item>
     <item>
       <title>Packs</title>
-      <link>https://www.zooberry.org/tags/packs/</link>
+      <link>http://localhost:1313/tags/packs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/packs/</guid>
+      <guid>http://localhost:1313/tags/packs/</guid>
       <description></description>
     </item>
     <item>
       <title>Scenery</title>
-      <link>https://www.zooberry.org/tags/scenery/</link>
+      <link>http://localhost:1313/tags/scenery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/scenery/</guid>
+      <guid>http://localhost:1313/tags/scenery/</guid>
       <description></description>
     </item>
     <item>
       <title>Signs</title>
-      <link>https://www.zooberry.org/tags/signs/</link>
+      <link>http://localhost:1313/tags/signs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/signs/</guid>
+      <guid>http://localhost:1313/tags/signs/</guid>
       <description></description>
     </item>
     <item>
       <title>Transportation</title>
-      <link>https://www.zooberry.org/tags/transportation/</link>
+      <link>http://localhost:1313/tags/transportation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/transportation/</guid>
+      <guid>http://localhost:1313/tags/transportation/</guid>
       <description></description>
     </item>
     <item>
       <title>Animal-Shelters</title>
-      <link>https://www.zooberry.org/tags/animal-shelters/</link>
+      <link>http://localhost:1313/tags/animal-shelters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/animal-shelters/</guid>
+      <guid>http://localhost:1313/tags/animal-shelters/</guid>
       <description></description>
     </item>
     <item>
       <title>Animal-Reskins</title>
-      <link>https://www.zooberry.org/tags/animal-reskins/</link>
+      <link>http://localhost:1313/tags/animal-reskins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/animal-reskins/</guid>
+      <guid>http://localhost:1313/tags/animal-reskins/</guid>
       <description></description>
     </item>
     <item>
       <title>Dinosaurs</title>
-      <link>https://www.zooberry.org/tags/dinosaurs/</link>
+      <link>http://localhost:1313/tags/dinosaurs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/dinosaurs/</guid>
+      <guid>http://localhost:1313/tags/dinosaurs/</guid>
       <description></description>
     </item>
     <item>
       <title>Extinct</title>
-      <link>https://www.zooberry.org/tags/extinct/</link>
+      <link>http://localhost:1313/tags/extinct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/extinct/</guid>
+      <guid>http://localhost:1313/tags/extinct/</guid>
       <description></description>
     </item>
     <item>
       <title>Fountains</title>
-      <link>https://www.zooberry.org/tags/fountains/</link>
+      <link>http://localhost:1313/tags/fountains/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/fountains/</guid>
+      <guid>http://localhost:1313/tags/fountains/</guid>
       <description></description>
     </item>
     <item>
       <title>Objects</title>
-      <link>https://www.zooberry.org/tags/objects/</link>
+      <link>http://localhost:1313/tags/objects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/objects/</guid>
+      <guid>http://localhost:1313/tags/objects/</guid>
       <description></description>
     </item>
     <item>
       <title>Theme Packs</title>
-      <link>https://www.zooberry.org/tags/theme-packs/</link>
+      <link>http://localhost:1313/tags/theme-packs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/theme-packs/</guid>
+      <guid>http://localhost:1313/tags/theme-packs/</guid>
       <description></description>
     </item>
     <item>
       <title>ZT2</title>
-      <link>https://www.zooberry.org/tags/zt2/</link>
+      <link>http://localhost:1313/tags/zt2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/zt2/</guid>
+      <guid>http://localhost:1313/tags/zt2/</guid>
       <description></description>
     </item>
     <item>
       <title>Animal-Food</title>
-      <link>https://www.zooberry.org/tags/animal-food/</link>
+      <link>http://localhost:1313/tags/animal-food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/animal-food/</guid>
+      <guid>http://localhost:1313/tags/animal-food/</guid>
       <description></description>
     </item>
     <item>
       <title>Building-Kits</title>
-      <link>https://www.zooberry.org/tags/building-kits/</link>
+      <link>http://localhost:1313/tags/building-kits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/building-kits/</guid>
+      <guid>http://localhost:1313/tags/building-kits/</guid>
       <description></description>
     </item>
     <item>
       <title>Uxp</title>
-      <link>https://www.zooberry.org/tags/uxp/</link>
+      <link>http://localhost:1313/tags/uxp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/uxp/</guid>
+      <guid>http://localhost:1313/tags/uxp/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
@@ -54,7 +54,7 @@
 <meta property="og:description" content="" >
 <meta name="twitter:card" content="summary_large_image">
 <meta property="twitter:domain" content="zooberry.org">
-<meta property="twitter:url" content="https://www.zooberry.org/mods/zt2/tags/living/">
+<meta property="twitter:url" content="http://localhost:1313/mods/zt2/tags/living/">
 <meta name="twitter:title" content="ZooBerry">
 <meta name="twitter:description" content="">
 
@@ -63,7 +63,7 @@
         <meta property="article:author" content="" >
     
 
-<meta property="og:url" content="https://www.zooberry.org/mods/zt2/tags/living/" >
+<meta property="og:url" content="http://localhost:1313/mods/zt2/tags/living/" >
 
 
 
@@ -428,7 +428,88 @@
 
 
 
-
+<input type="text" id="search-box" placeholder="Search mods...">
+<ul id="search-results"></ul>
+<script>
+    let searchIndex;
+  
+    
+    fetch('/index.json')
+      .then(response => response.json())
+      .then(data => {
+        console.log('Fetched JSON data:', data);
+  
+        
+        searchIndex = lunr(function () {
+          this.ref('url');
+          this.field('title');
+  
+          data.forEach(doc => {
+            console.log('Adding document to index:', doc);
+            this.add({
+              title: doc.title.toLowerCase(), 
+              url: doc.url
+            });
+          });
+        });
+  
+        console.log('Lunr.js index initialized:', searchIndex);
+  
+        
+        window.searchDocs = data.reduce((acc, doc) => {
+          acc[doc.url] = doc;
+          return acc;
+        }, {});
+      })
+      .catch(error => console.error('Error fetching or processing JSON:', error));
+  
+    document.getElementById('search-box').addEventListener('input', function () {
+      const query = this.value.trim().toLowerCase();
+      const resultsContainer = document.getElementById('search-results');
+      resultsContainer.innerHTML = ''; 
+  
+      if (query.length === 0 || !searchIndex) return;
+  
+      
+      const results = searchIndex.search(`${query}*`).slice(0, 10);
+      console.log('Search results:', results);
+  
+      results.forEach(result => {
+        
+        const doc = window.searchDocs[result.ref]; 
+        console.log('Matching document:', doc);
+  
+        const link = document.createElement('a');
+        link.href = doc.url;
+        link.textContent = doc.title;
+  
+        const listItem = document.createElement('li');
+        listItem.appendChild(link);
+        resultsContainer.appendChild(listItem);
+      });
+    });
+  </script>
+  
+    
+  <style>
+    #search-results {
+        list-style-type: none;
+        padding: 0;
+      }
+      
+      #search-results li {
+        margin: 5px 0;
+      }
+      
+      #search-results a {
+        text-decoration: none;
+        color: #fff;
+      }
+      
+      #search-results a:hover {
+        text-decoration: underline;
+      }
+  </style>
             </header>
               
 
@@ -546,7 +627,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/liger/">Liger</a></h2>
@@ -557,7 +638,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/lupin12">Lupin12</a>
+                                        <a href="http://localhost:1313/authors/lupin12">Lupin12</a>
                                     
                                 
                             
@@ -595,7 +676,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/north-american-cougar/">North American Cougar</a></h2>
@@ -606,7 +687,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/scooby">Scooby</a>
+                                        <a href="http://localhost:1313/authors/scooby">Scooby</a>
                                     
                                 
                             
@@ -644,7 +725,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/borneo-clouded-leopard/">Borneo Clouded Leopard</a></h2>
@@ -655,7 +736,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/stormy">Stormy</a>
+                                        <a href="http://localhost:1313/authors/stormy">Stormy</a>
                                     
                                 
                             
@@ -693,7 +774,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/dalls-purpoise/">Dall&#39;s Porpoise</a></h2>
@@ -704,7 +785,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/stormy">Stormy</a>
+                                        <a href="http://localhost:1313/authors/stormy">Stormy</a>
                                     
                                 
                             
@@ -742,7 +823,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/great-plains-wolf/">Great Plains Wolf</a></h2>
@@ -753,7 +834,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/stormy">Stormy</a>
+                                        <a href="http://localhost:1313/authors/stormy">Stormy</a>
                                     
                                 
                             
@@ -791,7 +872,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/whitetip-reef-shark/">Whitetip Reef Shark</a></h2>
@@ -802,7 +883,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/stormy">Stormy</a>
+                                        <a href="http://localhost:1313/authors/stormy">Stormy</a>
                                     
                                 
                             
@@ -840,7 +921,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/yellow-footed-rock-wallaby-ii/">Yellow-Footed Rock Wallaby II</a></h2>
@@ -851,7 +932,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/stormy">Stormy</a>
+                                        <a href="http://localhost:1313/authors/stormy">Stormy</a>
                                     
                                 
                             
@@ -889,7 +970,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/adelie-penguin/">Adelie Penguin</a></h2>
@@ -900,7 +981,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/penguinman">Penguinman</a> and <a href="https://www.zooberry.org/authors/electric-eel">Electric Eel</a>
+                                        <a href="http://localhost:1313/authors/penguinman">Penguinman</a> and <a href="http://localhost:1313/authors/electric-eel">Electric Eel</a>
                                     
                                 
                             
@@ -938,7 +1019,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/african-leopard-ii/">African Leopard II</a></h2>
@@ -949,7 +1030,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/silesiantomcat">SilesianTomcat</a>
+                                        <a href="http://localhost:1313/authors/silesiantomcat">SilesianTomcat</a>
                                     
                                 
                             
@@ -987,7 +1068,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/african-leopard-ii-es/">African Leopard II (ES Version)</a></h2>
@@ -998,7 +1079,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/silesiantomcat">SilesianTomcat</a>
+                                        <a href="http://localhost:1313/authors/silesiantomcat">SilesianTomcat</a>
                                     
                                 
                             
@@ -1036,7 +1117,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/american-alligator/">American Alligator</a></h2>
@@ -1047,7 +1128,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/silesiantomcat">SilesianTomcat</a>
+                                        <a href="http://localhost:1313/authors/silesiantomcat">SilesianTomcat</a>
                                     
                                 
                             
@@ -1085,7 +1166,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/american-alligator-es/">American Alligator (ES Version)</a></h2>
@@ -1096,7 +1177,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/silesiantomcat">SilesianTomcat</a>
+                                        <a href="http://localhost:1313/authors/silesiantomcat">SilesianTomcat</a>
                                     
                                 
                             
@@ -1134,7 +1215,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/amur-leopard-ii/">Amur Leopard II</a></h2>
@@ -1145,7 +1226,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/silesiantomcat">SilesianTomcat</a>
+                                        <a href="http://localhost:1313/authors/silesiantomcat">SilesianTomcat</a>
                                     
                                 
                             
@@ -1183,7 +1264,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/amur-leopard-ii-es/">Amur Leopard II (ES Version)</a></h2>
@@ -1194,7 +1275,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/silesiantomcat">SilesianTomcat</a>
+                                        <a href="http://localhost:1313/authors/silesiantomcat">SilesianTomcat</a>
                                     
                                 
                             
@@ -1232,7 +1313,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/andean-flamingo/">Andean Flamingo</a></h2>
@@ -1243,7 +1324,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/silesiantomcat">SilesianTomcat</a>
+                                        <a href="http://localhost:1313/authors/silesiantomcat">SilesianTomcat</a>
                                     
                                 
                             
@@ -1281,7 +1362,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/andean-flamingo-es/">Andean Flamingo (ES Version)</a></h2>
@@ -1292,7 +1373,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/silesiantomcat">SilesianTomcat</a>
+                                        <a href="http://localhost:1313/authors/silesiantomcat">SilesianTomcat</a>
                                     
                                 
                             
@@ -1330,7 +1411,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/arabian-oryx/">Arabian Oryx</a></h2>
@@ -1341,7 +1422,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/silesiantomcat">SilesianTomcat</a>
+                                        <a href="http://localhost:1313/authors/silesiantomcat">SilesianTomcat</a>
                                     
                                 
                             
@@ -1379,7 +1460,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/arabian-oryx-es/">Arabian Oryx (ES Version)</a></h2>
@@ -1390,7 +1471,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/silesiantomcat">SilesianTomcat</a>
+                                        <a href="http://localhost:1313/authors/silesiantomcat">SilesianTomcat</a>
                                     
                                 
                             
@@ -1428,7 +1509,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/asian-lion/">Asian Lion</a></h2>
@@ -1439,7 +1520,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/silesiantomcat">SilesianTomcat</a>
+                                        <a href="http://localhost:1313/authors/silesiantomcat">SilesianTomcat</a>
                                     
                                 
                             
@@ -1477,7 +1558,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/asian-lion-es/">Asian Lion (ES Version)</a></h2>
@@ -1488,7 +1569,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/silesiantomcat">SilesianTomcat</a>
+                                        <a href="http://localhost:1313/authors/silesiantomcat">SilesianTomcat</a>
                                     
                                 
                             
@@ -1526,7 +1607,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/asiatic-black-bear-es/">Asiatic Black Bear (ES Version)</a></h2>
@@ -1537,7 +1618,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/silesiantomcat">SilesianTomcat</a>
+                                        <a href="http://localhost:1313/authors/silesiantomcat">SilesianTomcat</a>
                                     
                                 
                             
@@ -1575,7 +1656,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/asiatic-cheetah/">Asiatic Cheetah</a></h2>
@@ -1586,7 +1667,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/the-exibit">The Exibit</a>
+                                        <a href="http://localhost:1313/authors/the-exibit">The Exibit</a>
                                     
                                 
                             
@@ -1624,7 +1705,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/aye-aye/">Aye-Aye</a></h2>
@@ -1635,7 +1716,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/penguinman">Penguinman</a> and <a href="https://www.zooberry.org/authors/electric-eel">Electric Eel</a>
+                                        <a href="http://localhost:1313/authors/penguinman">Penguinman</a> and <a href="http://localhost:1313/authors/electric-eel">Electric Eel</a>
                                     
                                 
                             
@@ -1673,7 +1754,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/baringo-giraffe-es/">Baringo Giraffe (ES Version)</a></h2>
@@ -1684,7 +1765,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/silesiantomcat">SilesianTomcat</a>
+                                        <a href="http://localhost:1313/authors/silesiantomcat">SilesianTomcat</a>
                                     
                                 
                             
@@ -1722,7 +1803,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/bezoar-goat/">Bezoar Goat</a></h2>
@@ -1733,7 +1814,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/silesiantomcat">SilesianTomcat</a>
+                                        <a href="http://localhost:1313/authors/silesiantomcat">SilesianTomcat</a>
                                     
                                 
                             
@@ -1771,7 +1852,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/bezoar-goat-es/">Bezoar Goat (ES Version)</a></h2>
@@ -1782,7 +1863,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/silesiantomcat">SilesianTomcat</a>
+                                        <a href="http://localhost:1313/authors/silesiantomcat">SilesianTomcat</a>
                                     
                                 
                             
@@ -1820,7 +1901,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/black-and-white-ruffed-lemur/">Black and White Ruffed Lemur</a></h2>
@@ -1831,7 +1912,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/silesiantomcat">SilesianTomcat</a>
+                                        <a href="http://localhost:1313/authors/silesiantomcat">SilesianTomcat</a>
                                     
                                 
                             
@@ -1869,7 +1950,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/bobcat/">Bobcat</a></h2>
@@ -1880,7 +1961,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/penguinman">Penguinman</a> and <a href="https://www.zooberry.org/authors/zood">ZooD</a>
+                                        <a href="http://localhost:1313/authors/penguinman">Penguinman</a> and <a href="http://localhost:1313/authors/zood">ZooD</a>
                                     
                                 
                             
@@ -1918,7 +1999,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/brown-koala/">Brown Koala</a></h2>
@@ -1929,7 +2010,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/doooot">Doooot</a>
+                                        <a href="http://localhost:1313/authors/doooot">Doooot</a>
                                     
                                 
                             
@@ -1967,7 +2048,7 @@
                         <div class="box-card-mods-content">
                             <p>
                             
-                                <a href="https://www.zooberry.org//mods/zt2/tags/all">Zoo Tycoon 2</a>
+                                <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
                             
                             </p>
                         <h2><a href="/mods/zt2/animals/living/camargue-wild-horse/">Camargue Wild Horse</a></h2>
@@ -1978,7 +2059,7 @@
                                 
                                     
                                     
-                                        <a href="https://www.zooberry.org/authors/penguinman">Penguinman</a> and <a href="https://www.zooberry.org/authors/cochin007">Cochin007</a>
+                                        <a href="http://localhost:1313/authors/penguinman">Penguinman</a> and <a href="http://localhost:1313/authors/cochin007">Cochin007</a>
                                     
                                 
                             
@@ -13260,7 +13341,7 @@
         <h3>ZooBerry</h3>
         <ul>
             <li>Copyright 2025 Goosifer.IO</li>
-            <li>ZooBerry 2.1.1 last updated on 9 Jan 2025</li>
+            <li>ZooBerry 2.1.1 last updated on 10 Jan 2025</li>
             <li>ZooBerry Theme by Goosifer.IO</li>
             <li>Strawberry icon in logo and favicon by <a href="https://icons8.com/" title="Icons8">Icons8</a></li>
         </ul>

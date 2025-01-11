@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tom on ZooBerry</title>
-    <link>https://www.zooberry.org/authors/tom/</link>
+    <link>http://localhost:1313/authors/tom/</link>
     <description>Recent content in Tom on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Jun 2024 21:21:30 -0700</lastBuildDate>
-    <atom:link href="https://www.zooberry.org/authors/tom/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/authors/tom/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Congo Buffalo</title>
-      <link>https://www.zooberry.org/mods/zt2/animals/living/congo-buffalo/</link>
+      <link>http://localhost:1313/mods/zt2/animals/living/congo-buffalo/</link>
       <pubDate>Fri, 21 Jun 2024 21:21:30 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/animals/living/congo-buffalo/</guid>
+      <guid>http://localhost:1313/mods/zt2/animals/living/congo-buffalo/</guid>
       <description>A Congo Buffalo made by Tom.</description>
     </item>
   </channel>

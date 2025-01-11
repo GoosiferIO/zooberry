@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aquatic on ZooBerry</title>
-    <link>https://www.zooberry.org/mods/zt1/tags/aquatic/</link>
+    <link>http://localhost:1313/mods/zt1/tags/aquatic/</link>
     <description>Recent content in Aquatic on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Jan 2025 19:00:00 -0700</lastBuildDate>
-    <atom:link href="https://www.zooberry.org/mods/zt1/tags/aquatic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mods/zt1/tags/aquatic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Platypus</title>
-      <link>https://www.zooberry.org/mods/zt1/animals/living/platypus/</link>
+      <link>http://localhost:1313/mods/zt1/animals/living/platypus/</link>
       <pubDate>Wed, 08 Jan 2025 19:00:00 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/animals/living/platypus/</guid>
+      <guid>http://localhost:1313/mods/zt1/animals/living/platypus/</guid>
       <description>The platypus is a unique monotreme native to Australia, famous for its duck-bill, webbed feet, and egg-laying abilities.</description>
     </item>
     <item>
       <title>Southern Rockhopper Penguin</title>
-      <link>https://www.zooberry.org/mods/zt1/animals/living/rockhopper-penguin/</link>
+      <link>http://localhost:1313/mods/zt1/animals/living/rockhopper-penguin/</link>
       <pubDate>Wed, 08 Jan 2025 19:00:00 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/animals/living/rockhopper-penguin/</guid>
+      <guid>http://localhost:1313/mods/zt1/animals/living/rockhopper-penguin/</guid>
       <description>The Southern Rockhopper Penguin is a small, crested penguin known for its distinctive hopping movements and vibrant yellow crest feathers.</description>
     </item>
     <item>
       <title>Blue Marlin</title>
-      <link>https://www.zooberry.org/mods/zt1/animals/living/blue-marlin/</link>
+      <link>http://localhost:1313/mods/zt1/animals/living/blue-marlin/</link>
       <pubDate>Wed, 08 Jan 2025 04:00:00 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/animals/living/blue-marlin/</guid>
+      <guid>http://localhost:1313/mods/zt1/animals/living/blue-marlin/</guid>
       <description>The Blue Marlin is a fast and powerful fish, symbolizing strength and endurance in the ocean.</description>
     </item>
     <item>
       <title>Short-Finned Pilot Whale</title>
-      <link>https://www.zooberry.org/mods/zt1/animals/living/short-finned-pilot-whale/</link>
+      <link>http://localhost:1313/mods/zt1/animals/living/short-finned-pilot-whale/</link>
       <pubDate>Wed, 08 Jan 2025 04:00:00 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/animals/living/short-finned-pilot-whale/</guid>
+      <guid>http://localhost:1313/mods/zt1/animals/living/short-finned-pilot-whale/</guid>
       <description>The Short-Finned Pilot Whale is a highly social cetacean found in tropical and subtropical oceans worldwide.</description>
     </item>
     <item>
       <title>Primeval Abyssal Pack</title>
-      <link>https://www.zooberry.org/mods/zt1/expansive-packs/primeval-pack/</link>
+      <link>http://localhost:1313/mods/zt1/expansive-packs/primeval-pack/</link>
       <pubDate>Tue, 07 Jan 2025 15:00:00 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/expansive-packs/primeval-pack/</guid>
+      <guid>http://localhost:1313/mods/zt1/expansive-packs/primeval-pack/</guid>
       <description>The Primeval Abyssal Pack includes prehistoric animals, statues, and the Primeval Abyssal Aquarium.</description>
     </item>
     <item>
       <title>Halloween Collab Pack 2024</title>
-      <link>https://www.zooberry.org/mods/zt1/expansive-packs/halloween-collab-pack-2024/</link>
+      <link>http://localhost:1313/mods/zt1/expansive-packs/halloween-collab-pack-2024/</link>
       <pubDate>Thu, 31 Oct 2024 01:09:23 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/expansive-packs/halloween-collab-pack-2024/</guid>
+      <guid>http://localhost:1313/mods/zt1/expansive-packs/halloween-collab-pack-2024/</guid>
       <description>A small collaboration pack from a few Zoo Tycoon 1 designers which adds in various items, foliage and animals in order to make your zoo feel a bit more seasonal.</description>
     </item>
     <item>
       <title>Seekings of Depth</title>
-      <link>https://www.zooberry.org/mods/zt1/expansive-packs/seekings-of-depth/</link>
+      <link>http://localhost:1313/mods/zt1/expansive-packs/seekings-of-depth/</link>
       <pubDate>Thu, 10 Oct 2024 01:09:23 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/expansive-packs/seekings-of-depth/</guid>
+      <guid>http://localhost:1313/mods/zt1/expansive-packs/seekings-of-depth/</guid>
       <description>SeeKings of Depth is a mod pack that adds a variety of prehistoric sea creatures to Zoo Tycoon 1.</description>
     </item>
     <item>
       <title>Adelie Penguin</title>
-      <link>https://www.zooberry.org/mods/zt1/animals/living/adelie-penguin/</link>
+      <link>http://localhost:1313/mods/zt1/animals/living/adelie-penguin/</link>
       <pubDate>Tue, 08 Oct 2024 09:34:23 -0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/animals/living/adelie-penguin/</guid>
+      <guid>http://localhost:1313/mods/zt1/animals/living/adelie-penguin/</guid>
       <description>Found along the entire Antarctic coast, Adelie Penguins are one of the most southerly distributed seabirds and are among the most widely spread penguin species. This addition allows you to create a realistic and immersive Antarctic exhibit, giving your guests a unique glimpse into the lives of these fascinating birds in their icy habitat!</description>
     </item>
     <item>
       <title>Leatherback Turtle</title>
-      <link>https://www.zooberry.org/mods/zt1/animals/living/leatherback-turtle/</link>
+      <link>http://localhost:1313/mods/zt1/animals/living/leatherback-turtle/</link>
       <pubDate>Sun, 06 Oct 2024 01:34:23 +0700</pubDate>
-      <guid>https://www.zooberry.org/mods/zt1/animals/living/leatherback-turtle/</guid>
+      <guid>http://localhost:1313/mods/zt1/animals/living/leatherback-turtle/</guid>
       <description>Adds the leatherback turtle (Dermochelys coriacea) to your aquariums and marine parks.</description>
     </item>
   </channel>
