@@ -18,6 +18,12 @@ languages:
 - English
 summary: "Scenery buildings from AOE2. Eastern European, East Asia, Middle Eastern, New World and Western European"
 zt1tags: ["All", "Objects", "ZT1", "Buildings"]
+contents:
+- Eastern European Building
+- East Asian Building
+- Middle Eastern Building
+- New World Building
+- Western European Building
 ---
 
 Scenery buildings from AOE2. Eastern European, East Asia, Middle Eastern, New World and Western European.

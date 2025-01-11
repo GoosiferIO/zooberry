@@ -18,6 +18,15 @@ languages:
 - English
 summary: "A pack of trees."
 zt1tags: ["All", "Objects", "Foliage", "ZT1", "Packs"]
+contents:
+- Bamboo
+- Screw Pine
+- Coconut Palm
+- Mangrove
+- Rain Tree
+- Fire Tree
+- Large fruited Cassia
+- Saguaro Cactus
 ---
 
 Imported from Wildlife Park 1.

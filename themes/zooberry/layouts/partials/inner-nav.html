@@ -54,18 +54,18 @@
           this.ref('url'); 
           this.field('title');
           this.field('game');
-          this.field('mod_list_titles'); 
+          this.field('contents'); 
           this.field('author');
   
           data.forEach(doc => {
             console.log('Adding document to index:', doc);
   
-            // combine all mod list titles into a single string
-            const aggregatedTitles = doc.mod_list_titles.join(' ');
+            // combine all content into a single string
+            const aggregatedContents = doc.contents.join(' ');
             this.add({
-              title: doc.title.toLowerCase(),
-              url: doc.url,
-              mod_list_titles: aggregatedTitles.toLowerCase(), // Ensure case-insensitive search
+                title: doc.title.toLowerCase(),
+                url: doc.url,
+                contents: aggregatedContents.toLowerCase(), // Ensure case-insensitive search
                 game: doc.game.toLowerCase(),
                 author: doc.author.toLowerCase()
             });
@@ -136,13 +136,40 @@
         const author_span = document.createElement('span');
         author_span.textContent = `${author}`;
         link.appendChild(author_span);
-        
+
         // add the link to the search results
         const listItem = document.createElement('li');
+        
+        // if the string exists within 'contents', show the string under the list result
+        const matchingContents = doc.contents.filter(item => item.toLowerCase().includes(query));
+        if (matchingContents.length > 0) {
+            const sublist = document.createElement('ul');
+            sublist.className = 'sublist';
+            sublist.style.marginLeft = '16px'; // Indent sublist
+
+            // header for sublist
+            const contents_span = document.createElement('li');
+            contents_span.textContent = 'Found inside:';
+            contents_span.className = 'sublist-header';
+            sublist.appendChild(contents_span);
+
+            matchingContents.forEach(content => {
+                const subItem = document.createElement('li');
+                subItem.textContent = toProperCase(content); // Display in proper case
+                sublist.appendChild(subItem);
+            });
+
+
+            listItem.appendChild(sublist);
+
+            link.appendChild(sublist);
+
+        }
+
         listItem.appendChild(link);
         resultsContainer.appendChild(listItem);
-      });
-    });
+        
+        }); });
   </script>
   
   <style>
@@ -195,15 +222,41 @@
           #search-results a:hover {
             background-color: #f2f2f2;
           }
+
+          /* content list under search results */
+          #search-results .sublist {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            color: #666;
+          }
+
+          #search-results .sublist-header {
+            font-weight: bold;
+            margin-bottom: 5px;
+            display: block;
+            margin-left: 5px !important;
+            font-style: none !important;
+          }
+
+          /* sublist items */
+            #search-results .sublist li {
+                margin: 5px 0 0 20px;
+                display: list-item;
+                width: 100%;
+                font-style: italic;
+            }
           
           /* game name in search results */
             #search-results a span:first-child {
                 font-size: 0.8em;
-                color: #666;
+                color: #f5f5f5;
                 margin: 0 5px;
                 padding: 2px;
                 border-radius: 5px;
-                background-color: #f2f2f2;
+                background-color: #7bb4f5;
             }
 
             /* author in search results italic */

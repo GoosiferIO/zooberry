@@ -520,7 +520,7 @@ Cross Jellyfish
               url: doc.url,
               mod_list_titles: aggregatedTitles.toLowerCase(), 
                 game: doc.game.toLowerCase(),
-                author: doc.author ? doc.author.toLowerCase() : ''
+                author: doc.author.toLowerCase()
             });
           });
         });
@@ -529,7 +529,9 @@ Cross Jellyfish
   
         
         window.searchDocs = data.reduce((acc, doc) => {
-            acc[doc.url] = doc;
+            acc[doc.url] = {
+              ...doc, 
+            };
             return acc;
           }, {});
                 })
@@ -578,8 +580,16 @@ Cross Jellyfish
         
         const author = doc.author ? `by ${doc.author}` : '';
         
-        const game = doc.game === 'zoo tycoon 1' ? '[ZT1]' : doc.game === 'zoo tycoon 2' ? '[ZT2]' : '';
-        link.textContent = `${toProperCase(doc.title)} ${author} ${game}`; 
+        const game = doc.game === 'zoo tycoon 1' ? 'ZT1' : doc.game === 'zoo tycoon 2' ? 'ZT2' : '';
+        const span = document.createElement('span');
+        span.textContent = `${game}`;
+        link.appendChild(span);
+
+        
+        const author_span = document.createElement('span');
+        author_span.textContent = `${author}`;
+        link.appendChild(author_span);
+        
         
         const listItem = document.createElement('li');
         listItem.appendChild(link);
@@ -610,7 +620,7 @@ Cross Jellyfish
             display: none;
             list-style-type: none;
             padding: 10px;
-            margin: -3px 0 0;
+            margin: -4px 0 0;
             position: absolute; 
             top: 100%; 
             left: 0;
@@ -636,18 +646,29 @@ Cross Jellyfish
           }
           
           #search-results a:hover {
-            background-color: #b6b6b6; 
+            background-color: #f2f2f2;
           }
           
            
-            #search-results span {
+            #search-results a span:first-child {
                 font-size: 0.8em;
                 color: #666;
-                margin-top: 5px;
-                margin-left: 5px;
+                margin: 0 5px;
                 padding: 2px;
                 border-radius: 5px;
+                background-color: #f2f2f2;
             }
+
+             
+            #search-results a span:last-child {
+                font-size: 0.8em;
+                color: #666;
+                margin: 0 5px;
+                padding: 2px;
+                border-radius: 5px;
+                font-style: italic;
+            }
+
 
     div.inner-nav {
         display: flex !important;

@@ -18,6 +18,15 @@ languages:
 - English
 summary: "A pack of trees."
 zt1tags: ["All", "Objects", "Foliage", "ZT1", "Packs"]
+contents:
+- Poplar Tree
+- Oak Tree
+- Willow Tree
+- Birch Tree
+- Small Pine Tree
+- High Pine Tree
+- Large Pine Tree
+- Sequoia Tree
 ---
 
 Imported from Wildlife Park 1. 

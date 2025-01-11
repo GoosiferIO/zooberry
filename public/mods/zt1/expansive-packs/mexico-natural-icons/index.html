@@ -770,20 +770,20 @@ Zarawatto, August 17th, 2022
           this.ref('url'); 
           this.field('title');
           this.field('game');
-          this.field('mod_list_titles'); 
+          this.field('contents'); 
           this.field('author');
   
           data.forEach(doc => {
             console.log('Adding document to index:', doc);
   
             
-            const aggregatedTitles = doc.mod_list_titles.join(' ');
+            const aggregatedContents = doc.contents.join(' ');
             this.add({
-              title: doc.title.toLowerCase(),
-              url: doc.url,
-              mod_list_titles: aggregatedTitles.toLowerCase(), 
+                title: doc.title.toLowerCase(),
+                url: doc.url,
+                contents: aggregatedContents.toLowerCase(), 
                 game: doc.game.toLowerCase(),
-                author: doc.author ? doc.author.toLowerCase() : ''
+                author: doc.author.toLowerCase()
             });
           });
         });
@@ -792,7 +792,9 @@ Zarawatto, August 17th, 2022
   
         
         window.searchDocs = data.reduce((acc, doc) => {
-            acc[doc.url] = doc;
+            acc[doc.url] = {
+              ...doc, 
+            };
             return acc;
           }, {});
                 })
@@ -841,14 +843,49 @@ Zarawatto, August 17th, 2022
         
         const author = doc.author ? `by ${doc.author}` : '';
         
-        const game = doc.game === 'zoo tycoon 1' ? '[ZT1]' : doc.game === 'zoo tycoon 2' ? '[ZT2]' : '';
-        link.textContent = `${toProperCase(doc.title)} ${author} ${game}`; 
+        const game = doc.game === 'zoo tycoon 1' ? 'ZT1' : doc.game === 'zoo tycoon 2' ? 'ZT2' : '';
+        const span = document.createElement('span');
+        span.textContent = `${game}`;
+        link.appendChild(span);
+
+        
+        const author_span = document.createElement('span');
+        author_span.textContent = `${author}`;
+        link.appendChild(author_span);
+
         
         const listItem = document.createElement('li');
+        
+        
+        const matchingContents = doc.contents.filter(item => item.toLowerCase().includes(query));
+        if (matchingContents.length > 0) {
+            const sublist = document.createElement('ul');
+            sublist.className = 'sublist';
+            sublist.style.marginLeft = '16px'; 
+
+            
+            const contents_span = document.createElement('li');
+            contents_span.textContent = 'Found inside:';
+            contents_span.className = 'sublist-header';
+            sublist.appendChild(contents_span);
+
+            matchingContents.forEach(content => {
+                const subItem = document.createElement('li');
+                subItem.textContent = toProperCase(content); 
+                sublist.appendChild(subItem);
+            });
+
+
+            listItem.appendChild(sublist);
+
+            link.appendChild(sublist);
+
+        }
+
         listItem.appendChild(link);
         resultsContainer.appendChild(listItem);
-      });
-    });
+        
+        }); });
   </script>
   
   <style>
@@ -873,7 +910,7 @@ Zarawatto, August 17th, 2022
             display: none;
             list-style-type: none;
             padding: 10px;
-            margin: -3px 0 0;
+            margin: -4px 0 0;
             position: absolute; 
             top: 100%; 
             left: 0;
@@ -899,18 +936,55 @@ Zarawatto, August 17th, 2022
           }
           
           #search-results a:hover {
-            background-color: #b6b6b6; 
+            background-color: #f2f2f2;
           }
+
+           
+          #search-results .sublist {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            color: #666;
+          }
+
+          #search-results .sublist-header {
+            font-weight: bold;
+            margin-bottom: 5px;
+            display: block;
+            margin-left: 5px !important;
+            font-style: none !important;
+          }
+
+           
+            #search-results .sublist li {
+                margin: 5px 0 0 20px;
+                display: list-item;
+                width: 100%;
+                font-style: italic;
+            }
           
            
-            #search-results span {
+            #search-results a span:first-child {
                 font-size: 0.8em;
-                color: #666;
-                margin-top: 5px;
-                margin-left: 5px;
+                color: #f5f5f5;
+                margin: 0 5px;
                 padding: 2px;
                 border-radius: 5px;
+                background-color: #7bb4f5;
             }
+
+             
+            #search-results a span:last-child {
+                font-size: 0.8em;
+                color: #666;
+                margin: 0 5px;
+                padding: 2px;
+                border-radius: 5px;
+                font-style: italic;
+            }
+
 
     div.inner-nav {
         display: flex !important;

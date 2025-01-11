@@ -25,6 +25,12 @@ dependencies:
   url: /mods/zt1/tools-utilities/langza01/
   description: Required for descriptions to display correctly. This language file replaces the one in the download.
   external: false
+contents:
+- Myth Museum
+- Ponds
+- Rock Formations
+- Statue
+- Fountain
 ---
 
 Eagle One, Aqua Dragon, Loewenfrau, Sundance300, and Quivaz (designers from Zoo Keepers Lounge and Zoo Admin) created these objects with the myth theme. (Collectively known as the Mythical Design Team!)

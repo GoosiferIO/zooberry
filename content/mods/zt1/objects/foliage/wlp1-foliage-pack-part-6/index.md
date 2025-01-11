@@ -18,6 +18,15 @@ languages:
 - English
 summary: "Imported from Wildlife Park 1."
 zt1tags: ["All", "Objects", "Foliage", "ZT1", "Packs"]
+contents:
+- Fern
+- Bottle Palm
+- Croton
+- Agave
+- Organ Pipe Cactus
+- Reeds
+- Heather
+- Flower Bed-Cornsilk
 ---
 
 Imported from Wildlife Park 1.

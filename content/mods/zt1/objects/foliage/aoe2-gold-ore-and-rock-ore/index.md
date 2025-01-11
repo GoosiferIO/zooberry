@@ -18,6 +18,9 @@ languages:
 - English
 summary: "Rocks, Tile: Both are 1x1, Water placeable, Placeable at the bottom of a tank, Exhibit placeable(Animals don't feel happy or unhappy)"
 zt1tags: ["All", "Objects", "ZT1", "Rocks"]
+contents:
+- Gold Ore
+- Rock Ore
 ---
 
 Rocks, Tile: Both are 1x1, Water placeable, Placeable at the bottom of a tank, Exhibit placeable(Animals don't feel happy or unhappy)

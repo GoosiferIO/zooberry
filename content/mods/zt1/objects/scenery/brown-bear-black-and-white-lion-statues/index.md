@@ -18,6 +18,9 @@ languages:
 - English
 summary: "Six statues: 4x Brown Bear, 2x Lion Statues"
 zt1tags: ["All", "Objects", "ZT1", "Statues", "Scenery", "Packs"]
+contents:
+- Brown Bear Statue
+- Black & White Lion Statue
 ---
 
 Simple objects~ :D

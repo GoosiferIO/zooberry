@@ -19,6 +19,15 @@ languages:
 - English
 summary: "Summary of the Wlp1 Foliage Pack Part 5 project"
 zt1tags: ["All", "Objects", "Foliage", "ZT1", "Packs"]
+contents:
+- Cardones
+- Juniper
+- Rhododendron
+- Box Tree
+- Silver Draw Cypress
+- Thuja
+- Laurel
+- Rowan
 ---
 
 Imported from Wildlife Park 1.

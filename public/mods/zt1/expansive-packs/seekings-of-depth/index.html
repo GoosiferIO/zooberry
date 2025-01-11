@@ -603,7 +603,7 @@ Zarawatto, Mar 31th, 2023
               url: doc.url,
               mod_list_titles: aggregatedTitles.toLowerCase(), 
                 game: doc.game.toLowerCase(),
-                author: doc.author ? doc.author.toLowerCase() : ''
+                author: doc.author.toLowerCase()
             });
           });
         });
@@ -612,7 +612,9 @@ Zarawatto, Mar 31th, 2023
   
         
         window.searchDocs = data.reduce((acc, doc) => {
-            acc[doc.url] = doc;
+            acc[doc.url] = {
+              ...doc, 
+            };
             return acc;
           }, {});
                 })
@@ -661,8 +663,16 @@ Zarawatto, Mar 31th, 2023
         
         const author = doc.author ? `by ${doc.author}` : '';
         
-        const game = doc.game === 'zoo tycoon 1' ? '[ZT1]' : doc.game === 'zoo tycoon 2' ? '[ZT2]' : '';
-        link.textContent = `${toProperCase(doc.title)} ${author} ${game}`; 
+        const game = doc.game === 'zoo tycoon 1' ? 'ZT1' : doc.game === 'zoo tycoon 2' ? 'ZT2' : '';
+        const span = document.createElement('span');
+        span.textContent = `${game}`;
+        link.appendChild(span);
+
+        
+        const author_span = document.createElement('span');
+        author_span.textContent = `${author}`;
+        link.appendChild(author_span);
+        
         
         const listItem = document.createElement('li');
         listItem.appendChild(link);
@@ -693,7 +703,7 @@ Zarawatto, Mar 31th, 2023
             display: none;
             list-style-type: none;
             padding: 10px;
-            margin: -3px 0 0;
+            margin: -4px 0 0;
             position: absolute; 
             top: 100%; 
             left: 0;
@@ -719,18 +729,29 @@ Zarawatto, Mar 31th, 2023
           }
           
           #search-results a:hover {
-            background-color: #b6b6b6; 
+            background-color: #f2f2f2;
           }
           
            
-            #search-results span {
+            #search-results a span:first-child {
                 font-size: 0.8em;
                 color: #666;
-                margin-top: 5px;
-                margin-left: 5px;
+                margin: 0 5px;
                 padding: 2px;
                 border-radius: 5px;
+                background-color: #f2f2f2;
             }
+
+             
+            #search-results a span:last-child {
+                font-size: 0.8em;
+                color: #666;
+                margin: 0 5px;
+                padding: 2px;
+                border-radius: 5px;
+                font-style: italic;
+            }
+
 
     div.inner-nav {
         display: flex !important;
@@ -995,8 +1016,8 @@ Zarawatto, Mar 31th, 2023
 <h2 id="bonus-items">Bonus items</h2>
 <ul>
 <li><img src="https://cdn.goosifer.io/2.0/mods/zt1/expansive-packs/seekings-of-depth/images/post/PlaqXipha.png" alt="Xiphactinus"> Xiphactinus. Cretaceous, North America. This one is made to be a voracious eater! Take good care of them!</li>
-<li><img src="https://cdn.goosifer.io/2.0/mods/zt1/expansive-packs/seekings-of-depth/images/post/PlaqMegaJaw.png" alt="MegalodonJaws"> Megalodon Jaws. Neutral exhibit &amp; water placeable!</li>
-<li><img src="https://cdn.goosifer.io/2.0/mods/zt1/expansive-packs/seekings-of-depth/images/post/PlaqFossil.png" alt="FossilDisplay"> Fossil Display. Neutral exhibit &amp; water placeable!</li>
+<li><img src="https://cdn.goosifer.io/2.0/mods/zt1/expansive-packs/seekings-of-depth/images/post/PlaqMegaJaw.png" alt="Megalodon Jaws"> Megalodon Jaws. Neutral exhibit &amp; water placeable!</li>
+<li><img src="https://cdn.goosifer.io/2.0/mods/zt1/expansive-packs/seekings-of-depth/images/post/PlaqFossil.png" alt="Fossil Display"> Fossil Display. Neutral exhibit &amp; water placeable!</li>
 <li><img src="https://cdn.goosifer.io/2.0/mods/zt1/expansive-packs/seekings-of-depth/images/post/PlaqAmmon.png" alt="Ammonite"> Ammonite Display. Scenery item.</li>
 </ul>
 <h1 id="compatibility-guide">Compatibility Guide</h1>

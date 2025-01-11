@@ -40,6 +40,10 @@ mod_list:
     file_size: 228 KB
     uploaded: 2024-09-30
 zt1tags: ["All", "Animals", "ZT1", "Arthropods", "Prehistoric", "Foliage", "Packs", "Extinct", "Objects"]
+contents:
+  - Meganeura
+  - Pulmonoscorpius
+  - Archaeopteris
 ---
 
 Thanks for downloading Bug Mayhem!!!

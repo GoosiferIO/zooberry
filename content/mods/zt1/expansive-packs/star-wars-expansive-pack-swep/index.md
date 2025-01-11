@@ -16,6 +16,12 @@ languages:
 - English
 summary: "The Star Wars Expansion Pack includes a Jawa, Ewok, Wookie, Wampa Ice Creature, and a new observation area object."
 zt1tags: ["All", "ZT1", "Fictional", "Packs", "Scenery", "Animals", "Buildings", "Objects"]
+contents:
+- Jawa
+- Ewok
+- Wookie
+- Wampa Ice Creature
+- Observation Area Object
 ---
 
 The Star Wars Expansion Pack includes a Jawa, Ewok, Wookie, and the Wampa Ice Creature. It also features a new observation area object.  

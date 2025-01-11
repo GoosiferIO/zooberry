@@ -139,7 +139,28 @@ dependencies:
   url: /mods/zt1/tools-utilities/ui99/
   description: Required for the new location graphics and configurations to display properly.
   external: false
-  
+contents:
+- Nyctosaurus
+- Pterodaustro
+- Quetzalcoatlus
+- Tupandactylus
+- Dromaeosaurus
+- Gigantoraptor
+- Yi Qi
+- Megaraptor
+- Argentavis
+- Baptornis
+- Cuban Giant Owl
+- Titanis
+- Pelagornis
+- Albertosaurus
+- Daspletosaurus
+- Gorgosaurus
+- Guanlong
+- Nanuqsaurus
+- Tarbosaurus
+- Thanatotheristes
+- Yutyrannus
 ---
 
 Thanks for downloading Unlimited Feather Overload (U.F.O.)!
