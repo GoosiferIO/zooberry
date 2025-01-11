@@ -417,19 +417,14 @@
                 <i class="material-icons">menu</i>
             </button>
             <a href="/" title="ZooBerry" class="nav-logo"></a>
+            <div id="search-container" style="position: relative;">
+                <input type="text" id="search-box" placeholder="Search mods...">
+                <ul id="search-results"></ul>
+            </div>
         </ul>
     </nav>
 
-          <main>
-            <header>
-              
 
-
-
-
-
-<input type="text" id="search-box" placeholder="Search mods...">
-<ul id="search-results"></ul>
 <script>
     let searchIndex;
   
@@ -442,7 +437,7 @@
         
         searchIndex = lunr(function () {
           this.ref('url'); 
-          this.field('title'); 
+          this.field('title');
           this.field('mod_list_titles'); 
   
           data.forEach(doc => {
@@ -496,27 +491,66 @@
     });
   </script>
   
+  <style>
+    #search-container {
+        width: 100%;
+      }
+
+        #search-box {
+            width: 80%;
+            padding: 10px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            outline: none;
+        }
+      
+        #search-results {
+            list-style-type: none;
+            padding: 10px;
+            margin: -3px 0 0;
+            position: absolute; 
+            top: 100%; 
+            left: 0;
+            width: 80%;
+            background-color: #fff;
+            border-radius: 0 0 5px 5px;
+            z-index: 1000;
+            max-height: 300px;
+            overflow-y: auto; 
+            display: block; 
+          }
+          
+          #search-results li {
+            margin: 5px 0;
+            display: list-item; 
+          }
+          
+          #search-results a {
+            text-decoration: none;
+            color: var(--thead-bg);
+            display: block; 
+            padding: 5px;
+            background-color: transparent;
+          }
+          
+          #search-results a:hover {
+            background-color: #b6b6b6; 
+          }
+                              
+  </style>
+          <main>
+            <header>
+              
+
+
+
+
+
+  
   
     
-  <style>
-    #search-results {
-        list-style-type: none;
-        padding: 0;
-      }
-      
-      #search-results li {
-        margin: 5px 0;
-      }
-      
-      #search-results a {
-        text-decoration: none;
-        color: #fff;
-      }
-      
-      #search-results a:hover {
-        text-decoration: underline;
-      }
-  </style>
+
             </header>
               
 
