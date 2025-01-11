@@ -3,7 +3,7 @@ title: "Atlantean Fountain Asset Pack"
 has_author: true
 author: 
 - Goosifer
-game: Any
+game: Assets
 exp_req: 
 file_size: 12.58 MB
 file_date: 2023-08-15

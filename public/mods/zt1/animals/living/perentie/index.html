@@ -460,6 +460,7 @@ Eats insectivore chow (introduced in DD). DD is required for the food to work. i
         searchIndex = lunr(function () {
           this.ref('url'); 
           this.field('title');
+          this.field('game');
           this.field('mod_list_titles'); 
   
           data.forEach(doc => {
@@ -470,7 +471,8 @@ Eats insectivore chow (introduced in DD). DD is required for the food to work. i
             this.add({
               title: doc.title.toLowerCase(),
               url: doc.url,
-              mod_list_titles: aggregatedTitles.toLowerCase() 
+              mod_list_titles: aggregatedTitles.toLowerCase(), 
+                game: doc.game.toLowerCase()
             });
           });
         });
@@ -479,10 +481,12 @@ Eats insectivore chow (introduced in DD). DD is required for the food to work. i
   
         
         window.searchDocs = data.reduce((acc, doc) => {
-          acc[doc.url] = doc;
-          return acc;
-        }, {});
-      })
+            acc[doc.url] = {
+              ...doc, 
+            };
+            return acc;
+          }, {});
+                })
       .catch(error => console.error('Error fetching or processing JSON:', error));
   
     
@@ -527,6 +531,16 @@ Eats insectivore chow (introduced in DD). DD is required for the food to work. i
         const listItem = document.createElement('li');
         listItem.appendChild(link);
         resultsContainer.appendChild(listItem);
+
+        
+        const game = document.createElement('span');
+        game.textContent = doc.game;
+        game.style.fontSize = '0.8em';
+        game.style.color = '#666';
+        game.style.display = 'block';
+        game.style.marginTop = '5px';
+        listItem.appendChild(game);
+        
       });
     });
   </script>
@@ -908,7 +922,7 @@ Eats insectivore chow (introduced in DD). DD is required for the food to work. i
         <h3>ZooBerry</h3>
         <ul>
             <li>Copyright 2025 Goosifer.IO</li>
-            <li>ZooBerry 2.1.1 last updated on 10 Jan 2025</li>
+            <li>ZooBerry 2.1.1 last updated on 11 Jan 2025</li>
             <li>ZooBerry Theme by Goosifer.IO</li>
             <li>Strawberry icon in logo and favicon by <a href="https://icons8.com/" title="Icons8">Icons8</a></li>
         </ul>

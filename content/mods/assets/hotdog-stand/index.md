@@ -3,7 +3,7 @@ title: "Hotdog Stand Assets"
 has_author: true
 author: 
 - Goosifer
-game: Any
+game: Assets
 exp_req: 
 file_size: 715 KB
 file_date: 2023-08-11

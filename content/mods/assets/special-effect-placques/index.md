@@ -2,7 +2,7 @@
 title: "Special Effect Plaques"
 author: 
 - Quivaz
-game: Any
+game: Assets
 exp_req:
 file_size: 1.95 MB
 orig_rel_date: 2006-05-29

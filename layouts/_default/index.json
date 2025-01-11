@@ -4,6 +4,7 @@
     {{- if $index }},{{ end }}
     {
       "title": {{ $page.Title | lower | jsonify }},
+      "game": {{ $page.Params.game | lower | jsonify }},
       "url": {{ $page.Permalink | jsonify }},
       {{- if isset $page.Params "mod_list" -}}
       "mod_list_titles": [

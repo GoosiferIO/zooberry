@@ -442,20 +442,24 @@ Artwork from Bunyupy&rsquo;s Projects
                 <i class="material-icons">menu</i>
             </button>
             <a href="/" title="ZooBerry" class="nav-logo"></a>
+            <div id="search-container" style="position: relative;">
+                <input type="text" id="search-box" placeholder="Search mods...">
+                <ul id="search-results"></ul>
+            </div>
         </ul>
     </nav>
 
-          <main>
-            <header>
-              
 
-
-
-
-
-<input type="text" id="search-box" placeholder="Search mods...">
-<ul id="search-results"></ul>
 <script>
+    document.addEventListener('DOMContentLoaded', function () {
+        
+        const searchBox = document.getElementById('search-box');
+        const resultsContainer = document.getElementById('search-results');
+      
+        searchBox.value = ''; 
+        resultsContainer.innerHTML = ''; 
+      });
+
     let searchIndex;
   
     
@@ -466,14 +470,21 @@ Artwork from Bunyupy&rsquo;s Projects
   
         
         searchIndex = lunr(function () {
-          this.ref('url');
+          this.ref('url'); 
           this.field('title');
+          this.field('game');
+          this.field('mod_list_titles'); 
   
           data.forEach(doc => {
             console.log('Adding document to index:', doc);
+  
+            
+            const aggregatedTitles = doc.mod_list_titles.join(' ');
             this.add({
-              title: doc.title.toLowerCase(), 
-              url: doc.url
+              title: doc.title.toLowerCase(),
+              url: doc.url,
+              mod_list_titles: aggregatedTitles.toLowerCase(), 
+                game: doc.game.toLowerCase()
             });
           });
         });
@@ -482,26 +493,47 @@ Artwork from Bunyupy&rsquo;s Projects
   
         
         window.searchDocs = data.reduce((acc, doc) => {
-          acc[doc.url] = doc;
-          return acc;
-        }, {});
-      })
+            acc[doc.url] = {
+              ...doc, 
+            };
+            return acc;
+          }, {});
+                })
       .catch(error => console.error('Error fetching or processing JSON:', error));
   
+    
     document.getElementById('search-box').addEventListener('input', function () {
       const query = this.value.trim().toLowerCase();
       const resultsContainer = document.getElementById('search-results');
       resultsContainer.innerHTML = ''; 
-  
-      if (query.length === 0 || !searchIndex) return;
+    
+      
+      if (query.length === 0 || !searchIndex) {
+        resultsContainer.style.display = 'none';
+        return;
+      }
+
+        resultsContainer.style.display = 'block';
   
       
-      const results = searchIndex.search(`${query}*`).slice(0, 10);
+      const exactMatchResults = searchIndex.search(query);
+      const partialResults = searchIndex.search(`*${query}*`)
+      
+      const results = [...new Map([...exactMatchResults, ...partialResults].map(item => [item.ref, item])).values()];
       console.log('Search results:', results);
+
+    
+    if (results.length === 0) {
+        const listItem = document.createElement('li');
+        listItem.textContent = 'No results found';
+        resultsContainer.appendChild(listItem);
+        return;
+    }
+
   
-      results.forEach(result => {
+    results.slice(0, 10).forEach(result => {
         
-        const doc = window.searchDocs[result.ref]; 
+        const doc = window.searchDocs[result.ref];
         console.log('Matching document:', doc);
   
         const link = document.createElement('a');
@@ -511,30 +543,91 @@ Artwork from Bunyupy&rsquo;s Projects
         const listItem = document.createElement('li');
         listItem.appendChild(link);
         resultsContainer.appendChild(listItem);
+
+        
+        const game = document.createElement('span');
+        game.textContent = doc.game;
+        game.style.fontSize = '0.8em';
+        game.style.color = '#666';
+        game.style.display = 'block';
+        game.style.marginTop = '5px';
+        listItem.appendChild(game);
+        
       });
     });
   </script>
   
-    
   <style>
-    #search-results {
-        list-style-type: none;
-        padding: 0;
+    #search-container {
+        width: 100%;
       }
+
+        #search-box {
+            width: 80%;
+            padding: 10px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            outline: none;
+        }
+
+        #search-box:hover {
+            background-color: #f2f2f2;
+        }
       
-      #search-results li {
-        margin: 5px 0;
-      }
-      
-      #search-results a {
-        text-decoration: none;
-        color: #fff;
-      }
-      
-      #search-results a:hover {
-        text-decoration: underline;
-      }
+        #search-results {
+            display: none;
+            list-style-type: none;
+            padding: 10px;
+            margin: -3px 0 0;
+            position: absolute; 
+            top: 100%; 
+            left: 0;
+            width: 80%;
+            background-color: #fff;
+            border-radius: 0 0 5px 5px;
+            z-index: 1000;
+            max-height: 300px;
+            overflow-y: auto; 
+          }
+          
+          #search-results li {
+            margin: 5px 0;
+            display: list-item; 
+          }
+          
+          #search-results a {
+            text-decoration: none;
+            color: var(--thead-bg);
+            display: block; 
+            padding: 5px;
+            background-color: transparent;
+          }
+          
+          #search-results a:hover {
+            background-color: #b6b6b6; 
+          }
+
+    div.inner-nav {
+        display: flex !important;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 0;
+    }
+                              
   </style>
+          <main>
+            <header>
+              
+
+
+
+
+
+  
+  
+    
+
             </header>
               
   
@@ -845,7 +938,7 @@ Artwork from Bunyupy&rsquo;s Projects
         <h3>ZooBerry</h3>
         <ul>
             <li>Copyright 2025 Goosifer.IO</li>
-            <li>ZooBerry 2.1.1 last updated on 10 Jan 2025</li>
+            <li>ZooBerry 2.1.1 last updated on 11 Jan 2025</li>
             <li>ZooBerry Theme by Goosifer.IO</li>
             <li>Strawberry icon in logo and favicon by <a href="https://icons8.com/" title="Icons8">Icons8</a></li>
         </ul>
