@@ -468,12 +468,27 @@
       const query = this.value.trim().toLowerCase();
       const resultsContainer = document.getElementById('search-results');
       resultsContainer.innerHTML = ''; 
-  
-      if (query.length === 0 || !searchIndex) return;
+    
+      
+      if (query.length === 0 || !searchIndex) {
+        resultsContainer.style.display = 'none';
+        return;
+      }
+
+        resultsContainer.style.display = 'block';
   
       
-      const results = searchIndex.search(`${query}*`).slice(0, 10); 
+      const results = searchIndex.search(`*${query}*`).slice(0, 10); 
       console.log('Search results:', results);
+
+    
+    if (results.length === 0) {
+        const listItem = document.createElement('li');
+        listItem.textContent = 'No results found';
+        resultsContainer.appendChild(listItem);
+        return;
+    }
+
   
       results.forEach(result => {
         
@@ -506,6 +521,7 @@
         }
       
         #search-results {
+            display: flex;
             list-style-type: none;
             padding: 10px;
             margin: -3px 0 0;
@@ -537,6 +553,13 @@
           #search-results a:hover {
             background-color: #b6b6b6; 
           }
+
+    div.inner-nav {
+        display: flex !important;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 0;
+    }
                               
   </style>
           <main>
