@@ -2,7 +2,7 @@
 title: "Empty ZT & DD Statue Bases"
 author: 
 - Quivaz
-game: Any
+game: Assets
 exp_req:
 file_size: 71.7 KB
 orig_rel_date: 2006-05-29

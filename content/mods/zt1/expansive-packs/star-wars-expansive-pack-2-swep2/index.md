@@ -19,6 +19,16 @@ languages:
 - English
 summary: "SWEP2 adds new Star Wars-themed content, including an updated Jawa, R2D2, Sandcrawler, and various statues and buildings."
 zt1tags: ["All", "ZT1", "Fictional", "Packs", "Scenery", "Buildings", "Animals", "Objects", "Statues"]
+contents:
+- Jawa
+- R2D2
+- Sandcrawler
+- Snow Walker
+- Imperial Palace
+- Jedi Temple
+- Service Droids
+- X-Wing Statue
+- Rotating C3PO Statue
 ---
 
 SWEP2 adds more Star Wars-themed content to your zoo, including:  

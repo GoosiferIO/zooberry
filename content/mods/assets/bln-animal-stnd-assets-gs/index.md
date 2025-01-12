@@ -7,7 +7,7 @@ draft: false
 exp_req: null
 file_date: 2023-01-17
 file_size: 4.33 MB
-game: Any
+game: Assets
 has_author: true
 languages: null
 license: 'Yes'

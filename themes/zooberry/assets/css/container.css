@@ -250,7 +250,7 @@ pre code {
   }
 
   .menu-button {
-    display: block;
+    display: flex !important;
   }
 
   .inner-nav {

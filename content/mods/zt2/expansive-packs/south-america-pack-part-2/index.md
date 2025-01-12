@@ -16,6 +16,10 @@ orig_rel_date: 2006-05-16
 summary: Additional items for the South America theme, including a Tinamou and Incan objects.
 title: South America Pack Part 2
 zt2tags: ["All", "ZT2", "Packs", "South American", "Objects", "Theme Packs", "Benches", "Fountains", "Animals", "Birds", "Living"]
+contents:
+- Elegant Crested Tinamou  
+- Incan Bench  
+- Incan Fountain  
 ---
 This pack is a continuation of the South America theme, made by Acapella.
 

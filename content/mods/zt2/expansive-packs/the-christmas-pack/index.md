@@ -22,6 +22,20 @@ summary: Merry Christmas! The Christmas Pack is a collection of mods for Zoo Tyc
   2 that expound a winter theme.
 title: The Christmas Pack
 zt2tags: ["All", "ZT2", "Expansive Packs", "Holidays", "Christmas", "Fictional", "Ungulates", "Foliage", "Buildings", "Scenery", "Fences", "Paths", "Benches", "Music Rocks", "Staff Reskins"]
+contents:
+- Christmas Reindeer
+- Christmas Flower
+- High Christmas Tree
+- Medium Christmas Tree
+- Low Christmas Tree
+- Christmas Diner
+- Christmas Bench
+- Christmas Carol Music Rock
+- Christmas Fence
+- Low Christmas Fence
+- Windowed Christmas Fence
+- Christmas Path
+- Elf Re-skin for the Staff
 ---
 Merry Christmas! The Christmas Pack is a collection of mods for Zoo Tycoon 2 that expound a winter theme.
 

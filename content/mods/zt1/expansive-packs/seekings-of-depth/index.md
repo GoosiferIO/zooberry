@@ -131,6 +131,23 @@ dependencies:
   url: /mods/zt1/tools-utilities/ui99/
   description: Required for the new location graphics and configurations to display properly.
   external: false
+contents:
+- Cladoselache
+- Orthacanthus
+- Stethacanthus
+- Edestus
+- Xenacanthus
+- Helicoprion
+- Hybodus
+- Ptychodus
+- Ginsu Shark
+- Schizorhiza
+- Onchopristis
+- Megalodon
+- Xiphactinus
+- Megalodon Jaws
+- Fossil Display
+- Ammonite
 ---
 # SeeKings of Depth
  🦈🦈 
@@ -167,8 +184,8 @@ You gonna need Borsato's ui99ztd + LANG--ZBorsato.dll Hack in order to see all a
 
 ## Bonus items
 - ![Xiphactinus]({{<cdn>}}mods/zt1/expansive-packs/seekings-of-depth/images/post/PlaqXipha.png) Xiphactinus. Cretaceous, North America. This one is made to be a voracious eater! Take good care of them! 
-- ![MegalodonJaws]({{<cdn>}}mods/zt1/expansive-packs/seekings-of-depth/images/post/PlaqMegaJaw.png) Megalodon Jaws. Neutral exhibit & water placeable! 
-- ![FossilDisplay]({{<cdn>}}mods/zt1/expansive-packs/seekings-of-depth/images/post/PlaqFossil.png) Fossil Display. Neutral exhibit & water placeable! 
+- ![Megalodon Jaws]({{<cdn>}}mods/zt1/expansive-packs/seekings-of-depth/images/post/PlaqMegaJaw.png) Megalodon Jaws. Neutral exhibit & water placeable! 
+- ![Fossil Display]({{<cdn>}}mods/zt1/expansive-packs/seekings-of-depth/images/post/PlaqFossil.png) Fossil Display. Neutral exhibit & water placeable! 
 - ![Ammonite]({{<cdn>}}mods/zt1/expansive-packs/seekings-of-depth/images/post/PlaqAmmon.png) Ammonite Display. Scenery item. 
 
 # Compatibility Guide

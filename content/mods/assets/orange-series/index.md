@@ -2,7 +2,7 @@
 title: "Orange Series Icons"
 author: 
 - Quivaz
-game: Any
+game: Assets
 exp_req:
 file_size: 13.6 KB
 orig_rel_date: 2006-05-29

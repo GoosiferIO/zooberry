@@ -30,20 +30,6 @@
       <description></description>
     </item>
     <item>
-      <title>Biomes</title>
-      <link>https://www.zooberry.org/tags/biomes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/biomes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Enrichment</title>
-      <link>https://www.zooberry.org/tags/enrichment/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/enrichment/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Foliage</title>
       <link>https://www.zooberry.org/tags/foliage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -55,6 +41,20 @@
       <link>https://www.zooberry.org/tags/land-foliage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/tags/land-foliage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trees</title>
+      <link>https://www.zooberry.org/tags/trees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/tags/trees/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Animal-Shelters</title>
+      <link>https://www.zooberry.org/tags/animal-shelters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/tags/animal-shelters/</guid>
       <description></description>
     </item>
     <item>
@@ -72,97 +72,6 @@
       <description></description>
     </item>
     <item>
-      <title>Trees</title>
-      <link>https://www.zooberry.org/tags/trees/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/trees/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Arches</title>
-      <link>https://www.zooberry.org/tags/arches/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/arches/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Elevated-Paths</title>
-      <link>https://www.zooberry.org/tags/elevated-paths/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/elevated-paths/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fences</title>
-      <link>https://www.zooberry.org/tags/fences/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/fences/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ground-Paths</title>
-      <link>https://www.zooberry.org/tags/ground-paths/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/ground-paths/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Packs</title>
-      <link>https://www.zooberry.org/tags/packs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/packs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Scenery</title>
-      <link>https://www.zooberry.org/tags/scenery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/scenery/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Signs</title>
-      <link>https://www.zooberry.org/tags/signs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/signs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Transportation</title>
-      <link>https://www.zooberry.org/tags/transportation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/transportation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Animal-Shelters</title>
-      <link>https://www.zooberry.org/tags/animal-shelters/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/animal-shelters/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Animal-Reskins</title>
-      <link>https://www.zooberry.org/tags/animal-reskins/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/animal-reskins/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dinosaurs</title>
-      <link>https://www.zooberry.org/tags/dinosaurs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/dinosaurs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Extinct</title>
-      <link>https://www.zooberry.org/tags/extinct/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/extinct/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Fountains</title>
       <link>https://www.zooberry.org/tags/fountains/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -177,6 +86,13 @@
       <description></description>
     </item>
     <item>
+      <title>Scenery</title>
+      <link>https://www.zooberry.org/tags/scenery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/tags/scenery/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Theme Packs</title>
       <link>https://www.zooberry.org/tags/theme-packs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -188,27 +104,6 @@
       <link>https://www.zooberry.org/tags/zt2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/tags/zt2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Animal-Food</title>
-      <link>https://www.zooberry.org/tags/animal-food/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/animal-food/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Building-Kits</title>
-      <link>https://www.zooberry.org/tags/building-kits/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/building-kits/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Uxp</title>
-      <link>https://www.zooberry.org/tags/uxp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/tags/uxp/</guid>
       <description></description>
     </item>
   </channel>

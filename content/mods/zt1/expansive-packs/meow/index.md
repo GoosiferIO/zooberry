@@ -128,7 +128,25 @@ dependencies:
   url: https://zootekphoenix.com/forums/files/file/4861-lang-fern-tek-dll-file/
   description: The shelter mod uses the Fancy Shelter ID from this file. Download it if you don't have it already.
   external: true
-  
+contents:
+- Siamese Cat
+- Bengal Cat
+- Bombay Cat
+- Egyptian Mau
+- Sphynx Cat
+- Maine Coon
+- Turkish Angora
+- Persian Cat
+- Norwegian Forest Cat
+- British Longhair
+- Ragdoll
+- Catnip
+- Sleeping Siamese Heart Box
+- Tidy Persian Fancy Couch
+- Playful Mau Scratching Post
+- Pleasant Sphynx Wood Platform
+- Norwegian Forest Family Tree
+- M.E.O.W. Headquarters
 ---
 
 Thanks for downloading **Mischievous Erradicators of Outside Wildlife (M.E.O.W.)**!!!

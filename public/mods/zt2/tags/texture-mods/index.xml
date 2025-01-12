@@ -9,6 +9,13 @@
     <lastBuildDate>Thu, 28 Nov 2024 20:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.zooberry.org/mods/zt2/tags/texture-mods/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Albino Pack Part 1</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-pack-p1/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-pack-p1/</guid>
+      <description>A pack featuring albino variants of various animals.</description>
+    </item>
+    <item>
       <title>Animal Reskins</title>
       <link>https://www.zooberry.org/mods/zt2/texture-mods/reskins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -21,6 +28,41 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/</guid>
       <description>Variant skins usually keep the original base skins but add new ones that can spawn in for additional variety.</description>
+    </item>
+    <item>
+      <title>Halloween Pack 1 - Superheroes</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/reskins/halloween-pack-1-superheros/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/reskins/halloween-pack-1-superheros/</guid>
+      <description>Reskins of animals featuring superhero themes.</description>
+    </item>
+    <item>
+      <title>Halloween Pack 2 - Classics</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/reskins/halloween-pack-2-classics/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/reskins/halloween-pack-2-classics/</guid>
+      <description>Reskins of animals featuring classic Halloween themes.</description>
+    </item>
+    <item>
+      <title>Halloween Pack 3 - Fun</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/reskins/halloween-pack-3-fun/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/reskins/halloween-pack-3-fun/</guid>
+      <description>Reskins of animals with fun and creative themes.</description>
+    </item>
+    <item>
+      <title>Halloween Pack 4 - Girly</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/reskins/halloween-pack-4-girly/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/reskins/halloween-pack-4-girly/</guid>
+      <description>Reskins of animals with girly and fantastical themes.</description>
+    </item>
+    <item>
+      <title>Halloween Pack 5 - Mickey and Minnie</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/reskins/halloween-pack-5/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/reskins/halloween-pack-5/</guid>
+      <description>Reskins of animals featuring Mickey and Minnie Mouse.</description>
     </item>
     <item>
       <title>Texture Mods</title>
@@ -91,6 +133,13 @@
       <pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/caracal-variants/</guid>
       <description>Two caracal variants: one with darker extremities and a tawnier look.</description>
+    </item>
+    <item>
+      <title>Caribou Reskin and Variants</title>
+      <link>https://www.zooberry.org/mods/zt2/texture-mods/reskins/caribou-reskin-and-variants/</link>
+      <pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/texture-mods/reskins/caribou-reskin-and-variants/</guid>
+      <description>A realistic reskin for the caribou, as well as 4 variants.</description>
     </item>
     <item>
       <title>Caribou Variant Skin Pack</title>
@@ -532,6 +581,13 @@
       <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/styracosaurus-variant-by-exitree/</guid>
       <description>This Styracosaurus variant was designed by Exitree for the Extinct Variant Contest at ZT2DC.</description>
+    </item>
+    <item>
+      <title>Charming Cretaceous</title>
+      <link>https://www.zooberry.org/mods/zt2/expansive-packs/charming-cretaceous/</link>
+      <pubDate>Mon, 20 Nov 2023 13:10:12 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/charming-cretaceous/</guid>
+      <description>A pack containing 15 Cretaceous era, JPOG styled dinosaurs.</description>
     </item>
     <item>
       <title>Purple Hippo&#39;s Reskins</title>

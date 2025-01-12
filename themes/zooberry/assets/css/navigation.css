@@ -52,15 +52,12 @@
 .nav-logo {
     display: block;
     flex-shrink: 0;
-    width: 110px;
+    width: calc(100% - 4rem);
     height: 41px;
     background: var(--logo) center 5px;
-    padding-bottom: 1rem;
     margin: 0 auto;
     padding: 0.5rem 2rem;
-    position: relative;
-    left: 1rem;
-    border-radius: 0.5rem;
+    transition: background 0.3s ease-in-out;
 }
 
 .nav-logo:hover {

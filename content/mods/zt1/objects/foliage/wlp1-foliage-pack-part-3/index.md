@@ -18,6 +18,15 @@ languages:
 - English
 summary: "A pack of trees."
 zt1tags: ["All", "Objects", "Foliage", "ZT1", "Packs"]
+contents:
+- Traveler's Palm
+- Chinese Windmill Palm
+- Banana Palm
+- Date Palm
+- Yucca
+- Eucalyptus
+- Almond Tree
+- Fig Tree
 ---
 Imported from Wildlife Park 1.
 

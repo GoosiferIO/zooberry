@@ -23,7 +23,9 @@ dependencies:
   url: /mods/zt1/tools-utilities/langza03/
   description: Required for descriptions to display correctly. This language file replaces the one in the download.
   external: false
-
+contents:
+- Fossil House
+- Deepsea Aquarium
 ---
 
 The Fossil House and the Deepsea Aquarium are researchable houses requiring DD and MM. After completing the research, you can choose from three different exhibits.  

@@ -19,6 +19,13 @@ orig_rel_date: 2011-11-19
 summary: The Amur leopard is one of nine recognised subspecies of leopard.
 title: Amur Leopard Mini Pack
 tags: ["animals", "foliage", "rocks", "animal-shelters", "shelters", "land-foliage"]
+zt2tags: ["All", "ZT2", "Animals", "Living", "Foliage", "Enrichment", "Shelters", "Packs", "Expansive Packs", "Felids", "Mammals"]
+contents:
+- Amur Leopard
+- Log
+- Mediterranean Cypress
+- Wooden Platform
+- Wooden Shelter
 ---
 The Amur leopard is one of nine recognised subspecies of leopard. The International Union for the Conservation of Nature has deemed the Amur leopard critically endangered, meaning that it is considered to face an extremely high risk of extinction in the wild. The coat is of a pale, cream color (especially in winter) and has widely spaced rosettes with thick, black rings and darkened centers. The length of the coat varies between 2.5 cm (1 in) in summer and 7.5 cm (3 in) in winter. The paler coat and longer fur of the Amur leopard make it distinct from other subspecies.
 

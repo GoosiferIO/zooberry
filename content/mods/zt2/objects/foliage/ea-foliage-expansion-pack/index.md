@@ -19,7 +19,17 @@ alt_text:
 languages:
 - English
 summary: "An EA foliage expansion pack by ShenTirag."
-
+contents:
+- Sacred Lotus
+- Rooibos
+- Norway Spruce
+- Kaki Persimmon
+- Honeybush
+- European Beech
+- Corn Poppy
+- Coontie
+- Common Bluebell
+- Butterfly Bush
 ---
 
 Included in this foliage pack are the following plants:

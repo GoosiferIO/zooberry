@@ -18,6 +18,25 @@ languages:
 - English
 summary: "Scenery pack with buildings from around the world."
 zt1tags: ["All", "Objects", "ZT1", "Scenery", "Buildings"]
+contents:
+- Aachen Cathedral
+- Temple of Heaven
+- Todai-Ji Temple
+- Maria Laach Abbey
+- Suleymaniye Mosque
+- Torre del Oro
+- Great Mosque of Samarra
+- Hwangnyong Temple
+- Arch of Augustus
+- Genghis Khan Tent
+- Borgund Stave Church
+- Temple of the Great Jaguar
+- Great Pyramid of Tenochtitlan
+- Hagia Sophia
+- Cathedral of Chartres
+- Rock of Cashel
+- Mausoleum of Theodoric
+- Taq-I Kisra Palace
 ---
 Part1
 

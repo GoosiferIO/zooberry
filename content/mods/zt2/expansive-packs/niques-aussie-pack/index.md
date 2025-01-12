@@ -18,7 +18,15 @@ orig_rel_at:
 orig_rel_date: 2007-04-27
 summary: Bring the Australian outback to your zoos with animals and unique foliage.
 title: Nique's Aussie Pack
-zt2tags: ["All", "ZT2", "Packs", "Objects", "Animals", "Foliage", "Oceania", "Marsupials", "Reptiles", "Mammals"]
+zt2tags: ["All", "ZT2", "Packs", "Objects", "Animals", "Foliage", "Oceania", "Marsupials", "Reptiles", "Mammals", "Living"]
+contents:
+- Spotted-tailed Quoll  
+- Perentie  
+- Striped Possum  
+- Scarlet Blaze Tree  
+- Tallerack  
+- Native Rosella  
+- Kangaroo Paw  
 ---
 G'Day! This pack includes:  
 **Animals**:  

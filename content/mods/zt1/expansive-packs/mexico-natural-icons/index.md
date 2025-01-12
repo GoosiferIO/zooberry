@@ -97,6 +97,22 @@ mod_list:
     category: Scenery
     file_size: 116 KB
     uploaded: 2024-10-06
+contents:
+- Xoloitzcuintle
+- Cacomistle
+- Sarahuato
+- Resplendent Quetzal
+- Western Diamondback Rattlesnake
+- Corn Smut Maize
+- Vanilla Orchid Tree
+- Cocoa Tree
+- Dragon Fruit Cactus Flowerbed
+- Tomato and Jalapeño Chinampa
+- Atlantic Horseshoe
+- Axolotl
+- Vampire Bat
+- Crested Lizard
+- Short Crested Coquette
 ---
 Thanks for downloading Mexico Natural Icons Pack!
 

@@ -2,7 +2,7 @@
 title: "Icon Background Design Series"
 author: 
 - Quivaz
-game: Any
+game: Assets
 exp_req:
 file_size: 172.3 KB
 orig_rel_date: 2006-05-29

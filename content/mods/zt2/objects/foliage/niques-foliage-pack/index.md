@@ -18,6 +18,14 @@ orig_rel_date: 2007-04-27
 summary: A vibrant foliage pack to brighten up your zoo.
 title: Nique's Foliage Pack
 zt2tags: ["All", "ZT2", "Objects", "Foliage", "Packs"]
+contents:
+- Sunflowers
+- Dwarf Banana Leaf
+- Dwarf Lady Fern
+- Lantana Bush
+- Golden Rod
+- Tulip Tree
+- Hibiscus
 ---
 Brighten up your exhibits and zoo grounds with this beautiful pack of foliage! Includes:  
 - 3 varieties of Sunflowers  

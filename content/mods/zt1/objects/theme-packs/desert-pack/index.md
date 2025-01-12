@@ -21,7 +21,11 @@ dependencies:
   url: /mods/zt1/tools-utilities/langza03/
   description: Required for descriptions to display correctly. This language file replaces the one in the download.
   external: false
-
+contents:
+- Desert Animal House
+- Desert Arch
+- Rock Observation Area
+- Tiled Observation Area
 ---
 
 The Desert Pack is the last project made by Quivaz as a Zoo Admin Designer. Casey deserves much credit for this pack as he was my Technical Adviser and Expert Programmer!  

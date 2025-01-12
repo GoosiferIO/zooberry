@@ -51,6 +51,13 @@
       <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
     </item>
     <item>
+      <title>Boreal Forest Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/expansive-packs/boreal-forest-pack/</link>
+      <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/boreal-forest-pack/</guid>
+      <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
+    </item>
+    <item>
       <title>Desert Pack</title>
       <link>https://www.zooberry.org/mods/zt2/expansive-packs/desert-pack/</link>
       <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
@@ -76,6 +83,13 @@
       <link>https://www.zooberry.org/mods/zt2/expansive-packs/scrub-pack/</link>
       <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/expansive-packs/scrub-pack/</guid>
+      <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
+    </item>
+    <item>
+      <title>Tundra Pack</title>
+      <link>https://www.zooberry.org/mods/zt2/expansive-packs/tundra-pack/</link>
+      <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/tundra-pack/</guid>
       <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
     </item>
     <item>
@@ -126,6 +140,20 @@
       <pubDate>Sat, 30 Dec 2023 17:10:39 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/objects/paths/tree-elevated-path-pack/</guid>
       <description>This pack contains 9 elevated paths, each made to resemble a tree from a different biome.</description>
+    </item>
+    <item>
+      <title>AVES</title>
+      <link>https://www.zooberry.org/mods/zt2/expansive-packs/aves/</link>
+      <pubDate>Wed, 15 Nov 2023 20:41:59 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/aves/</guid>
+      <description>An expansive user-made expansion pack made by the ZT ABC Team!</description>
+    </item>
+    <item>
+      <title>European Expeditions [Realistic]</title>
+      <link>https://www.zooberry.org/mods/zt2/expansive-packs/european-expeditions/</link>
+      <pubDate>Mon, 06 Nov 2023 02:33:26 -0800</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/expansive-packs/european-expeditions/</guid>
+      <description>A user-made expansion pack made by Hendrix!</description>
     </item>
   </channel>
 </rss>

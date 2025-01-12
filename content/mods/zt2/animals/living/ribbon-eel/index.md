@@ -21,7 +21,7 @@ orig_rel_date: 2011-07-09
 summary: Ribbon eels are aptly named for their delicate movements, as they swim like
   a slender ribbon dancing in the water column.
 title: Ribbon Eel
-zt2tags: ["All", "ZT2", "Animals", "Fish", "Living" , "Aquatic"]
+zt2tags: ["All", "ZT2", "Animals", "Fish", "Living" , "Aquatic", "Actinopterygii"]
 ---
 Ribbon eels are aptly named for their delicate movements, as they swim like a slender ribbon dancing in the water column. These colorful species are considered protandrous hermaphrodites, beginning life as a male, and as they mature, they switch sexes to female, developing female sex organs once ready to reproduce.
 

@@ -2,7 +2,7 @@
 title: "Empty MM Statue Bases"
 author: 
 - Quivaz
-game: Any
+game: Assets
 exp_req:
 file_size: 20.0 KB
 orig_rel_date: 2006-05-29

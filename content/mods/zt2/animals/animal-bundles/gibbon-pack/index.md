@@ -21,6 +21,10 @@ summary: A pack of three different gibbons to bring some variety to your zoos' p
   sections.
 title: Gibbon Pack
 zt2tags: ["All", "Animals", "Animal Bundles", "Mammals", "Primates"]
+contents:
+- Hollock Gibbon
+- Silvery Gibbon
+- White-Handed Gibbon
 ---
 A pack of three different gibbons to bring some variety to your zoos' primate sections.
 

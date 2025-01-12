@@ -117,7 +117,25 @@ dependencies:
   url: /mods/zt1/tools-utilities/ui99/
   description: Required for the new location graphics and configurations to display properly.
   external: false
-  
+contents:
+- Hynerpeton
+- Ichthyostega
+- Proterogyrinus
+- Eryops
+- Platyhystrix
+- Diploceraspis
+- Uralerpeton
+- Prionosuchus
+- Gerrothorax
+- Sclerothorax
+- Metoposaurus
+- Anaschisma
+- Antarctosuchus
+- Mastodonsaurus
+- Siderops
+- Beelzebufo
+- Swimming Tadpoles
+- Tiktaalik
 ---
 
 Thanks for downloading Toadally Batrocious Land Invaders!

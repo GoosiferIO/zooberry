@@ -41,6 +41,15 @@ dependencies:
   url: http://www.lunamanar.com/zklounge/viewtopic.php?t=816
   description: Required for text descriptions and other UI elements to display properly.
   external: true
+contents:
+- Wild Boar
+- Spooky Ghost Shark
+- Mysterious Bloop
+- Yellow Aspen
+- Golden Aspen
+- Small Pumpkin
+- Large Pumpkin
+- Haunted House
 ---
 # Halloween Collab Pack 2024
 

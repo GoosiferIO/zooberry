@@ -21,6 +21,16 @@ languages:
 - English
 summary: "A Pack containing four Arabian animals and Plants."
 tags: ["animals", "foliage", "trees", "land-foliage"]
+zt2tags: ["All", "ZT2", "Animals", "Living", "Foliage", "Foliage", "Packs", "Expansive Packs", "Felids", "Ungulates", "Birds", "Ursids", "Mammals"]
+contents:
+- Lammergeier
+- Syrian Brown Bear
+- Arabian Oryx
+- Persian Leopard
+- Syrian Juniper
+- Weeping Pear
+- Ghaf Tree
+- Jasmine Flower
 ---
 
 A Pack containing four Arabian animals and Plants.
@@ -35,7 +45,5 @@ The Pack Contains:
 - Persian Leopard.
 
 The Foliage is the Syrian Juniper, Weeping Pear, Ghaf Tree and Jasmine Flower.
-
-Download the pack
 
 To Install place the z2f file in `c:\Program Files\Microsoft Games\Zoo Tycoon 2`

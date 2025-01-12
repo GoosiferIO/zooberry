@@ -17,7 +17,12 @@ license: Unknown
 alt_text: 
 languages:
 summary: "A pack of variants for African Adventure made by Koala Komander!"
-
+zt2tags: ["All", "ZT2", "Packs", "Animal Variants", "Texture Mods"]
+contents:
+- Wildebeest Variant
+- African Spurred Tortoise Variant
+- Pygmy Hippopotamus Variant
+- Gelada Variant
 ---
 
 Part of the African Adventure Variant Pack made by Koala Komander. 

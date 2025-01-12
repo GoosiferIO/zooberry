@@ -29,7 +29,7 @@ alt_text:
 summary: "Embark upon an excursion to travel the oceans in search of tropical paradise! Discover the isles hiding within the Hawaiian Islands and Papua New Guinea, seeing such animals as the Hawaiian Monk Seal and the Northern Cassowary as they live in their lush and vibrant homes."
 languages:
 - English
-zt2tags: ["All", "Animals", "Foliage", "Scenery", "ZT2", "Packs", "Buildings", "Paths", "Fences", "Tables", "Benches", "Lamps", "Arches", "Food Stands", "Mammals", "Birds", "Reptiles", "Fish", "Invertebrates"]
+zt2tags: ["All", "Animals", "Foliage", "Scenery", "ZT2", "Packs", "Buildings", "Paths", "Fences", "Tables", "Benches", "Lamps", "Arches", "Food Stands", "Mammals", "Birds", "Reptiles", "Fish", "Invertebrates", "Objects", "Living", "Expansive Packs"]
 mod_list: 
   - name: Y IE Information
     title: Y IE Information
@@ -250,6 +250,81 @@ mod_list:
     file_size: 4.15 MB
     uploaded: 2024-10-04
     description: "These objects do not fit into either of the two themes, but will help you make a complete island zoo."
+contents:
+- Channel Island Fox
+- Hawaiian Monk Seal
+- Spotted Eagle Ray
+- Javan Langur
+- Southern Minke Whale
+- Sumatran Striped Rabbit
+- Visayan Warty
+- Visayan Spotted Deer
+- Tamaraw
+- Sulawesi Ground Dove
+- Sulawesi Palm Civet
+- Bornean Clouded Leopard
+- Borneo River Shark
+- Flatback Turtle
+- Spotted Cuscus
+- Northern Cassowary
+- Hector's Dolphin
+- Takahe
+- Speckled Longfin Eel
+- Sri Lankan Axis Deer
+- Aye-Aye
+- Dingiso
+- Falanouc
+- Lowland Streaked Tenrec
+- Cozumel Island Coati
+- Mahi-Mahi
+- Staghorn Coral
+- California Fan Palm
+- Dwarf Naupaka
+- Alula
+- Sugarcane
+- Pacific Orach
+- Giant Coreopsis
+- Firebird
+- Cuban Palmetto
+- Island Oak
+- Beardless Rabbitsfoot Grass
+- Yagua Palm
+- White Mangrove
+- Ellipticleaf Papala
+- Geiger Tree
+- Rafflesia
+- Java Fern
+- Java Moss
+- Malayan Sword
+- Royal Poinciana
+- Goethe Plant
+- New Guinea Palmyra Palm
+- Basket Fern
+- Gaharu
+- Swamp Lily
+- New Guinea Impatiens
+- Southern Rata
+- Cabbage Tree
+- Campbell Island Daisy
+- Ross Lily
+- Brain Coral
+- Giant Clam
+- Orange Puffball Sponge
+- Giant Kelp
+- Eelgrass
+- Green Sea Fingers
+- Kelp Grass
+- Cananga
+- Indian Gooseberry
+- Sampaguita
+- Kauyan Tinik
+- Zebrinae Orchid
+- Rainbow Eucalyptus
+- Tea Bush
+- Common Teak
+- Paths
+- Paradise Theme Scenery and Buildings
+- Underwater Theme Scenery and Buildings
 ---
 
 > We are preparing to embark upon an excursion to travel the oceans in search of tropical paradise! We hope to sail away into the tropics and discover the isles hiding within. The Hawaiian Islands and Papua New Guinea are just a few of the places we plan to explore, seeing such animals as the Hawaiian Monk Seal and the Northern Cassowary as they live in their lush and vibrant homes. We will be documenting our trips and showing you all of the wondrous plants and animals we see.

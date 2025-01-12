@@ -25,6 +25,10 @@ summary: The first part of our little project, contains the European Mouflon, th
   Highland Cow and the Shire Horse!
 title: European Pack I
 zt2tags: ["All", "Animals", "Animal Bundles", "Mammals", "Ungulates"]
+contents:
+- European Mouflon
+- Highland Cow
+- Shire Horse
 ---
 "The first part of our little project, contains the European Mouflon, the Highland Cow and the Shire Horse! Each animal has a variety of variants!"
 

@@ -16,6 +16,13 @@ languages:
 - English
 summary: "The Primeval Abyssal Pack includes prehistoric animals, statues, and the Primeval Abyssal Aquarium."
 zt1tags: ["All", "ZT1", "Extinct", "Aquatic", "Packs", "Scenery", "Buildings", "Animals", "Objects"]
+contents:
+- Belemnite
+- Ichthyosaur
+- Water Creature Statue
+- Lily Pond
+- Liopleurodon Statue
+- Primeval Abyssal Aquarium
 ---
 
 The Primeval Abyssal Pack includes:

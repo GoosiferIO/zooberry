@@ -20,7 +20,18 @@ orig_rel_at:
 orig_rel_date: 2006-07-27
 summary: Japanese macaques range through the forested mountains and highlands of Japan.
 title: Japanese Macaque Pack
-zt2tags: ["All", "ZT2", "Packs", "Primates", "Expansive Packs", "Animals", "Asian", "Foliage", "Objects", "Animal Enrichment", "Animal Food", "Signs", "Mammals"]
+zt2tags: ["All", "ZT2", "Packs", "Primates", "Expansive Packs", "Animals", "Asian", "Foliage", "Objects", "Animal Enrichment", "Animal Food", "Signs", "Mammals", "Shelters", "Scenery"]
+contents:
+- Japanese Macaque
+- Bloodgood Japanese Maple Tree
+- Japanese Andromeda Plant
+- Flowers (Animal Food)
+- Elevated Food Dish with Flowers
+- Food Dish with Flowers
+- Food Trough with Flowers
+- Substrate Pile with Flowers
+- Alpine Hot Springs Enrichment
+- Japanese Macaque Sign
 ---
 Japanese macaques range through the forested mountains and highlands of Japan. They occupy the northernmost regions of any nonhuman primate and are subject to large seasonal variation in climate, as is typical of northern latitudes. In the central and northern parts of Japan, temperatures can range from -15 C in the winter to 23 C in the summer. These large swings in temperature may explain why Japanese macaques have different home ranges in different seasons.
 

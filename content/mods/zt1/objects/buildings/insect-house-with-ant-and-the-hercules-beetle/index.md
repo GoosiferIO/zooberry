@@ -18,6 +18,9 @@ summary: "Scenery Objects, Tile:4x5, Water placeable, Exhibit placeable(Animals 
 languages:
 - English
 zt1tags: ["All", "Objects", "ZT1", "Buildings"]
+contents:
+- Insect House
+- Hercules Beetle
 ---
 
 Scenery Objects, Tile:4x5, Water placeable, Exhibit placeable (Animals don't feel happy or unhappy)

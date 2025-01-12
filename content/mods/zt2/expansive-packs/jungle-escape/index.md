@@ -19,7 +19,29 @@ orig_rel_at:
 orig_rel_date: 2024-11-18
 summary: Add an UXP containing several birds from different tropical regions. Objects fit perfectly with the default jungle theme.
 title: Jungle Escape
-zt2tags: ["All", "Animals", "Ambients", "Foliage", "Rocks", "Birds", "Reptiles", "Expansive Packs", "Packs", "ZT2", "Fences"]
+zt2tags: ["All", "Animals", "Ambients", "Foliage", "Rocks", "Birds", "Reptiles", "Expansive Packs", "Packs", "ZT2", "Fences", "Objects"]
+contents:
+- Turquoise-Fronted Amazon
+- Sulphur-Crested Cockatoo
+- New Zealand Kaka
+- Blue-and-Yellow Macaw
+- Hyacinth Macaw
+- Military Macaw
+- Scarlet Macaw
+- African Grey Parrot
+- Keel-Billed Toucan
+- Toco Toucan
+- Yellow-Throated Toucan
+- Spectacled Caiman
+- White-Winged Vampire Bat (Ambient)
+- Royal Mexican Tree Fern
+- Wax Palm
+- Big Rocks
+- Jungle Theme Small Fences with Window
+- Jungle Theme Aviary Fences
+- Jungle Theme Aviary Fences with Window
+- Jungle Theme Perch
+- Jungle Theme Nest Box
 ---
 # Content
 

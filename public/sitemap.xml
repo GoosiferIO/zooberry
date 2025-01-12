@@ -830,9 +830,6 @@
     <loc>https://www.zooberry.org/mods/zt2/tags/tools-utilities/</loc>
     <lastmod>2024-11-28T20:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/tools-and-utilities/</loc>
-    <lastmod>2024-11-28T20:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tools-utilities/</loc>
     <lastmod>2024-11-28T20:00:00+00:00</lastmod>
   </url><url>
@@ -2015,10 +2012,16 @@
     <loc>https://www.zooberry.org/mods/zt1/animals/living/leatherback-turtle/</loc>
     <lastmod>2024-10-06T01:34:23+07:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/cephalopods/</loc>
+    <lastmod>2024-10-05T17:09:23+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/expansive-packs/endless-ocean-luminous/</loc>
     <lastmod>2024-10-05T17:09:23+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/gamevideosforlife/</loc>
+    <lastmod>2024-10-05T17:09:23+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/invertebrates/</loc>
     <lastmod>2024-10-05T17:09:23+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/majorgalah/</loc>
@@ -2040,9 +2043,6 @@
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/food-stands/</loc>
-    <lastmod>2024-10-04T19:40:23+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/invertebrates/</loc>
     <lastmod>2024-10-04T19:40:23+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/expansive-packs/island-excursions/</loc>
@@ -2236,6 +2236,12 @@
   </url><url>
     <loc>https://www.zooberry.org/authors/burnt_gecko/</loc>
     <lastmod>2024-06-25T19:38:28-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/all-remakes/</loc>
+    <lastmod>2024-06-25T19:18:09-07:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/animal-remakes/</loc>
+    <lastmod>2024-06-25T19:18:09-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/expansive-packs/sharkpack-total-remake/</loc>
     <lastmod>2024-06-25T19:18:09-07:00</lastmod>
@@ -2450,12 +2456,6 @@
     <loc>https://www.zooberry.org/authors/themargay/</loc>
     <lastmod>2024-06-22T02:58:29-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/all-remakes/</loc>
-    <lastmod>2024-06-22T02:52:39-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/animal-remakes/</loc>
-    <lastmod>2024-06-22T02:52:39-07:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/remakes/animals/</loc>
     <lastmod>2024-06-22T02:52:39-07:00</lastmod>
   </url><url>
@@ -2516,34 +2516,16 @@
     <loc>https://www.zooberry.org/mods/zt2/maps/zoo-irvine/</loc>
     <lastmod>2024-06-21T23:24:22-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/expansive-packs/prehistoric-sharks-and-biome-pack/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/tags/biomes/</loc>
     <lastmod>2024-06-21T22:04:13-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/tags/animals/</loc>
-    <lastmod>2024-06-21T21:51:34-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/tags/biomes/</loc>
-    <lastmod>2024-06-21T21:51:34-07:00</lastmod>
+    <loc>https://www.zooberry.org/mods/zt2/expansive-packs/prehistoric-sharks-and-biome-pack/</loc>
+    <lastmod>2024-06-21T22:04:13-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/expansive-packs/bog-pack/</loc>
     <lastmod>2024-06-21T21:51:34-07:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/tags/enrichment/</loc>
-    <lastmod>2024-06-21T21:51:34-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/tags/foliage/</loc>
-    <lastmod>2024-06-21T21:51:34-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/tags/land-foliage/</loc>
-    <lastmod>2024-06-21T21:51:34-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/tags/rocks/</loc>
-    <lastmod>2024-06-21T21:51:34-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/tags/shelters/</loc>
-    <lastmod>2024-06-21T21:51:34-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/tags/trees/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/tags/enrichment/</loc>
     <lastmod>2024-06-21T21:51:34-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/lesser-mouse-deer/</loc>
@@ -2720,7 +2702,7 @@
     <loc>https://www.zooberry.org/mods/zt2/expansive-packs/alpine-pack/</loc>
     <lastmod>2024-01-17T13:28:26+00:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/tags/arches/</loc>
+    <loc>https://www.zooberry.org/mods/zt2/tags/australian/</loc>
     <lastmod>2024-01-17T13:28:26+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/baryonyx/</loc>
@@ -2741,19 +2723,10 @@
     <loc>https://www.zooberry.org/mods/zt2/objects/theme-packs/elements-pack/</loc>
     <lastmod>2024-01-17T13:28:26+00:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/tags/elevated-paths/</loc>
-    <lastmod>2024-01-17T13:28:26+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/tags/fences/</loc>
-    <lastmod>2024-01-17T13:28:26+00:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/authors/gibbon-fanatic/</loc>
     <lastmod>2024-01-17T13:28:26+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/expansive-packs/grassland-pack/</loc>
-    <lastmod>2024-01-17T13:28:26+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/tags/ground-paths/</loc>
     <lastmod>2024-01-17T13:28:26+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/jules/</loc>
@@ -2765,28 +2738,16 @@
     <loc>https://www.zooberry.org/mods/zt2/hacks/no-zoo-wall-hack/</loc>
     <lastmod>2024-01-17T13:28:26+00:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/tags/packs/</loc>
-    <lastmod>2024-01-17T13:28:26+00:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/expansive-packs/savannah-pack/</loc>
     <lastmod>2024-01-17T13:28:26+00:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/tags/scenery/</loc>
-    <lastmod>2024-01-17T13:28:26+00:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/expansive-packs/scrub-pack/</loc>
-    <lastmod>2024-01-17T13:28:26+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/tags/signs/</loc>
     <lastmod>2024-01-17T13:28:26+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/expansive-packs/temperate-forest-pack/</loc>
     <lastmod>2024-01-17T13:28:26+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/extinct/toxodon/</loc>
-    <lastmod>2024-01-17T13:28:26+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/tags/transportation/</loc>
     <lastmod>2024-01-17T13:28:26+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/expansive-packs/tundra-pack/</loc>
@@ -2814,9 +2775,6 @@
     <lastmod>2024-01-14T01:51:12+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tools-utilities/biome-shell/</loc>
-    <lastmod>2024-01-14T01:51:12+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/biomes/</loc>
     <lastmod>2024-01-14T01:51:12+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/biomes/</loc>
@@ -3062,10 +3020,16 @@
     <loc>https://www.zooberry.org/mods/zt2/expansive-packs/american-alligator-pack/</loc>
     <lastmod>2024-01-02T16:25:55+00:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/tags/animals/</loc>
+    <lastmod>2024-01-02T16:25:55+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/animal-bundles/extinctionless-dimension-pack/</loc>
     <lastmod>2024-01-02T16:25:55+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/flish/</loc>
+    <lastmod>2024-01-02T16:25:55+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/tags/foliage/</loc>
     <lastmod>2024-01-02T16:25:55+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/expansive-packs/ganges-river-dolphin-pack/</loc>
@@ -3074,10 +3038,16 @@
     <loc>https://www.zooberry.org/mods/zt2/objects/foliage/indian-mango-tree/</loc>
     <lastmod>2024-01-02T16:25:55+00:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/tags/land-foliage/</loc>
+    <lastmod>2024-01-02T16:25:55+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/extinct/passenger-pigeon/</loc>
     <lastmod>2024-01-02T16:25:55+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/objects/foliage/tamarind-tree/</loc>
+    <lastmod>2024-01-02T16:25:55+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/tags/trees/</loc>
     <lastmod>2024-01-02T16:25:55+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/living/yellow-knobbed-curassow/</loc>
@@ -3236,6 +3206,12 @@
     <loc>https://www.zooberry.org/mods/zt2/tags/hannukkah/</loc>
     <lastmod>2023-12-30T00:52:38+00:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/tags/rocks/</loc>
+    <lastmod>2023-12-30T00:52:38+00:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/tags/shelters/</loc>
+    <lastmod>2023-12-30T00:52:38+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/fictional/snowstalker/</loc>
     <lastmod>2023-12-30T00:52:38+00:00</lastmod>
   </url><url>
@@ -3263,6 +3239,9 @@
     <loc>https://www.zooberry.org/authors/zelda-maniack/</loc>
     <lastmod>2023-12-30T00:52:38+00:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/actinopterygii/</loc>
+    <lastmod>2023-12-30T00:33:45+00:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/authors/alpha-koala/</loc>
     <lastmod>2023-12-30T00:33:45+00:00</lastmod>
   </url><url>
@@ -3282,9 +3261,6 @@
     <lastmod>2023-12-30T00:33:45+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/tags/central-america/</loc>
-    <lastmod>2023-12-30T00:33:45+00:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/cephalopods/</loc>
     <lastmod>2023-12-30T00:33:45+00:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/chenelle/</loc>
@@ -3431,19 +3407,10 @@
     <loc>https://www.zooberry.org/mods/zt2/objects/zootilities/zoo-history-board/</loc>
     <lastmod>2023-11-21T02:12:58-08:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/tags/animal-reskins/</loc>
-    <lastmod>2023-11-20T13:10:12-08:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/authors/blue-tongue-games/</loc>
     <lastmod>2023-11-20T13:10:12-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/expansive-packs/charming-cretaceous/</loc>
-    <lastmod>2023-11-20T13:10:12-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/tags/dinosaurs/</loc>
-    <lastmod>2023-11-20T13:10:12-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/tags/extinct/</loc>
     <lastmod>2023-11-20T13:10:12-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/mr.-gorsh/</loc>
@@ -3492,6 +3459,9 @@
     <lastmod>2023-11-18T04:54:19-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/tags/objects/</loc>
+    <lastmod>2023-11-18T04:54:19-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/tags/scenery/</loc>
     <lastmod>2023-11-18T04:54:19-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/tags/theme-packs/</loc>
@@ -3548,19 +3518,10 @@
     <loc>https://www.zooberry.org/mods/zt2/animals/living/tiger-shark/</loc>
     <lastmod>2023-11-18T04:20:05-08:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/tags/animal-food/</loc>
-    <lastmod>2023-11-15T20:41:59-08:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/expansive-packs/aves/</loc>
     <lastmod>2023-11-15T20:41:59-08:00</lastmod>
   </url><url>
-    <loc>https://www.zooberry.org/tags/building-kits/</loc>
-    <lastmod>2023-11-15T20:41:59-08:00</lastmod>
-  </url><url>
     <loc>https://www.zooberry.org/authors/mondschatten/</loc>
-    <lastmod>2023-11-15T20:41:59-08:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/tags/uxp/</loc>
     <lastmod>2023-11-15T20:41:59-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/animals/animal-bundles/africas-spitters-mini-snake-pack/</loc>
@@ -3668,7 +3629,19 @@
     <loc>https://www.zooberry.org/mods/zt2/objects/zootilities/restroom-sign-pack/</loc>
     <lastmod>2023-11-08T23:48:12-08:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/bovids/</loc>
+    <lastmod>2023-11-06T02:33:26-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/erinaceids/</loc>
+    <lastmod>2023-11-06T02:33:26-08:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/expansive-packs/european-expeditions/</loc>
+    <lastmod>2023-11-06T02:33:26-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/leporids/</loc>
+    <lastmod>2023-11-06T02:33:26-08:00</lastmod>
+  </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/staff/</loc>
     <lastmod>2023-11-06T02:33:26-08:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/mods/zt2/expansive-packs/reptilia-abc/</loc>
@@ -3923,6 +3896,9 @@
     <loc>https://www.zooberry.org/authors/kangorilaphant/</loc>
     <lastmod>2023-07-24T18:19:18-07:00</lastmod>
   </url><url>
+    <loc>https://www.zooberry.org/mods/zt2/tags/mediterranean/</loc>
+    <lastmod>2023-07-24T18:19:18-07:00</lastmod>
+  </url><url>
     <loc>https://www.zooberry.org/mods/zt2/expansive-packs/mediterranean-pack/</loc>
     <lastmod>2023-07-24T18:19:18-07:00</lastmod>
   </url><url>
@@ -4152,9 +4128,6 @@
     <lastmod>2023-07-21T17:24:54-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/icytree/</loc>
-    <lastmod>2023-07-21T17:14:54-07:00</lastmod>
-  </url><url>
-    <loc>https://www.zooberry.org/mods/zt2/tags/leporids/</loc>
     <lastmod>2023-07-21T17:14:54-07:00</lastmod>
   </url><url>
     <loc>https://www.zooberry.org/authors/octavio17493/</loc>

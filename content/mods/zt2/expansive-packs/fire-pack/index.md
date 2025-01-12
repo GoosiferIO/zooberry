@@ -18,6 +18,12 @@ orig_rel_at:
 orig_rel_date: 2006-01-15
 summary: From the hidden island of Drom emerges mythical beasts of fire.
 title: Fire Pack
+zt2tags: ["All", "ZT2", "Expansive Packs", "Fictional", "Animals", "Foliage", "Birds", "Reptiles", "Packs"]
+contents:
+- Nightmare
+- Phoenix
+- Red Dragon
+- Fire Palm
 ---
 From the hidden island of Drom emerges mythical beasts of fire. This pack contains three of these beasts: the Phoenix, Red Dragon, and Nightmare. It also has the fire palm which all three enjoy.
 

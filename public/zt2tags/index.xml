@@ -380,13 +380,6 @@
       <description></description>
     </item>
     <item>
-      <title>Tools and Utilities</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/tools-and-utilities/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/tools-and-utilities/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Tour Objects</title>
       <link>https://www.zooberry.org/mods/zt2/tags/tour-objects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -667,10 +660,10 @@
       <description></description>
     </item>
     <item>
-      <title>Food Stands</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/food-stands/</link>
+      <title>Cephalopods</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/cephalopods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/food-stands/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/tags/cephalopods/</guid>
       <description></description>
     </item>
     <item>
@@ -678,6 +671,13 @@
       <link>https://www.zooberry.org/mods/zt2/tags/invertebrates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/tags/invertebrates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Food Stands</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/food-stands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/food-stands/</guid>
       <description></description>
     </item>
     <item>
@@ -699,6 +699,20 @@
       <link>https://www.zooberry.org/mods/zt2/tags/biome-reskins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.zooberry.org/mods/zt2/tags/biome-reskins/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>All Remakes</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/all-remakes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/all-remakes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Animal Remakes</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/animal-remakes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/animal-remakes/</guid>
       <description></description>
     </item>
     <item>
@@ -730,17 +744,17 @@
       <description></description>
     </item>
     <item>
-      <title>All Remakes</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/all-remakes/</link>
+      <title>Biomes</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/biomes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/all-remakes/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/tags/biomes/</guid>
       <description></description>
     </item>
     <item>
-      <title>Animal Remakes</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/animal-remakes/</link>
+      <title>Enrichment</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/enrichment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/animal-remakes/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/tags/enrichment/</guid>
       <description></description>
     </item>
     <item>
@@ -758,10 +772,10 @@
       <description></description>
     </item>
     <item>
-      <title>Biomes</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/biomes/</link>
+      <title>Australian</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/australian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/biomes/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/tags/australian/</guid>
       <description></description>
     </item>
     <item>
@@ -807,6 +821,13 @@
       <description></description>
     </item>
     <item>
+      <title>Actinopterygii</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/actinopterygii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/actinopterygii/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Central America</title>
       <link>https://www.zooberry.org/mods/zt2/tags/central-america/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -814,10 +835,31 @@
       <description></description>
     </item>
     <item>
-      <title>Cephalopods</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/cephalopods/</link>
+      <title>Bovids</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/bovids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/cephalopods/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/tags/bovids/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Erinaceids</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/erinaceids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/erinaceids/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Leporids</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/leporids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/leporids/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Staff</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/staff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/tags/staff/</guid>
       <description></description>
     </item>
     <item>
@@ -828,10 +870,10 @@
       <description></description>
     </item>
     <item>
-      <title>Leporids</title>
-      <link>https://www.zooberry.org/mods/zt2/tags/leporids/</link>
+      <title>Mediterranean</title>
+      <link>https://www.zooberry.org/mods/zt2/tags/mediterranean/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.zooberry.org/mods/zt2/tags/leporids/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/tags/mediterranean/</guid>
       <description></description>
     </item>
   </channel>

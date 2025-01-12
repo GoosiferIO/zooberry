@@ -16,7 +16,10 @@ orig_rel_at:
 orig_rel_date: 2006-10-30
 summary: Reskins of animals featuring superhero themes.
 title: Halloween Pack 1 - Superheroes
-zt2tags: ["All", "ZT2", "Packs", "Holidays", "Animal Reskins", "Halloween"]
+zt2tags: ["All", "ZT2", "Packs", "Holidays", "Animal Reskins", "Halloween", "Texture Mods"]
+contents:
+- BatRoo Reskin
+- RobinRoo Reskin
 ---
 These are reskins of animals. To use, place the `.z2f` file directly into your Zoo Tycoon 2 folder.  
 

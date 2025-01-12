@@ -31,6 +31,14 @@ mod_list:
     description: "This version of the pack changes the beta Iguanodon into a Dakotadon."
     file_size: 15.7 MB
     uploaded: 2024-10-07
+contents:
+  - Beta Iguanodon
+  - Tyrannosaurus Rex Skeleton
+  - Velociraptor Skeleton
+  - Lava Pit
+  - Tar Pit
+  - Volcano
+  - Insectivore Chow Scenery
 ---
 First and foremost a huge, huge thank you has to go out to horse14t for buying the beta disc in the first place. We have found so much cool stuff for this series alone thanks to their efforts and it would be wrong not to thank them for their willingness to buy these discs and share them with the rest of the community!!
 

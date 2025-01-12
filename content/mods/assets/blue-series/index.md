@@ -2,7 +2,7 @@
 title: "Blue Series Icons"
 author: 
 - Quivaz
-game: Any
+game: Assets
 exp_req:
 file_size: 13.7 KB
 orig_rel_date: 2006-05-29

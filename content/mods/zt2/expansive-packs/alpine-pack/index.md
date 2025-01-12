@@ -22,8 +22,26 @@ orig_rel_date: 2006-03-11
 summary: This is part of a set of eight biome packs that were made by the Zoo Admin
   Design Team many years ago.
 title: Alpine Pack
-zt2tags: ["All", "Animals", "Packs", "Foliage", "Signs", "Arches", "Fences", "Paths", "Elevated Paths", "Scenery", "Objects", "Birds", "Aquatic", "Mammals", "Ungulates", "Reptiles", "Amphibians"]
+zt2tags: ["All", "Animals", "Packs", "Foliage", "Signs", "Arches", "Fences", "Paths", "Elevated Paths", "Scenery", "Objects", "Birds", "Aquatic", "Mammals", "Ungulates", "Reptiles", "Amphibians", "Expansive Packs"]
 team: Zoo Admin Design Team
+contents:
+- Chilean Flamingo
+- Pyrenean Ibex
+- Takin
+- Himalayan Takin
+- Verreaux's Frog
+- Yak
+- Alpine Azalea
+- Alpine Cinquefoil
+- Bristlecone Pine
+- Alpine Adventure Sign
+- Alpine Arch
+- DT Alpine High Fence
+- DT Alpine Low Fence
+- DT Alpine Window Fence
+- Alpine Elevated Path
+- DT Alpine Paths
+- Alpine Biome Paths
 ---
 This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago. Many members helped out. Please note that due to how old these packs are, not everything is up to the same standard that Penguinman would have later used. Modeling, for instance, was not discovered until after these packs were made. However, Penguinman did feel that many of the plants, objects and animals would be useful and that's why he reuploaded them onto Penguin's Peak. Hope you enjoy!
 

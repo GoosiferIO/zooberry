@@ -18,7 +18,10 @@ orig_rel_date: 2009-08-31
 summary: The dorcas gazelle is highly adapted to the desert. They can go their entire
   lives without drinking.
 title: Dorcas Gazelle and Adonis Dentata
-tags: ["animals", "foliage", "land-foliage"]
+zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "Foliage", "Expansive Packs", "Packs", "Ungulates", "African"]
+contents:
+- Dorcas Gazelle
+- Adonis Dentata
 ---
 The dorcas gazelle is highly adapted to the desert. They can go their entire lives without drinking as they can get all of the moisture they need from the plants in their diet, though they do drink when water is available. They are able to withstand high temperatures, but when it is very hot they are active mainly at dawn, dusk and during the night.
 
