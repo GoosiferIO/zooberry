@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Site on ZooBerry</title>
-    <link>http://localhost:1313/knowledgebase/zooberry/site/</link>
+    <link>https://www.zooberry.org/knowledgebase/zooberry/site/</link>
     <description>Recent content in Site on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/knowledgebase/zooberry/site/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.zooberry.org/knowledgebase/zooberry/site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contribute to ZooBerry</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/site/contribute/</link>
+      <link>https://www.zooberry.org/knowledgebase/zooberry/site/contribute/</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/site/contribute/</guid>
+      <guid>https://www.zooberry.org/knowledgebase/zooberry/site/contribute/</guid>
       <description>This page is a work-in-progress. If you have any suggestions or would like to contribute, please let us know!&#xA;How to Contribute ZooBerry is a community-driven project and we welcome contributions from anyone who is interested in helping out. There are many ways you can contribute to ZooBerry, from writing articles to helping with the website. Here are some ways you can get involved:&#xA;Donations ZooBerry is a passion project and we do not run ads on the site.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/site/about/</link>
+      <link>https://www.zooberry.org/knowledgebase/zooberry/site/about/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/site/about/</guid>
+      <guid>https://www.zooberry.org/knowledgebase/zooberry/site/about/</guid>
       <description>About ZooBerry Hi, Welcome. My name is Goosifer, but I used to go by other usernames. A long time ago I used to help run a couple of Zoo Tycoon websites named ZooMania and Northern Skies. I was also lucky to join a modding team named Artifex toward the very end of my time in the scene. Though I was incredibly young and still in high school, I consider it one of the coolest experiences and was able to learn a lot of fun tech while I explored my creative outlet online.</description>
     </item>
     <item>
       <title>FAQ</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/site/faq/</link>
+      <link>https://www.zooberry.org/knowledgebase/zooberry/site/faq/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/site/faq/</guid>
+      <guid>https://www.zooberry.org/knowledgebase/zooberry/site/faq/</guid>
       <description>Frequently Asked Questions What websites are being archived by ZooBerry? Originally the scope was just three websites, including ZooMania, Northern Skies, and Artifex. However, we had the privelege of getting permission to host mods from other websites as well.&#xA;The current list of websites whose mods and tutorials we are committed to archiving are as follows:&#xA;ZooMania Northern Skies Artifex ZT2 Designing Centre Penguika Penguin&amp;rsquo;s Peak Shen&amp;rsquo;s Den Zoo Tycoon Hideout Zoo Tycoon Volcano Z-Studio Bunyupy&amp;rsquo;s Projects Hispa Designs Dannybob&amp;rsquo;s Forum Stalker&amp;rsquo;s Ranch ZooTek Phoenix (Zoo Tycoon 2 Library) Zoo Admin (Zoo Tycoon 2 Library) How did you get permission to host mods from these websites?</description>
     </item>
     <item>
       <title>Licenses</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/site/licenses/</link>
+      <link>https://www.zooberry.org/knowledgebase/zooberry/site/licenses/</link>
       <pubDate>Tue, 04 Jul 2023 00:51:18 -0700</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/site/licenses/</guid>
+      <guid>https://www.zooberry.org/knowledgebase/zooberry/site/licenses/</guid>
       <description>Licenses Attribution for the tech involved in the creation of ZooBerry and their licenses.&#xA;Galleria ZooBerry uses a slightly-modified version of GalleriaJS to display mod images.&#xA;The MIT License&#xA;Copyright (c) 2016 worse is better UG http://wib.io&#xA;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
     </item>
     <item>
       <title>Terms of Service</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/site/tos/</link>
+      <link>https://www.zooberry.org/knowledgebase/zooberry/site/tos/</link>
       <pubDate>Tue, 04 Jul 2023 00:51:18 -0700</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/site/tos/</guid>
+      <guid>https://www.zooberry.org/knowledgebase/zooberry/site/tos/</guid>
       <description>Terms of Service ZooBerry is a fan-made platform dedicated to hosting user-created modifications (&amp;ldquo;mods&amp;rdquo;) for Zoo Tycoon, a video game developed and owned by Microsoft Corporation. We would like to emphasize that this website is not affiliated with or endorsed by Microsoft in any way. Zoo Tycoon and all related trademarks, logos, characters, and other assets are the property of Microsoft Corporation.&#xA;The mods hosted on this website are created by the Zoo Tycoon community and are provided for informational and entertainment purposes only.</description>
     </item>
     <item>
       <title>Submit</title>
-      <link>http://localhost:1313/knowledgebase/zooberry/site/submit/</link>
+      <link>https://www.zooberry.org/knowledgebase/zooberry/site/submit/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/knowledgebase/zooberry/site/submit/</guid>
+      <guid>https://www.zooberry.org/knowledgebase/zooberry/site/submit/</guid>
       <description>Thank you for your interest in submitting your file for hosting on ZooBerry. Since ZooBerry is a statically-generated website, we don&amp;rsquo;t have a traditional means of submission. There are no user accounts, nor is there a way to upload files directly to the site. Please follow the steps ahead to submit your file.&#xA;Submit by Email Compose an email to submit@goosifer.io with the following information:&#xA;Questionnaire Title: Author(s): Game (ZT1, ZT2, N/A): Req Expansion(s): Description: Optional:</description>
     </item>
   </channel>

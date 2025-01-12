@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carnivores on ZooBerry</title>
-    <link>http://localhost:1313/mods/zt1/tags/carnivores/</link>
+    <link>https://www.zooberry.org/mods/zt1/tags/carnivores/</link>
     <description>Recent content in Carnivores on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2025 15:00:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/mods/zt1/tags/carnivores/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.zooberry.org/mods/zt1/tags/carnivores/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AGP - Hulk the Wolf</title>
-      <link>http://localhost:1313/mods/zt1/animals/fictional/agp-hulk-the-wolf/</link>
+      <link>https://www.zooberry.org/mods/zt1/animals/fictional/agp-hulk-the-wolf/</link>
       <pubDate>Tue, 07 Jan 2025 15:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/animals/fictional/agp-hulk-the-wolf/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/animals/fictional/agp-hulk-the-wolf/</guid>
       <description>A powerful genetically modified wolf, named The Hulk, was discovered in the lab trying to escape its cage.</description>
     </item>
     <item>
       <title>Party Panda</title>
-      <link>http://localhost:1313/mods/zt1/animals/fictional/party-panda/</link>
+      <link>https://www.zooberry.org/mods/zt1/animals/fictional/party-panda/</link>
       <pubDate>Tue, 07 Jan 2025 15:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/animals/fictional/party-panda/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/animals/fictional/party-panda/</guid>
       <description>A lively panda breed that loves music and dancing, bringing joy and energy to the exhibit.</description>
     </item>
     <item>
       <title>Ussuri Dhole</title>
-      <link>http://localhost:1313/mods/zt1/animals/living/ussuri-dhole/</link>
+      <link>https://www.zooberry.org/mods/zt1/animals/living/ussuri-dhole/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mods/zt1/animals/living/ussuri-dhole/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/animals/living/ussuri-dhole/</guid>
       <description>Adds the temperate dhole subspecies to your zoo, with a fox-like appearence and unique cooing sounds.</description>
     </item>
   </channel>

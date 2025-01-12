@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elephants on ZooBerry</title>
-    <link>http://localhost:1313/mods/zt1/tags/elephants/</link>
+    <link>https://www.zooberry.org/mods/zt1/tags/elephants/</link>
     <description>Recent content in Elephants on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2025 15:00:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/mods/zt1/tags/elephants/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.zooberry.org/mods/zt1/tags/elephants/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AGP - Cotton the White Elephant</title>
-      <link>http://localhost:1313/mods/zt1/animals/fictional/agp-cotton-the-white-elephant/</link>
+      <link>https://www.zooberry.org/mods/zt1/animals/fictional/agp-cotton-the-white-elephant/</link>
       <pubDate>Tue, 07 Jan 2025 15:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/animals/fictional/agp-cotton-the-white-elephant/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/animals/fictional/agp-cotton-the-white-elephant/</guid>
       <description>A genetically modified white elephant, affectionately named Cotton, was discovered in the abandoned Dr. Ricad&amp;rsquo;s Lab.</description>
     </item>
   </channel>

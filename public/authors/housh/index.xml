@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Housh on ZooBerry</title>
-    <link>http://localhost:1313/authors/housh/</link>
+    <link>https://www.zooberry.org/authors/housh/</link>
     <description>Recent content in Housh on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Jun 2024 23:24:22 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/authors/housh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.zooberry.org/authors/housh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zoo Irvine</title>
-      <link>http://localhost:1313/mods/zt2/maps/zoo-irvine/</link>
+      <link>https://www.zooberry.org/mods/zt2/maps/zoo-irvine/</link>
       <pubDate>Fri, 21 Jun 2024 23:24:22 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt2/maps/zoo-irvine/</guid>
+      <guid>https://www.zooberry.org/mods/zt2/maps/zoo-irvine/</guid>
       <description>This zoo has 7 different sections.</description>
     </item>
   </channel>

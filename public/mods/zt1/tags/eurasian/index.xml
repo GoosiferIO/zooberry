@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eurasian on ZooBerry</title>
-    <link>http://localhost:1313/mods/zt1/tags/eurasian/</link>
+    <link>https://www.zooberry.org/mods/zt1/tags/eurasian/</link>
     <description>Recent content in Eurasian on ZooBerry</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Jan 2025 19:00:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/mods/zt1/tags/eurasian/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.zooberry.org/mods/zt1/tags/eurasian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shetland Pony</title>
-      <link>http://localhost:1313/mods/zt1/animals/living/shetland-pony/</link>
+      <link>https://www.zooberry.org/mods/zt1/animals/living/shetland-pony/</link>
       <pubDate>Wed, 08 Jan 2025 19:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/animals/living/shetland-pony/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/animals/living/shetland-pony/</guid>
       <description>The Shetland Pony is a small, hardy breed of pony native to the Shetland Islands, well-suited for cold climates.</description>
     </item>
     <item>
       <title>Southern Rockhopper Penguin</title>
-      <link>http://localhost:1313/mods/zt1/animals/living/rockhopper-penguin/</link>
+      <link>https://www.zooberry.org/mods/zt1/animals/living/rockhopper-penguin/</link>
       <pubDate>Wed, 08 Jan 2025 19:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/animals/living/rockhopper-penguin/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/animals/living/rockhopper-penguin/</guid>
       <description>The Southern Rockhopper Penguin is a small, crested penguin known for its distinctive hopping movements and vibrant yellow crest feathers.</description>
     </item>
     <item>
       <title>Marsh Harrier</title>
-      <link>http://localhost:1313/mods/zt1/animals/living/marsh-harrier/</link>
+      <link>https://www.zooberry.org/mods/zt1/animals/living/marsh-harrier/</link>
       <pubDate>Wed, 08 Jan 2025 04:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/animals/living/marsh-harrier/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/animals/living/marsh-harrier/</guid>
       <description>The Marsh Harrier is a bird of prey found in wetlands and marshes across Europe and Asia.</description>
     </item>
     <item>
       <title>Siberian Musk Deer</title>
-      <link>http://localhost:1313/mods/zt1/animals/living/siberian-musk-deer/</link>
+      <link>https://www.zooberry.org/mods/zt1/animals/living/siberian-musk-deer/</link>
       <pubDate>Wed, 08 Jan 2025 04:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/animals/living/siberian-musk-deer/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/animals/living/siberian-musk-deer/</guid>
       <description>The Siberian Musk Deer is a small, shy deer known for its long fangs and valuable musk.</description>
     </item>
     <item>
       <title>Wolverine</title>
-      <link>http://localhost:1313/mods/zt1/animals/living/wolverine/</link>
+      <link>https://www.zooberry.org/mods/zt1/animals/living/wolverine/</link>
       <pubDate>Wed, 08 Jan 2025 04:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/mods/zt1/animals/living/wolverine/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/animals/living/wolverine/</guid>
       <description>The Wolverine is a fierce and powerful predator found in the forests and tundras of the Northern Hemisphere.</description>
     </item>
     <item>
       <title>Ussuri Dhole</title>
-      <link>http://localhost:1313/mods/zt1/animals/living/ussuri-dhole/</link>
+      <link>https://www.zooberry.org/mods/zt1/animals/living/ussuri-dhole/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mods/zt1/animals/living/ussuri-dhole/</guid>
+      <guid>https://www.zooberry.org/mods/zt1/animals/living/ussuri-dhole/</guid>
       <description>Adds the temperate dhole subspecies to your zoo, with a fox-like appearence and unique cooing sounds.</description>
     </item>
   </channel>
