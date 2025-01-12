@@ -8,7 +8,6 @@
     width: calc(100% - 1rem);
     background: var(--thead-bg);
     border-bottom: 1px solid var(--secondary-border);
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     height: 3rem;
     position: sticky;
     top: 0;
