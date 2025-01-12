@@ -21,6 +21,11 @@ orig_rel_date: 2009-06-30
 summary: Red river hogs are social animals. While adults of both sexes have been known
   to be solitary, most live in small groups of up to eleven individuals.
 title: Red River Hog Pack
+contents:
+- Red River Hog
+- African Mangosteen Tree
+- Disa Orchids Plant
+zt2tags: ["All", "ZT2", "Animals", "Ungulates", "Foliage", "African", "Living"]
 ---
 *Potamochoerus porcus* are social animals. While adults of both sexes have been known to be solitary, most live in small groups of up to eleven individuals. Large aggregations of over 100 animals have been recorded. The typical group contains three to six individuals. in most cases, one dominant, adult male boar is present in these small family groups. Red river hogs mark their paths by scraping tree trunks with their canines (tusks) as well as using foot glands, neck glands, and preorbital glands.
 

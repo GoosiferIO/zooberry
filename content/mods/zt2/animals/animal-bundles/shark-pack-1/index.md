@@ -19,7 +19,7 @@ alt_text:
 languages:
 - English
 summary: "Includes 4 sharks."
-zt2tags: ["All", "Animals", "Animal Bundles", "Aquatic"]
+zt2tags: ["All", "Animals", "Animal Bundles", "Aquatic", "Elasmobranchs", "Living", "Fish"] 
 contents:
 - Great Hammerhead Shark
 - Megalodon Shark

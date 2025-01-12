@@ -21,7 +21,36 @@ alt_text:
 languages:
 - English
 summary: "A pack containing 15 Cretaceous era, JPOG styled dinosaurs."
-tags: ["animals", "dinosaurs", "extinct", "animal-reskins"]
+zt2tags: ["All", "ZT2", "Animals", "Dinosaurs", "Extinct", "Animal Reskins", "Texture Mods", "Expansive Packs", "Packs"]
+contents:
+- Alectrosaurus
+- Centrosaurus
+- Charonosaurus
+- Leptoceratops
+- Maiasaura
+- Nemegtosaurus
+- Olorotitan
+- Ornithomimus
+- Oviraptor
+- Parksosaurus
+- Pentaceratops
+- Saurolophus
+- Shantungosaurus
+- Tarbosaurus
+- Tarchia
+- Albertosaurus Reskin
+- Ankylosaurus Reskin
+- Corythosaurus Reskin
+- Edmontosaurus Reskin
+- Gallimimus Reskin
+- Homalocephale Reskin
+- Pachycephalosaurus Reskin
+- Parasaurolophus Reskin
+- Styracosaurus Reskin
+- Torosaurus Reskin
+- Triceratops Reskin
+- Tyrannosaurus rex Reskin
+- Velociraptor Reskin
 ---
 
 A pack containing 15 Cretaceous era, JPOG styled dinosaurs. 

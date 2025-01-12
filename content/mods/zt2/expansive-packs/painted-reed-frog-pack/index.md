@@ -19,38 +19,34 @@ orig_rel_date: 2006-05-07
 summary: A pack containing a wetlands mushroom, a painted reed frog and an information
   board.
 title: Painted Reed Frog Pack
+zt2tags: ["All", "ZT2", "Expansive Packs", "Packs", "Animals", "Foliage", "Scenery", "Signs", "Amphibians", "African", "Living"]
+contents:
+- Painted Reed Frog
+- Wetland Mushroom
+- Painted Reed Frog Information Sign
 ---
 The painted reed frog is found throughout central and southern Africa. As the name suggests, painted reed frogs are primarily found around wetlands, where the reeds they get their name from grow. These frogs are capable of changing their colour, and what was a striking black and gold pattern may become pale brown and light yellow. But the general pattern remains the same.
 
-=
-Included in the Pack
-=
+# Included
 
-**Animals:**
+## Animals
 - Painted Reed Frog
 
-**Foliage:**
+## Foliage
 - Wetland Mushroom
 
-**Scenery:**
+## Scenery
 - Painted Reed Frog Information Sign
 
-=
-Context
-=
+# Note
+- The information sign is an off-grid item. This isn't a bug and is likely intentional, but it's worth mentioning since most vanilla-style scenery items are not.
 
-A pack containing a wetlands mushroom, a painted reed frog and an information board. Enjoy!
-
-As a note, the information sign is an off-grid item. This isn't a bug and is likely intentional, but it's worth mentioning since most vanilla-style scenery items are not.
-
- Credits 
+# Credits 
 
 - Nettie and Penguinman for the base frog.
 - Just Penguinman for help.
 
-=
-Known issues
-=
+# Known Issues
 
 - The frog mates and gets pregnant but never laid eggs during testing, even after its pregnancy timer was at red for a while.
 - While not outright a bug, the frog seems more finnicky about fulfilling some of its needs than is typical. Give them open land space and they should eat and drink just fine.

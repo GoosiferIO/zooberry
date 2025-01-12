@@ -17,6 +17,10 @@ orig_rel_date: 2007-02-16
 summary: An albino lion variant released for Valentine's Day.
 title: Valentine Variant Pack
 zt2tags: [ "All", "ZT2", "Texture Mods", "Animal Variants", "Valentine's Day", "Packs", "Holidays"]
+contents:
+- Polar Bear Variant
+- Gray Wolf Variant
+- Panda Variant
 ---
 > Put these variants into your Zoo Tycoon 2 main folder:  
 > `C:\Program Files\Microsoft Games\Zoo Tycoon 2`.  

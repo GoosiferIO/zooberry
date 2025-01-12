@@ -26,7 +26,51 @@ languages:
 - German
 - Dutch
 summary: "An expansive user-made expansion pack made by the ZT ABC Team!"
-tags: ["animals", "foliage", "enrichment", "animal-food", "shelters", "building-kits", "uxp", "trees", "land-foliage"]
+zt2tags: ["All", "ZT2", "Animals", "Living", "Foliage", "Enrichment", "Animal Food", "Shelters", "Building Kits", "Expansive Packs", "Packs", "Birds", "Fences", "Elevated Paths"]
+contents:
+- Atlantic Puffin
+- Blue-Winged Kookaburra
+- Channel-Billed Toucan
+- Chicken
+- Common Eider
+- Darwin's Rhea
+- Eurasian Curlew
+- Eurasian Eagle Owl
+- Great Crested Grebe
+- Great Indian Hornbill
+- Ivory-Billed Woodpecker
+- Kagu
+- Kakapo
+- Little Spotted Kiwi
+- Palm Cockatoo
+- Pied Avocet
+- Red Bird of Paradise
+- Resplendent Quetzal
+- Shoebill
+- Snowy Owl
+- Southern Carmine Bee-Eater
+- Southern Cassowary
+- Spix's Macaw
+- Superb Lyrebird
+- Takahe
+- Western Capercaillie
+- White Stork
+- Cook Pine
+- Marram Grass
+- Rimu
+- Live Food Sandeel
+- Seeds (Animal Food)
+- Rimu Berries (Animal Food)
+- Mud Pile (Animal Food)
+- Elevated Bird Feeder with Seeds
+- Elevated Bird Feeder with Berries
+- Elevated Bird Feeder with Insects
+- Bamboo Bar Bird Shelter
+- Kiwi Burrow
+- Large Ground Nest
+- Medium Ground Nest
+- Small Ground Nest
+- Aviary
 ---
 
 An expansive user-made expansion pack made by the ZT ABC Team!

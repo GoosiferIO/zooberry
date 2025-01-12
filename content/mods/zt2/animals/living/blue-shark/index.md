@@ -17,6 +17,6 @@ orig_rel_at:
 orig_rel_date: 2008-08-21
 summary: A sleek elasmobranch for marine exhibits.
 title: Blue Shark
-zt2tags: ["All", "ZT2", "Animals", "Living", "Elasmobranchs"]
+zt2tags: ["All", "ZT2", "Animals", "Living", "Elasmobranchs", "Fish"]
 ---
 The Blue Shark is a sleek addition to marine exhibits. Requires MM2.

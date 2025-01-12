@@ -66,6 +66,7 @@ contents:
 - Small Paleo Tree Fern
 - Tall Palm
 - Jurassic Park Path
+zt2tags: ["All", "ZT2", "Expansive Packs", "Buildings", "Scenery", "Foliage", "Tour Objects", "Objects", "Paths", "Signs", "Shelters", "Buildings", "Benches", "Fountains", "Trash Cans"]
 ---
 
 A pack containing various buildings, scenery and foliage imported from JPOG.

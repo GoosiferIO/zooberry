@@ -16,7 +16,13 @@ orig_rel_at:
 orig_rel_date: 2006-10-28
 summary: Reskins of animals with fun and creative themes.
 title: Halloween Pack 3 - Fun
-zt2tags: ["All", "ZT2", "Packs", "Holidays", "Animal Reskins", "Halloween"]
+zt2tags: ["All", "ZT2", "Packs", "Holidays", "Animal Reskins", "Halloween", "Texture Mods"]
+contents:
+- Hot Fennec Fox Reskin
+- Lemur Bandit Reskin
+- Pegasus Reskin
+- Rhino Cow Reskin
+- Wolf in Sheep's Clothing Reskin
 ---
 These are reskins of animals. To use, place the `.z2f` file directly into your Zoo Tycoon 2 folder.  
 

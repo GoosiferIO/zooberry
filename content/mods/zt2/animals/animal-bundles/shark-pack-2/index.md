@@ -18,7 +18,7 @@ alt_text:
 languages:
 - English
 summary: "Includes 6 new sharks."
-zt2tags: ["All", "Animals", "Animal Bundles", "Aquatic"]
+zt2tags: ["All", "Animals", "Animal Bundles", "Aquatic", "Elasmobranchs", "Living", "Fish"] 
 contents:
 - Silvertip Shark
 - Sand Tiger Shark 

@@ -16,7 +16,7 @@ orig_rel_at:
 orig_rel_date: 2006-10-15
 summary: A follow-up to the original Gooey Party Pack with new Gooeys and extras.
 title: Gooey Party Pack 2
-zt2tags: ["All", "ZT2", "Tools and Utilities", "Packs", "UI Mods"]
+zt2tags: ["All", "ZT2", "Tools & Utilities", "Packs", "UI Mods"]
 ---
 
 The next installment of the Gooey Party Pack series. This pack includes:  

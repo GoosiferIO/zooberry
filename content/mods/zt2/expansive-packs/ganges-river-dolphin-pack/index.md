@@ -19,6 +19,13 @@ orig_rel_date: 2009-07-15
 summary: The Ganges river dolphin lives in the muddy waters of the Ganges, Brahmaputra,
   Meghna, Karnaphuli, and Hoogly river systems.
 title: Ganges River Dolphin Pack
+zt2tags: ["All", "ZT2", "Animals", "Aquatic", "Mammals", "Living", "Cetaceans", "Expansive Packs", "Asian", "Foliage", "Scenery", "Living", "Rocks"]
+contents:
+- Ganges River Dolphin
+- Indian Mangrove
+- Indian Red Water Lily
+- Star Lotus
+- Mud Rock
 ---
 The Ganges river dolphin (*Platanista gangetica*) lives in the muddy waters of the Ganges, Brahmaputra, Meghna, Karnaphuli, and Hoogly river systems in India, Nepal, Bhutan, and Bangledesh. The eye and optic nerve of the Ganges river dolphin are degenerate. The eye lacks a lens and is therefore incapable of forming images on the retina. However, it functions in light-detection. It is believed that the lack of a true visual apparatus in the river dolphin is related to its habitat; the water in which it lives is so muddied that vision is essentially useless.
 

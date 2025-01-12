@@ -19,7 +19,7 @@ alt_text:
 languages:
 - English
 summary: "Vicuñas are found in semiarid rolling grasslands and plains at altitudes of 3,500-5,750 meters."
-zt2tags: ["All", "ZT2", "Packs", "Expansive Packs", "Objects", "Animal Enrichment", "Foliage", "Animals", "South American", "Ungulates"]
+zt2tags: ["All", "ZT2", "Packs", "Expansive Packs", "Objects", "Enrichment", "Foliage", "Animals", "South American", "Ungulates"]
 contents:
 - Vicuña
 - Pitcairn Puya Plant

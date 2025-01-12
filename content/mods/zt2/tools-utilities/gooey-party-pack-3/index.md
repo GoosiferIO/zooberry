@@ -17,7 +17,7 @@ orig_rel_at:
 orig_rel_date: 2006-12-22
 summary: The third installment in the Gooey Party Pack series with Marine Mania compatibility.
 title: Gooey Party Pack 3
-zt2tags: ["All", "ZT2", "Tools and Utilities", "Packs", "UI Mods"]
+zt2tags: ["All", "ZT2", "Tools & Utilities", "Packs", "UI Mods"]
 ---
 Introducing my new line of Gooeys - titled "GooV2". GooV2s are compatible with Marine Mania, and they look fantastic. First up for the GooV2 line is the release of the long overdue "Gooey Party Pack 3".
 

@@ -19,6 +19,12 @@ orig_rel_date: 2006-10-21
 summary: A foliage pack featuring trees, shrubs, and flowers.
 title: Foliage Pack
 zt2tags: ["All", "ZT2", "Objects", "Foliage", "Packs"]
+contents:
+- Koa Tree
+- Holly Bush
+- Foxglove
+- Edelweiss
+- African Shrub
 ---
 This pack includes:  
 

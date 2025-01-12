@@ -26,8 +26,28 @@ summary: This is part of a set of eight biome packs that were made by the Zoo Ad
   Design Team many years ago.
 title: Savannah Pack
 team: Zoo Admin Design Team
-zt2tags: ["All", "ZT2", "Packs", "Expansive Packs", "Objects", "Foliage", "Animals", "Arches", "Signs", "Elevated Paths", "Food Stands", "Buildings", "Gazebos", "African", "Ungulates", "Reptiles", "Mammals", "Herpestids", "Equids"]
-
+zt2tags: ["All", "ZT2", "Packs", "Expansive Packs", "Objects", "Foliage", "Animals", "Arches", "Signs", "Elevated Paths", "Food Stands", "Buildings", "Gazebos", "African", "Ungulates", "Reptiles", "Mammals", "Herpestids", "Equids", "Living", "Scenery", "Gazebos", "Paths", "Food Stands"]
+contents:
+- Dwarf Mongoose
+- East African Oryx
+- Grevy's Zebra
+- Radiated Tortoise
+- Springbok
+- African Blackwood Tree
+- Cattleya Violacea
+- Purple Mushrooms
+- African Mushrooms
+- African Restaurant
+- Juice Stand
+- Coconut Milk
+- Juice
+- Masala
+- Sim Sim
+- African Gazebo
+- Afrikaans Gazebo
+- Savannah Arch
+- Savannah Safari Sign
+- Savannah Elevated Path
 ---
 This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago. Many members helped out. Please note that due to how old these packs are, not everything is up to the same standard that Penguinman would have later used. Modeling, for instance, was not discovered until after these packs were made. However, Penguinman did feel that many of the plants, objects and animals would be useful and that's why he reuploaded them onto Penguin's Peak. Hope you enjoy!
 

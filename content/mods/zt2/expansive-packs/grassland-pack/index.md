@@ -27,7 +27,24 @@ summary: This is part of a set of eight biome packs that were made by the Zoo Ad
 title: Grassland Pack
 team: Zoo Admin Design Team
 zt2tags: ["All", "ZT2", "Packs", "Expansive Packs", "Animals", "Reptiles", "Mammals", "Ungulates", "Equids", "Canids", "Foliage", "Arches", "Signs", "Elevated Paths", "Tour Objects", "Buildings", "Food Stands", "African", "North American", "Asian", "North American", "South American", "Objects"]
-
+contents:
+- Aldabra Giant Tortoise
+- Black-Footed Ferret
+- Elk
+- Gray Fox
+- Mongolian Wild
+- Mongolian Wild Donkey
+- Butterfly Weed
+- Magnolia Tree
+- Mongolian Linden
+- Pampas Grass
+- Iced Tea Stand
+- Butterfly Cave
+- Gem Deposit
+- Grassland Arch
+- Grassland Groves Sign
+- Ruby Deposit
+- Grassland Elevated Path
 ---
 This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago. Many members helped out. Please note that due to how old these packs are, not everything is up to the same standard that Penguinman would have later used. Modeling, for instance, was not discovered until after these packs were made. However, Penguinman did feel that many of the plants, objects and animals would be useful and that's why he reuploaded them onto Penguin's Peak. Hope you enjoy!
 

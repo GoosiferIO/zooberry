@@ -15,7 +15,14 @@ orig_rel_at:
 orig_rel_date: 2006-05-28
 summary: A pack featuring albino variants of various animals.
 title: Albino Pack Part 1
-zt2tags: ["All", "ZT2", "Animal Variants"]
+zt2tags: ["All", "ZT2", "Packs", "Animal Variants", "Texture Mods"]
+contents:
+- Albino Grizzly Bear Variant
+- Albino Gorilla Variant
+- Albino Kangaroo Variant
+- Albino Panther Variant
+- Albino Crocodile - Blue Eyes Variant
+- Albino Crocodile - Pink Eyes Variant
 ---
 Contains:
 - Albino Grizzly Bear

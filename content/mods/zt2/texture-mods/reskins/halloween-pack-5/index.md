@@ -16,7 +16,10 @@ orig_rel_at:
 orig_rel_date: 2006-10-31
 summary: Reskins of animals featuring Mickey and Minnie Mouse.
 title: Halloween Pack 5 - Mickey and Minnie
-zt2tags: ["All", "ZT2", "Packs", "Holidays", "Animal Reskins", "Halloween"]
+zt2tags: ["All", "ZT2", "Packs", "Holidays", "Animal Reskins", "Halloween", "Texture Mods"]
+contents:
+- Mickey Mouse Reskin
+- Minnie Mouse Reskin
 ---
 These are reskins of animals. To use, place the `.z2f` file directly into your Zoo Tycoon 2 folder.  
 

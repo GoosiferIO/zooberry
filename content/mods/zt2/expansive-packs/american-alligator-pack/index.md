@@ -20,6 +20,12 @@ summary: American alligators are usually found in freshwater swamps, marshes, ri
   lakes, and occasionally smaller bodies of water.
 title: American Alligator Pack
 tags: ["animals", "foliage", "trees", "land-foliage"]
+zt2tags: ["All", "ZT2", "Animals", "Living", "Foliage", "Packs", "Expansive Packs", "Reptiles",  "Objects"]
+contents:
+- American Alligator
+- Bald Cypress Tree
+- Nuttall's Oak Tree
+- Louisiana Quillwort Grass
 ---
 American alligators are found from the southern Virginia-North Carolina border, along the Atlantic coast to Florida and along the Gulf of Mexico as far west as the Rio Grande in Texas. American alligators are usually found in freshwater swamps, marshes, rivers, lakes, and occasionally smaller bodies of water. It is believed that this preference for calm waters has to do with their swimming and breathing.
 

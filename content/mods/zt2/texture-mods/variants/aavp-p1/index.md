@@ -17,7 +17,12 @@ license: Unknown
 alt_text: 
 languages:
 summary: "A pack of African Adventure variants made by Koala Komander!"
-
+zt2tags: ["All", "ZT2", "Packs", "Animal Variants", "Texture Mods"]
+contents:
+- Bongo Variant
+- Caracal Variant
+- Striped Hyena Variant
+- Ratel Variant
 ---
 
 Part 1 of Koala Komander's African Adventure Variant Pack.

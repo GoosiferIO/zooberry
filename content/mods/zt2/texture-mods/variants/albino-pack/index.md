@@ -19,6 +19,16 @@ orig_rel_date: 2006-07-11
 summary: A pack of eight albino variants, one each for eight different animals, made
   by Zooasaurus and bundled together.
 title: Albino Pack
+zt2tags: ["All", "ZT2", "Packs", "Animal Variants", "Texture Mods"]
+contents:
+- Albino Emperor Penguin Variant
+- Albino Fennec Fox Variant
+- Albino Gray Wolf Variant
+- Albino Grizzly Bear Variant
+- Albino Koala Variant
+- Albino Komodo Dragon Variant
+- Albino Mountain Gorilla Variant
+- Albino Spanish Lynx Variant
 ---
 A pack of eight albino variants, one each for eight different animals, made by Zooasaurus and bundled together in one .zip file.
 

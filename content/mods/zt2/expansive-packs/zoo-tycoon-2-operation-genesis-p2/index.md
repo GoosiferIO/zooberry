@@ -46,6 +46,7 @@ contents:
 - Velociraptor
 - Live Cow
 - Live Goat
+zt2tags: ["All", "ZT2", "Animals", "Dinosaurs", "Extinct", "Enrichment"]
 ---
 
 This is the second part of the Zoo Tycoon 2 Operation Genesis project. You can download the first part:
