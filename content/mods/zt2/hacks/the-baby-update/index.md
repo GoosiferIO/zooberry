@@ -2,7 +2,7 @@
 title: "The Baby Update"
 has_author: true
 author: 
-- White Panda
+- WhitePanda
 game: Zoo Tycoon 2
 exp_req: 
 - AA

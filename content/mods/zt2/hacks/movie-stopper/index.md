@@ -2,7 +2,7 @@
 title: "Movie Stopper"
 has_author: true
 author: 
-- White Panda
+- WhitePanda
 game: Zoo Tycoon 2
 exp_req: 
 file_size: 1 KB
