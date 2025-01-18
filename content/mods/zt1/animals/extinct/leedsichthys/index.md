@@ -7,7 +7,7 @@ game: Zoo Tycoon 1
 exp_req:
 file_size: 19.8 MB
 orig_rel_date: 2025-01-18
-date: 2024-01-18T02:00:23-07:00
+date: 2025-01-18T02:00:23-07:00
 draft: false
 license: Unknown
 orig_rel_at: 
