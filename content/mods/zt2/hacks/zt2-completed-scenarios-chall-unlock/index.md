@@ -14,6 +14,8 @@ draft: false
 license: Unknown
 alt_text: 
 summary: "Unlocks campaigns and challenges in Zoo Tycoon 2."
+zt2tags: ["All", "ZT2", "Save Files", "Hacks"]
+
 ---
 Unlocks the campaigns and challenges contained in Zoo Tycoon 2.  
 
