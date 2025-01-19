@@ -19,6 +19,8 @@ orig_rel_date: 2006-01-14
 summary: The serow lives alone or in small groups. It is attached to its territory,
   which usually covers just a few miles square.
 title: Mainland Serow
+zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "Ungulates", "Asian"]
+
 ---
 The serow lives alone or in small groups. It is attached to its territory, which usually covers just a few miles square, and does not move far when feeding. It grazes on grass and also eats shoots and leaves. It is most active at dawn and dusk, and spends the rest of the day in thick vegetation. It has paths along which it moves, and traditional spots where it marks its territory and deposits its droppings.
 

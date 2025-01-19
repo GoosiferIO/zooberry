@@ -20,6 +20,7 @@ orig_rel_date: 2005-12-02
 summary: The dingo is an Australian wild dog living in various habitats, ranging from
   tropical coastal beaches, inland deserts or alpine forest.
 title: Dingo
+zt2tags: ["All", "Animals", "ZT2", "Living", "Mammals", "Oceania", "Canids"]
 ---
 The dingo is an Australian wild dog living in various habitats, ranging from tropical coastal beaches, inland deserts or alpine forest. Its activity pattern is diurnal, crepuscular, or in warmer climates nocturnal. The dingo's diet will vary depending on habitat. It is an opportunistic hunter and scavenger, feeding on a range of food including invertebrates, reptiles, birds and both small and large mammals. It will also eat carrion.
 

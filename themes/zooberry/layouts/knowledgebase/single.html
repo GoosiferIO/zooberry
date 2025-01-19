@@ -4,13 +4,16 @@
     {{ partial "breadcrumbs.html" . }}
     <div class="article-post">
         <span class="article-github-link">
+          {{ $permalink := .RelPermalink }}
+          {{ $modifiedPermalink := replaceRE "(.)$" "" $permalink }}  
         {{ if not (eq .BundleType "leaf") }}
-            <a href="https://github.com/GoosiferIO/zooberry/raw/main/content/knowledgebase/{{ .Parent.Title | urlize }}/{{ .Page.Title | urlize }}.md" title="View this page on GitHub" alt="View this page on GitHub" target="_blank" rel="noopener">
+            
+            <a href="https://github.com/GoosiferIO/zooberry/raw/main/content{{ $modifiedPermalink }}.md" title="View this page on GitHub" alt="View this page on GitHub" target="_blank" rel="noopener">
               <span class="material-symbols-outlined">
                 quick_reference_all
               </span>
             </a>
-            <a href="https://github.com/GoosiferIO/zooberry/edit/main/content/knowledgebase/{{ .Parent.Title | urlize }}/{{ .Page.Title | urlize }}.md" title="Edit this page on GitHub" alt="Edit this page on GitHub" target="_blank" rel="noopener">
+            <a href="https://github.com/GoosiferIO/zooberry/edit/main/content{{ $modifiedPermalink }}.md" title="Edit this page on GitHub" alt="Edit this page on GitHub" target="_blank" rel="noopener">
               <span class="material-symbols-outlined">
                 edit
               </span>
@@ -22,12 +25,12 @@
               </span>
             </a>
         {{ else }}
-          <a href="https://github.com/GoosiferIO/zooberry/raw/main/content/knowledgebase/{{ .Parent.Title | urlize }}/{{ .Page.Title | urlize }}/index.md" title="View this page on GitHub" alt="View this page on GitHub" target="_blank" rel="noopener">
+          <a href="https://github.com/GoosiferIO/zooberry/raw/main/content{{ $modifiedPermalink }}/index.md" title="View this page on GitHub" alt="View this page on GitHub" target="_blank" rel="noopener">
             <span class="material-symbols-outlined">
               quick_reference_all
             </span>
           </a>
-          <a href="https://github.com/GoosiferIO/zooberry/edit/main/content/knowledgebase/{{ .Parent.Title | urlize }}/{{ .Page.Title | urlize }}/index.md" title="Edit this page on GitHub" alt="Edit this page on GitHub" target="_blank" rel="noopener">
+          <a href="https://github.com/GoosiferIO/zooberry/edit/main/content{{ $modifiedPermalink }}/index.md" title="Edit this page on GitHub" alt="Edit this page on GitHub" target="_blank" rel="noopener">
             <span class="material-symbols-outlined">
               edit
             </span>
@@ -45,7 +48,7 @@
     </div>
       <div class="post-subheader">
         <span>
-              <strong>Published by </strong> <a href="/authors/">{{ .Params.author }}</a>
+              <strong>Published by </strong> <a href="/authors/{{ .Params.author | urlize}}">{{ .Params.author }}</a>
               <strong> on </strong><span class="post-date">{{ .Date.Format "2 Jan 2006" }}</span>
         </span>
       </div>

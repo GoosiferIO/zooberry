@@ -18,6 +18,7 @@ orig_rel_date: 2006-04-06
 summary: They live in rocky areas and alpine meadows in Europe (especially the Alps,
   Carpathians) and in Asia minor.
 title: Chamois
+zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "Ungulates", "European"]
 ---
 They live in rocky areas and alpine meadows in Europe (especially the Alps, Carpathians) and in Asia minor. As a species, the chamois is still common and not threatened. However, several subspecies are on the IUCN's Red List of Threatened Animals (1996). *Rupicapra rupicapra caucasica* is classified as vulnerable and *R. r. tatrica* as endangered, while *R. r. cartusiana* is classified as a critically endangered subspecies. There is insufficient data as to the current status of *R. r. asiatica*.
 

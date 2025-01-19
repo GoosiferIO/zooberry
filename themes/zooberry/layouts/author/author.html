@@ -109,7 +109,7 @@
     <h1 style="margin:0;">{{ .Title }}</h1>
     <p style="margin:0;padding:0;"><i class="material-icons icon">extension</i> {{ $modCount }} Mods Published</p>
 
-    <div class="banner-box" style="margin: 2rem 0; width: 100%; background: center center / cover no-repeat url('{{ $imageFromShuffledMod }}'); height: 300px;">
+    <div class="banner-box" style="margin: 2rem 0; width: 100%; background: center center / cover no-repeat url('{{ .Site.Params.cdn }}{{ $imageFromShuffledMod }}'); height: 300px;">
 
     </div>
     <div style="display: flex; flex-direction: row;width: 100%;">
@@ -131,7 +131,7 @@
                                 {{ end }}
                     
                                 <a href="{{ .RelPermalink }}">
-                                    <img src="{{ $thumbnail }}" alt="{{ .LinkTitle }}">
+                                    <img src="{{ .Site.Params.cdn }}{{ $thumbnail }}" alt="{{ .LinkTitle }}">
                                 </a>
                             </div>
                             <div class="box-card-mods-content">
@@ -174,8 +174,12 @@
                 {{ template "_internal/pagination.html" (dict "paginator" $paginator "page" .) }}
             </p>
         </div>
+        {{ if ne .Type "mods" }}
+        <div class="sidebar_r-a">
+        {{ else }}
         <div class="sidebar_r">
-            <div class="sidebar_r-inner">
+        {{ end }}
+                    <div class="sidebar_r-inner">
                 {{ if not (eq (len $languagesByAuthor) 0) }}
                     <span class="sidebar_r-title">Languages</span>
                     <div class="side-ul filter-tags">
@@ -185,7 +189,7 @@
                 <span class="sidebar_r-title">Published On</span>
                 <div class="side-ul filter-tags">
                     {{ range $websitesPublishedOn }}
-                        <a class="badge-default" href="{{ . }}">{{ . }}</a>
+                        <a class="badge-default" href="/archives/{{ . | urlize }}">{{ . }}</a>
                     {{ end }}
                 </div>
                 {{ if not (eq (len $collaborators) 0) }}
@@ -200,14 +204,14 @@
                 <div class="side-ul filter-tags">
                     {{ $yearsActive = sort $yearsActive }}
                     {{ range $yearsActive }}
-                        <span class="badge-default" href="/years/{{ . | urlize }}">{{ . }}</span>
+                        <span class="badge-default" href="/years/{{ . | urlize }}" style="margin: 0 0.18rem;">{{ . }}</span>
                     {{ end }}
                 </div>
                 {{ with $allTagsAssociatedZT1 }}
                     <span class="sidebar_r-title">Zoo Tycoon 1 Tags</span>
                     <div class="side-ul filter-tags">
                         {{ range . }}
-                            <a class="badge-default" href="/tags/{{ . | urlize }}">{{ . }}</a>
+                            <a class="badge-default" href="/mods/zt1/tags/{{ . | urlize }}">{{ . }}</a>
                         {{ end }}
                     </div>
                 {{ end }}
@@ -215,7 +219,7 @@
                     <span class="sidebar_r-title">Zoo Tycoon 2 Tags</span>
                     <div class="side-ul filter-tags">
                         {{ range . }}
-                            <a class="badge-default" href="/tags/{{ . | urlize }}">{{ . }}</a>
+                            <a class="badge-default" href="/mods/zt2/tags/{{ . | urlize }}">{{ . }}</a>
                         {{ end }}
                     </div>
                 {{ end }}

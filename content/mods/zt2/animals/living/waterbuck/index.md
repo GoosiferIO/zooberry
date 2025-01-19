@@ -20,6 +20,7 @@ alt_text:
 languages:
 - English
 summary: "Here's a waterbuck for your zoo."
+zt2tags: ["All", "Animals", "ZT2", "Living", "Mammals", "Ungulates", "African"]
 
 ---
 

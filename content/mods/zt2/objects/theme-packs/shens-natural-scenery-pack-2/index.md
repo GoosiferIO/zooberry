@@ -20,6 +20,7 @@ summary: A second set of natural wooden scenery to soften the curves of a harsh 
   map, alongside a set of ivy covered arches including large sizes to cover wide paths.  Additionally,
   several fallen logs are contained to give a realistic feel to a forest exhibit.
 title: Natural Scenery Pack 2
+zt2tags: ["All", "ZT2", "Objects", "Theme Packs", "Arches", "Zootilities", "Donation Boxes", "Binoculars", "Canopies", "Foliage"]
 ---
 
 

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Exibit on ZooBerry</title>
+    <link>https://www.zooberry.org/authors/the-exhibit/</link>
+    <description>Recent content in The Exibit on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Nov 2024 19:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.zooberry.org/authors/the-exhibit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asiatic Cheetah</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/asiatic-cheetah/</link>
+      <pubDate>Mon, 25 Nov 2024 19:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/asiatic-cheetah/</guid>
+      <description>An endangered cheetah from Asia with no description provided.</description>
+    </item>
+    <item>
+      <title>European Beaver</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/european-beaver/</link>
+      <pubDate>Mon, 25 Nov 2024 12:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/european-beaver/</guid>
+      <description>European Beaver (Eurasian Beaver), the first animal created by Panda11.</description>
+    </item>
+    <item>
+      <title>King Cheetah</title>
+      <link>https://www.zooberry.org/mods/zt2/animals/living/king-cheetah/</link>
+      <pubDate>Sun, 24 Nov 2024 03:00:00 +0000</pubDate>
+      <guid>https://www.zooberry.org/mods/zt2/animals/living/king-cheetah/</guid>
+      <description>A unique cheetah variant with elongated and merged spots.</description>
+    </item>
+  </channel>
+</rss>

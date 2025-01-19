@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "A jungle-themed trashcan with a croc head on it."
-
+zt2tags: ["All", "ZT2", "Objects", "Zootilities", "Trashcans"]
 ---
 
 A jungle-themed trashcan with a croc head on it because why not.

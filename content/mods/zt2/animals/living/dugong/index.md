@@ -20,6 +20,7 @@ orig_rel_date: 2007-02-28
 summary: The dugong (sometimes refered to as a sea cow) is a mammal- that is, it suckles
   its young.
 title: Dugong
+zt2tags: ["All", "Animals" , "ZT2", "Living", "Mammals", "Aquatic", "Sirenians"]
 ---
 The dugong (sometimes referred to as a 'sea cow') is a mammal- that is, it suckles its young. Dugongs are large grey mammals which spend their entire lives in the sea. Though aquatic they breathe air through lungs, and have live babies rather than laying eggs like fish. Dugongs swim by moving their broad spade-like tail in an up and down motion, and by use of their two flippers. 
 

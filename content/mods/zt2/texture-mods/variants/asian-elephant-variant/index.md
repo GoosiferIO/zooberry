@@ -14,8 +14,10 @@ languages: null
 license: Unknown
 orig_rel_at:
 - ZT2 Design Centre
+- ZooAdmin
 orig_rel_date: 2006-03-23
-summary: An Asian elephant variant made by Brownwolf.
+summary: This is an Asian elephant variant skin. It's dark brown and has pink markings on its trunk and ears.
 title: Asian Elephant Variant
+zt2tags: ["All", "ZT2", "Texture Mods", "Animal Variants"]
 ---
-An Asian elephant variant made by Brownwolf.
+This is an Asian elephant variant skin. It's dark brown and has pink markings on its trunk and ears.

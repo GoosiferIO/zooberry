@@ -12,13 +12,14 @@ date: 2023-08-05T02:15:27-07:00
 orig_rel_at: 
 - ZooMania
 - Shen's Den
+- ZooAdmin
 draft: false
 license: Unknown
 alt_text: 
 languages:
 - English
 summary: "A pack with 12 new paths!"
-
+zt2tags: ["All", "ZT2", "Objects", "Paths", "Packs"]
 ---
 
 Includes:

@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "These old fashioned lamps, look elegant, and pitch-perfect with the old timey zoos."
-
+zt2tags: ["All", "ZT2", "Objects", "Zootilities", "Lamps", "Scenery"]
 ---
 
 **From the Zoopedia as written by Fauna:**

@@ -19,6 +19,7 @@ alt_text:
 languages:
 - English
 summary: "It is one star, main biome is scrub, but it also likes alpine."
+zt2tags: ["All", "Animals", "ZT2", "Living", "Mammals", "Marsupials", "Oceania"]
 
 ---
 

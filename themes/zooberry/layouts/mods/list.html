@@ -1,9 +1,9 @@
 {{ define "main" }}
-
   <div class="body-content">
     {{/*  Title and blurb  */}}
     <h1>{{ .Title }}</h1>
     <div class="cat-blurb">{{ .Content }}</div>
+    {{$cdn := .Site.Params.cdn}}
     {{/*  Generate category buttons  */}}
     {{ if eq .Params.mainModCat "Mods" }}
         {{ range .Params.submenu }}
@@ -11,7 +11,7 @@
                 <div class="cat-card" href="{{ .url }}">
                     <a class="cat-card-title" href="{{ .url }}">{{.name}}</a>
                     <span class="cat-card-blurb">{{.blurb}}</span>
-                    <a href="{{ .url }}"><img class="cat-card-image" src="{{.image}}"></a>
+                    <a href="{{ .url }}"><img class="cat-card-image" src="{{$cdn}}mods/{{.image}}"></a>
                 </div>
             {{ end }}
         {{ end }}
@@ -43,7 +43,7 @@
     {{/*  Generate the sidebar filters */}}
     {{ .Scratch.Set "category" .Params.Title }}
     {{ .Scratch.Set "game" .Params.major }}
-    {{ partial "sidebar_r.html" . }}
+    {{ partial "sidebar-r/sidebar_r.html" . }}
 
 
 

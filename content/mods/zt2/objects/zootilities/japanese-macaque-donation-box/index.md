@@ -17,6 +17,7 @@ alt_text:
 summary: "A donation box box designed to look like a Japanese Macaque."
 languages:
 - English
+zt2tags: ["All", "ZT2", "Objects", "Zootilities", "Donation Boxes"]
 ---
 
 A donation box box designed to look like a Japanese Macaque. Made by Animalover44 in 2006.

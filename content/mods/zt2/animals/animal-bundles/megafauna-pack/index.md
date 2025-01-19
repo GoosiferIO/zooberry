@@ -20,6 +20,12 @@ languages:
 - English
 summary: "A megafauna pack made by Zooasaurus."
 zt2tags: ["All", "Animals", "Animal Bundles", "Prehistoric", "Mammals", "Birds"]
+contents:
+- Titanus
+- Indricothere
+- Argentavius
+- Andrewsarchus
+- Phorusrhacos Nest
 ---
 Includes the following:
 

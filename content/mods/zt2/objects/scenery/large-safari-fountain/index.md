@@ -11,13 +11,14 @@ orig_rel_date: 2006-09-23
 date: 2023-07-21T17:57:54-07:00
 orig_rel_at: 
 - ZooMania
+- ZooAdmin
 draft: false
 license: Unknown
 alt_text: 
 languages:
 - English
 summary: "This is a large version of the savannah themed fountain"
-
+zt2tags: ["All", "ZT2", "Objects", "Scenery", "Fountains"]
 ---
 
 This is a large version of the savannah themed fountain.

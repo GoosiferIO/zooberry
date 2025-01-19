@@ -19,6 +19,7 @@ summary: This small pack contains signs containing warnings and instructions to 
   to not tap the glass or feed the animals, prohibiting flash photography, reminding
   guests to wash their hands and other useful signs for zoos and safari parks.
 title: Warning Signs
+zt2tags: ["All", "ZT2", "Objects", "Signs", "Zootilities"]
 ---
 
 

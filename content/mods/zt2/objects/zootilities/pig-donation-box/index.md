@@ -16,5 +16,6 @@ license: Unknown
 alt_text: 
 languages:
 summary: "A donation box that has a pig on it."
+zt2tags: ["All", "ZT2", "Objects", "Zootilities", "Donation Boxes"]
 ---
 This donation box has a pig on it, making it resemble a piggy bank. It is imported from Wildlife Park 2 by Deep Silver Games, and although it's functional with no gameplay bugs, it lacks any lang files so it won't have a name in any language. There are no other known issues.

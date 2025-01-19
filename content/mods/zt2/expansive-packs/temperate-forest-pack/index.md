@@ -1,7 +1,6 @@
 ---
 alt_text: null
 author:
-- Zoo Admin Design Team
 - Penguinman
 - Gibbon-Fanatic
 - Csleesburg
@@ -24,6 +23,31 @@ summary: This is part of a set of eight biome packs that were made by the Zoo Ad
   Design Team many years ago.
 title: Temperate Forest Pack
 team: Zoo Admin Design Team
+contents:
+- Eastern Blue Tongued Skink
+- European Wild Cat
+- Raccoon
+- Spirit Bear
+- Wombat
+- Southern Hairy-Nosed Wombat
+- Almond Tree
+- Banksia
+- Blue-Eyed Grass
+- Buttercups
+- English Oak
+- Pink Dogwood
+- Asian Dogwood Tree
+- White Dogwood
+- Dogwood Tree
+- Wild Violets
+- Spirit Bear Statue
+- Temperate Forest Arch
+- Temperate Trails Sign
+- Temperate Forest Elevated Path
+- Violets and Buttercups Path
+- Temperate Sky Tram
+- Temperate Forest Gondola
+zt2tags: ["All", "ZT2", "Packs", "Expansive Packs", "Objects", "Animals", "Foliage", "Scenery", "Paths", "Tour Objects", "Mammals", "Signs", "North American", "European", "Australian", "Reptiles", "Ursids", "Marsupials", "Mammals", "Animals", "Scenery", "Paths", "Procyonids", "Felids", "Living"]
 ---
 This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago. Many members helped out. Please note that due to how old these packs are, not everything is up to the same standard that Penguinman would have later used. Modeling, for instance, was not discovered until after these packs were made. However, Penguinman did feel that many of the plants, objects and animals would be useful and that's why he reuploaded them onto Penguin's Peak. Hope you enjoy!
 

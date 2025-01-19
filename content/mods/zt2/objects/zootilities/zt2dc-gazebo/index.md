@@ -24,6 +24,7 @@ orig_rel_date: 2009-01-30
 summary: This download was created as a collaboration between many members for the
   first Skinning Collage Event at ZT2DC.
 title: ZT2DC Gazebo
+zt2tags: ["All", "ZT2", "Objects", "Zootilities", "Gazebos"]
 ---
 This download was created as a collaboration between many members for the first Skinning Collage event at ZT2DC. The event was organized by Mikaboshi and announced on 01/15/2009. She divided the base skin into several parts, and sent each participant one section each.
 

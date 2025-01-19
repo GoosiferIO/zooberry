@@ -19,12 +19,11 @@ summary: "A Congo Buffalo made by Tom."
 languages:
 - English
 - Dutch
+zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals" , "Ungulates"]
 ---
 
 A Congo Buffalo made by Tom.
 
- 
 Credits
-
 
 - Slice: helped fix some minor bugs

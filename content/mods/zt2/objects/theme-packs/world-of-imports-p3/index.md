@@ -16,7 +16,7 @@ license: Unknown
 alt_text: 
 languages:
 summary: "Imported models prepared by Slice. Pack 3 of 3."
-
+zt2tags: ["All", "ZT2", "Objects", "Theme Packs", "Scenery", "Rocks", "Foliage", "Statues", "Animal Food"]
 ---
 
 **Original post from Slice:**

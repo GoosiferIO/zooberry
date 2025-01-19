@@ -1,6 +1,7 @@
 ---
 title: "Maps"
 layout: maps
+is_category: true
 draft: false
 redirect: mods/zt2/tags/maps/
 alt_text: "Zt2 Maps"

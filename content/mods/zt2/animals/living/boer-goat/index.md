@@ -17,6 +17,7 @@ alt_text:
 summary: "Boer Goat is an animal for Zoo Tycoon 2 created by Slice."
 languages:
 - English
+zt2tags: ["All", "Animals", "Living", "Mammals", "Domestic", "Ungulates" ]
 ---
 
 > My goat is a Boer Goat, a breed of goat that is raised for meat production. They are a popular breed in the United States and are known for their fast growth rate and high fertility. They are also known for their white bodies and red heads. I hope you enjoy this animal in your zoo!

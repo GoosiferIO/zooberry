@@ -19,6 +19,7 @@ alt_text:
 languages:
 - English
 summary: "A species of requiem shark and the only member of the genus Galeocerdo."
+zt2tags: ["All", "Animals", "ZT2", "Living", "Fish", "Elasmobranchs", "Aquatic"]
 ---
 The tiger shark, *Galeocerdo cuvier*, is a species of requiem shark and the only member of the genus *Galeocerdo*. Commonly known as sea tigers, tiger sharks are relatively large macropredators, capable of attaining a length of over 5 m (16 ft).
 

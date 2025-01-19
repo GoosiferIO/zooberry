@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "This path was designed for the ZooMania 100 Member Celebration Party."
-
+zt2tags: ["All", "ZT2", "Objects", "Paths"]
 ---
 
 This path was designed for the ZooMania 100 Member Celebration Party.

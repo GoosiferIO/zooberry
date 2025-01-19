@@ -18,6 +18,7 @@ orig_rel_at:
 orig_rel_date: 2006-09-29
 summary: The giant anteater, Myrmecophaga tridactyla, is the largest species of anteater.
 title: Giant Anteater
+zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "South American" , "Pilosans"]
 ---
 The giant anteater, *Myrmecophaga tridactyla*, is the largest species of anteater. It is found in Central and South America. It is the only species in the *Myrmecophaga* genus. It is a solitary animal found in many habitats, including grasslands, deciduous forests and rainforests. It feeds mainly on ants and termites, sometimes up to 30,000 insects in a single day.
 

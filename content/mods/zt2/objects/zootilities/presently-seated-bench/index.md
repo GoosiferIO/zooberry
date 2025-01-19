@@ -19,7 +19,7 @@ alt_text:
 languages:
 - English
 summary: "Download the Presently Seated Bench, a festive holiday bench"
-
+zt2tags: [ "All", "ZT2", "Objects", "Benches", "Christmas", "Holidays", "Zootilities"]
 ---
 
 =

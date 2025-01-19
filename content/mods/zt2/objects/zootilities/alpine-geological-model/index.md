@@ -18,7 +18,7 @@ alt_text:
 languages:
 - English
 summary: "Designed by Otter Lord"
-
+zt2tags: ["All", "ZT2", "Objects", "Signs", "Zootilities"]
 ---
 
 Designed by Otter Lord for the ZooMania Coliseum Tournament in 2008.

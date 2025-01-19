@@ -17,36 +17,39 @@ license: 'Yes'
 orig_rel_at:
 - Penguin's Peak
 orig_rel_date: 2008-09-08
-summary: This pack contains six animals from South America and is downloaded in one
-  file.
+summary: From the high Andes Mountains to the lush tropical Amazon Forest lives an amazing array of wildlife. Welcome to South America! 
 title: South America Pack
-zt2tags: ["All", "Animals", "Animal Bundles", "Mammals", "Reptiles", "Ungulates"]
+zt2tags: ["All", "ZT2", "Animal Bundles", "Animals", "South American", "Living", "Mammals", "Reptiles", "Ungulates", "Canids", "Mustelids"]
+contents:
+- Kit Fox  
+- Jaguarundi  
+- Brocket Deer  
+- Orinoco Crocodile  
+- Mountain Tapir  
+- Grison  
 ---
-This pack contains six animals from South America and is downloaded in one file.
+Here is the South America Pack Part 1!  
 
-=
-Included in the Pack
-=
+From the high Andes Mountains to the lush tropical Amazon Forest lives an amazing array of wildlife.  
+Welcome to South America!  
 
-**Animals:**
-- Mountain Tapir
-- Jaguarondi
-- Kit Fox
-- Orinoco Crocodile
-- Grison
-- Brocket Deer
+This pack includes:  
+- Kit Fox  
+- Jaguarundi  
+- Brocket Deer  
+- Orinoco Crocodile  
+- Mountain Tapir  
+- Grison  
 
-=
-Context
-=
+Watch out for Part 2!  
 
-Like many other downloads of its time, this was a collaboration that Penguinman created with another user. Each animal includes a gift for guests to purchase.
+All coding is done by Penguinman, and skins by Acapella.  
+Enjoy!  
 
-Penguinman also created another set of expansive minipacks under the title of 'South America Pack' at Penguika, although those packs are unrelated to this one and not to be confused with it.
+*ES required!*
 
-=
-Known issues
-=
+
+## Known issues
 
 - The kit fox's skin is black before placement in the preview window. The skin appears as expected within the actual game world however and gameplay is unaffected.
 - The Orinoco crocodile's eggs took exceptionally long to hatch during testing. Although they did eventually hatch, it was well after the hatch timer had turned red.

@@ -17,7 +17,16 @@ alt_text:
 languages:
 - English
 summary: "Imported models prepared by Slice. Pack 1 of 3."
-
+zt2tags: ["All", "ZT2", "Objects", "Theme Packs", "Scenery", "Rocks", "Foliage", "Statues"]
+contents:
+- Mermaid Statue
+- Bridge
+- Hot Air Balloon
+- Rock
+- Sakura Tree
+- Morning Glory
+- Mandrake
+- Ginseng
 ---
 
 **Original post from Slice:**

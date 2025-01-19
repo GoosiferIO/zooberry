@@ -15,9 +15,11 @@ license: 'Yes'
 orig_rel_at:
 - Penguin's Peak
 - ZT2 Design Centre
+- ZooAdmin
 orig_rel_date: 2006-05-08
 summary: This pack contains four binoculars.
 title: Binoculars Pack
+zt2tags: ["All", "ZT2", "Objects", "Binoculars", "Zootilities"]
 ---
 This pack contains four binoculars. One for each of the following themes:
 - Endangered Species Theme

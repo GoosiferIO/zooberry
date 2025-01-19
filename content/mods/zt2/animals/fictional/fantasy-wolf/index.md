@@ -13,13 +13,14 @@ orig_rel_date: 2005-03-12
 date: 2023-07-20T23:04:46-08:00
 orig_rel_at: 
 - ZooMania
+- ZooAdmin
 draft: false
 license: Unknown
 alt_text: 
 languages:
 - English
-summary: "Here's a colorful wolf that eats almost anything."
-
+summary: These boreal forest wolves enjoy eating a variety of foods including bananas, berries, insects, fish, and meat.
+zt2tags: ["All", "Fictional", "Mammals", "Canids", "Animals", "ZT2" ]
 ---
 
-Here's a colorful wolf that eats almost anything.
+Here is the Fantasy Wolf! This animal was made up and skinned by Koala Komander, and coded by Penguinman. These boreal forest wolves enjoy eating a variety of foods including bananas, berries, insects, fish, and meat. It has 3 variant skins plus the original. Enjoy!

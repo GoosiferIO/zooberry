@@ -18,6 +18,7 @@ alt_text:
 languages:
 - English
 summary: "Borneo pygmy elephants have significantly different characteristics from their cousins found on mainland Asia and Sumatra."
+zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "Asian" , "Elephants"]
 ---
 Borneo pygmy elephants have significantly different characteristics from their cousins found on mainland Asia and Sumatra. They are relatively tame and mild-tempered compared to other Asian elephants, they are also smaller in size. There are estimated to be fewer than 1,500 of the elephants. Compared to other elephants, Borneo's pygmy elephants are baby-faced and gentle-natured.
 

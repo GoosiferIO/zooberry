@@ -20,6 +20,7 @@ orig_rel_date: 2005-11-27
 summary: Skunks produce a very smelly spray that repels most predators. This oily,
   yellow liquid is produced in two glands located under the tail.
 title: Skunk
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Mustelids", "Living", "North American" ]
 ---
 Skunks produce a very smelly spray that repels most predators. This oily, yellow liquid is produced in two glands located under the tail. They can spray up to 10 ft (3 m) away. The smell is long-lasting and very hard to get rid of - tomato juice helps. Wild skunks are black and white, but the patterns vary. They all have a bushy tail, short legs, clawed feet, and a long snout. Domesticated skunks have a variety of coat colors and patterns.
 

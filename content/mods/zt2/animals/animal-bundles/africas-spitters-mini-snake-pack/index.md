@@ -19,6 +19,14 @@ languages:
 - English
 summary: "A pack containing several cobras from Africa, perfect for your reptile houses."
 zt2tags: ["All", "Animals", "Animal Bundles", "Reptiles"]
+contents:
+- Black-necked Spitting Cobra
+- Cape Cobra
+- Egyptian Cobra
+- Forest Cobra
+- Mozambique
+- Red Spitting Cobra
+- West African Brown Spitting Cobra
 ---
 
 Africa's Spitter's is a pack containing seven cobras from Africa, perfect for your reptile houses. There is also an additional mystery cobra from another continent. The original description stated that the snakes don't lay eggs, however from testing this is confirmed to not be the case. Each animal lays eggs & hatches just fine and the pack seems to be bug-free.

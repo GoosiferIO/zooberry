@@ -16,6 +16,8 @@ alt_text:
 summary: "Nilgiri Tahr is an animal for Zoo Tycoon 2 created by Austroraptor."
 languages:
 - English
+zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "Ungulates", "Asian"]
+
 ---
 
 

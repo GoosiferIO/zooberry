@@ -21,6 +21,7 @@ orig_rel_date: 2009-06-24
 summary: Part of a set of elevated paths made to match the vanilla game's building
   themes, in this case the Extinct Theme from Extinct Animals.
 title: Extinct Themed Elevated Path
+zt2tags: ["All", "ZT2", "Objects", "Elevated Paths"]
 ---
 Part of a set of elevated paths made to match the vanilla game's building themes, in this case the Extinct Theme from Extinct Animals. This path would be perfect for giving guests an elevated view of your animals from a bygone era.
 

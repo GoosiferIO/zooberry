@@ -21,7 +21,16 @@ alt_text:
 languages:
 - English
 summary: "A Pack containing four European animals and Plants."
-
+zt2tags: ["All", "ZT2", "Animals", "Living", "Foliage", "Mammals", "Ungulates", "Birds", "Objects"]
+contents:
+- European Bison
+- Western Capercaillie
+- Red Deer
+- Wild Boar
+- English Oak
+- Toadstool
+- Norway Spruce
+- European Beech
 ---
 
 A Pack containing four European animals and Plants.

@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "These are signs to go on fences to symbolise it being a restroom door."
-
+zt2tags: ["All", "ZT2", "Objects", "Zootilities", "Signs"]
 ---
 
 These are signs to go on fences to symbolise it being a restroom door. No these don't really work however for show and tells they are very handy. Thanks to Z-studio for the models.

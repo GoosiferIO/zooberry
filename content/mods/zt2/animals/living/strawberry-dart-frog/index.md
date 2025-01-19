@@ -17,10 +17,12 @@ license: 'Yes'
 orig_rel_at:
 - Penguin's Peak
 - ZT2 Design Centre
+- ZooAdmin
 orig_rel_date: 2006-01-23
 summary: The strawberry poison dart frog is common in the Atlantic lowland tropical
   forests of Central America.
 title: Strawberry Dart Frog
+zt2tags: ["All", "Animals", "Living", "Amphibians", "ZT2", "Central America" ]
 ---
 *Dendrobates pumilio*, the strawberry poison dart frog, is common in the Atlantic lowland tropical forests of Central America. The greatest concentration of *D. pumilio* has been observed in Costa Rica (McVey et al. 1981). A steady supply of water is needed for reproduction. Strawberry poison dart frogs are tiny, measuring only 1/2-2 inches. Both sexes are bright red with purple-blue legs, although some specimens have been found in Panama sporting a variety of other colors including orange, green, and blue.
 

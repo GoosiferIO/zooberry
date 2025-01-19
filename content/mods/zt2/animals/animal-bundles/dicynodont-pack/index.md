@@ -20,6 +20,12 @@ languages:
 - English
 summary: "A pack of four dicynodonts, which are a group of therapsids the Permian and Triassic."
 zt2tags: ["All", "Animals", "Animal Bundles", "Therapsids", "Prehistoric"]
+contents:
+- Kannemeyeria
+- Prosictodon
+- Robertia
+- Uralokannemeyeria
+- Sinokannemeyeria
 ---
 A pack of four dicynodonts, which are a group of therapsids the Permian and Triassic. A fifth animal- Sinokannemeyeria- is currently missing. Please contact AubreyKitsune or Goosifer if you manage to find it!
 

@@ -18,6 +18,7 @@ orig_rel_date: 2006-01-06
 summary: The Tibetan blue bear is a sub-species of the brown bear found in the eastern
   Tibetan plateau.
 title: Tibetan Blue Bear
+zt2tags: ["All", "Animals", "ZT2", "Living", "Mammals", "Eurasia", "Ursids"]
 ---
 The Tibetan blue bear (*Ursus arctos pruinosus*) is a sub-species of the brown bear (*Ursus arctos*) found in the eastern Tibetan plateau. It is also known as the Tibetan brown bear, or the horse bear. In Tibetan it is known as Dom gyamuk. One of the rarest species of bear in the world, the blue bear is rarely sighted in the wild, and is known in the west only through a small number of fur and bone samples. It was first classified in 1854.
 

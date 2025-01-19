@@ -19,7 +19,7 @@ alt_text:
 languages:
 - English
 summary: "A soothing waterfall perfect for wetlands or tropical rainforest areas in your zoos."
-
+zt2tags: ["All", "ZT2", "Objects", "Scenery", "Fountains"]
 ---
 
 Winning Creation Collosseum entry vs Animallover44's Lighthouse. A soothing waterfall perfect for wetlands or tropical rainforest areas in your zoos.  Requirements:  MM2 recommended, might be compatible with AA. 

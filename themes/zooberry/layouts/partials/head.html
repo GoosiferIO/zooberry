@@ -37,62 +37,75 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
-<link rel="preload" rel="stylesheet" href="{{ $styleCDN }}" type="text/css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<link rel="preload" rel="stylesheet" href="{{ $galleriaCDN }}" type="text/css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" />
-<script src="{{ .Site.Params.cdn }}js/jquery.js"></script>
-<script src="{{ .Site.Params.cdn }}js/galleria.js"></script>
-<script src="{{ .Site.Params.cdn }}{{ $galleriaJSPath }}"></script>
-<script src="{{ .Site.Params.cdn }}js/main.js"></script>
+
+{{/*  If on development environment, load local scripts, else load from CDN  */}}
+{{ if eq hugo.Environment "development" }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+    <link rel="stylesheet" href="{{ $galleria.RelPermalink }}">
+    <script src="/js/jquery.js"></script>
+    <script src="/js/galleria.js"></script>
+    <script src="/js/main.js"></script>
+    <script src="{{ $galleriaJSPath }}"></script>
+    <script src="/js/main.js"></script>
+{{ else }}
+    <link rel="preload" rel="stylesheet" href="{{ $styleCDN }}" type="text/css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" rel="stylesheet" href="{{ $galleriaCDN }}" type="text/css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <script src="{{ .Site.Params.cdn }}js/jquery.js"></script>
+    <script src="{{ .Site.Params.cdn }}js/galleria.js"></script>
+    <script src="{{ .Site.Params.cdn }}{{ $galleriaJSPath }}"></script>
+    <script src="{{ .Site.Params.cdn }}js/main.js"></script>
+{{ end }}
+<script src="https://unpkg.com/lunr/lunr.js"></script>
 
 {{ if eq .Kind "home" }}
-<meta property="og:title" content="{{ .Site.Title }}" >
-<meta property="og:type" content="website" >
-<meta property="og:description" content="{{ $.Content }}" >
-<meta property="og:url" content="{{ .Permalink }}" >
-<meta property="og:image" content="{{ .Site.Params.cdn }}images/logo.png" >
-<meta name="twitter:card" content="summary_large_image">
-<meta property="twitter:domain" content="zooberry.org">
-<meta property="twitter:url" content="{{ .Permalink }}">
-<meta name="twitter:title" content="{{ .Site.Title }}">
-<meta name="twitter:description" content="{{ .Content }}">
-<meta name="twitter:image" content="{{ .Site.Params.cdn }}images/logo.png">
-
+    <meta property="og:title" content="{{ .Site.Title }}" >
+    <meta property="og:type" content="website" >
+    <meta property="og:description" content="{{ $.Content }}" >
+    <meta property="og:url" content="{{ .Permalink }}" >
+    <meta property="og:image" content="{{ .Site.Params.cdn }}images/logo.png" >
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="zooberry.org">
+    <meta property="twitter:url" content="{{ .Permalink }}">
+    <meta name="twitter:title" content="{{ .Site.Title }}">
+    <meta name="twitter:description" content="{{ .Content }}">
+    <meta name="twitter:image" content="{{ .Site.Params.cdn }}images/logo.png">
 {{ else }}
-<meta property="og:title" content="{{ .Title }}" >
-<meta property="og:type" content="article" >
+    <meta property="og:title" content="{{ .Title }}" >
+    <meta property="og:type" content="article" >
 
-<meta property="og:site_name" content="{{ .Site.Title }}" >
-<meta property="og:description" content="{{ .Content }}" >
-<meta name="twitter:card" content="summary_large_image">
-<meta property="twitter:domain" content="zooberry.org">
-<meta property="twitter:url" content="{{ .Permalink }}">
-<meta name="twitter:title" content="{{ .Site.Title }}">
-<meta name="twitter:description" content="{{ .Content }}">
+    <meta property="og:site_name" content="{{ .Site.Title }}" >
+    <meta property="og:description" content="{{ .Content }}" >
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="zooberry.org">
+    <meta property="twitter:url" content="{{ .Permalink }}">
+    <meta name="twitter:title" content="{{ .Site.Title }}">
+    <meta name="twitter:description" content="{{ .Content }}">
 
-{{ if .Params.team }}
-    <meta property="article:author" content="{{ .Params.team }}" >
-{{ else }}
-    {{ if reflect.IsSlice .Params.author }}
-        {{ range .Params.author }}
-            {{ $author :=  . | strings.ToLower }}
-            <meta property="article:author" content="{{ . }}" >
-        {{ end }}
+    {{ if .Params.team }}
+        <meta property="article:author" content="{{ .Params.team }}" >
     {{ else }}
-        <meta property="article:author" content="{{ .Params.author }}" >
+        {{ if reflect.IsSlice .Params.author }}
+            {{ range .Params.author }}
+                {{ $author :=  . | strings.ToLower }}
+                <meta property="article:author" content="{{ . }}" >
+            {{ end }}
+        {{ else }}
+            <meta property="article:author" content="{{ .Params.author }}" >
+        {{ end }}
     {{ end }}
-{{ end }}
-<meta property="og:url" content="{{ .Permalink }}" >
+    <meta property="og:url" content="{{ .Permalink }}" >
 
-{{ $images := .Resources.Match "images/*" }}
-{{ if gt (len $images) 0 }}
-  {{ $thumbnailResource := index $images 0 }}
-  <meta property="og:image" content="{{ .Site.Params.cdn }}{{ $thumbnailResource.RelPermalink }}" >
-  <meta name="twitter:image" content="{{ .Site.Params.cdn }}{{ $thumbnailResource.RelPermalink }}" >
-{{ end }}
+    {{ $images := .Resources.Match "images/*" }}
+    {{ if gt (len $images) 0 }}
+    {{ $thumbnailResource := index $images 0 }}
+    <meta property="og:image" content="{{ .Site.Params.cdn }}{{ $thumbnailResource.RelPermalink }}" >
+    <meta name="twitter:image" content="{{ .Site.Params.cdn }}{{ $thumbnailResource.RelPermalink }}" >
+    {{ end }}
 
 {{ end }}
+
 
 
 

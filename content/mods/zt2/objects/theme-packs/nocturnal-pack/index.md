@@ -17,6 +17,7 @@ alt_text:
 summary: "A pack of nocturnal-themed objects by Feral Designs."
 languages:
 - English
+zt2tags: ["All", "ZT2", "Objects", "Theme Packs", "Halloween", "Benches", "Paths", "Signs", "Trash Cans"]
 ---
 
  Included in the Nocturnal Pack 

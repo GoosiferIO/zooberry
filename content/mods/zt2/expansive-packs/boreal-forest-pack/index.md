@@ -1,7 +1,6 @@
 ---
 alt_text: null
 author:
-- Zoo Admin Design Team
 - Penguinman
 - Csleesburg
 - Exitree
@@ -23,8 +22,31 @@ orig_rel_date: 2006-07-13
 summary: This is part of a set of eight biome packs that were made by the Zoo Admin
   Design Team many years ago.
 title: Boreal Forest Pack
-tags: ["all", "animals", "packs", "foliage", "trees", "signs", "arches", "fences", "ground-paths", "elevated-paths", "land-foliage", "scenery", "transportation"]
+zt2tags: ["All", "ZT2", "Packs", "Expansive Packs", "Objects", "Animals", "Foliage", "Signs", "Arches", "Fences", "Paths", "Elevated Paths", "Scenery", "Tour Objects", "Mammals", "Ungulates", "Canids", "Living", "Ursids"]
 team: Zoo Admin Design Team
+contents:
+- Black-Tailed Deer
+- Eastern Timber Wolf
+- Fisher
+- Siberian Brown Bear
+- Russian Brown Bear
+- White-Tailed Deer
+- Mayflower
+- Rudbeckia
+- Siberian Elm
+- Siberian Crabapple
+- Sitka Spruce
+- Boreal Beauty Sign
+- Boreal Forest Arch
+- Pine Needles High Fence
+- Pine Needles Low Fence
+- Pine Needles Window Fence
+- Boreal Forest Elevated Path
+- Mayflower and Rudbeckia Path
+- Pine Elevated Path
+- Pine Needles Path
+- Boreal Jeep
+- Boreal Pole
 ---
 This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago. Many members helped out. Please note that due to how old these packs are, not everything is up to the same standard that Penguinman would have later used. Modeling, for instance, was not discovered until after these packs were made. However, Penguinman did feel that many of the plants, objects and animals would be useful and that's why he reuploaded them onto Penguin's Peak. Hope you enjoy!
 

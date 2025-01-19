@@ -19,6 +19,7 @@ orig_rel_date: 2009-10-11
 summary: The red grouse is differentiated by its plumage being reddish brown and not
   having a white winter plumage.
 title: Red Grouse
+zt2tags: ["All", "ZT2", "Animals", "Birds", "Living", "European" ]
 ---
 The red grouse is differentiated from the willow grouse and ptarmigan by its plumage being reddish brown and not having a white winter plumage. The tail is black and the legs are white. There are white stripes on the underwing and red combs over the eye. Females are less reddish than the males and have less conspicuous combs. Young birds are duller and lack the red combs. Birds in Ireland are sometimes thought to belong to a separate subspecies.
 

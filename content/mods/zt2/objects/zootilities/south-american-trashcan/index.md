@@ -18,7 +18,7 @@ alt_text:
 languages:
 - English
 summary: "We made this trashcan a while ago. We hope that you all enjoy it."
-
+zt2tags: ["All", "ZT2", "Objects", "Zootilities", "Trashcans"]
 ---
 
 We made this trashcan a while ago. We hope that you all enjoy it.

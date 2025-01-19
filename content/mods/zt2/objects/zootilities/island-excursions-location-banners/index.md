@@ -17,6 +17,7 @@ orig_rel_date: 2009-10-24
 summary: A set of banners with locations featured in Artifex's Arabian Nights user-made
   expansion pack.
 title: Island Excursions Location Banners
+zt2tags: [ "All", "ZT2", "Objects", "Signs", "Zootilities"]
 ---
 
 

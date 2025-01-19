@@ -16,10 +16,12 @@ languages:
 license: 'Yes'
 orig_rel_at:
 - Penguin's Peak
-orig_rel_date: 2006-06-08
+- ZooAdmin
+orig_rel_date: 2006-06-01
 summary: Part of a set of elevated paths made to match the vanilla game's building
   themes, in this case the Desert Theme from African Adventure.
 title: Desert Themed Elevated Path
+zt2tags: ["All", "ZT2", "Objects", "Elevated Paths"]
 ---
 Part of a set of elevated paths made to match the vanilla game's building themes, in this case the Desert Theme from African Adventure. This path would be perfect for giving guests an elevated view of North African exhibits.
 

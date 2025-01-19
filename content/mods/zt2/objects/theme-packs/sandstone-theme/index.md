@@ -12,13 +12,14 @@ date: 2023-08-03T06:18:09-07:00
 orig_rel_at: 
 - ZooMania
 - Shen's Den
+- ZooAdmin
 draft: false
 license: Unknown
 alt_text: 
 languages:
 - English
 summary: "The Sandstone Theme Pack contains items made of softly coloured sandstone, often overgrown with ivy."
-
+zt2tags: ["All", "ZT2", "Packs", "Objects", "Paths", "Fences", "Benches", "Scenery", "Zootilities", "Theme Packs", "Foundtains"]
 ---
 
 The Sandstone Theme Pack contains items made of softly coloured sandstone, often overgrown with ivy.  Perfectly suited to desert, scrubland or coastal exhibits!

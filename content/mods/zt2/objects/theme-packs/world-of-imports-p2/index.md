@@ -18,6 +18,7 @@ alt_text:
 languages:
 - English
 summary: "Imported models prepared by Slice. Pack 2 of 3."
+zt2tags: ["All", "ZT2", "Objects", "Theme Packs", "Scenery", "Rocks", "Foliage", "Statues", "Animal Food"]
 
 ---
 

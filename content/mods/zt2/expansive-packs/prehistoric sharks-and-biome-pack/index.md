@@ -18,6 +18,11 @@ alt_text:
 summary: "A pack with two animals and a new biome."
 languages:
 - English
+contents:
+- Galeocerdo Aduncus
+- Procarcharodon
+- Prehistoric Sea Biome
+zt2tags: ["All", "ZT2", "Animals", "Biomes", "Elasmobranchs", "Prehistoric", "Extinct"]
 ---
 
 A pack with two animals and a new biome.

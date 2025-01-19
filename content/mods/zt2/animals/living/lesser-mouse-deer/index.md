@@ -18,12 +18,12 @@ summary: "A Lesser Mouse Deer made by Longisquama."
 languages:
 - English
 - German
+zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "Ungulates", "Asian"]
 ---
 
 A Lesser Mouse Deer made by Longisquama.
 
 
-Credits
-
+## Other Credits
 
 - Based on the Pudu mesh by Otter Lord

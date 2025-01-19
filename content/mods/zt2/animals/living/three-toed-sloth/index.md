@@ -19,6 +19,7 @@ summary: "Three-Toed Sloth is an animal for Zoo Tycoon 2 created by Hendrix and 
 languages:
 - English
 - German
+zt2tags: ["All", "Animals", "ZT2", "Living", "Mammals", "Pilosans", "South American"]
 ---
 
 

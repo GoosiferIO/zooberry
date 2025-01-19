@@ -17,6 +17,7 @@ alt_text:
 languages:
 - English
 summary: "A large rodent! "
+zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "South American", "Aquatic"]
 
 ---
 

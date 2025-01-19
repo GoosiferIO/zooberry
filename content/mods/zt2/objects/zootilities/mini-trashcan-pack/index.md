@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "In this pack, you will find a Royal Trascan, Marble Trashcan, and a Wooden Trashcan. "
-
+zt2tags: ["All", "ZT2", "Objects", "Zootilities", "Trashcans"]
 ---
 
 In this pack, you will find a Royal Trascan, Marble Trashcan, and a Wooden Trashcan. 

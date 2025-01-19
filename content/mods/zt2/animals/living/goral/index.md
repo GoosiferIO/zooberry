@@ -20,6 +20,8 @@ alt_text:
 languages:
 - English
 summary: "The Goral is an Asian Antelope "
+zt2tags: ["All", "Animals", "Living", "Mammals", "ZT2", "Ungulates", "Asian"]
+
 ---
 
 The Goral is an Asian Antelope 

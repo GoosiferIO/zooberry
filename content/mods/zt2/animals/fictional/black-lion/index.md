@@ -12,17 +12,16 @@ orig_rel_date: 2006-03-14
 date: 2023-11-24T04:01:47-08:00
 orig_rel_at: 
 - ZT2 Design Centre
+- ZooAdmin
 draft: false
 license: 'Yes'
 alt_text: 
 languages:
 - English
-summary: "The black lion is only known to exist in the realm of fiction, folklore, and photoshop hoaxes."
+summary: A black coloration of the lion. This animal is recolored by Howling Shadow Wolf with coding by both Howling Shadow Wolf and Penguinman. I hope you enjoy it!
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Felids", "Fictional"]
 ---
-"The black lion isn't a subspeicies,nor is it a speicies actually.The black lion is just a normal Lion.Well,Its a color phase."
-Although the Zoopedia presents the black lion as a real creature, this is just for fun. In reality the black lion is only known to exist in the realm of fiction, folklore, and photoshop hoaxes.
+A black coloration of the lion. This animal is recolored by Howling Shadow Wolf with coding by both Howling Shadow Wolf and Penguinman. I hope you enjoy it!
 
-Penguinman's exact role in creating this download is unknown, as it is simply stated that he helped the other author. It includes a gift for guests to purchase.
-
-**This download has one known issue:**
+## Known Issues
 - While not outright a bug, this animal seems more finnicky about fulfilling its hunger need than is typical. It seems to priortize other tasks over eating. If you place down fresh food when they complain, that can help mitigate this issue.

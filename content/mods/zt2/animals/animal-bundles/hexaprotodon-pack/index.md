@@ -29,6 +29,10 @@ zt2tags: [
   "Therapsids",
     "Ungulates" 
 ]
+contents:
+- Hexaprotodon Bruneti
+- Hexaprotodon Simplex
+- Hexaprotodon Sivalensis
 ---
 Three extinct hippopotamids from the genus *Hexaprotodon*. The name *Hexaprotodon* was often applied to the pygmy hippopotamus before its reclassification into the genus *Choeropsis*. The genus has been historically applied to numerous fossil hippopotamus species spanning Asia, Africa and Europe.
 

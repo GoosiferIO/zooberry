@@ -18,6 +18,7 @@ alt_text:
 languages:
 - English
 summary: "Bonobos live in the forests located centrally in the Democratic Republic of the Congo (formerly Zaire)."
+zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "Primates", "African"]
 ---
 Bonobos (*Pan paniscus*) live in the forests located centrally in the Democratic Republic of the Congo (formerly Zaire). Bonobo habitat lies in the Congo Basin. This area is located south of an arc formed by the Congo River (formerly the Zaire River) and its headwater, the Lualaba River, and north of the Kasai River.
 

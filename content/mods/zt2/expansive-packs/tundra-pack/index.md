@@ -1,7 +1,6 @@
 ---
 alt_text: null
 author:
-- Zoo Admin Design Team
 - Penguinman
 - Csleesburg
 - Exitree
@@ -24,6 +23,26 @@ summary: This is part of a set of eight biome packs that were made by the Zoo Ad
   Design Team many years ago.
 title: Tundra Pack
 team: Zoo Admin Design Team
+contents:
+- Arctic Wolf
+- Siberian Lynx
+- Dead Tree
+- Winter Maple Tree
+- Dwarf Birch
+- Dwarf Willow
+- Arctic Blue Deposit
+- Arctic Sea Smoke Machine
+- Snowy Tunnel
+- Tundra Arch
+- Tundra Trek Sign
+- DT Tundra High Fence
+- DT Tundra Low Fence
+- DT Tundra Window Fence
+- DT Tundra Path
+- DT Tundra Path 2
+- Tundra Elevated Path
+- Tundra Sky Tram (called tundra gondola in-game)
+zt2tags: ["All", "ZT2", "Packs", "Expansive Packs", "Objects", "Animals", "Foliage", "Scenery", "Fences", "Paths", "Tour Objects", "Mammals", "Ungulates", "Buildings", "Arches", "Signs", "Elevated Paths", "Felids", "Canids", "Living"]
 ---
 This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago. Many members helped out. Please note that due to how old these packs are, not everything is up to the same standard that Penguinman would have later used. Modeling, for instance, was not discovered until after these packs were made. However, Penguinman did feel that many of the plants, objects and animals would be useful and that's why he reuploaded them onto Penguin's Peak. Hope you enjoy!
 

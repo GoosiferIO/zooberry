@@ -19,6 +19,7 @@ orig_rel_date: 2006-04-20
 summary: Part of a set of elevated paths made to match the vanilla game's building
   themes, in this case the Tundra Theme from official bonus downloads.
 title: Tundra Themed Elevated Path
+zt2tags: ["All", "ZT2", "Objects", "Elevated Paths"]
 ---
 Part of a set of elevated paths made to match the vanilla game's building themes, in this case the Tundra Theme from official bonus downloads. This path would be perfect for giving guests an elevated view of polar exhibits.
 

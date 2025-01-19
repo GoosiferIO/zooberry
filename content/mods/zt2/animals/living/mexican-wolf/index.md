@@ -19,6 +19,7 @@ alt_text:
 languages:
 - English
 summary: "The Mexican Wolf is a sub-species of the Gray Wolf."
+zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "Canids", "North American" ]
 
 ---
 

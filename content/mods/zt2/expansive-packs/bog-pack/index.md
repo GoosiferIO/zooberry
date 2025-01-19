@@ -20,7 +20,25 @@ summary: "A Bog Pack made by Hendrix with new animals, objects, and a new biome.
 languages:
 - English
 - German
-tags: ["animals", "foliage", "trees", "land-foliage", "biomes", "shelters", "rocks", "enrichment"]
+zt2tags: ["All", "ZT2", "Animals", "Living", "Foliage", "Biomes", "Shelters", "Rocks", "Enrichment", "Birds", "Reptiles", "Objects", "Rocks", "Expansive Packs", "Packs"]
+contents:
+- Black Grouse
+- Adder Snake
+- Bog Spring
+- Small Bog Rock
+- Medium Bog Rock
+- Large Bog Rock
+- Common Sedge
+- Crippled Bog Pine
+- Large Bog Pine
+- Peat Moss
+- Log
+- Heather
+- Cotton Grass
+- Hairy Birch
+- Rock Formation
+- Grouse Perch
+- Bog Biome
 ---
 
 A Bog Pack made by Hendrix with new animals, objects, and a new biome.

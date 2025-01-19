@@ -121,7 +121,7 @@
                                 {{ end }}
                     
                                 <a href="{{ .RelPermalink }}">
-                                    <img src="{{ $thumbnail }}" alt="{{ .LinkTitle }}">
+                                    <img src="{{ .Site.Params.cdn }}{{ $thumbnail }}" alt="{{ .LinkTitle }}">
                                 </a>
                             </div>
                             <div class="box-card-mods-content">
@@ -157,8 +157,12 @@
                 {{/*  {{ template "_internal/pagination.html" (dict "paginator" $paginator "page" .) }}  */}}
             </p>
         </div>
+        {{ if ne .Type "mods" }}
+        <div class="sidebar_r-a">
+        {{ else }}
         <div class="sidebar_r">
-            <div class="sidebar_r-inner">
+        {{ end }}
+                    <div class="sidebar_r-inner">
                 <span class="sidebar_r-title">Description</span>
                 <p style="padding: 0 2rem 0 2rem;">{{ .Params.description }}</p>
                 <span class="sidebar_r-title">Languages</span>

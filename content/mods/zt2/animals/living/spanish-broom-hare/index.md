@@ -19,7 +19,7 @@ alt_text:
 languages:
 - English
 summary: "A plant and animal both from northern Spain."
-
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Living", "European", "Leporids" ]
 ---
 
 A plant and animal both from northern Spain. Comes with both the plant and the animal. The Broom Hare comes with 2 varients. 

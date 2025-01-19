@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "The Forgotten Spire was designed by Catc for the 2008 Coliseum Tournament."
-
+zt2tags: ["All", "ZT2", "Objects", "Scenery", "Statues"]
 ---
 
 The Forgotten Spire was designed by Catc for the 2008 Coliseum Tournament.  

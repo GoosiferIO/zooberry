@@ -20,14 +20,19 @@ orig_rel_date: 2007-02-16
 summary: Of all the gelatinous creatures visiting Monterey Bay, the purple-striped
   jelly is certainly among the most recognizable and spectacular.
 title: Purple-Striped Jellyfish
+zt2tags: ["All", "ZT2", "Animals", "Invertebrates", "Jellyfish" , "Living", "Aquatic"]
 ---
 Of all the gelatinous creatures visiting Monterey Bay, the purple-striped jelly is certainly among the most recognizable and spectacular. With a bell of up to 70 cm diameter, usually streaked with a radial pattern of stripes, and long, flowing oral arms, this jelly is quite impressive. The four frilly oral arms have a coiled appearance. Eight marginal tentacles alternate with eight sensory rhopalia. The tentacles are well armed with nematocysts and can produce a relatively painful sting.
 
 This animal was originally part of a pack known as the Jellyfish Pack. The Jellyfish Pack was done at ZooAdmin and each jellyfish is skinned by a different member of that site. These animals will not reproduce and do not require any food/enrichment, acting like ambients. But, guests will still view and enjoy them.
 
-This particular jelly's skin was contributed by Mikaboshi. Like many other downloads of its time, it was a collaboration that Penguinman created with another user. It includes a gift for guests to purchase.
+It includes a gift for guests to purchase.
 
-**This download has one known issue:**
+## Other Credits
+- Mikaboshi - Texture
+- Penguinman - Coding
+
+## Known Issues
 - Although the jellyfish don't need to be fed, they do eat through a unique behavior of sifting the water for food. Sometimes they don't perform certain need-fulfilling behaviors like sifting when they should, which will lead to that need being unfulfilled. This is temporary and resolves itself on its own without the need for player intervention.
 
 **Other downloads in the 'Jellyfish Pack' set:**

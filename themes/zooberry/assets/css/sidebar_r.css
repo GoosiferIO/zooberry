@@ -5,19 +5,81 @@
     top: 2rem;
     float: right;
     background-color: var(--tbody-bg);
-    height: max-content;
+    min-height: fit-content;
+    max-height: calc(100vh - 8rem);
     position: sticky;
     overflow-y: auto;
 }
 
-.sidebar_r-inner {
-    border-radius: 10px;
-    margin-top: 0.5rem;
-    margin-bottom: 0.5rem;
-    padding-bottom: 0.5rem;
-    width: 100%;
+.sidebar_r-a {
+    width: 30%;
     display: flex;
     flex-direction: column;
+    top: 2rem;
+    float: right;
+    min-height: fit-content;
+    max-height: calc(100vh - 8rem);
+    position: sticky;
+    overflow-y: auto;
+    overflow-x:hidden;
+}
+
+.sidebar_r-a table.tb-df {
+    margin: 0 !important;
+}
+
+.sidebar_r-a code {
+    background-color: var(--thead-bg-alt);
+    padding: 0.2rem 0.5rem;
+    border-radius: 0.2rem;
+}
+
+.sidebar_r-inner-a {
+    margin-bottom: 1.2rem;
+    padding: 0 1.2rem 1.2rem 1.2rem;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--thead-bg);
+    border-radius: 0.5rem;
+
+}
+
+.sidebar_r-discord img {
+    width: 3rem;
+    margin-left: 1rem;
+}
+
+.sidebar_r-discord span {
+    margin-left: 1rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+.sidebar_r-discord {
+    display: flex;
+    flex-direction: row;
+    vertical-align: middle;
+    align-items: center;
+    margin-bottom: 1.2rem;
+    padding: 1.2rem;
+    background-color: var(--thead-bg);
+    border-radius: 0.5rem;
+}
+
+.sidebar_r-discord:hover {
+    background-color: var(--sidebar-hover);
+    transition: background-color 0.3s ease;
+}
+
+.sidebar_r-inner-a li {
+    margin: 0.5rem 0 0.5rem 1rem;
+}
+
+.sidebar_r-inner {
+    margin-bottom: 1.2rem;
+    padding: 1.2rem;
+    background-color: var(--tbody-bg);
 }
 
 div.sidebar_r-inner a.button-dft {
@@ -25,7 +87,7 @@ div.sidebar_r-inner a.button-dft {
     text-align: center;
 }
 
-.sidebar_r-inner ul {
+.sidebar_r-inner ul, .sidebar_r-inner-a ul {
     list-style: none;
     padding-left: 1rem;
     margin: 0.1rem 0 0 0;

@@ -13,13 +13,19 @@ orig_rel_date: 2006-01-17
 date: 2023-11-24T04:01:47-08:00
 orig_rel_at: 
 - ZT2 Design Centre
+- ZooAdmin
 draft: false
 license: 'Yes'
 alt_text: 
 languages:
 - English
 summary: "Arctic foxes are pure white in winter and grey-brown in summer. They can also be light brown, grey, chocolate, or black with a bluish hue."
+zt2tags: ["All", "ZT2", "Animals", "Mammals", "Canids", "Living", "Eurasian" ]
 ---
-Arctic foxes are pure white in winter and grey-brown in summer. They can also be light brown, grey, chocolate, or black with a bluish hue. Arctic foxes live in the Arctic regions of Europe, Asia and North America. They like to roam in the tundra, usually near the coast. Arctic foxes are omnivorous, but feed particularly on small mammals (lemmings), eggs, carrion and berries.
+Here is the Arctic Fox! This Arctic animal was made out of the baby wolf and created by Penguinman, with two variants (summer and blue) by Dwarfgouramis.
 
-Like many other downloads of its time, this was a collaboration that Penguinman created with another user. It has no known issues and includes a gift for guests to purchase.
+**Updates:**  
+- Size updated 12-3-05.  
+- Two variants by Dwarfgouramis and alphabetized on 1-17-05.
+
+Please post comments in "Penguinman's Projects!" and enjoy this wintery treat.

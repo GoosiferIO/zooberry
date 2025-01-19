@@ -20,6 +20,13 @@ languages:
 - English
 summary: "Six pterosaurs by Andrew12."
 zt2tags: ["All", "Animals", "Animal Bundles", "Prehistoric", "Reptiles"]
+contents:
+- Dsungaripterus
+- Nyctosaurus
+- Tapejara
+- Thalassodromeus
+- Pteranodon
+- Pterodaustro
 ---
 
  Included in the Pack 

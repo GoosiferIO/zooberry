@@ -14,9 +14,11 @@ languages:
 license: Unknown
 orig_rel_at:
 - ZT2 Design Centre
+- ZooAdmin
 orig_rel_date: 2006-09-09
 summary: A pack containing many benches which you can select from.
 title: Animal Bench Pack
+zt2tags: ["All", "ZT2", "Objects", "Benches", "Zootilities"]
 ---
 A pack containing many benches which you can select from.
 

@@ -19,6 +19,7 @@ alt_text:
 summary: "A show backdrop for your killer whale shows!"
 languages:
 - English
+zt2tags: ["All", "ZT2", "Objects", "Scenery", "Statues"]
 ---
 
 

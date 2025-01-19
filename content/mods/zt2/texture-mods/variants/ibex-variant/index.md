@@ -11,13 +11,14 @@ orig_rel_date: 2006-07-08
 date: 2023-11-12T02:04:42-08:00
 orig_rel_at: 
 - ZooMania
+- ZooAdmin
 draft: false
 thumbnail: 
 license: Unknown
 alt_text: 
 languages:
-summary: "An ibex variant made by Animalover44."
+summary: "This is a darker variant for the ibex. It works on both males and females even though the one in the picture is a male."
 
 ---
 
-An ibex variant made by Animalover44. Only adds a variant for the female textures.
+This is a darker variant for the ibex. It works on both males and females even though the one in the picture is a male.

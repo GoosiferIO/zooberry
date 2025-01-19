@@ -18,6 +18,7 @@ orig_rel_date: 2008-07-16
 summary: A path covered in newly fallen leaves, featuring leaf decorations along the
   curb as well.  Perfect for a walk through temperate forests!
 title: Leafy Path
+zt2tags: ["All", "ZT2", "Objects", "Paths"]
 ---
 
 A path covered in newly fallen leaves, featuring leaf decorations along the curb as well.  Perfect for a walk through temperate forests!

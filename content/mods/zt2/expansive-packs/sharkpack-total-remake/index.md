@@ -18,6 +18,18 @@ summary: "Shark Pack Total Remake is an expansive pack for Zoo Tycoon 2 created 
 languages:
 - English
 - Spanish
+contents:
+- Zebra Shark
+- White Tip Shark
+- Sandbar Shark
+- Nurse Shark
+- Leopard Shark
+- Blue Shark
+- Basking Shark
+- Golden Hammerhead Shark
+- White Shark Remake
+- Black Tip Reef Shark Remake
+zt2tags: ["All", "ZT2", "Animals", "Elasmobranchs", "Animal Remakes", "All Remakes", "Living"]
 ---
 
 

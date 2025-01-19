@@ -20,6 +20,7 @@ orig_rel_date: 2006-05-05
 summary: This pack contains 9 elevated paths, each made to resemble a tree from a
   different biome.
 title: Tree Elevated Path Pack
+zt2tags: ["All", "ZT2", "Objects", "Elevated Paths"]
 ---
 This pack contains 9 elevated paths, each made to resemble a tree from a different biome.
 

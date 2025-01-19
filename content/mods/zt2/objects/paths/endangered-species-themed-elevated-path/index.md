@@ -20,6 +20,7 @@ orig_rel_date: 2006-06-28
 summary: Part of a set of elevated paths made to match the vanilla game's building
   themes, in this case the Endangered Theme from Endangered Species.
 title: Endangered Species Themed Elevated Path
+zt2tags: ["All", "ZT2", "Objects", "Elevated Paths"]
 ---
 Part of a set of elevated paths made to match the vanilla game's building themes, in this case the Endangered Theme from Endangered Species. This path would be perfect for giving guests an elevated view of your zoos' rarest animals.
 

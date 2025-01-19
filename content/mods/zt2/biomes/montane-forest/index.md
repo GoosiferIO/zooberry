@@ -21,6 +21,12 @@ orig_rel_date: 2009-09-07
 summary: Montane forests are a type of tropical moist forest that exist at higher
   elevations.
 title: Montane Forest
+contents:
+- Montane Forest
+- Grand Montane Forest Rock
+- Large Montane Forest Rock
+- Medium Montane Forest Rock
+- Small Montane Forest Rock
 ---
 Montane forests are a type of tropical moist forest that exist at higher elevations. In some regions this can cause the formation of a cloud forest, but in most a standard montane forest setting occurs. These forests often have many epiphytes which are plants that can grow without roots because it can get moisture and nutrients from the air.
 

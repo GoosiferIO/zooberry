@@ -16,10 +16,12 @@ languages:
 license: 'Yes'
 orig_rel_at:
 - Penguin's Peak
+- ZooAdmin
 orig_rel_date: 2005-11-26
 summary: The zorilla is a skunk-like mammal that lives in African savannas. It is
   also called the striped polecat.
 title: Zorilla
+zt2tags: ["All", "Animals", "ZT2", "Living", "Mammals", "African", "Mustelids"]
 ---
 The zorilla, *Ictonyx striatus*, is a skunk-like mammal that lives in African savannas. It is also called the striped polecat. This mustelid (a type of weasel) has scent glands under the tail; when it is alarmed, it sprays a strong-smelling liquid. These nocturnal animals hunt at night and rest in a burrow or a rock crevice during the day. They have a life span of 5 years in captivity.
 

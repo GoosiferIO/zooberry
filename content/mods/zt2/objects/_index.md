@@ -1,6 +1,7 @@
 ---
 title: "Objects"
 layout: objects
+is_category: true
 draft: false
 redirect: mods/zt2/tags/objects/
 alt_text: "Zt2 Objects"

@@ -18,6 +18,8 @@ summary: "Zebra Duiker made by Longisquama."
 languages:
 - English
 - German
+zt2tags: ["All", "Animals", "ZT2", "Living", "Mammals", "Ungulates", "African"]
+
 ---
 
 Zebra Duiker made by Longisquama.

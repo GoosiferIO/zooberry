@@ -17,6 +17,7 @@ alt_text:
 languages:
 - English
 summary: "An endangered-themed picnic table."
+zt2tags: ["All", "ZT2", "Objects", "Zootilities", "Tables"]
 
 ---
 

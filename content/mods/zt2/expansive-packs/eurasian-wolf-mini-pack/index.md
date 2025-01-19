@@ -20,6 +20,11 @@ orig_rel_date: 2011-08-10
 summary: The Eurasian wolf, also known as the European, common or forest wolf, is
   a subspecies of grey wolf which has the largest range among wolf subspecies.
 title: Eurasian Wolf Mini Pack
+zt2tags: ["All", "ZT2", "Animals", "Canids", "Living", "Shelters", "Foliage", "Mammals", "Objects", "Shelters", "European", "Eurasian"]
+contents:
+- Eurasian Wolf
+- Spruce Tree
+- Wolf Den Shelter
 ---
 The Eurasian wolf (*Canis lupus lupus*), also known as the European, common or forest wolf, is a subspecies of grey wolf which has the largest range among wolf subspecies. It is the most common in Europe and Asia, ranging through Mongolia, China, Russia, Scandinavia, Western Europe and the Himalayan Mountains. In Europe, wolves rarely form large packs like in North America, as their lives are more strongly influenced by human activities. Because of this, Eurasian wolves tend to be more adaptable than North American wolves in the face of human expansion.
 

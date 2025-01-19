@@ -20,6 +20,7 @@ orig_rel_date: 2007-02-19
 summary: The cannonball jellyfish, also known as the cabbagehead jellyfish, is a species
   of jellyfish in the family Stomolophidae.
 title: Cannonball Jellyfish
+zt2tags: ["All", "Animals", "Living", "Invertebrates", "Aquatic"]
 ---
 The cannonball jellyfish (*Stomolophus meleagris*), also known as the cabbagehead jellyfish, is a species of jellyfish in the family Stomolophidae. Its common name derives from its similarity to a cannonball in shape and size. Its dome-shaped bell can reach 25 cm (10 in) in diameter. The rim is often colored with brown pigment. There are several known undescribed *Stomolophus* species found in the Pacific and South Atlantic that exhibit pale to blue pigment.
 

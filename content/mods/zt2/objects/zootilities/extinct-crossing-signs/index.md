@@ -18,6 +18,7 @@ summary: A set of nine extinct animal crossing signs that warn visitors on foot 
   in jeep transports that various extinct animals from around the world may cross
   their path.
 title: Extinct Animal Crossing Signs
+zt2tags: ["All", "ZT2", "Objects", "Zootilities", "Signs"]
 ---
 
 

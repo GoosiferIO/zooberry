@@ -158,4 +158,4 @@ Open the icon with dxtbmp and on the right click on the arrow that goes to a fol
 - TreeBrowser
 - TreeTrunkBrowser
 
-**Space requirement**: In your main `.xml` file, search for `f_RequiredInitialSpace` and change the number to the space that only one animal of that species needs. Then, change the number next to `f_RequiredAdditionalSpace` for the space that the animal needs when you place another animal in the exhibit. For example, if an animal has an initial space of 50 and 10 for additional, and you place only one animal, you will need an exhibit of at least 50 squares. For
+**Space requirement**: In your main `.xml` file, search for `f_RequiredInitialSpace` and change the number to the space that only one animal of that species needs. Then, change the number next to `f_RequiredAdditionalSpace` for the space that the animal needs when you place another animal in The Exibit. For example, if an animal has an initial space of 50 and 10 for additional, and you place only one animal, you will need an exhibit of at least 50 squares. For

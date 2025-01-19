@@ -27,6 +27,8 @@ The current list of websites whose mods and tutorials we are committed to archiv
 - Hispa Designs
 - Dannybob's Forum
 - Stalker's Ranch
+- ZooTek Phoenix (Zoo Tycoon 2 Library)
+- Zoo Admin (Zoo Tycoon 2 Library)
 
 ## How did you get permission to host mods from these websites?
 
@@ -45,6 +47,8 @@ Below is a list of individuals and their relation to the websites whose mods we 
 | Z-Studio | AubreyKitsune | Team Member, Current Leader |
 | Bunyupy's Projects, Hispa Designs | Bunyupy | Owner, Founder, Team Member |
 | Dannybob's Forum, Stalker's Ranch | Dannybob | Owner, Founder |
+| ZooTek Phoenix | SavannahJan, Cricket | Owners |
+| Zoo Admin | Yellowrose | Owner |
 
 *Note: roles in parantheses are not in any particular order.*
 
@@ -59,7 +63,7 @@ These individuals are not associated with any particular website, but have given
 
 ## I'm a current Zoo Tycoon modder. May I submit files to ZooBerry for hosting?
 
-Absolutely. Although mod archival is the main motivation behind ZooBerry's creation, we host mods for current teams and modders as well. Please check out the [Submit a File](/submit) page for more information.
+Absolutely. Although mod archival is the main motivation behind ZooBerry's creation, we host mods for current teams and modders as well. Please check out the [Submit a File](/knowledgebase/zooberry/site/submit) page for more information.
 
 ## What is your stance on mod ownership?
 
@@ -71,4 +75,4 @@ ZooBerry believes in mod ownership and therefore if you are an author to a mod h
 
 We used to, but it's quite expensive and frankly they're just not as popular as they used to be. Since ZooBerry is one of our main projects at OpenZT, you are welcome to communicate with us on the [OpenZT Discord](https://discord.gg/ATqFYVsjkc).
 
-For other ZT forum communities around the internet, please see the [Other Websites](/knowledgebase/zooberry/other-websites) page.
+For other ZT forum communities around the internet, please see the [Other Websites](/knowledgebase/zooberry/community/other-websites) page.

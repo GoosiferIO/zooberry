@@ -18,6 +18,7 @@ alt_text:
 languages:
 - English
 summary: "A bushy-tailed mongoose from the dry forests of Madagascar."
+zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "Herpestids", "African" ]
 
 ---
 

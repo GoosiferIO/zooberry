@@ -11,3 +11,6 @@ images/
 
 *.toml
 *.lock
+
+db.py
+/meta

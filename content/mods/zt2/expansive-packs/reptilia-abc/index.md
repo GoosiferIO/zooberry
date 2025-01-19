@@ -25,12 +25,33 @@ languages:
 - German
 - Dutch
 summary: "Reptilia is a new expansion pack made by ZT ABC!"
-
+zt2tags: ["All", "ZT2", "Expansive Packs", "Reptiles", "Amphibians", "Foliage", "Enrichment", "Fences", "Paths", "Shelters", "Animal Food", "Objects", "Living"]
+contents:
+- Plumed Basilisk
+- Jackson's Chameleon
+- Panther Chameleon
+- Giant Leaf-Tailed Gecko
+- Giant New Caledonian Gecko
+- False Gharial
+- Marina Iguana
+- Pelagic Sea Snake
+- Ring-Necked Spitting Cobra
+- Hermann Tortoise
+- Chameleon Tree
+- Live Rat
+- Plexiglass Fence
+- Madagascar Baobab
+- Artificial Reef with Seaweed
+- Food Dish with Flies
+- Flies (Animal Food)
+- Dropping Water
+- Plexiglass Roof Path
+- Coastal Island Shelter
 ---
 
-**This pack includes the following:**
+## Includes
 
-Animals:
+### Animals
 - Plumed Basilisk
 - Jackson's Chameleon
 - Panther Chameleon
@@ -42,29 +63,30 @@ Animals:
 - Ring-Necked Spitting Cobra
 - Hermann Tortoise
 
-Enrichment Objects:
+### Enrichment Objects
 - Chameleon Tree
 - Live Rat
   
-Fences:
+### Fences
 - Plexiglass Fence
 
-Foliage:
+### Foliage
 - Madagascar Baobab
 
-Food:
+### Food
 - Artificial Reef with Seaweed
 - Food dish with flies
 - Flies
 - Dropping Water
 
-Paths:
+### Paths
 - Plexiglass Roof Path
 
-Shelters:
+### Shelters:=
 - Coastal Island
 
-**Credits:** Reptilia was created by Longisquama, Hendrix (known as DinosaurMan at the time), and Iben. 
-
-**Other credits:**  Aurora Designs (original crocodile model and texture), Deep Silver/bAlive (original rat model and texture)
+# Credits
+- Reptilia was created by Longisquama, Hendrix (known as DinosaurMan at the time), and Iben. 
+- Aurora Designs (original crocodile model and texture)
+- Deep Silver/bAlive (original rat model and texture)
 

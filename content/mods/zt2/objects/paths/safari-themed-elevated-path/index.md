@@ -19,6 +19,7 @@ orig_rel_date: 2006-06-08
 summary: Part of a set of elevated paths made to match the vanilla game's building
   themes, in this case the Safari Theme from base Zoo Tycoon 2.
 title: Safari Themed Elevated Path
+zt2tags: ["All", "ZT2", "Objects", "Elevated Paths"]
 ---
 Part of a set of elevated paths made to match the vanilla game's building themes, in this case the Safari Theme from base Zoo Tycoon 2. This path would be perfect for giving guests an elevated view of African Savannah exhibits.
 

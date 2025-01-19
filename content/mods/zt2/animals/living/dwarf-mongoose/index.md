@@ -19,6 +19,7 @@ summary: "A small, social mongoose species native to Africa. Mod by DutchDesigns
 languages:
 - English
 - Dutch
+zt2tags: ["African", "Animals", "Living", "Mammals", "ZT2" , "All", "Herpestids"]
 ---
 
 A small, social mongoose species native to Africa. Mod by DutchDesigns.

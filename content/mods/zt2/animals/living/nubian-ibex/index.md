@@ -17,6 +17,8 @@ orig_rel_at:
 orig_rel_date: 2006-05-07
 summary: The Nubian ibex is relatively small compared to other ibexes.
 title: Nubian Ibex
+zt2tags: ["All", "ZT2", "Animals", "Living", "Mammals", "Ungulates", "African"]
+
 ---
 The Nubian ibex is relatively small compared to other ibexes. Its coat is a light sandy brown in colour with the hindquarters lighter. The underparts are almost white, and the upper side of the tail is darker. Males have a dark stripe on their front legs and one down their back, as well as a dark beard. During the October breeding season, the neck, chest, shoulders, upper legs, and sides of males become dark brown to almost black in color.
 

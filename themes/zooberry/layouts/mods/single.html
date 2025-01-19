@@ -22,7 +22,7 @@
 
       <div class="mod-header">
         {{ partial "galleria.html" . }}
-        {{ partial "sidebar_r-mods.html" . }}
+        {{ partial "sidebar-r/sidebar_r-mods.html" . }}
       </div>
       {{ if gt $dependencyCount 0 }}
         <div class="dep-info-box"><span><i class="material-icons">info</i> This mod has dependencies. Please make sure you have the required mods installed before downloading this mod.</span><a class="button-dft" href="#dependencies">View Dependencies</a></div>
@@ -59,7 +59,7 @@
             </td>
             <td>
               {{ range .Params.orig_rel_at }}
-                {{ . }}
+                <a href="/archives/{{ . | urlize }}" class="badge-default">{{ . }}</a>
               {{ end }}
             </td>
           </tr>

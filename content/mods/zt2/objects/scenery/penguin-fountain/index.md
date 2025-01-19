@@ -18,6 +18,7 @@ orig_rel_date: 2007-05-03
 summary: This penguin fountain will illuminate your penguin exhibits when guests pass
   by to view these little cuddly creatures.
 title: Penguin Fountain
+zt2tags: ["All", "ZT2", "Objects", "Scenery", "Fountains"]
 ---
 This penguin fountain will illuminate your penguin exhibits when guests pass by to view these little cuddly creatures. It was designed by catc (now known as Goosifer) in dedication to Penguinman, 'the Master Coder.'
 

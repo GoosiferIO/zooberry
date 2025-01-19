@@ -20,6 +20,7 @@ orig_rel_date: 2006-07-30
 summary: Leopard tortoises have a huge range, being found on the savannahs of Africa
   from the Sudan South to the Cape Province of South Africa.
 title: Leopard Tortoise
+zt2tags: ["All", "ZT2", "Animals", "Living", "Reptiles", "African" ]
 ---
 Leopard tortoises have a huge range, being found on the savannahs of Africa from the Sudan South to the Cape Province of South Africa. Their diet in the wild consists of grasses, cactus and weeds. There are, depending on your taxonomist of choice, two subspecies. Many taxonomists consider these to be area variants and not worthy of subspecies designation. In captivity leopard tortoises do need UVB and Vitamin D3. UVB can be given through artificial lighting. Although if weather permits, an hour or two outside is sufficient.
 

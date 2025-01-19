@@ -18,6 +18,7 @@ alt_text:
 languages:
 - English
 summary: "A donation box with a cactus in it."
+zt2tags: ["All", "ZT2", "Objects", "Zootilities", "Donation Boxes"]
 
 ---
 

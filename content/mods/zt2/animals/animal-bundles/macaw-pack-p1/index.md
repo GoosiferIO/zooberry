@@ -20,6 +20,15 @@ summary: "A pack of macaws, including the Red-Fronted Macaw, Military Macaw, Hya
 languages:
 - English
 zt2tags: ["All", "Animals", "Animal Bundles", "Birds"]
+contents:
+- Red-Fronted Macaw
+- Military Macaw
+- Hyacinth Macaw
+- Cuban Macaw
+- Blue-Winged Macaw
+- Blue-Throated Macaw
+- Blue-Headed Macaw
+- Blue and Gold Macaw
 ---
 
 

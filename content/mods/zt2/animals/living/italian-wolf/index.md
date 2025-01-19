@@ -18,6 +18,7 @@ alt_text:
 languages:
 - English
 summary: "A subspecies of wolf from the Apennine Mountains in Italy."
+zt2tags: ["All", "Animals", "Living", "Mammals", "Canids", "European", "Eurasia" , "ZT2"]
 
 ---
 

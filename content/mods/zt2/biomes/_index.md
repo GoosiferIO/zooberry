@@ -1,6 +1,7 @@
 ---
 title: "Biomes"
 layout: biomes
+is_category: true
 draft: false
 redirect: mods/zt2/tags/biomes/
 alt_text: "Biomes"
