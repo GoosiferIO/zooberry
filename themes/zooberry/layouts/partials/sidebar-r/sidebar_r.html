@@ -1,6 +1,8 @@
 
 {{ if ne .Type "mods" }}
 <div class="sidebar_r-a">
+    {{ partial "sidebar-r/stats.html" . }}
+
 {{ else }}
 <div class="sidebar_r">
 {{ end }}

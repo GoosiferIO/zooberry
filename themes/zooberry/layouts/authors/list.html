@@ -1,7 +1,7 @@
 {{ define "main" }}
     <div style="display: flex; flex-direction: column; margin: 2rem 0; width:100%;">
         <h1 style="margin:0;">{{ .Title }}</h1>
-        <p style="margin:0;padding:0;"><i class="material-icons icon">archive</i>{{ len .Site.Taxonomies.author }} Authors</p>
+        <p style="margin:0;padding:0;"><i class="material-icons icon">archive</i>{{ .Site.Data.meta.authors }} Authors</p>
 
         <div style="display: flex; flex-direction: row;width: 100%;">
             <div style="width:100%;margin-right: 2rem;">
