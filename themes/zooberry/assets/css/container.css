@@ -233,7 +233,7 @@ pre code {
     margin: 0;
   }
 
-  div.sidebar_r {
+  div.sidebar_r, div.sidebar_r-a {
     display: none;
   }
 

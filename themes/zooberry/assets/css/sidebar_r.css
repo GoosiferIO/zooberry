@@ -18,7 +18,7 @@
     top: 2rem;
     float: right;
     min-height: fit-content;
-    height: max-content;
+    max-height: calc(100vh - 8rem);
     position: sticky;
     overflow-y: auto;
     overflow-x:hidden;
