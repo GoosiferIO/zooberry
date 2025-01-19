@@ -1,4 +1,9 @@
+
+{{ if ne .Type "mods" }}
+<div class="sidebar_r-a">
+{{ else }}
 <div class="sidebar_r">
+{{ end }}
     <div class="sidebar_r-inner">
         <span class="sidebar_r-title">Knowledgebase</span>
         {{- with index site.Menus "mpknowledgebase" }}

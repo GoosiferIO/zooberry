@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mustelids on ZooBerry</title><link>https://www.zooberry.org/mods/zt1/tags/mustelids/</link><description>Recent content in Mustelids on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 08 Jan 2025 04:00:00 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/mods/zt1/tags/mustelids/index.xml" rel="self" type="application/rss+xml"/><item><title>Wolverine</title><link>https://www.zooberry.org/mods/zt1/animals/living/wolverine/</link><pubDate>Wed, 08 Jan 2025 04:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt1/animals/living/wolverine/</guid><description>The Wolverine is a fierce and powerful predator found in the forests and tundras of the Northern Hemisphere.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mustelids on ZooBerry</title>
+    <link>http://localhost:1313/mods/zt1/tags/mustelids/</link>
+    <description>Recent content in Mustelids on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jan 2025 04:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/mods/zt1/tags/mustelids/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wolverine</title>
+      <link>http://localhost:1313/mods/zt1/animals/living/wolverine/</link>
+      <pubDate>Wed, 08 Jan 2025 04:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt1/animals/living/wolverine/</guid>
+      <description>The Wolverine is a fierce and powerful predator found in the forests and tundras of the Northern Hemisphere.</description>
+    </item>
+  </channel>
+</rss>

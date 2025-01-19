@@ -174,8 +174,12 @@
                 {{ template "_internal/pagination.html" (dict "paginator" $paginator "page" .) }}
             </p>
         </div>
+        {{ if ne .Type "mods" }}
+        <div class="sidebar_r-a">
+        {{ else }}
         <div class="sidebar_r">
-            <div class="sidebar_r-inner">
+        {{ end }}
+                    <div class="sidebar_r-inner">
                 {{ if not (eq (len $languagesByAuthor) 0) }}
                     <span class="sidebar_r-title">Languages</span>
                     <div class="side-ul filter-tags">

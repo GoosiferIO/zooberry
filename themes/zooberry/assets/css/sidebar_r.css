@@ -11,6 +11,19 @@
     overflow-y: auto;
 }
 
+.sidebar_r-a {
+    width: 30%;
+    display: block;
+    padding: 2rem;
+    top: 2rem;
+    float: right;
+    background-color: var(--tbody-bg);
+    min-height: fit-content;
+    height: max-content;
+    position: sticky;
+    overflow-y: auto;
+}
+
 .sidebar_r-inner {
     border-radius: 10px;
     margin-top: 0.5rem;

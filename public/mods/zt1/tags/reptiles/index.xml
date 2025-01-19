@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reptiles on ZooBerry</title><link>https://www.zooberry.org/mods/zt1/tags/reptiles/</link><description>Recent content in Reptiles on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 08 Jan 2025 19:00:00 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/mods/zt1/tags/reptiles/index.xml" rel="self" type="application/rss+xml"/><item><title>Perentie</title><link>https://www.zooberry.org/mods/zt1/animals/living/perentie-ii/</link><pubDate>Wed, 08 Jan 2025 19:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt1/animals/living/perentie-ii/</guid><description>The perentie is a large monitor lizard native to arid regions of Australia, known for its speed, power, and adaptability.</description></item><item><title>Abanda Cave Crocodile</title><link>https://www.zooberry.org/mods/zt1/animals/living/abanda-cave-crocodile/</link><pubDate>Mon, 07 Oct 2024 09:34:23 -0700</pubDate><guid>https://www.zooberry.org/mods/zt1/animals/living/abanda-cave-crocodile/</guid><description>These dwarf crocodiles, native to the Abanda Caves in Gabon, Africa, have adapted to life in dark caves, feeding on cave-dwelling fish and bats.</description></item><item><title>Leatherback Turtle</title><link>https://www.zooberry.org/mods/zt1/animals/living/leatherback-turtle/</link><pubDate>Sun, 06 Oct 2024 01:34:23 +0700</pubDate><guid>https://www.zooberry.org/mods/zt1/animals/living/leatherback-turtle/</guid><description>Adds the leatherback turtle (Dermochelys coriacea) to your aquariums and marine parks.</description></item><item><title>Perentie</title><link>https://www.zooberry.org/mods/zt1/animals/living/perentie/</link><pubDate>Sat, 22 Jul 2023 09:34:23 -0700</pubDate><guid>https://www.zooberry.org/mods/zt1/animals/living/perentie/</guid><description>Perenties are fairly large lizards in the monitor family.</description></item><item><title>Nile Monitor</title><link>https://www.zooberry.org/mods/zt1/animals/living/nile-monitor/</link><pubDate>Sat, 22 Jul 2023 09:31:25 -0700</pubDate><guid>https://www.zooberry.org/mods/zt1/animals/living/nile-monitor/</guid><description>The Nile Monitor is a large, fast, and agile lizard from the rainforest outskirts and grasslands of Africa.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reptiles on ZooBerry</title>
+    <link>http://localhost:1313/mods/zt1/tags/reptiles/</link>
+    <description>Recent content in Reptiles on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jan 2025 19:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/mods/zt1/tags/reptiles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perentie</title>
+      <link>http://localhost:1313/mods/zt1/animals/living/perentie-ii/</link>
+      <pubDate>Wed, 08 Jan 2025 19:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt1/animals/living/perentie-ii/</guid>
+      <description>The perentie is a large monitor lizard native to arid regions of Australia, known for its speed, power, and adaptability.</description>
+    </item>
+    <item>
+      <title>Abanda Cave Crocodile</title>
+      <link>http://localhost:1313/mods/zt1/animals/living/abanda-cave-crocodile/</link>
+      <pubDate>Mon, 07 Oct 2024 09:34:23 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt1/animals/living/abanda-cave-crocodile/</guid>
+      <description>These dwarf crocodiles, native to the Abanda Caves in Gabon, Africa, have adapted to life in dark caves, feeding on cave-dwelling fish and bats.</description>
+    </item>
+    <item>
+      <title>Leatherback Turtle</title>
+      <link>http://localhost:1313/mods/zt1/animals/living/leatherback-turtle/</link>
+      <pubDate>Sun, 06 Oct 2024 01:34:23 +0700</pubDate>
+      <guid>http://localhost:1313/mods/zt1/animals/living/leatherback-turtle/</guid>
+      <description>Adds the leatherback turtle (Dermochelys coriacea) to your aquariums and marine parks.</description>
+    </item>
+    <item>
+      <title>Perentie</title>
+      <link>http://localhost:1313/mods/zt1/animals/living/perentie/</link>
+      <pubDate>Sat, 22 Jul 2023 09:34:23 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt1/animals/living/perentie/</guid>
+      <description>Perenties are fairly large lizards in the monitor family.</description>
+    </item>
+    <item>
+      <title>Nile Monitor</title>
+      <link>http://localhost:1313/mods/zt1/animals/living/nile-monitor/</link>
+      <pubDate>Sat, 22 Jul 2023 09:31:25 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt1/animals/living/nile-monitor/</guid>
+      <description>The Nile Monitor is a large, fast, and agile lizard from the rainforest outskirts and grasslands of Africa.</description>
+    </item>
+  </channel>
+</rss>

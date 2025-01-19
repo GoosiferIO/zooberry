@@ -39,8 +39,12 @@
                 </table>
             </div>
             
-            <div class="sidebar_r">
-                <div class="sidebar_r-inner">
+                {{ if ne .Type "mods" }}
+                <div class="sidebar_r-a">
+                {{ else }}
+                <div class="sidebar_r">
+                {{ end }}
+                            <div class="sidebar_r-inner">
                     <span class="sidebar_r-title">Description</span>
                     <p style="padding: 0 2rem 0 2rem;">{{ .Params.description }}</p>
                 </div>
