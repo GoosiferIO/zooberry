@@ -272,6 +272,12 @@ pre code {
 
 }
 
+@media screen and (max-width: 695px) {
+  .side-kofi {
+    display: none;
+  }
+}
+
 @media screen and (max-width: 400px) {
   .side-kofi {
     display: none;
