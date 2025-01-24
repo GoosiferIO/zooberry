@@ -31,7 +31,7 @@ mod_list:
   file_size: 1.50 MB
   uploaded: 2025-01-20
 - name: ZwIrritorV5
-- title: Irritator
+  title: Irritator
   category: Single Files
   file_size: 2.36 MB
   uploaded: 2025-01-20

@@ -257,4 +257,32 @@ pre code {
     display: flex !important;
   }
 
+  .mod-files {
+    overflow-x: auto !important;
+  }
+
+  div.filter-bar-content {
+    grid-template-columns: repeat(2, 1fr); /* 2 columns for tablets */
+    padding: 1.5rem;
+  }
+
+  div.filter-bar-button {
+    padding: 0 !important;
+  }
+
+}
+
+@media screen and (max-width: 400px) {
+  .side-kofi {
+    display: none;
+  }
+
+  .post-buttons {
+    margin: 1rem 0;
+    flex-direction: column;
+  }
+
+  .post-buttons a {
+    margin: 0.5rem 0;
+  }
 }
