@@ -18,7 +18,7 @@ draft: false
 license: Unknown
 alt_text: 
 summary: "A new staff to celebrate Zoo Admin's 5th Anniversary! Special Uniforms and Podium for all your staff including the Vendors."
-team: ZooAdmin Design Team
+team: Zoo Admin Design Team
 zt2tags: ["All", "Texture Mods", "Misc Reskins", "Staff"]
 ---
 A new staff to celebrate Zoo Admin's 5th Anniversary! Special Uniforms and Podium for all your staff including the Vendors.
