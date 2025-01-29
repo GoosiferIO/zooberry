@@ -1,5 +1,5 @@
 ---
-title: Animal Guide For All Official Animals
+title: ZT2 Animal Suitability Guide
 has_author: true
 author: 
 - RedNotDead
