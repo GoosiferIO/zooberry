@@ -1,5 +1,5 @@
 ---
-title: "Volcanoes National Park"
+title: "Volcanoes National Park Template Map"
 has_author: true
 author: 
 - Sicilian Gorilla

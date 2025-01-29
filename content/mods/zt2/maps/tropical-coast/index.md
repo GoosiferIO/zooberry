@@ -1,5 +1,5 @@
 ---
-title: "Tropical Coast"
+title: "Tropical Coast Template Map"
 has_author: true
 author: 
 - Super Utah Thief

@@ -19,6 +19,12 @@ summary: "A collection of animals from the Carboniferous period."
 languages:
 - English
 zt2tags: ["All", "Animals", "Animal Bundles", "Prehistoric", "Aquatic", "Arthropods", "Amphibians", "Reptiles"]
+contents:
+- Giant Salamander
+- Pulmonoscorpius
+- Meganeura
+- Crassygyrinus
+- Arthropleura
 ---
 
 

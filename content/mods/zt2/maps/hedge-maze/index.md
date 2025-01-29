@@ -1,5 +1,5 @@
 ---
-title: "Hedge Maze"
+title: "Hedge Maze Template Map"
 has_author: true
 author: 
 - Agent Beaver

@@ -1,5 +1,5 @@
 ---
-title: "Himalayan Mountain Range"
+title: "Himalayan Mountain Range Template Map"
 has_author: true
 author: 
 - Sicilian Gorilla

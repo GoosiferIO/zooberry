@@ -25,7 +25,7 @@ orig_rel_at:
 orig_rel_date: 2006-05-28
 summary: Snow Tigers Special Theme Pack with paths, fences, and more.
 title: Snow Tigers Special Theme Pack
-zt2tags: ["All", "ZT2", "Packs", "Objects", "Paths", "Fences", "Benches", "Tables", "Lamps", "Zootilities", "Theme Packs", "Holidays", "Animals", "Donations", "Maps"]
+zt2tags: ["All", "ZT2", "Packs", "Objects", "Paths", "Fences", "Benches", "Tables", "Lamps", "Zootilities", "Theme Packs", "Holidays", "Animals", "Donations"]
 ---
 ## Context
 

@@ -35,6 +35,12 @@ cascade:
     - name: "Hacks"
       slug: "hacks"
       icon: "settings"
+    - name: "Save Files"
+      slug: "save-files"
+      icon: "save"
+    - name: "Tutorials"
+      slug: "tutorials"
+      icon: "school"
 ---
 
 Mods for the Zoo Tycoon sequel released in 2004.

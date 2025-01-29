@@ -1,5 +1,5 @@
 ---
-title: "Sonoharan Desert"
+title: "Sonoharan Desert Template Map"
 has_author: true
 author: 
 - Raja Harimau
