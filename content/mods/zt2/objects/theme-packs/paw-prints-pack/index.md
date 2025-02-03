@@ -13,7 +13,7 @@ orig_rel_at:
 - 'Zoo Tycoon Unleashed'
 orig_rel_date: 2007-04-29
 summary: Paw Prints theme pack for your zoo. Includes a bench and trashcan both covered in little paw prints.
-title: Marli Pink Theme Pack
+title: Paw Prints Theme Pack
 zt2tags: ["All", "ZT2", "Objects", "Fences", "Theme Packs", "Tables"]
 mod_list:
 - name: Paw_Prints_Bench

@@ -15,7 +15,7 @@ orig_rel_at:
 - 'Zoo Tycoon Unleashed'
 orig_rel_date: 2009-03-24
 summary: A pack of blue-themed objects for your zoo created by Heklar.
-title: Blue Fence
+title: Blue Theme Pack
 zt2tags: ["All", "ZT2", "Objects", "Fences", "Theme Packs", "Benches", "Trash Cans", "Picnic Tables", "Canopies"]
 mod_list:
 - name: Blue_bench
