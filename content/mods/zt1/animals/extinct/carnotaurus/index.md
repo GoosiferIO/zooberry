@@ -1,21 +1,27 @@
 ---
-title: "Dodo Bird"
+title: Carnotaurus
 author: 
-- Quivaz
+- LapisLazuli77
 game: Zoo Tycoon 1
 exp_req:
-file_size: 854.7 KB
-orig_rel_date: 2003-07-17
-date: 2025-01-07T15:00:00-07:00
+- DD
+file_size: 29.3 MB
+orig_rel_date: 2025-02-03
+date: 2025-02-02T23:00:00-07:00
 draft: false
 license: Unknown
 orig_rel_at: 
-- ZooAdmin
+- ZooBerry
 alt_text: 
 languages:
 - English
-summary: "The Dodo, an extinct flightless bird from Mauritius, was driven to extinction in the late 1600s due to human activity and introduced predators."
-zt1tags: ["All", "Animals", "ZT1", "Extinct", "Birds"]
+summary: "Adds the abelisaurid Carnotaurus to your zoo. This large, distinctive theropod, with its great speed and horned face, is sure to thrill guests. Carnotaurus enjoyed a coastal forest habitat during its time near the end of the Cretaceous."
+zt1tags: ["All", "Animals", "ZT1", "Extinct", "Dinosaurs"]
 ---
 
-In the year 1598 AD, Portuguese sailors landing on the shores of the island of Mauritius discovered a previously unknown species of bird, the Dodo. Having been isolated by its island location from contact with humanity, the dodo greeted the new visitors with a child-like innocence. The sailors mistook the gentle spirit of the dodo, and its lack of fear of the new predators, as stupidity. They dubbed the bird "dodo" (meaning something similar to a simpleton in the Portuguese tongue). Many dodo were killed by the human visitors, and those that survived man had to face the introduced animals. The British Museum has the last known Dodo Bird.
+Adds the abelisaurid Carnotaurus to your zoo. This large, distinctive theropod, with its great speed and horned face, is sure to thrill guests. Carnotaurus enjoyed a coastal forest habitat during its time near the end of the Cretaceous.
+
+# Credits
+- HENDRIX for the original animations
+- Zoo Tycoon 2 Thailand for the original ZT2 mod
+- Design inspired by Dinosaur King
