@@ -1,5 +1,5 @@
 ---
-title: "Paranoia Graveyard"
+title: "Paranoia Graveyard Save File"
 has_author: true
 author: 
 - PrimevalRaptor
